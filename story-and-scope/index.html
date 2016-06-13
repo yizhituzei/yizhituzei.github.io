@@ -1,0 +1,311 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>拾 故事拆分和交付范围</title>
+    <meta name="description" content="">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="../favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=5b0e722e36">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="origin">
+    
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="拾 故事拆分和交付范围">
+    <meta property="og:description" content="简单来说，敏捷就是一个先拆再合的过程。 拆分是一种双刃剑，它让一个抽象的事物从混沌不清到细节分明，使得开发和验收更加高效，但与此同时，对于每一个被拆分出来的元素，客户都有潜在的可能抱怨要求更多。这也就是为什么一些不成熟的敏捷开发项目总是存在客户期待控制不好的问题——因为迭代开发的缘故，客户有机会在开发过程中看到他的主意慢慢成形，敏捷的宣传中对拥抱需求变化的推崇使得客户倾向于变化；而细致的拆分使得一个需求成倍地增加了可变性系数——因为我把需求看得更清楚，那么我就更容易去改变它。 敏捷开发绝不是传统软件开发的对立面，相对于传统软件开发中开发过程对需求提出人不透明来说，开发过程绝对透明的敏捷实践，追求得绝对不是无限制的反馈和拥抱变化，而是在需求范围里接受真正负责任的反馈，而对于需要在需求范围以外实现的改进，应该考虑工作量对团队的影响。之前提到的例子正式在于，开发团队没有与客户达成对某个需求的范围达成一致，导致本应该在需求以外完成的改进被强行当做对这个需求免费的改进，而之前工作量评估基于的需求范围远远小于这个产生误差的范围。 从本意上来说，拆分的目的中，让客户明白什么是也许可以暂时丢弃的，比让客户明白什么是可以得到的重要得多。拆分的实践至始至终贯穿着敏捷活动的全部，从客户的一个想法，拆分成多个业务场景；再由业务场景，拆分成实现这个场景需要的用户故事；最后这些用户故事又被拆分成一条条验收条件。而当我表述这个过程的时候，我自然而然的忽略了一件很重要的事情，也是被很多业务分析人员所忽略的事情——更重要的是拆分出那些不需要做的东西。 这句话也许让人匪夷所思，分析的目标是知道客户需要什么，我们为什么需要知道客户不需要什么呢？当然，知道客户需要什么固然重要，但是从项目风险的情况来分析，与客户对“暂时”不需要的东西达成共识，可能才是决定项目是不是成功的关键。">
+    <meta property="og:url" content="http://localhost:2368/story-and-scope/">
+    <meta property="og:image" content="http://localhost:2368/content/images/2015/04/600U150P1T117D306790F2577DT20110429103324_maxh550-1.png">
+    <meta property="article:published_time" content="2010-07-12T22:46:00.000Z">
+    <meta property="article:modified_time" content="2015-04-16T00:09:40.808Z">
+    <meta property="article:tag" content="敏捷咨询日记">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="拾 故事拆分和交付范围">
+    <meta name="twitter:description" content="简单来说，敏捷就是一个先拆再合的过程。 拆分是一种双刃剑，它让一个抽象的事物从混沌不清到细节分明，使得开发和验收更加高效，但与此同时，对于每一个被拆分出来的元素，客户都有潜在的可能抱怨要求更多。这也就是为什么一些不成熟的敏捷开发项目总是存在客户期待控制不好的问题——因为迭代开发的缘故，客户有机会在开发过程中看到他的主意慢慢成形，敏捷的宣传中对拥抱需求变化的推崇使得客户倾向于变化；而细致的拆分使得一个需求成倍地增加了可变性系数——因为我把需求看得更清楚，那么我就更容易去改变它。 敏捷开发绝不是传统软件开发的对立面，相对于传统软件开发中开发过程对需求提出人不透明来说，开发过程绝对透明的敏捷实践，追求得绝对不是无限制的反馈和拥抱变化，而是在需求范围里接受真正负责任的反馈，而对于需要在需求范围以外实现的改进，应该考虑工作量对团队的影响。之前提到的例子正式在于，开发团队没有与客户达成对某个需求的范围达成一致，导致本应该在需求以外完成的改进被强行当做对这个需求免费的改进，而之前工作量评估基于的需求范围远远小于这个产生误差的范围。 从本意上来说，拆分的目的中，让客户明白什么是也许可以暂时丢弃的，比让客户明白什么是可以得到的重要得多。拆分的实践至始至终贯穿着敏捷活动的全部，从客户的一个想法，拆分成多个业务场景；再由业务场景，拆分成实现这个场景需要的用户故事；最后这些用户故事又被拆分成一条条验收条件。而当我表述这个过程的时候，我自然而然的忽略了一件很重要的事情，也是被很多业务分析人员所忽略的事情——更重要的是拆分出那些不需要做的东西。 这句话也许让人匪夷所思，分析的目标是知道客户需要什么，我们为什么需要知道客户不需要什么呢？当然，知道客户需要什么固然重要，但是从项目风险的情况来分析，与客户对“暂时”不需要的东西达成共识，可能才是决定项目是不是成功的关键。">
+    <meta name="twitter:url" content="http://localhost:2368/story-and-scope/">
+    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2015/04/600U150P1T117D306790F2577DT20110429103324_maxh550-1.png">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="敏捷咨询日记">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "一只土贼",
+        "logo": "http://localhost:2368/content/images/2015/04/tuzei-logo-1.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "熊子川",
+        "image": "http://localhost:2368/content/images/2015/09/image_1442553695-265918.jpg",
+        "url": "http://localhost:2368/author/zichuan/",
+        "sameAs": []
+    },
+    "headline": "拾 故事拆分和交付范围",
+    "url": "http://localhost:2368/story-and-scope/",
+    "datePublished": "2010-07-12T22:46:00.000Z",
+    "dateModified": "2015-04-16T00:09:40.808Z",
+    "image": "http://localhost:2368/content/images/2015/04/600U150P1T117D306790F2577DT20110429103324_maxh550-1.png",
+    "keywords": "敏捷咨询日记",
+    "description": "简单来说，敏捷就是一个先拆再合的过程。 拆分是一种双刃剑，它让一个抽象的事物从混沌不清到细节分明，使得开发和验收更加高效，但与此同时，对于每一个被拆分出来的元素，客户都有潜在的可能抱怨要求更多。这也就是为什么一些不成熟的敏捷开发项目总是存在客户期待控制不好的问题——因为迭代开发的缘故，客户有机会在开发过程中看到他的主意慢慢成形，敏捷的宣传中对拥抱需求变化的推崇使得客户倾向于变化；而细致的拆分使得一个需求成倍地增加了可变性系数——因为我把需求看得更清楚，那么我就更容易去改变它。 敏捷开发绝不是传统软件开发的对立面，相对于传统软件开发中开发过程对需求提出人不透明来说，开发过程绝对透明的敏捷实践，追求得绝对不是无限制的反馈和拥抱变化，而是在需求范围里接受真正负责任的反馈，而对于需要在需求范围以外实现的改进，应该考虑工作量对团队的影响。之前提到的例子正式在于，开发团队没有与客户达成对某个需求的范围达成一致，导致本应该在需求以外完成的改进被强行当做对这个需求免费的改进，而之前工作量评估基于的需求范围远远小于这个产生误差的范围。 从本意上来说，拆分的目的中，让客户明白什么是也许可以暂时丢弃的，比让客户明白什么是可以得到的重要得多。拆分的实践至始至终贯穿着敏捷活动的全部，从客户的一个想法，拆分成多个业务场景；再由业务场景，拆分成实现这个场景需要的用户故事；最后这些用户故事又被拆分成一条条验收条件。而当我表述这个过程的时候，我自然而然的忽略了一件很重要的事情，也是被很多业务分析人员所忽略的事情——更重要的是拆分出那些不需要做的东西。 这句话也许让人匪夷所思，分析的目标是知道客户需要什么，我们为什么需要知道客户不需要什么呢？当然，知道客户需要什么固然重要，但是从项目风险的情况来分析，与客户对“暂时”不需要的东西达成共识，可能才是决定项目是不是成功的关键。"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html">
+</head>
+<body class="post-template tag-min-jie-zi-xun-ri-ji nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="index.html#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+            <li class="nav-" role="presentation"><a href="../">首页</a></li>
+            <li class="nav-" role="presentation"><a href="../about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="http://localhost:2368/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/http://i25zt5.lawrence-gd.diancloud.cn/tag/yi-meng">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
+    </ul>
+        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head " style="background-image: url(../content/images/2015/04/600U150P1T117D306790F2577DT20110429103324_maxh550-1.png)">
+    <nav class="main-nav overlay clearfix">
+        <a class="blog-logo" href="../"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
+            <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post tag-min-jie-zi-xun-ri-ji">
+
+        <header class="post-header">
+            <h1 class="post-title">拾 故事拆分和交付范围</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2010-07-13">13 July 2010</time>  on <a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a>
+            </section>
+        </header>
+
+        <section class="post-content">
+            <blockquote>
+  <p>简单来说，敏捷就是一个先拆再合的过程。</p>
+</blockquote>
+
+<p>拆分是一种双刃剑，它让一个抽象的事物从混沌不清到细节分明，使得开发和验收更加高效，但与此同时，对于每一个被拆分出来的元素，客户都有潜在的可能抱怨要求更多。这也就是为什么一些不成熟的敏捷开发项目总是存在客户期待控制不好的问题——因为迭代开发的缘故，客户有机会在开发过程中看到他的主意慢慢成形，敏捷的宣传中对拥抱需求变化的推崇使得客户倾向于变化；而细致的拆分使得一个需求成倍地增加了可变性系数——因为我把需求看得更清楚，那么我就更容易去改变它。</p>
+
+<p>敏捷开发绝不是传统软件开发的对立面，相对于传统软件开发中开发过程对需求提出人不透明来说，开发过程绝对透明的敏捷实践，追求得绝对不是无限制的反馈和拥抱变化，而是在需求范围里接受真正负责任的反馈，而对于需要在需求范围以外实现的改进，应该考虑工作量对团队的影响。之前提到的例子正式在于，开发团队没有与客户达成对某个需求的范围达成一致，导致本应该在需求以外完成的改进被强行当做对这个需求免费的改进，而之前工作量评估基于的需求范围远远小于这个产生误差的范围。</p>
+
+<p>从本意上来说，拆分的目的中，让客户明白什么是也许可以暂时丢弃的，比让客户明白什么是可以得到的重要得多。拆分的实践至始至终贯穿着敏捷活动的全部，从客户的一个想法，拆分成多个业务场景；再由业务场景，拆分成实现这个场景需要的用户故事；最后这些用户故事又被拆分成一条条验收条件。而当我表述这个过程的时候，我自然而然的忽略了一件很重要的事情，也是被很多业务分析人员所忽略的事情——更重要的是拆分出那些不需要做的东西。</p>
+
+<p>这句话也许让人匪夷所思，分析的目标是知道客户需要什么，我们为什么需要知道客户不需要什么呢？当然，知道客户需要什么固然重要，但是从项目风险的情况来分析，与客户对“暂时”不需要的东西达成共识，可能才是决定项目是不是成功的关键。</p>
+
+<p>从下面的对话中可能可以反映一些东西，同样是拆分，可能结果不太一样，小叮当代表需求人员，康夫代表客户:</p>
+
+<p>康夫：我想要击败技安！</p>
+
+<p>小叮当：好吧，你需要有强壮的身体，你看怎么样?</p>
+
+<p>康夫：我看可以，怎么整？</p>
+
+<p>小叮当：可以拆分成几个部分，先给你个“肌肉增强器”增强力量，再给你个“竹蜻蜓”增加敏捷度，最后再给你“铜锣烧”恢复体力，你看怎么样？</p>
+
+<p>康夫：我看可以，整吧！</p>
+
+<p>小叮当：我们分成3个迭代一个一个弄，我们来写AC，“肌肉增强器”的话，两点:1.手臂击打力量超过100KG;2.腿部横扫力量超过100KG；这两点通过了验收就通过了哈~</p>
+
+<p>康夫：我看可以，整吧！</p>
+
+<p>小叮当工作中&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+
+<p>小叮当：我做好了，来验收吧，装上这个装置，你看你手臂击打可以超过100KG，腿部横扫力量也可以超过100KG，验收通过吧！
+康夫：还可以，为什么用大力的时候我的手这么疼啊，这么疼我怎么打啊，能不能做个拳套啊？</p>
+
+<p>小叮当：不行啊，这个要额外工作量，要加需求。</p>
+
+<p>康夫：为什么，你们不考虑我客户的体验，你这个我不能验收！</p>
+
+<p>小叮当只好做。。。</p>
+
+<p>类似的情况出现了很多，康夫就是不肯验收，最后：</p>
+
+<p>康夫：我突然发现我不但要在肢体上击败他，我还要在大脑上击败他，你一开始就没有考虑我的需求！你所有需求我都不验收。</p>
+
+<p>小叮当：（MLGB...）</p>
+
+<p>如果对话可以这样：</p>
+
+<p>康夫：我想要击败技安！</p>
+
+<p>小叮当：好吧，击败好像有很多种啊，身体上，技能上，智力上等等，现在我们最想击败他的是哪部分?</p>
+
+<p>康夫：嗯，先身体上吧。</p>
+
+<p>小叮当：嗯，先身体，那我把技能上和智力上写成Epic卡放在一边，这些我们确定暂时不做，好吗？</p>
+
+<p>康夫：我看可以，整吧！</p>
+
+<p>小叮当：我想身体上击败还有很多种啊，比如跑得快，跳得高，打架打得赢，你看咱们先赢哪一部分？</p>
+
+<p>康夫：先打架吧。</p>
+
+<p>小叮当：嗯，先打架，那我把跑得快和跳得高上写成Story卡放在一边，这些我们确定暂时不做，好吗？</p>
+
+<p>康夫：我看可以，整吧！</p>
+
+<p>小叮当：可以拆分成几个部分，先给你个“肌肉增强器”增强力量，再给你个“竹蜻蜓”增加敏捷度，最后再给你“铜锣烧”恢复体力，你看怎么样？</p>
+
+<p>康夫：我看可以，整吧！</p>
+
+<p>小叮当：我们分成3个迭代一个一个弄，我们来写AC，“肌肉增强器”的话，两点:</p>
+
+<ol>
+<li>手臂击打力量超过100KG;  </li>
+<li>腿部横扫力量超过100KG；这两点通过了验收就通过了哈~</li>
+</ol>
+
+<p>另外，这个东西打击力量超过180KG时，可能对手产生疼痛感，你要不要现在加上？可能工作量会增加一部分。</p>
+
+<p>康夫：我估计我暂时没那么大劲！</p>
+
+<p>小叮当：嗯，那我另外为这个写张Story，就叫“肌肉增强器拳套”，放在一边，以后再做。</p>
+
+<p>康夫：我看可以，整吧！</p>
+
+<p>小叮当工作中&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p>
+
+<p>小叮当：我做好了，来验收吧，装上这个装置，你看你手臂击打可以超过100KG，腿部横扫力量也可以超过100KG，验收通过吧！</p>
+
+<p>康夫：还可以，为什么用大力的时候我的手这么疼啊，这么疼我怎么打啊，能不能做个拳套啊？</p>
+
+<p>小叮当：你不记得了，我们之前有个Story叫做“肌肉增强器拳套”，要不要下个迭代加上呢？</p>
+
+<p>康夫：<mark>原来是这样</mark>，我没想到我有这么大的力量，好吧，这个我可以验收。但是我突然发现我不但要在肢体上击败他，我还要在大脑上击败他，你一开始就没有考虑我的需求！你所有需求我都不验收。</p>
+
+<p>小叮当：别着急（手拿着几张Epic卡），你看我这里有这么些卡，有“技能上击败”还有“智力上击败”你看看下一个迭代我们做什么？</p>
+
+<p>康夫：<mark>原来你已经准备了，好吧，先这样吧。</mark></p>
+
+<p>小叮当： :-)</p>
+
+<p>两种方式的区别在于：第二种总是比客户多思考一步，对客户的需求总是采取一种预测的策略，用假设的方法希望尽可能地去挖掘需求背后可能产生的联带需求，并让客户确认，写成Epic或者Story卡放在Backlog里。当交付验收的时候，用这些之前就准备好的Place Holder应对客户这种“免费的改进”需求——他们认为所有他们认为跟这个需求有联系的需求都应该被当成“免费的改进”，如果不完成可能就不签收这个需求。</p>
+
+<p>要记住，如果你没有什么地方事先“先知般”地记录着这些“改进”，那么你类似于“AC里面没有”这样的反驳只会惹怒客户——没有写是你的责任，你的责任未尽为何要我买单？相反如果你恰好有这些被记录的“改进”，主动权便在你手里。</p>
+
+<p>那么关键在于，如何成为“先知”？一般来说，客户不可能把B的事情一定要你在A中完成，之所以他们人物某个需求应该在A中完成，必然这个功能跟A有一定联系。这样的联系体现在两个方面：一个是关于用户体验的改进；另一个是他们希望这个A需求涵盖更多。</p>
+
+<p>对应小叮当的例子。“肌肉增强器拳套”便是一种用户体验改进，解决办法就是把可能出现的大工作量的用户体验增强特性单独作为Story；而康夫对于“击败技安”不同方式的需求，我们需要做的就是尽早问自己，当客户说我想要A的时候，他是如何定义这个A，会不会有多种定义，会不会有不同的角色因为A收益，如果有，应该拆分出来作为Epic放在Backlog中。</p>
+
+<p>通过拆分确定范围之外的东西是一位称职业务分析师应该具备的素质，这句话虽然有些令人费解，但是实际情况是，清晰确定范围实际上是尽可能地发现那些范围之外的东西记录下来，因为从理论上说客户不会倾向于认同AC里的就是范围，他们能够认同的是那些写在卡上，放在Backlog里的东西不在范围内，除此之外的所有都应该在范围里。</p>
+
+<p>只要明白这一点，你才会明白，为什么敏捷项目最难控制的就是Scope，为什么当我们谈失败的时候，谈的最多的也是Scope，那是实实在在地因为，我们以为需求列表就是范围，但实际上需求列表之外的，才是。</p>
+
+<blockquote>
+  <p>我们以为需求列表就是范围，但实际上需求列表之外的，才是。</p>
+</blockquote>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="../author/zichuan/" style="background-image: url(http://localhost:2368/content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
+
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    <span class="author-location icon-location">San Francisco</span>
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E6%8B%BE%20%E6%95%85%E4%BA%8B%E6%8B%86%E5%88%86%E5%92%8C%E4%BA%A4%E4%BB%98%E8%8C%83%E5%9B%B4&amp;url=http://localhost:2368/story-and-scope/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/story-and-scope/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/story-and-scope/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+
+        </footer>
+
+    </article>
+</main>
+
+<aside class="read-next">
+    <a class="read-next-story " style="background-image: url(../content/images/2015/04/IMG_0526.png)" href="../iteration-plan/">
+        <section class="post">
+            <h2>十一 设计迭代计划</h2>
+            <p>用户故事（User Story）没有真正业务价值！” （熊节对本文亦有特殊贡献） 理论告诉我们：应该从高业务价值Story开始进行迭代，这样我们就有更多的时间对高业务价值的Story发现问题并修复。这句话的后半段是告诉我们为什么要这么做，而后半段成立的前提是，我们假设先做一定可以先发现问题。 根据这个理论我们按照Risk-Value的方式把 Story分散在这个二维区间里面，把最靠近于High Risk和High Value的区域作为优先选择放入第一迭代。但是问题是，我们也许可以很容易分辨一个Story的技术风险，但当每个Story独立存在的时候，…</p>
+        </section>
+    </a>
+    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/1671033-poster-1280-focus-groups-kill-innovation.jpg)" href="../min-jie-zi-xun-ri-ji-jiu-xie-e-de-ux/">
+        <section class="post">
+            <h2>玖 邪恶的UX</h2>
+            <p>可能拥有一个外部资源的UX顾问对团队来说是个看起来很美好的事 不管你称UX为什么，UID或者UCD，它的初衷都是极为理想的——用“最好的”用户体验最大化“正确的”软件的使用价值。明显，“最好的”用户体验首先基于“正确的”软件，即一个被需要使用（体验）的软件才会被评判是不是拥有“最好的”体验。…</p>
+        </section>
+    </a>
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="../">一只土贼</a> © 2016</section>
+            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <!-- You can safely delete this line if your theme does not require jQuery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d7f406aaa2e48a4cca39518080c7b553";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=5b0e722e36"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=5b0e722e36"></script>
+
+</body>

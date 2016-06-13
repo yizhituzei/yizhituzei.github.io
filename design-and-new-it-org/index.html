@@ -1,0 +1,276 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>设计实践与敏捷研发体系</title>
+    <meta name="description" content="">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="../favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=5b0e722e36">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="origin">
+    
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="设计实践与敏捷研发体系">
+    <meta property="og:description" content="一位来自传统企业、正在经历研发系统敏捷转型的IT组织管理者L先生问我：「当整个研发体系正在朝敏捷方向转型，现有的美工该怎么办？」 本文回答L先生的问题，首先，我们来谈敏捷研发体系转型的基本逻辑： 敏捷体系的基本逻辑 对于传统公司的研发体系而言，定义需求、设计方案、研发系统、测试系统、系统部署、和产品运营往往是独立存在的阶段。越来越多人开始实践敏捷时，选择第一步往往是通过敏捷研发实践和持续构建，将开发体系和测试体系整合（图中①）。 在经历了第一步「研发+测试」敏捷实践之后的第二步，往往是向后将「上线体系」集成在「研发体系」中——即通过持续集成的方式、缩短小到功能大到产品从研发到上线的时间，并将上线过程碎片化（图中②）。 这两步所解决的基本都是「如何用正确的方式做软件（Do things right）」的问题，之后，企业内的研发组织所思考的是如何将工程实践整合「需求实践」，因为越来越多IT组织的负责人发现，软件研发中真正的浪费来自于需求不明确和需求变动，于是「业务敏捷」成为较为成熟的敏捷IT组织着眼的下一步，即「做正确的软件（Do right">
+    <meta property="og:url" content="http://localhost:2368/design-and-new-it-org/">
+    <meta property="article:published_time" content="2016-02-13T06:07:41.634Z">
+    <meta property="article:modified_time" content="2016-02-13T06:20:14.988Z">
+    <meta property="article:tag" content="敏捷">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="设计实践与敏捷研发体系">
+    <meta name="twitter:description" content="一位来自传统企业、正在经历研发系统敏捷转型的IT组织管理者L先生问我：「当整个研发体系正在朝敏捷方向转型，现有的美工该怎么办？」 本文回答L先生的问题，首先，我们来谈敏捷研发体系转型的基本逻辑： 敏捷体系的基本逻辑 对于传统公司的研发体系而言，定义需求、设计方案、研发系统、测试系统、系统部署、和产品运营往往是独立存在的阶段。越来越多人开始实践敏捷时，选择第一步往往是通过敏捷研发实践和持续构建，将开发体系和测试体系整合（图中①）。 在经历了第一步「研发+测试」敏捷实践之后的第二步，往往是向后将「上线体系」集成在「研发体系」中——即通过持续集成的方式、缩短小到功能大到产品从研发到上线的时间，并将上线过程碎片化（图中②）。 这两步所解决的基本都是「如何用正确的方式做软件（Do things right）」的问题，之后，企业内的研发组织所思考的是如何将工程实践整合「需求实践」，因为越来越多IT组织的负责人发现，软件研发中真正的浪费来自于需求不明确和需求变动，于是「业务敏捷」成为较为成熟的敏捷IT组织着眼的下一步，即「做正确的软件（Do right">
+    <meta name="twitter:url" content="http://localhost:2368/design-and-new-it-org/">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="敏捷">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "一只土贼",
+        "logo": "http://localhost:2368/content/images/2015/04/tuzei-logo-1.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "熊子川",
+        "image": "http://localhost:2368/content/images/2015/09/image_1442553695-265918.jpg",
+        "url": "http://localhost:2368/author/zichuan/",
+        "sameAs": []
+    },
+    "headline": "设计实践与敏捷研发体系",
+    "url": "http://localhost:2368/design-and-new-it-org/",
+    "datePublished": "2016-02-13T06:07:41.634Z",
+    "dateModified": "2016-02-13T06:20:14.988Z",
+    "keywords": "敏捷",
+    "description": "一位来自传统企业、正在经历研发系统敏捷转型的IT组织管理者L先生问我：「当整个研发体系正在朝敏捷方向转型，现有的美工该怎么办？」 本文回答L先生的问题，首先，我们来谈敏捷研发体系转型的基本逻辑： 敏捷体系的基本逻辑 对于传统公司的研发体系而言，定义需求、设计方案、研发系统、测试系统、系统部署、和产品运营往往是独立存在的阶段。越来越多人开始实践敏捷时，选择第一步往往是通过敏捷研发实践和持续构建，将开发体系和测试体系整合（图中①）。 在经历了第一步「研发+测试」敏捷实践之后的第二步，往往是向后将「上线体系」集成在「研发体系」中——即通过持续集成的方式、缩短小到功能大到产品从研发到上线的时间，并将上线过程碎片化（图中②）。 这两步所解决的基本都是「如何用正确的方式做软件（Do things right）」的问题，之后，企业内的研发组织所思考的是如何将工程实践整合「需求实践」，因为越来越多IT组织的负责人发现，软件研发中真正的浪费来自于需求不明确和需求变动，于是「业务敏捷」成为较为成熟的敏捷IT组织着眼的下一步，即「做正确的软件（Do right"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html">
+</head>
+<body class="post-template tag-min-jie nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="index.html#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+            <li class="nav-" role="presentation"><a href="../">首页</a></li>
+            <li class="nav-" role="presentation"><a href="../about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="http://localhost:2368/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/http://i25zt5.lawrence-gd.diancloud.cn/tag/yi-meng">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
+    </ul>
+        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        <a class="blog-logo" href="../"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
+            <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post tag-min-jie">
+
+        <header class="post-header">
+            <h1 class="post-title">设计实践与敏捷研发体系</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2016-02-13">13 February 2016</time>  on <a href="../tag/min-jie/">敏捷</a>
+            </section>
+        </header>
+
+        <section class="post-content">
+            <p>一位来自传统企业、正在经历研发系统敏捷转型的IT组织管理者L先生问我：「当整个研发体系正在朝敏捷方向转型，现有的美工该怎么办？」</p>
+
+<p>本文回答L先生的问题，首先，我们来谈敏捷研发体系转型的基本逻辑：</p>
+
+<h4 id="">敏捷体系的基本逻辑</h4>
+
+<p>对于传统公司的研发体系而言，定义需求、设计方案、研发系统、测试系统、系统部署、和产品运营往往是独立存在的阶段。越来越多人开始实践敏捷时，选择第一步往往是通过敏捷研发实践和持续构建，将开发体系和测试体系整合（图中①）。</p>
+
+<p>在经历了第一步「研发+测试」敏捷实践之后的第二步，往往是向后将「上线体系」集成在「研发体系」中——即通过持续集成的方式、缩短小到功能大到产品从研发到上线的时间，并将上线过程碎片化（图中②）。</p>
+
+<p>这两步所解决的基本都是「<strong>如何用正确的方式做软件（Do things right）</strong>」的问题，之后，企业内的研发组织所思考的是如何将工程实践整合「需求实践」，因为越来越多IT组织的负责人发现，软件研发中真正的浪费来自于需求不明确和需求变动，于是「业务敏捷」成为较为成熟的敏捷IT组织着眼的下一步，即「<strong>做正确的软件（Do right thing）</strong>」。</p>
+
+<p>这个阶段，企业开始构建自己的设计和产品经理团队，通过一前（新需求的设计）一后（产品的运营演进），在成熟的技术平台与研发实践上完成从需求设计到最后运营的全过程（图中③）。</p>
+
+<p>到③的阶段，IT组织已经基本上和成熟互联网公司相当，这里面包含三个要素：</p>
+
+<ol>
+<li>优秀的研发实践；  </li>
+<li>成熟的持续构建和持续集成体系；  </li>
+<li>成熟的设计和产品管理实践；</li>
+</ol>
+
+<p>而超越阶段③到达阶段④，即IT组织可以帮助业务部门完成对需求的定义，成为业务部门的合作伙伴，而非「供应商」，敏捷研发体系则到达最成熟的阶段。</p>
+
+<p><img src="http://localhost:2368/content/images/2016/02/agile-maturity.png" alt=""></p>
+
+<p>从上图可以看出，研发部门的工作领域，随着敏捷成熟度的提升而延伸到传统业务部门领域，这就是我们经常说的「业务敏捷」。</p>
+
+<p>为什么要谈「敏捷研发体系」的成熟度，因为<strong>对设计而言，研发组织所处的阶段，决定了它需要什么样的「美工」，即设计实践。</strong></p>
+
+<h4 id="">美工的传统领域</h4>
+
+<p>回过头来我们看美工，这是对设计师最传统的定义，在传统软件研发中，往往是进入开发环节前的最后一环，或是满足产品运营过程中的零碎需求，美工将产品经理或需求分析师定义的需求，转化成「美的东西」。</p>
+
+<p><img src="http://localhost:2368/content/images/2016/02/designer-role-1.png" alt=""></p>
+
+<p>在传统软件开发模式中，设计师之所以被简单定义为「美工」，是由开发模式决定，而当开发模式改变之后，设计师的协作模式自然需要改变。</p>
+
+<p>简单来说，<strong>当研发部门和业务部门越来越融合，无论设计师来自于哪一方，工作方式、职责、技能都会发生巨大的改变，此点往往不可逆转</strong>。</p>
+
+<p>例如，敏捷转型进入③阶段，需求不再通过较长时间的整理期，最后通过文档的形式流入研发阶段，而是通过设计最小可验证集合（MVP）的方式，尽可能快地进入研发阶段，一方面设计师需要将需求转化为设计、又要充分了解研发能力，还要尽可能地参与到研发和测试过程中去，这样的方式决定了设计师或设计团队的新工作方式。</p>
+
+<p>因此，设计师的技能要求、工作方式由研发体系决定，首先了解目前的研发体系是怎样的，处于哪个阶段，才能设计出当前体系最合适的设计实践。</p>
+
+<h4 id="">设计实践的规划</h4>
+
+<p>对于设计实践的规划往往取决于研发组织的成熟度、以及研发产品本身的特性（运营为主、还是新产品为主、还是探索性创新为主），因此无法有固定模式存在，例如，研发体系主要以现有产品运营为主时，对设计实践中的用户测试、定量数据分析要求更高；若研发体系主要以新产品为主，设计实践则更需要设计协作、快速原型、定性分析的能力。</p>
+
+<p>下面这个表格总结了不同成熟度的研发体系，针对不同特性的产品研发，可以着重考虑的设计实践：</p>
+
+<p><img src="http://localhost:2368/content/images/2016/02/suggestion.png" alt=""></p>
+
+<p>对于上表，有以下几点需要注意：</p>
+
+<p><em>并不是所有情况都适合设计外包</em></p>
+
+<p>设计外包本身基于传统研发和业务分离的模式，<strong>当你目前研发体系越需要和业务整合在一起，传统设计外包的冲突越大</strong>；此外探索性创新本身对自身设计要求较高，探索的成功率极低，因此通过探索过程积累创新经验至关重要，在没有设计能力的情况下，将其外包，成功率低、也毫无益处。</p>
+
+<p><em>进入研发和业务逐渐融合的阶段2，对设计沟通的能力可能高于设计本身</em></p>
+
+<p>一旦研发和业务发生融合，设计师所承担的责任比不只是设计本身，还有大量的沟通工作，在这个阶段应该引入好的设计沟通实践，逐渐建立适合自身需求的流程和方法，对于设计交付物，可以选择设计外包的方式。</p>
+
+<p><em>设计是影响业务部门最好的手段</em></p>
+
+<p>设计是业务和研发部门间最天然的融合手段，敏捷研发体系向业务部门拓展的第一步就是引入优秀的设计实践，建立和业务部门的互动方式。</p>
+
+<p><em>选择合适的项目投入设计资源</em></p>
+
+<p>传统企业的研发部门往往负担多种职责，从产品运营、新产品研发、到探索性创新，对于有限的设计资源，包括设计外包，应该有针对性地根据当前情况投入，例如，有针对性引入设计咨询帮助建立产品运营方面必要的设计实践，而不是在自身未成熟的情况下投入设计资源到探索性创新的项目。</p>
+
+<h4 id="">写在最后</h4>
+
+<p>无论是否称作敏捷，传统公司的数字化转型往往从研发体系的变革开始，研发体系逐步向业务部门拓展，建立和业务部门更紧密的联系，已经成为趋势。在这个背景下，设计实践在不同的阶段产生不同的作用，研发体系的领导者应该思考以下几个问题：</p>
+
+<ol>
+<li>我们的研发体系目前在什么阶段？  </li>
+<li>我们提供什么样的服务？  </li>
+<li>我们和业务部门的关系如何？  </li>
+<li>阶段、服务、和关系需要怎样的设计实践？  </li>
+<li>面对不足的设计能力，设计资源如何分配？</li>
+</ol>
+
+<p>最后预祝转型成功！</p>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="../author/zichuan/" style="background-image: url(http://localhost:2368/content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
+
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    <span class="author-location icon-location">San Francisco</span>
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%95%8F%E6%8D%B7%E7%A0%94%E5%8F%91%E4%BD%93%E7%B3%BB&amp;url=http://localhost:2368/design-and-new-it-org/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/design-and-new-it-org/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/design-and-new-it-org/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+
+        </footer>
+
+    </article>
+</main>
+
+<aside class="read-next">
+    <a class="read-next-story no-cover" href="../reliablity-or-validity/">
+        <section class="post">
+            <h2>Reliability还是Validity？</h2>
+            <p>去年一场设计思维的工作坊，我讲到了分析思维和直觉思维的区别，当时我展示了一幅图，图的左边是分析思维（Analytical Thinking）：即期待重复发生的事件中、用重复的方式找到共同之处；而右边是直觉思维（Intuitive Thinking）：即期待突然降临的灵感突然奏效。 讲演中我说：分析思维更加重视可验证性，而直觉思维更加依赖于某个可以信赖的人，此图有些错误，右边应该是Reliability，左侧才是Validity。 直到今年，…</p>
+        </section>
+    </a>
+    <a class="read-next-story prev " style="background-image: url(http://t1.qpic.cn/mblogpic/2884f1639ccffb09f10c/2000.jpg)" href="../what-is-strategy/">
+        <section class="post">
+            <h2>何为战略</h2>
+            <p>我一直相信知识工作者的成长路径，无论是程序员或是设计师，从信息的收集者、开始分析信息形成逻辑、在逻辑上包装内容、把内容形成产品、最终从产品中抽象出形态、归纳原则、总结规律，而战略（Strategy）正是成长路径中重要的一环。 当我重新阅读《HBR's 10 Must Reads - On…</p>
+        </section>
+    </a>
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="../">一只土贼</a> © 2016</section>
+            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <!-- You can safely delete this line if your theme does not require jQuery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d7f406aaa2e48a4cca39518080c7b553";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=5b0e722e36"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=5b0e722e36"></script>
+
+</body>

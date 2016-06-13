@@ -1,0 +1,258 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>二十三 解决流于形式的敏捷实践</title>
+    <meta name="description" content="">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="../favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=5b0e722e36">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="origin">
+    
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="二十三 解决流于形式的敏捷实践">
+    <meta property="og:description" content="面对慢慢流于形式的敏捷实践，该怎么办？ 在某些情况下，敏捷实践不能够坚持而流于形式。作为项目管理者，需要做的不是强行用行政手段强推实践，也不是放任自流，而应该做的分析这个实践所期待发挥的价值，采取正确的策略应对。 以当前团队中对于验收条件的态度变化为例。 在实践验收条件几个月之后，从各方的反馈来看，似乎验收条件不被重视： 对于开发人员来说，因为有详细的设计文档，大部分详细信息都在设计文档中体现，他们倾向于看文档一步一步完成，而不是通过验收条件找具体设计； 对于测试人员来说，也因为有详细的设计文档，所有测试用例都在设计文档的帮助下完成，最终的测试脚本就是所有测试用例，而不是按照验收条件的顺序； 对于分析人员来说，因为开发和测试人员对于验收条件的漠然，对于书写验收条件的工作开始变得倦怠，验收条件质量下降，形成恶性循环，开发测试人员越不重视，分析人员越怠慢，验收条件质量越差，开发测试人员越不重视，最终的结果一定是流于形式； 这种恶性循环是各种实践（不限于敏捷实践）最后流于形式的定式。当一种实践需要一个工作环来执行，而纵观工作环上的每个角色都没有一人体会到这种实践的直接价值时，这项实践必然在某天被流于形式。发生这种情况一般有两种原因： 实践的价值隐藏得很深，在工作环之外或者工作环之内； 实践的价值根本不存在，或者期待的价值已经被其他实践替代； 那么通过分析发生这种情况的原因，制定的策略必然相异： 发现这种价值，让工作环上的人认同这种价值，使得实践持续； 验证是否存在价值，">
+    <meta property="og:url" content="http://localhost:2368/how-to-keep-agile-going/">
+    <meta property="og:image" content="http://localhost:2368/content/images/2015/04/IMG_6039.png">
+    <meta property="article:published_time" content="2010-08-16T00:06:00.000Z">
+    <meta property="article:modified_time" content="2015-04-16T00:07:26.636Z">
+    <meta property="article:tag" content="敏捷咨询日记">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="二十三 解决流于形式的敏捷实践">
+    <meta name="twitter:description" content="面对慢慢流于形式的敏捷实践，该怎么办？ 在某些情况下，敏捷实践不能够坚持而流于形式。作为项目管理者，需要做的不是强行用行政手段强推实践，也不是放任自流，而应该做的分析这个实践所期待发挥的价值，采取正确的策略应对。 以当前团队中对于验收条件的态度变化为例。 在实践验收条件几个月之后，从各方的反馈来看，似乎验收条件不被重视： 对于开发人员来说，因为有详细的设计文档，大部分详细信息都在设计文档中体现，他们倾向于看文档一步一步完成，而不是通过验收条件找具体设计； 对于测试人员来说，也因为有详细的设计文档，所有测试用例都在设计文档的帮助下完成，最终的测试脚本就是所有测试用例，而不是按照验收条件的顺序； 对于分析人员来说，因为开发和测试人员对于验收条件的漠然，对于书写验收条件的工作开始变得倦怠，验收条件质量下降，形成恶性循环，开发测试人员越不重视，分析人员越怠慢，验收条件质量越差，开发测试人员越不重视，最终的结果一定是流于形式； 这种恶性循环是各种实践（不限于敏捷实践）最后流于形式的定式。当一种实践需要一个工作环来执行，而纵观工作环上的每个角色都没有一人体会到这种实践的直接价值时，这项实践必然在某天被流于形式。发生这种情况一般有两种原因： 实践的价值隐藏得很深，在工作环之外或者工作环之内； 实践的价值根本不存在，或者期待的价值已经被其他实践替代； 那么通过分析发生这种情况的原因，制定的策略必然相异： 发现这种价值，让工作环上的人认同这种价值，使得实践持续； 验证是否存在价值，">
+    <meta name="twitter:url" content="http://localhost:2368/how-to-keep-agile-going/">
+    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2015/04/IMG_6039.png">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="敏捷咨询日记">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "一只土贼",
+        "logo": "http://localhost:2368/content/images/2015/04/tuzei-logo-1.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "熊子川",
+        "image": "http://localhost:2368/content/images/2015/09/image_1442553695-265918.jpg",
+        "url": "http://localhost:2368/author/zichuan/",
+        "sameAs": []
+    },
+    "headline": "二十三 解决流于形式的敏捷实践",
+    "url": "http://localhost:2368/how-to-keep-agile-going/",
+    "datePublished": "2010-08-16T00:06:00.000Z",
+    "dateModified": "2015-04-16T00:07:26.636Z",
+    "image": "http://localhost:2368/content/images/2015/04/IMG_6039.png",
+    "keywords": "敏捷咨询日记",
+    "description": "面对慢慢流于形式的敏捷实践，该怎么办？ 在某些情况下，敏捷实践不能够坚持而流于形式。作为项目管理者，需要做的不是强行用行政手段强推实践，也不是放任自流，而应该做的分析这个实践所期待发挥的价值，采取正确的策略应对。 以当前团队中对于验收条件的态度变化为例。 在实践验收条件几个月之后，从各方的反馈来看，似乎验收条件不被重视： 对于开发人员来说，因为有详细的设计文档，大部分详细信息都在设计文档中体现，他们倾向于看文档一步一步完成，而不是通过验收条件找具体设计； 对于测试人员来说，也因为有详细的设计文档，所有测试用例都在设计文档的帮助下完成，最终的测试脚本就是所有测试用例，而不是按照验收条件的顺序； 对于分析人员来说，因为开发和测试人员对于验收条件的漠然，对于书写验收条件的工作开始变得倦怠，验收条件质量下降，形成恶性循环，开发测试人员越不重视，分析人员越怠慢，验收条件质量越差，开发测试人员越不重视，最终的结果一定是流于形式； 这种恶性循环是各种实践（不限于敏捷实践）最后流于形式的定式。当一种实践需要一个工作环来执行，而纵观工作环上的每个角色都没有一人体会到这种实践的直接价值时，这项实践必然在某天被流于形式。发生这种情况一般有两种原因： 实践的价值隐藏得很深，在工作环之外或者工作环之内； 实践的价值根本不存在，或者期待的价值已经被其他实践替代； 那么通过分析发生这种情况的原因，制定的策略必然相异： 发现这种价值，让工作环上的人认同这种价值，使得实践持续； 验证是否存在价值，"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html">
+</head>
+<body class="post-template tag-min-jie-zi-xun-ri-ji nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="index.html#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+            <li class="nav-" role="presentation"><a href="../">首页</a></li>
+            <li class="nav-" role="presentation"><a href="../about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="http://localhost:2368/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/http://i25zt5.lawrence-gd.diancloud.cn/tag/yi-meng">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
+    </ul>
+        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head " style="background-image: url(../content/images/2015/04/IMG_6039.png)">
+    <nav class="main-nav overlay clearfix">
+        <a class="blog-logo" href="../"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
+            <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post tag-min-jie-zi-xun-ri-ji">
+
+        <header class="post-header">
+            <h1 class="post-title">二十三 解决流于形式的敏捷实践</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2010-08-16">16 August 2010</time>  on <a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a>
+            </section>
+        </header>
+
+        <section class="post-content">
+            <blockquote>
+  <p>面对慢慢流于形式的敏捷实践，该怎么办？</p>
+</blockquote>
+
+<p>在某些情况下，敏捷实践不能够坚持而流于形式。作为项目管理者，需要做的不是强行用行政手段强推实践，也不是放任自流，而应该做的分析这个实践所期待发挥的价值，采取正确的策略应对。</p>
+
+<p>以当前团队中对于验收条件的态度变化为例。</p>
+
+<p>在实践验收条件几个月之后，从各方的反馈来看，似乎验收条件不被重视：</p>
+
+<ul>
+<li>对于开发人员来说，因为有详细的设计文档，大部分详细信息都在设计文档中体现，他们倾向于看文档一步一步完成，而不是通过验收条件找具体设计；</li>
+<li>对于测试人员来说，也因为有详细的设计文档，所有测试用例都在设计文档的帮助下完成，最终的测试脚本就是所有测试用例，而不是按照验收条件的顺序；</li>
+<li>对于分析人员来说，因为开发和测试人员对于验收条件的漠然，对于书写验收条件的工作开始变得倦怠，验收条件质量下降，形成恶性循环，开发测试人员越不重视，分析人员越怠慢，验收条件质量越差，开发测试人员越不重视，最终的结果一定是流于形式；</li>
+</ul>
+
+<p>这种恶性循环是各种实践（不限于敏捷实践）最后流于形式的定式。当一种实践需要一个工作环来执行，而纵观工作环上的每个角色都没有一人体会到这种实践的直接价值时，这项实践必然在某天被流于形式。发生这种情况一般有两种原因：</p>
+
+<ul>
+<li>实践的价值隐藏得很深，在工作环之外或者工作环之内；</li>
+<li>实践的价值根本不存在，或者期待的价值已经被其他实践替代；</li>
+</ul>
+
+<p>那么通过分析发生这种情况的原因，制定的策略必然相异：</p>
+
+<ul>
+<li>发现这种价值，让工作环上的人认同这种价值，使得实践持续；</li>
+<li>验证是否存在价值，大胆舍弃，或者发现相同价值在其他实践上的体现，合理简化或调整；</li>
+</ul>
+
+<p>简单来说，我们要做的是定位这个实践所预期达到的价值在哪里？在工作环之内、之外？或者在其他实践上？还是根本不存在？然后再制定相应的实践，改进这个实践。</p>
+
+<p>我们首先思考一下验收条件期待被达到的价值：</p>
+
+<ul>
+<li>明确用户故事的范围；</li>
+<li>与客户达成业务价值的一致，这个用户故事能够完成什么样的业务价值；</li>
+<li>在后期的验证反馈中成为一个可用的脚步用于演示；</li>
+<li>作为可进行进一步拆分的框架，帮助测试人员书写测试用例和帮助开发人员分解实现任务；</li>
+</ul>
+
+<p>我们可以简化成为几个方面：范围确定工具；达成一致的工具；验证的脚本；帮助书写用例和编码的工具。</p>
+
+<p>接下来，我们要分析的是，在我们的实践里，这几个方面的价值被体现在哪里？</p>
+
+<ul>
+<li><p>范围确定工具：客户通常按照需求的设计文档进行确认，在设计文档中明确了需求的各个业务场景下的相关功能点，验收条件基本根据这些功能点进行拆分和书写，实际上确定需求范围的价值在设计文档中包含，只是没有抽取出；</p></li>
+<li><p>与客户达成一致：与客户达成一致的手段是设计文档的验收而不是验收条件；</p></li>
+<li><p>验证的脚本：编码完成后程序员被把验收条件作为演示脚本向分析人员进行演示，做转侧前的第一次验证，由于分析人员都来自于开发背景，这种演示慢慢成为了实现级别，例如查看库表中是否更新了字段，某个请求是否被发送，而非业务层面；</p></li>
+<li><p>帮助书写用例和编码：对书写用例来说，有些测试人员会根据验收条件的框架逐步细化编写用例，原因是之前验收条件的编写都是和分析人员一起完成的，这样的工作效率高，但是因为分析人员对验收条件的重视程度不高，导致不是所有验收条件都是和测试人员一起写的，这样，部分测试人员还是根据设计文档写用例，这一部分价值正在趋向减少；对编码来说，设计文档中的细节较多，开发人员不肯改变工作习惯，依旧按照设计文档进行编码；</p></li>
+</ul>
+
+<p>从以上的分析我们不难看出，因为种种原因，验收条件的价值被交付团队感知的极少，唯一产生的价值——对测试人员的帮助也因为分析人员的不重视而慢慢消退。当我们弄清楚一种实践的价值到底在哪之后，便可以着手思考应对的执行策略。</p>
+
+<p>根据讨论，我们对于验收条件中被设计文档覆盖的价值，抽取出去并强化，不在验收条件的实践中体现；对于验收条件更能够方便产生的价值进行强化。可能存在的具体改进动作有以下：</p>
+
+<ul>
+<li><p>设计文档作为确定范围和与客户达成一致的工具，在每个需求设计文档中强化业务场景和相关功能点的验收范围，简化每个用户故事中的验收条件；</p></li>
+<li><p>由测试人员和分析人员一起编写粗粒度的测试用例框架，作为转测前开发人员演示的脚本，以及帮助测试人员书写更详细测试用例；</p></li>
+</ul>
+
+<p>仔细分析我们不难发现，当实践A（验收条件）的某些价值被另外一个实践B（设计文档）部分覆盖时，我们倾向于使用那个实践B（通常是旧实践），而渐渐忽略实践A中那些小部分不能被实践B覆盖的价值，实践A就会被流于形式。解决的办法是清晰地划分出实践A和实践B的界限，让它们相互独立，实践就会被坚持下去。敏捷中持续改进思想的重要一环便体现在一段时间内反馈一项实践的执行情况，让那些流于形式的实践无以遁形。</p>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="../author/zichuan/" style="background-image: url(http://localhost:2368/content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
+
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    <span class="author-location icon-location">San Francisco</span>
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E4%BA%8C%E5%8D%81%E4%B8%89%20%E8%A7%A3%E5%86%B3%E6%B5%81%E4%BA%8E%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%8F%E6%8D%B7%E5%AE%9E%E8%B7%B5&amp;url=http://localhost:2368/how-to-keep-agile-going/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/how-to-keep-agile-going/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/how-to-keep-agile-going/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+
+        </footer>
+
+    </article>
+</main>
+
+<aside class="read-next">
+    <a class="read-next-story " style="background-image: url(../content/images/2015/04/ALA274_consthalvorsen_300_960_576_60.jpg)" href="../mental-model/">
+        <section class="post">
+            <h2>心智模型交流体系</h2>
+            <p>沟通需要心智模型 心智模型(Mental Model)是深植于我们心中对于自己、别人以及周边世界的假设，并把这种假设推论为理所当然的事实。它深刻地影响信息交换、行为互动、某种决定、对事物看法的视角、情绪等，并局限于思维习惯、生长环境、已有知识、已有经验、社会地位等。 三种心智模型 在我们进行信息沟通的时候，…</p>
+        </section>
+    </a>
+    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/shutterstock-93843220.jpg)" href="../agile-project-3-protection-skills/">
+        <section class="post">
+            <h2>二十二 敏捷项目的三层保护</h2>
+            <p>为什么需要保护？ 谁来保护？ 如何保护？ 敏捷项目因为透明而往往趋向于脆弱——一个鼓励提前暴露风险和缺陷的精益环境，它把交付团队的一切都展露无疑，风险或者坏味道在第一时间就可以被暴露。风险或缺陷的提前暴露，在某种情况下会引起客户的不安，如果没有适当的引导和疏解，这样的不安会变成很多“反敏捷”的动作，例如：填写每日工作日志审核，或者按照合同强压开发上。结果是，我们推崇的敏捷特性——越早发现缺陷，…</p>
+        </section>
+    </a>
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="../">一只土贼</a> © 2016</section>
+            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <!-- You can safely delete this line if your theme does not require jQuery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d7f406aaa2e48a4cca39518080c7b553";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=5b0e722e36"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=5b0e722e36"></script>
+
+</body>
