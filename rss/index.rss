@@ -1,4 +1,185 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sat, 18 Jun 2016 05:11:59 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>建立公司愿景</title><description>&lt;p&gt;&lt;em&gt;本文是《战略十篇》的第三篇书稿，来自于James C. Collins和Jerry I. Porras刊载于1996年9-10月《哈佛商业评论》的《Building Your Company's Vision》，文章可以在&lt;a href="http://www.academia.edu/9661558/Building_Your_Companys_Vision"&gt;Academia&lt;/a&gt;上找到。&lt;/em&gt;&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 21 Jun 2016 05:34:14 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>需求风险的坏味道和对策</title><description>&lt;p&gt;大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。&lt;/p&gt;
+
+&lt;p&gt;这说起来似乎有些「缺少志向」，但是在现实中IT项目所面对的，除了软件工程本身的巨大挑战、还有技术之外的需求、设计、沟通、政治、分工、计划、等诸多变数，作为一个大型项目的负责人，一旦进入交付落地阶段，就应该进入「风险模式」。&lt;/p&gt;
+
+&lt;p&gt;而「控制需求」成为了「控制风险」中最重要的一环，换言之，一个失败的项目中，需求未得到有效的控制，往往是最重要的失败原因。本文将讨论多年来我在需求控制方面的一些心得。&lt;/p&gt;
+
+&lt;h2 id=""&gt;识别坏味道&lt;/h2&gt;
+
+&lt;p&gt;要明白软件工程是一件专业度很强的事情，你必须教育客户明白，什么是管理一个软件工程的「坏味道」，以下场景你是否似曾相识：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「这个需求我们实现过，只需要一周时间就可以完成」；&lt;/li&gt;
+&lt;li&gt;「关于这个需求你做一个方案给我选一选」、「这两个方案我都不喜欢，你们再想想？」；&lt;/li&gt;
+&lt;li&gt;「这是领导要的，我也没办法」；&lt;/li&gt;
+&lt;li&gt;「没有这个功能我们不能上线」。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;当你听到这些话的时候，作为工程管理者的你，&lt;/p&gt;</description><link>http://localhost:2368/managing-scope/</link><guid isPermaLink="false">f818aa8e-7fd1-4627-806c-47ee9467c558</guid><category>敏捷</category><dc:creator>熊子川</dc:creator><pubDate>Tue, 21 Jun 2016 05:14:32 GMT</pubDate><content:encoded>&lt;p&gt;大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。&lt;/p&gt;
+
+&lt;p&gt;这说起来似乎有些「缺少志向」，但是在现实中IT项目所面对的，除了软件工程本身的巨大挑战、还有技术之外的需求、设计、沟通、政治、分工、计划、等诸多变数，作为一个大型项目的负责人，一旦进入交付落地阶段，就应该进入「风险模式」。&lt;/p&gt;
+
+&lt;p&gt;而「控制需求」成为了「控制风险」中最重要的一环，换言之，一个失败的项目中，需求未得到有效的控制，往往是最重要的失败原因。本文将讨论多年来我在需求控制方面的一些心得。&lt;/p&gt;
+
+&lt;h2 id=""&gt;识别坏味道&lt;/h2&gt;
+
+&lt;p&gt;要明白软件工程是一件专业度很强的事情，你必须教育客户明白，什么是管理一个软件工程的「坏味道」，以下场景你是否似曾相识：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;「这个需求我们实现过，只需要一周时间就可以完成」；&lt;/li&gt;
+&lt;li&gt;「关于这个需求你做一个方案给我选一选」、「这两个方案我都不喜欢，你们再想想？」；&lt;/li&gt;
+&lt;li&gt;「这是领导要的，我也没办法」；&lt;/li&gt;
+&lt;li&gt;「没有这个功能我们不能上线」。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;当你听到这些话的时候，作为工程管理者的你，就应该警惕可能在「需求控制」方面你正在遇到挑战，让我们来分析一下每句话背后的挑战：&lt;/p&gt;
+
+&lt;h6 id=""&gt;「这个需求我们实现过，只需要一周时间就可以完成」&lt;/h6&gt;
+
+&lt;p&gt;你的客户正在插手你的工作量估计，这往往是最危险的，一个优秀的项目管理者首先需要做的是让客户完全信任你工作量估计系统是如何工作的，并不断强调你的工作量估计是合理的、公平的、和有效的。&lt;/p&gt;
+
+&lt;h6 id=""&gt;「关于这个需求你做一个方案给我选一选」、「这两个方案我都不喜欢，你们再想想？」&lt;/h6&gt;
+
+&lt;p&gt;这代表你的客户不理解软件开发中需求分析也是工作量的一部分，AB稿在设计界中广泛存在，在我看来是最低效的一种决策方式，在软件交付中也同样存在，你会尽可能做出一个更趋向于复杂的设计、以求得客户的决策，最终结果是需求被放大。&lt;/p&gt;
+
+&lt;h6 id=""&gt;「这是领导要的，我也没办法」&lt;/h6&gt;
+
+&lt;p&gt;这代表你的客户正在抛开自己的决策责任，尝试用最不负责任的方式逼迫你答应需求，一旦成功，这种行为就变成一个肆无忌惮的借口。&lt;/p&gt;
+
+&lt;h6 id=""&gt;「没有这个功能我们不能上线」&lt;/h6&gt;
+
+&lt;p&gt;必须据理力争，请坚信，没有什么功能是阻止上线的，只有阻止上线的、不理智的、缺乏安全的客户。&lt;/p&gt;
+
+&lt;p&gt;上面的「坏味道」是我经常要遇到的情况，用什么方法对策呢？以下是我的一些总结：&lt;/p&gt;
+
+&lt;h2 id=""&gt;尽可能靠近决策者&lt;/h2&gt;
+
+&lt;p&gt;软件工程同样是一个「社会工程」，软件项目的失败往往是因为其社会性的复杂，导致身处其中的人无法处理负责的合作、组织、政治、和职责关系。&lt;/p&gt;
+
+&lt;p&gt;而越是处于复杂社会网络的中间、越无法对整个复杂网络产生影响，最好的办法是尽可能地接近决策者，但往往你总是在跟你的直接客户合作，决策者也许是他的上级，你如何接近决策者呢？&lt;/p&gt;
+
+&lt;p&gt;我的建议是：&lt;strong&gt;「尽可能帮助你的直接客户接近他的上级、也就是真正决策者」&lt;/strong&gt;，在上一个客户中我们做了以下几件事情：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;为客户包装向他上级汇报的PPT；&lt;/li&gt;
+&lt;li&gt;总结他上级的想法，例如用可视化的方式包装他上级在说什么；&lt;/li&gt;
+&lt;li&gt;将工作过程拍成视频，供他在组织内传播；&lt;/li&gt;
+&lt;li&gt;每周一次的Newsletter，一些易于传播的图片、小视频等。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/client-interview.png" alt=""&gt;
+（&lt;em&gt;将项目过程拍摄成专业视频供组织内传播，以此接触高层决策者&lt;/em&gt;）&lt;/p&gt;
+
+&lt;p&gt;这些内容被我们的客户传播给了他的上级，甚至上级的上级，不一定要等到成功的项目，我们就已经将影响力传递到了决策者，这使得你和你的客户不再是甲乙方的关系，而是合作者，明确这个地位，才是接近决策者的重要意义。&lt;/p&gt;
+
+&lt;h2 id=""&gt;做系统决策人&lt;/h2&gt;
+
+&lt;p&gt;和你的直接客户建立合作关系之后，你还要努力将自己打造成系统的决策人之一。系统是各种概念建立关联关系的结果，一个优秀的系统决策人需要对以下决定产生影响：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;是否应该引入新的概念；&lt;/li&gt;
+&lt;li&gt;是否应该将某一概念变复杂；&lt;/li&gt;
+&lt;li&gt;是否应该建立新的关系；&lt;/li&gt;
+&lt;li&gt;是否应该将某一关系变复杂。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/system-evolvement.png" alt=""&gt;
+(&lt;em&gt;用系统复杂度的增量方式，包括新增/加强概念和新增/加强关系来建立概念系统模型，用概念模型来讨论需求&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;这套「概念系统」应该持续存在于你的脑海里，一旦新的需求出现，你就需要对这个需求做出以下决策：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;这是否引入新的概念？&lt;/li&gt;
+&lt;li&gt;这是否在将现有概念变复杂？&lt;/li&gt;
+&lt;li&gt;这是否建立了新的关系？&lt;/li&gt;
+&lt;li&gt;这是否在将现有关系变复杂？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我们通常习惯于从「价值」的角度进行决策，而在真实场景中，对任何一个没有上线的产品，谈论「价值」的意义都不大，而&lt;strong&gt;谈系统复杂度&lt;/strong&gt;却是一个更好的策略，因为你把客户与客户的讨论拖入了一个偏向于系统工程的专业讨论，而非一个「非专业」的所谓价值讨论。&lt;/p&gt;
+
+&lt;p&gt;当然你必须给客户一个明确的优先级指导框架，例如在一个新系统里，建立新概念间的关系，优于对于一个已有概念或关系的深入优化，达成一致后，决策效率更高。&lt;/p&gt;
+
+&lt;h2 id=""&gt;不要给选择&lt;/h2&gt;
+
+&lt;p&gt;这个听起来很专断，他背后的含义是努力让客户认为你所给出的基本是最优选择，就算选择，也应该是优、次优、最次选择这样的方式，而不应该是同等权值的盲目拍板。给选择的目的永远是让客户选择我们期待他选择的那一项，如果不给选择也是其中一个选项，那么尽量不给客户选择。&lt;/p&gt;
+
+&lt;p&gt;我所使用的策略有如下几种：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;采用完美的系统思维逻辑帮助客户认定我们选定的就是最优选择；&lt;/li&gt;
+&lt;li&gt;对我们的方案给出完整的思考和选择过程、而不是最终方案而已；&lt;/li&gt;
+&lt;li&gt;给出大量的假设让客户认为「反正都不知道最后结果是怎样，选什么其实都没那么重要」；&lt;/li&gt;
+&lt;li&gt;最后才是给出多个方案对优缺点进行分析。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这样的方式帮助我们强有力地抓住了需求的源头，阻止需求扩大、或朝错误的方向演进。&lt;/p&gt;
+
+&lt;h2 id=""&gt;管理结果而非解决方案&lt;/h2&gt;
+
+&lt;p&gt;管理需求的核心在于管理结果（Outcome），而不在于管理解决方案，结果和解决方案的区别是什么？假设一个简单的在线小额贷款的产品，也许有一长串功能需求，但核心的结果也许只有几个：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;借贷者能够借到合适利率的贷款；  &lt;/li&gt;
+&lt;li&gt;贷款者能够在合适风险下发放贷款并获得收益；  &lt;/li&gt;
+&lt;li&gt;平台能够管理逾期的风险，并从中获益。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;把所有的需求讨论放在对于这一系列结果的影响上，而不过多讨论具体实现方式：有了它跟哪个核心结果有关？有了它会对这个核心结果有什么影响？没有它呢？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/outcome-management.png" alt=""&gt;
+(&lt;em&gt;一个用简单Outcome Dashboard来管理需求的例子，通过考察需求对业务结果的影响来规划需求&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;切记一点，不是因为东西难就不做、也不是因为东西简单就做，而是思考一个需求对于整体结果的影响。换句话说，一个产品的上线，应该是一系列结果的上线，而不是一系列需求的上线，需求是结果的副产品，应该有产品经理、设计师、架构师来保证，你只需要和客户讨论&lt;strong&gt;「最终产品在多大程度上导致了所期待的结果」。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;如果没有影响，无论有多简单，都不应该做，如果至关重要，无论多难，都应该完成。&lt;/p&gt;
+
+&lt;h2 id=""&gt;建立游戏规则&lt;/h2&gt;
+
+&lt;p&gt;就像之前所说的，游戏规则必须建立，这里的游戏规则，我推荐以下几条，你需要花长时间和客户进行讨论、强调、教育、再教育：&lt;/p&gt;
+
+&lt;h6 id=""&gt;没有东西是免费的&lt;/h6&gt;
+
+&lt;p&gt;所有东西都是有价格的，花时间的，这里包括需求的讨论、编码、改动、测试、调试、沟通等等；&lt;/p&gt;
+
+&lt;h6 id=""&gt;讲不清楚的需求很可能是没价值的&lt;/h6&gt;
+
+&lt;p&gt;如果讲都讲不清楚，今天讲不清楚、明天还是讲不清楚、你写100页文档也还是讲不清楚、大多数情况，都是没价值的需求，不如推迟决策；&lt;/p&gt;
+
+&lt;h6 id=""&gt;这是系统思考&lt;/h6&gt;
+
+&lt;p&gt;任何一个新概念的产生、或者一个新关系的出现，都意味着系统其他部分的成本、变动、甚至破坏，谨慎一切新概念、新关系的产生；&lt;/p&gt;
+
+&lt;h6 id=""&gt;社交游戏&lt;/h6&gt;
+
+&lt;p&gt;复杂问题最终都是复杂的社交游戏（Social Game），能通过政治或者社交解决的方式，尽可能不用技术解决，例如：当前项目上需要其他系统开发的配合解决，花大力气放在协商其他团队改变开发计划，而不是扩大本项目开发需求；&lt;/p&gt;
+
+&lt;h6 id=""&gt;每个阶段都有该阶段专属的规则&lt;/h6&gt;
+
+&lt;p&gt;特别在需求的前期，讨论越多需求，流入后期的需求范围就越大，在一开始就应该建立需求规则的概念，什么该谈、什么不该谈，而不是简单跳过（例如放入Parking Lot）；&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/scope-principle.jpg" alt=""&gt;
+(&lt;em&gt;在前期需求规划中我们就设定了严格准入标准，任何需求的讨论，如果不符合这些规则，都坚决不谈&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h6 id=""&gt;交付大于一切&lt;/h6&gt;
+
+&lt;p&gt;永远不进行项目延期，目标是在交付期中保证交付既定的结果，而非之前约定的需求列表，可以容忍瑕疵、但不容忍延期；&lt;/p&gt;
+
+&lt;h6 id=""&gt;尊重估算&lt;/h6&gt;
+
+&lt;p&gt;不要尝试花时间质疑估算，你所有的怀疑会变成工程师巧妙的「套路」，他们会在另外的地方找补回来，反正你不懂，若相信、请深信。&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;大型IT交付项目的巨大风险在于「需求管理」，真正的诀窍是在于将管理需求上升到新的层次：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;决策者期待；&lt;/li&gt;
+&lt;li&gt;系统概念和关系、以及产品路线图；&lt;/li&gt;
+&lt;li&gt;业务结果；&lt;/li&gt;
+&lt;li&gt;组织内协作和社交。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而不是着眼于需求本身，如果我们只懂得用需求列表中的工作量估算、功能排期、优先级排列，「需求失控」只是时间问题。&lt;/p&gt;</content:encoded></item><item><title>建立公司愿景</title><description>&lt;p&gt;&lt;em&gt;本文是《战略十篇》的第三篇书稿，来自于James C. Collins和Jerry I. Porras刊载于1996年9-10月《哈佛商业评论》的《Building Your Company's Vision》，文章可以在&lt;a href="http://www.academia.edu/9661558/Building_Your_Companys_Vision"&gt;Academia&lt;/a&gt;上找到。&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;伟大公司所求为「基业长青（Build to Last）」，而但凡长盛不衰的公司背后的秘诀是「用核心理念指引和因可见未来激励公司的人（来自于Jim Collins所著《Built to Last: Successful Habits of Visionary Companies》）」。这里的两要素是「核心理念（Core Ideology）」、「可见未来（Envisioned Future）」：&lt;/p&gt;
 
@@ -1625,207 +1806,4 @@ Logo设计师的概念化过程同时也是构建系统的过程。&lt;/p&gt;
 
 &lt;h2 id=""&gt;如果你只是一位设计新人？&lt;/h2&gt;
 
-&lt;p&gt;作为设计新人，缺少基础的设计技能是否还需要考虑设计之外的问题？我的回答是：没有必要的设计技能，你根本无法体会到设计之外的其他问题。因此，磨练自己的设计技能，并保持耐心，对设计之外的三个问题保有必要的认识，你只需要明白的一个道理，「对设计的需要将会越来越复杂，而对设计的结果又要求越来越简单」，处理前者需要设计之外的技能，处理后者则需要扎实的设计技能，缺一不可。&lt;/p&gt;</content:encoded></item><item><title>全渠道零售的逻辑</title><description>&lt;p&gt;最近参与了多个跟全渠道零售相关的项目投标，对北美地区零售商全渠道战略的现状和趋势做了全面的学习和分析，尝试总结一下全渠道零售的基础逻辑，简要来说，逻辑如下：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;因为技术和社会变革的共同作用，产生了更加强大消费者（Empowered Customers）群体；  &lt;/li&gt;
-&lt;li&gt;消费者强大之后，获得商品信息、获得商品本身、和品牌之间的关系模式都产生了巨大差异；  &lt;/li&gt;
-&lt;li&gt;这三种差异是全渠道零售需要解决的重点；  &lt;/li&gt;
-&lt;li&gt;现有业务流程、组织架构、技术基础很难解决这三种差异带来的难题；  &lt;/li&gt;
-&lt;li&gt;传统「渠道」建设思路已经失效；  &lt;/li&gt;
-&lt;li&gt;需要一种新的全渠道构建思路，围绕「消费者」的全渠道零售思路。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=""&gt;强大的消费者&lt;/h2&gt;
-
-&lt;p&gt;技术和社会变革导致产业变革，正是因为现代印刷业、标准化工业产品、现代物流运输体系的建立，加上消费主义的风靡，催生了100年来经久不衰的「邮寄购买目录」，直到现在，它仍是美国消费者一个重要的购买渠道。&lt;/p&gt;
-
-&lt;p&gt;而以互联网技术为代表的第三次工业革命孕育出一代甚至几代不同寻常的「强大消费者」，孕育的养料来自于三个方面：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;超强个人计算能力：消费者开始具备海量信息的处理能力，包括收集、分析、比较、展示；  &lt;/li&gt;
-&lt;li&gt;新的服务的产品：越来越多跨越中间商、扁平化的商业模式，更加低廉的快消服务和产品，面对更加年轻化的企业；  &lt;/li&gt;
-&lt;li&gt;社交网络：&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/omnichannel-retail-strategy/</link><guid isPermaLink="false">623b306d-6341-4b37-9ba3-1cb7db96f4c6</guid><category>零售</category><category>全渠道</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 10 Aug 2015 23:48:26 GMT</pubDate><media:content url="http://localhost:2368/content/images/2015/08/1-M5xjFZ82j-GQ3txNbd0rHA.jpeg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2015/08/1-M5xjFZ82j-GQ3txNbd0rHA.jpeg" alt="全渠道零售的逻辑"&gt;&lt;p&gt;最近参与了多个跟全渠道零售相关的项目投标，对北美地区零售商全渠道战略的现状和趋势做了全面的学习和分析，尝试总结一下全渠道零售的基础逻辑，简要来说，逻辑如下：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;因为技术和社会变革的共同作用，产生了更加强大消费者（Empowered Customers）群体；  &lt;/li&gt;
-&lt;li&gt;消费者强大之后，获得商品信息、获得商品本身、和品牌之间的关系模式都产生了巨大差异；  &lt;/li&gt;
-&lt;li&gt;这三种差异是全渠道零售需要解决的重点；  &lt;/li&gt;
-&lt;li&gt;现有业务流程、组织架构、技术基础很难解决这三种差异带来的难题；  &lt;/li&gt;
-&lt;li&gt;传统「渠道」建设思路已经失效；  &lt;/li&gt;
-&lt;li&gt;需要一种新的全渠道构建思路，围绕「消费者」的全渠道零售思路。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=""&gt;强大的消费者&lt;/h2&gt;
-
-&lt;p&gt;技术和社会变革导致产业变革，正是因为现代印刷业、标准化工业产品、现代物流运输体系的建立，加上消费主义的风靡，催生了100年来经久不衰的「邮寄购买目录」，直到现在，它仍是美国消费者一个重要的购买渠道。&lt;/p&gt;
-
-&lt;p&gt;而以互联网技术为代表的第三次工业革命孕育出一代甚至几代不同寻常的「强大消费者」，孕育的养料来自于三个方面：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;超强个人计算能力：消费者开始具备海量信息的处理能力，包括收集、分析、比较、展示；  &lt;/li&gt;
-&lt;li&gt;新的服务的产品：越来越多跨越中间商、扁平化的商业模式，更加低廉的快消服务和产品，面对更加年轻化的企业；  &lt;/li&gt;
-&lt;li&gt;社交网络：社会资本（Social Capital）快速更迭、流动、置换，生活方式受社交网络影响更大。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;三者影响下催生了新的消费者群体，最大的变化在于如下三点：&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;变化莫测的购物习惯&lt;/em&gt;：无法预测的开始、随时中断又随时重启的过程、不同渠道、品牌、平台的跳转、并随意组合，据思科的&lt;a href="http://www.cisco.com/c/dam/en/us/solutions/collateral/executive-perspectives/ioe-retail-whitepaper.pdf"&gt;分析&lt;/a&gt;，在物联网逐渐成熟的背景下，全渠道零售中一个客户端到端的购物方式，可能超过800种；&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/08/800-consumer-journeys-1.png" alt="全渠道零售的逻辑"&gt;
-&lt;strong&gt;上图&lt;/strong&gt;：在物联网逐渐成熟的背景下，全渠道零售中一个客户端到端的购物方式，可能超过800种。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;消费者越来越丰富的数字基因（Digital Shopper Genome）&lt;/em&gt;——由于消费者拥有更大信息处理能力、以及越来越多的渠道选择，行为模式越来越复杂，根据&lt;a href="http://www.mckinsey.com/insights/marketing_sales/Cracking_the_digital-shopper_genome"&gt;麦肯锡的定义&lt;/a&gt;，消费者的数字基因需要涵盖以下信息片段：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/08/SVGZ_Cracking_digital_genome_ex1.svg" alt="全渠道零售的逻辑"&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;所处购买决定的阶段；&lt;/li&gt;
-&lt;li&gt;数字渠道的偏好；&lt;/li&gt;
-&lt;li&gt;个人因素和偏好；&lt;/li&gt;
-&lt;li&gt;对产品属性的偏重；&lt;/li&gt;
-&lt;li&gt;个人生活和场景；&lt;/li&gt;
-&lt;li&gt;对营销的偏好。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;从获得商品到消费购物体验&lt;/em&gt; —— 强大而差异化的消费者越来越不满足同质化的购物体验，获得商品不再成为唯一目标，消费体验本身成为消费的主体。&lt;/p&gt;
-
-&lt;h2 id=""&gt;不变与变&lt;/h2&gt;
-
-&lt;p&gt;然而无论技术和消费者如何变化，零售的核心依然是以下三点：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;获得产品信息；  &lt;/li&gt;
-&lt;li&gt;获得商品本身；  &lt;/li&gt;
-&lt;li&gt;建立消费者和品牌的关系。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;换言之，无论100年前的「邮寄购买目录」还是风头正劲的互联网零售，服务的核心永远是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;如何让消费者更好地获得产品信息（更精美的商品手册或更好用的网站）；  &lt;/li&gt;
-&lt;li&gt;如何让消费者更好地获得商品本身（更安全的商品寄送或更快捷安全的网上支付）；  &lt;/li&gt;
-&lt;li&gt;如何让消费者成为忠实的品牌客户（年度的明星客户特刊或者独有的线上会员专区）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而真正变化地是：&lt;strong&gt;消费者在以上三件事情对品牌的期待：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;我期待用我喜欢的方式获得产品信息，而不是你希望我使用的方式；&lt;/li&gt;
-&lt;li&gt;我期待用适合我情况的方式获得商品，而不是你希望我使用的方式；&lt;/li&gt;
-&lt;li&gt;我期待用我熟悉的方式和你进行互动，而不是你希望我使用的方式；&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;而现实是，大部分零售商远未满足以上期待。&lt;/p&gt;
-
-&lt;h2 id=""&gt;零售商的挑战&lt;/h2&gt;
-
-&lt;p&gt;你在店面里看见了喜欢的鞋，但销售员告诉你没有货，她好意地帮你询问附近的店面，看看有没有存货，一切都通过电话完成，好运的你要么花半小时等待隔壁店里的店员气喘吁吁地送来合适的鞋，要么告诉你明天来取。&lt;/p&gt;
-
-&lt;p&gt;事实上，在美国，零售商因为「缺货」和「不必要的退货」而损失超过&lt;a href="http://www.fierceretail.com/story/retailers-lose-175t-overstocks-out-stocks-and-returns/2015-05-06"&gt;1750亿美元&lt;/a&gt;。因为店面间的库存数据没有被整合，又没有灵活的配送方式，消费者体验大打折扣。&lt;/p&gt;
-
-&lt;p&gt;这便是零售商在全渠道策略中遇到的第一、和第二个挑战：&lt;strong&gt;多个渠道间的相同信息（如库存）没有同步&lt;/strong&gt;；&lt;strong&gt;无法提供灵活的配送方式满足客户特殊需要&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;另一个简单的场景，作为消费者的我，在网站上填写了申请房屋保险的表单，收到了房屋保险销售代理的电话，电话结束后，我收到了一个电子邮件回执。在这个场景中我经历的三个「服务触点」：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;网站；  &lt;/li&gt;
-&lt;li&gt;客服销售；  &lt;/li&gt;
-&lt;li&gt;邮件。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;在最后，我收到了这样一封邮件：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/08/Screen-Shot-2015-08-10-at-4-12-50-PM.png" alt="全渠道零售的逻辑"&gt;&lt;/p&gt;
-
-&lt;p&gt;请注意，经过了网站、15分钟的客服销售对话，在邮件中，仍然不能识别我是先生、女士、还是小姐。从这个简单的案例里，我们很容易发现，哪怕是一个最简单的购买场景，都无法做到&lt;strong&gt;客户信息第一时间同步&lt;/strong&gt;，至少客服系统和邮件系统是完全分离的。&lt;/p&gt;
-
-&lt;p&gt;这便是零售商在全渠道策略中遇到的第三个挑战：&lt;strong&gt;当涉及到多个平台转接时，无法保证信息的无缝转移&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;总结以上挑战：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;挑战1：多渠道间信息不同步；&lt;/li&gt;
-&lt;li&gt;挑战2：无法完成灵活的配送方式；&lt;/li&gt;
-&lt;li&gt;挑战3：信息无法在多个渠道间转移。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;事实上，零售商在每个挑战中遇到的问题数不胜数：线上下单后不能在店内自取、在店内无法支付却不支持线上支付、线上的营销活动线下无效、客户服务中断后所有信息需要重新提供、忘记携带积分卡不能积分、不同地区店面不能兑换积分、折扣信息不准确或与我无关，等等。&lt;/p&gt;
-
-&lt;p&gt;那么挑战的根源来自何处？&lt;/p&gt;
-
-&lt;h2 id=""&gt;挑战的根源&lt;/h2&gt;
-
-&lt;p&gt;传统零售的构架方式基于「渠道」的增加、整合、和相互营销，下图展示了从1995年开始到2015年之后零售商策略的变化：从一开始单渠道（店面和电话销售）、到独立的电商渠道、到跨平台的电商渠道、到电商多渠道和店面分开、最后到线上下的完整整合。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/08/Omni-Channel---Multi-Channel---Overview.jpg" alt="全渠道零售的逻辑"&gt;
-&lt;em&gt;出处&lt;/em&gt;：&lt;a href="http://ux4dotcom.blogspot.com/2015/01/from-single-via-muli-through-to-omni.html"&gt;From Single via Multi through to Omni Channel Commerce&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;事实上，图中2015年所展示的情况还远未发生，究其根源在于「渠道」的建设思维，每个渠道建立时，通常都会为其准备相对独立的上架、库存、市场、营销、客服业务等，以及对应的业务支撑系统。&lt;/p&gt;
-
-&lt;p&gt;当一个渠道建立的时间越深厚，附着其上的业务和支撑系统就变得更加完善。这种完善充分发挥了单个渠道的效率，但在以下情况中成为明显的桎梏：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;跨渠道的数据整合成本极高，两个渠道的数据整合可能需要修改上十个支撑系统；  &lt;/li&gt;
-&lt;li&gt;跨渠道的业务整合成本极高，这使得建立一个新的跨渠道场景变得很难；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;如果当我们面临的是超过10个线下渠道、20个线上渠道的整合时，除了渠道本身的整合难度，零售商还将面临以下挑战：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;线上下系统的技术成熟度不同，通常针对线上渠道的技术投入较大，线上下整合如同尝试在全电气化铁道上同时跑电气机车组和蒸汽机车组，线下业务的数字化能力远未成熟，还有大量技术债；  &lt;/li&gt;
-&lt;li&gt;各个成熟渠道间组织结构造成的隔阂，包括业务模式、能力、流程、管理、绩效等多个方面的冲突。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;长期以来构建「渠道」的运营思维加重了问题的严重性，「渠道」规定了购物的基本模式：进入店面、寻找商品、决定购买、支付、取货、离开店面，它与灵活性和差异化的消费体验格格不入。&lt;/p&gt;
-
-&lt;p&gt;遗憾的是，新一代的消费者已经抛弃了这种方式。因此，寻找到一个固定的消费模式而不断强化的时代一去不复返，零售商应该&lt;strong&gt;重新思考围绕渠道建立服务、业务、和支持系统的传统思路，转而把中心放在「消费者」&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;h2 id=""&gt;新的全渠道零售思路&lt;/h2&gt;
-
-&lt;p&gt;全新的思路在于建立以「消费者」为中心的全渠道策略，MIT斯隆商业评论认为，零售业务的核心永远是「交付信息（Information）」和「交付商品（Fulfillment）」（参考&lt;a href="http://i25zt5.lawrence-gd.diancloud.cn/winning-omni-channel-channel/"&gt;《致胜全渠道零售》&lt;/a&gt;一文），并认为无论是线上或者线下零售商都应该尝试向第二和第三象限拓展业务（如下图所示）。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i25zt5.lawrence-gd.diancloud.cn/content/images/2015/07/bell-s1.jpg" alt="全渠道零售的逻辑"&gt;&lt;/p&gt;
-
-&lt;p&gt;这便是全渠道零售背景下传统零售商的第一个思路：&lt;strong&gt;在全渠道上提供更多元、融合线上下体验的购物方式&lt;/strong&gt;，例如线上订购，线下尝试并购买（Reserve &amp;amp; Pick）的购物方式。&lt;/p&gt;
-
-&lt;p&gt;除了「交付信息（Information）」和「交付商品（Fulfillment）」之外，客户体验同样重要的一环是「客户关系（Relationship）」，全渠道思维下客户关系的建立、维护、管理、增强、和变现需要全新的方式，例如如何实现跨子品牌的营销活动、如何从不同渠道上统一管理会员、如何建立更加实时和统一、跨渠道、跨平台的积分体系、如何结合社交和内容管理客户。这便是第二个思路：&lt;strong&gt;在全渠道上建立、维护、管理、增强、和变现客户关系。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;从零售商基础设施的角度出发，实现以上两个思路的基础有三点支撑性条件需要考虑：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;数据支撑  &lt;/li&gt;
-&lt;li&gt;业务支撑  &lt;/li&gt;
-&lt;li&gt;信息系统支撑&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从数据支撑的角度，实现交付信息、交付商品、客户关系在全渠道上全面满足客户要求，其核心在于关于商品（Product）、库存（Inventory）、客户（Customer）三种核心数据的统一平台。简单的例子，当前零售商不同渠道间相同产品可能出现多个SKU、多个渠道也很难统一客户数据、不同店面的库存信息不统一管理，数据问题不解决，以消费者为核心的全渠道战略就不可能实现。&lt;/p&gt;
-
-&lt;p&gt;从业务支撑的角度，面对超过800种的客户购买路径，后台业务运营效率，决定了客户体验是否能够快速响应市场变化，例如，全渠道零售对于数据实时性、准确性、关联性提出全新的要求，店面布置和库存清点的数据要求变得更频繁、更快，那么零售商如何快速提升相关工作流程的效率？并在其他店面中全面铺开？&lt;/p&gt;
-
-&lt;p&gt;从信息系统支撑的角度，零售商本身拥有大量IT资产，而全渠道零售意味着更多的系统关联点，以及数据集成点，如何快速清理和升级现有IT资产，提升IT支撑的能力、加快信息系统建设的步伐、快速部署新技术和新应用，都成为实现新全渠道零售逻辑的基础。&lt;/p&gt;
-
-&lt;p&gt;综上所述，从实施的角度，全渠道零售的软件服务通常包含四大类服务：产品信息、商品配送、客户关系、和基础设施。每类服务中将包含多个信息系统的建立，在下面的图中展示了我们为北美一家零售企业实施全渠道战略的全景图，通过十多个信息系统，超过20多个软件项目的交付，最终改变了消费者在其店内的客户体验。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/08/in-store-customer-experience.png" alt="全渠道零售的逻辑"&gt;&lt;/p&gt;
-
-&lt;p&gt;每个蓝色编号背后，都代表这若干软件的交付，重要的是，在规划软件交付路线图时，应从客户体验和基础设施两个角度进行分析，最终实施出面向消费者的全渠道零售体验。&lt;/p&gt;
-
-&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
-
-&lt;p&gt;全渠道零售的概念已经出现了多年，在中国，蜂拥而上的是O2O战略，无论是全渠道还是O2O都应该是解决方案而不是客户价值，我们需要真正理解的是&lt;strong&gt;全渠道或O2O背后客户所期待的价值&lt;/strong&gt;，理解这种价值，需要理解消费者本身的变化，即这种价值产生的根源。&lt;/p&gt;
-
-&lt;p&gt;根源来自于客群本身行为和生活的变化，准确理解根源，才能准确理解客户期待的价值，找到价值才能设想解决方案，有了解决方案才能找到组织实施此种解决方案欠缺的服务与基础设施，最终适应自身情况的全渠道零售战略才能最终产生。&lt;/p&gt;
-
-&lt;p&gt;此外，没有任何一种战略是能够一次成型的，在上面的例子中，ThoughtWorks与该零售商的合作超过了5年，&lt;strong&gt;期待建立一个大而全的全渠道战略，然后实施，等待结果，是注定失败的&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;这就是全渠道零售的逻辑，它包含：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;强大的消费者产生新的诉求；  &lt;/li&gt;
-&lt;li&gt;新的诉求产生新的挑战；  &lt;/li&gt;
-&lt;li&gt;传统渠道建设思路不能够应对新的挑战；  &lt;/li&gt;
-&lt;li&gt;新的挑战需要以消费者为核心的全渠道战略；  &lt;/li&gt;
-&lt;li&gt;新的战略对消费者而言关注「跨渠道的购物新方式」和「跨渠道的客户关系」，对企业而言关注「全渠道基础设施建设（数据、业务、信息系统）」；  &lt;/li&gt;
-&lt;li&gt;新的战略需要在建设中不断演进、适应、试错、和调整。&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;作为设计新人，缺少基础的设计技能是否还需要考虑设计之外的问题？我的回答是：没有必要的设计技能，你根本无法体会到设计之外的其他问题。因此，磨练自己的设计技能，并保持耐心，对设计之外的三个问题保有必要的认识，你只需要明白的一个道理，「对设计的需要将会越来越复杂，而对设计的结果又要求越来越简单」，处理前者需要设计之外的技能，处理后者则需要扎实的设计技能，缺一不可。&lt;/p&gt;</content:encoded></item></channel></rss>
