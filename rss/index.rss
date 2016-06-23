@@ -1,4 +1,273 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 21 Jun 2016 05:34:14 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>需求风险的坏味道和对策</title><description>&lt;p&gt;大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 23 Jun 2016 05:34:09 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>两周启动新硬件产品原型期</title><description>&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上；&lt;/li&gt;
+&lt;li&gt;研发环节、及涉及到的技术能力和实践特别多；&lt;/li&gt;
+&lt;li&gt;风险极大，返工几乎是必然的；&lt;/li&gt;
+&lt;li&gt;涉及到硬件的需求变更的成本极大；&lt;/li&gt;
+&lt;li&gt;传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而新硬件产品的设计研发又使得整体风险和难度成倍增加，这里的新硬件产品是指：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;缺少现有标准硬件方案；&lt;/li&gt;
+&lt;li&gt;新的用户使用场景；&lt;/li&gt;
+&lt;li&gt;多个已有方案的整合；&lt;/li&gt;
+&lt;li&gt;对于硬件选型有苛刻的要求。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;过去8年里，我启动了几十个软件交付项目，启动一个硬件研发项目还是第一次，本文是我对本次启动的总结。&lt;/p&gt;
+
+&lt;h2 id=""&gt;背景&lt;/h2&gt;
+
+&lt;p&gt;启动前期对于该产品的产品逻辑已经有了较长时间的讨论，这些讨论最终成为原型期的输入，这些输入包括：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;产品概念定义（Core Product Concept）；&lt;/li&gt;
+&lt;li&gt;客户价值主张（Customer Value Proposition）；&lt;/li&gt;
+&lt;li&gt;核心使用场景（Core User Scenarios）；&lt;/li&gt;
+&lt;li&gt;盈利模型（Profit Model ）。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这些输入本身于软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
+
+&lt;p&gt;原型期的核心产出是一个具有完整功能的软硬件技术方案验证，不包含产品化部分（工业设计、品牌等），这个验证方案将基于PCBA板或简单的外壳，结果将用于产品化。&lt;/p&gt;</description><link>http://localhost:2368/hardware-prototype-kickoff/</link><guid isPermaLink="false">8b59197a-8115-4b0b-8607-0783a7b164d1</guid><category>硬件</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 23 Jun 2016 04:56:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" alt="两周启动新硬件产品原型期"&gt;&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上；&lt;/li&gt;
+&lt;li&gt;研发环节、及涉及到的技术能力和实践特别多；&lt;/li&gt;
+&lt;li&gt;风险极大，返工几乎是必然的；&lt;/li&gt;
+&lt;li&gt;涉及到硬件的需求变更的成本极大；&lt;/li&gt;
+&lt;li&gt;传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而新硬件产品的设计研发又使得整体风险和难度成倍增加，这里的新硬件产品是指：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;缺少现有标准硬件方案；&lt;/li&gt;
+&lt;li&gt;新的用户使用场景；&lt;/li&gt;
+&lt;li&gt;多个已有方案的整合；&lt;/li&gt;
+&lt;li&gt;对于硬件选型有苛刻的要求。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;过去8年里，我启动了几十个软件交付项目，启动一个硬件研发项目还是第一次，本文是我对本次启动的总结。&lt;/p&gt;
+
+&lt;h2 id=""&gt;背景&lt;/h2&gt;
+
+&lt;p&gt;启动前期对于该产品的产品逻辑已经有了较长时间的讨论，这些讨论最终成为原型期的输入，这些输入包括：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;产品概念定义（Core Product Concept）；&lt;/li&gt;
+&lt;li&gt;客户价值主张（Customer Value Proposition）；&lt;/li&gt;
+&lt;li&gt;核心使用场景（Core User Scenarios）；&lt;/li&gt;
+&lt;li&gt;盈利模型（Profit Model ）。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这些输入本身于软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
+
+&lt;p&gt;原型期的核心产出是一个具有完整功能的软硬件技术方案验证，不包含产品化部分（工业设计、品牌等），这个验证方案将基于PCBA板或简单的外壳，结果将用于产品化。&lt;/p&gt;
+
+&lt;h3 id=""&gt;整体规划&lt;/h3&gt;
+
+&lt;p&gt;硬件产品的研发通常分为四个主要阶段，每个阶段大致划分产品和技术两条线，且比重不同。如下图所示：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/hardware-development-phases.png" alt="两周启动新硬件产品原型期"&gt;&lt;/p&gt;
+
+&lt;p&gt;而两周原型期启动完成了产品团队和技术团队第一次「集成」，目标是让技术团队能够顺利地进入原型期，而其成败，是真正「0到1」成功的关键。&lt;/p&gt;
+
+&lt;p&gt;在两周的时间里，我们规划了四个方面的工作：&lt;/p&gt;
+
+&lt;h3 id=""&gt;产品需求&lt;/h3&gt;
+
+&lt;p&gt;产品需求部分与软件项目启动非常类似，我们对之前需求调研期中总结出来的产品概念、客户价值主张、核心使用场景、盈利模型重新探讨。值得注意的有三点：&lt;/p&gt;
+
+&lt;h4 id=""&gt;使用实体原型体会产品交互&lt;/h4&gt;
+
+&lt;p&gt;和软件产品不同，硬件产品往往构建了新的「交互范式（Interaction Paradigm）」，其中包括：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;全新的使用场景；&lt;/li&gt;
+&lt;li&gt;全新的使用设备：&lt;/li&gt;
+&lt;li&gt;多种交互模式进行配合。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在这个背景下，我们使用了大量体验式原型（&lt;a href="http://www.servicedesigntools.org/tools/21"&gt;Experience Prototype&lt;/a&gt; ），例如用纸盒子代表未来产品，加上一系列道具，让技术人员进行角色扮演，亲自体会未来产品的使用场景、反复重复，并把操作过程拍摄成短片。这比文档或者设计稿的方式更加有效。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/box-prototype.png" alt="两周启动新硬件产品原型期"&gt;
+(&lt;em&gt;使用纸盒制作的体验式原型&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/IMG_3513.gif" alt="两周启动新硬件产品原型期"&gt;
+(&lt;em&gt;让技术人员亲自操作体验式原型，体会产品交互&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h4 id=""&gt;尽可能核心的产品逻辑&lt;/h4&gt;
+
+&lt;p&gt;和硬件方案相比较，工作在硬件平台上的软件本身风险较小，因此保持一个最精简的概念模型，保证端到端产品「可使用」便可，这里遵循软件研发中概念精简的原理，在此不做赘述。在真实项目里，我们假设了一个最简单的端到端需求场景，并考虑在原型期结束前保证需求锁定，把重点放在重大的硬件技术风险上。&lt;/p&gt;
+
+&lt;h4 id=""&gt;规划产品未来&lt;/h4&gt;
+
+&lt;p&gt;硬件规划不能只考虑一个简单的需求场景，一个硬件平台需要考虑未来2年到3年的产品需求，以下几个因素将帮助硬件架构师规划硬件平台：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2到3年内产品功能将扩展到什么样子；&lt;/li&gt;
+&lt;li&gt;预测的市场价格是多少；&lt;/li&gt;
+&lt;li&gt;预测的月出货量有多少；&lt;/li&gt;
+&lt;li&gt;期待的产品毛利润是多少；&lt;/li&gt;
+&lt;li&gt;期待的产品单位成本是多少；&lt;/li&gt;
+&lt;li&gt;产品生命周期是多长。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;通过以上三点的理解，技术团队对需求、产品概念、以及规划有了足够的理解，在此之上将进入技术规划的讨论。&lt;/p&gt;
+
+&lt;h3 id=""&gt;技术规划&lt;/h3&gt;
+
+&lt;p&gt;一个典型的硬件技术方案将分为四个层次，它们分别是：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/hardware-solution-2.png" alt="两周启动新硬件产品原型期"&gt;&lt;/p&gt;
+
+&lt;h4 id=""&gt;硬件&lt;/h4&gt;
+
+&lt;p&gt;在产品原型期，硬件部分的工作风险最大，因此其他三个部分的工作统一由硬件研发牵引，我们将考虑六个重要的里程碑，每个里程碑需要有其他工作项的产出物进行配合：&lt;/p&gt;
+
+&lt;h5 id="schamaticdesign"&gt;电气原理图设计（Schamatic Design）&lt;/h5&gt;
+
+&lt;p&gt;基于对硬件平台和组件的选择，产出适合的电气原理图；&lt;/p&gt;
+
+&lt;h5 id="pcbpcblayout"&gt;PCB设计（PCB Layout）&lt;/h5&gt;
+
+&lt;p&gt;基于电气原理图，产出PCB（Printed Circuit Board）设计，PCB板设计是给第三方厂商定制PCB和PCBA的重要设计文档；&lt;/p&gt;
+
+&lt;h5 id="pcbpcbamanufacture"&gt;打样（PCB/PCBA Manufacture）&lt;/h5&gt;
+
+&lt;p&gt;选择合适的第三方厂家生产设计好的PCB以及PCBA。&lt;/p&gt;
+
+&lt;h5 id="hardwaredebug"&gt;硬件调试（Hardware Debug）&lt;/h5&gt;
+
+&lt;p&gt;对第三方厂家生产好的PCBA板进行电气特性调试。&lt;/p&gt;
+
+&lt;h5 id="bsphardwarebspintegration"&gt;硬件BSP集成（Hardware + BSP Integration）&lt;/h5&gt;
+
+&lt;p&gt;在通过电气特性调试的PCBA板上集成已完成的BSP组件，并进行测试和排障。&lt;/p&gt;
+
+&lt;h5 id="hardwaremoduleapplicationintegration"&gt;软硬集成集成（Hardware + Module + Application Integration）&lt;/h5&gt;
+
+&lt;p&gt;对已完成的应用或服务器端软件与PCBA板、BSP组件进行集成测试和排障。&lt;/p&gt;
+
+&lt;h4 id="bsp"&gt;板级支持包（BSP）&lt;/h4&gt;
+
+&lt;p&gt;板级支持包部分包含了多种&lt;strong&gt;必须&lt;/strong&gt;基于硬件的软件组件，这里包含：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;操作系统加载器（Bootloader）；&lt;/li&gt;
+&lt;li&gt;定制化操作系统（OS）；&lt;/li&gt;
+&lt;li&gt;标准化或定制化的驱动（Drivers）；&lt;/li&gt;
+&lt;li&gt;某些特定套件（Suits）；&lt;/li&gt;
+&lt;li&gt;基本库（Libraries）；&lt;/li&gt;
+&lt;li&gt;UI框架（UI Framework）。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;某些套件不需要依赖硬件方案确定即可开始独立研发，例如一个特定需求的基本库；而大部分BSP组件的研发都需要等到硬件方案确定后、获得评估套件（Evaluation Kits，由硬件厂商提供）才可以进行。&lt;/p&gt;
+
+&lt;h4 id=""&gt;应用&lt;/h4&gt;
+
+&lt;p&gt;应用部分的工作指不需要硬件平台即可以独立运行的软件，例如Web Server；某一特定第三方软件包，例如一个P2P文件传输的框架；以及客户端应用程序的研发，例如一个基于Linux的Demo App。&lt;/p&gt;
+
+&lt;h4 id=""&gt;服务器端&lt;/h4&gt;
+
+&lt;p&gt;服务器端包含产品可能需要的服务器端软件，例如一个数据传输硬件的寻址服务器（Addressing Server）。&lt;/p&gt;
+
+&lt;h3 id=""&gt;风险模型&lt;/h3&gt;
+
+&lt;p&gt;硬件项目在原型期的风险模型跟传统软件研发完全不同，作为项目管理者，需要建立全新的风险模型。理解硬件项目在原型期的风险有如下两点：&lt;/p&gt;
+
+&lt;p&gt;首先，最大的风险来自于硬件定制化本身，BSP和软件（包含独立应用和服务器端）需要与硬件方案产生多次集成；&lt;/p&gt;
+
+&lt;p&gt;其次，每次集成中，出现的问题都可能产生在硬件本身、BSP或软件，一旦发生硬件本身的错误，都必须回到硬件设计阶段——进行重新打样、修改PCB设计、修改电气原理图设计、甚至重新进行硬件选型。&lt;/p&gt;
+
+&lt;p&gt;下图展示了一个硬件项目在原型期中的风险模型：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/risk-model.png" alt="两周启动新硬件产品原型期"&gt;&lt;/p&gt;
+
+&lt;p&gt;每一次向上的箭头都是一次风险，特别到了后期的软硬件集成，某个硬件设计的故障可能导致整个硬件原型研发的全面返工，甚至失败。&lt;/p&gt;
+
+&lt;p&gt;作为硬件产品研发的项目经理，应该尽可能推进完成三大调试或集成点，并为项目规划留出缓冲时间，到项目后期的集成，返工工作量可能成倍增加，对于项目风险的控制应该极为小心。&lt;/p&gt;
+
+&lt;p&gt;特别指出的是，涉及到PCB/PCBA板的制造，通常需要第三方厂商配合、时间周期长、且相对固定，在项目管理中应给予足够的重视。在真实的硬件研发中，硬件工程师通常会使用一些暂时性的手段（Workarounds）将硬件调试推进到下一个测试环节、以期待暴露更多的问题，再统一一次性解决，这样可以减少PCB返工的时间。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/pcb.jpg" alt="两周启动新硬件产品原型期"&gt;
+(&lt;em&gt;图中的电线就是硬件工程师经常使用的「飞线」，用于暂时修正PCBA的故障，统一集中问题一次性返工解决。&lt;/em&gt;)&lt;/p&gt;
+
+&lt;h3 id=""&gt;项目规划&lt;/h3&gt;
+
+&lt;h4 id=""&gt;工作线&lt;/h4&gt;
+
+&lt;p&gt;硬件项目规划与软件项目不同，在一开始就需要拆分出工作线（Working Stream），各工作线的启动依赖如下：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;硬件线：依赖于供应商的支持；&lt;/li&gt;
+&lt;li&gt;BSP线：依赖于供应商的支持（如相关资料、评估套件等）；&lt;/li&gt;
+&lt;li&gt;应用线：无依赖；&lt;/li&gt;
+&lt;li&gt;服务器端：无依赖。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;除硬件和BSP工作通常依赖于供应商之外，其他工作线皆可以并行启动，项目经理可根据资源情况，以及未来硬件调试或软硬集成的时间，倒推出工作线启动时间。&lt;/p&gt;
+
+&lt;h4 id=""&gt;角色与能力&lt;/h4&gt;
+
+&lt;p&gt;由于硬件产品研发的特殊性，在技术线方面，至少需要以下背景的工程师：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;硬件工程师&lt;/strong&gt;：熟悉各厂商硬件方案的区别，可以根据产品需求转化成电气原理图设计和PCB设计、在市场寻找合适的供应商、最终生产出PCB和PCBA，并在后续的研发中负责硬件调试，以及和供应商的沟通、协作、管理进度；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;嵌入式软件开发工程师&lt;/strong&gt;：与硬件工程师合作，完成硬件选型，在选定厂家的评估套件上完成BSP的开发，并在后续的硬件调试、集成测试中，与硬件工程师、应用软件工程师合作，排查和修复与嵌入式软件相关的故障；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;应用软件工程师&lt;/strong&gt;：完成应用层和服务器端软件的开发、供终端用户使用。&lt;/p&gt;
+
+&lt;p&gt;特别指出的是，通常嵌入式软件开发工程师和应用软件工程师的区分没有那么明显。&lt;/p&gt;
+
+&lt;p&gt;从产品线考虑，硬件产品研发与软件产品研发类似，至少需要以下三种角色：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;产品经理&lt;/strong&gt;：不必要的复杂度可能增加硬件研发的风险，用户体验在前期需要让步于技术风险，产品经理需要保护产品需求不被扩大或颠覆性变化，在核心产品逻辑不变的情况下改进产品体验；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;交互设计师&lt;/strong&gt;：硬件产品通常涉及新的交互范式，交互设计师没有现有交互方式作为参考，特别需要系统式的交互设计逻辑，最好拥有人因工程设计的背景，再加上硬件产品物理性的特点，需要设计师反复考虑使用场景和环境限制；但是，值得指出的是，在原型期并不涉及到产品的结构、外观、材料等设计，设计可能只是在界面交互层次；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;项目经理&lt;/strong&gt;：不像软件研发，很多工种可以互换、形成特性团队，硬件产品研发流程复杂、工种之间相对独立，这对于沟通和协作产生了极高的要求，再加上外部合作方（工厂、方案提供商）的参与，项目管理难度极大；除沟通协作之外，控制高风险也是摆在项目经理面前重要的工作，多次软硬集成测试的问题、合作方的拖延、多条研发线的拖延，都可能让项目走向失败。&lt;/p&gt;
+
+&lt;h4 id=""&gt;评估&lt;/h4&gt;
+
+&lt;p&gt;敏捷软件开发中的评估采用相对复杂度的方式，这种评估方式的基础是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;基于一个模糊分工的团队（倾向于全功能团队）；&lt;/li&gt;
+&lt;li&gt;由一个对团队能力、系统复杂度有充分了解的软件技术带头人完成；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而硬件产品研发中目前还难以建立全功能团队，能力和角色难以整合；技术带头人极少拥有硬件、嵌入式、软件三种研发背景，复杂度在三种不同体系下是否可以比较，也值得商榷。&lt;/p&gt;
+
+&lt;p&gt;因此，使用传统敏捷软件开发中的评估方法，对硬件产品研发工作量进行估计，我持有保留意见，这种方式是否有效、还需要时间和实践来检验。&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;本文是对一次通过两周时间启动一个新硬件产品原型期的总结，在这个过程中，我们做了如下几件事：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;重新定义产品；&lt;/li&gt;
+&lt;li&gt;产出核心用户交互体验；&lt;/li&gt;
+&lt;li&gt;对技术路线图进行规划；&lt;/li&gt;
+&lt;li&gt;识别工作线；&lt;/li&gt;
+&lt;li&gt;识别关键角色和能力；&lt;/li&gt;
+&lt;li&gt;对时间点进行最好和最坏的估计；&lt;/li&gt;
+&lt;li&gt;对项目管理方式达成一致。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;总体来说，硬件产品研发的复杂度、风险、管理难度都超过了软件产品研发，是否可以借用敏捷软件开发中的方法，还需要时间验证。对于一个硬件产品而言，留给自己和大家思考的是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;如何管理产品需求？&lt;/li&gt;
+&lt;li&gt;如何演进用户体验？&lt;/li&gt;
+&lt;li&gt;如何估计工作量？&lt;/li&gt;
+&lt;li&gt;如何提前暴露风险？&lt;/li&gt;
+&lt;li&gt;如何对硬件产品进行持续集成？&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>需求风险的坏味道和对策</title><description>&lt;p&gt;大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。&lt;/p&gt;
 
 &lt;p&gt;这说起来似乎有些「缺少志向」，但是在现实中IT项目所面对的，除了软件工程本身的巨大挑战、还有技术之外的需求、设计、沟通、政治、分工、计划、等诸多变数，作为一个大型项目的负责人，一旦进入交付落地阶段，就应该进入「风险模式」。&lt;/p&gt;
 
@@ -1683,127 +1952,4 @@
 &lt;li&gt;在框架之外思考和观察变化，强制总结和调整框架。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;现在，想想你现在的设计领导者，他们在做什么？他是一个「坏」的设计领导者吗？&lt;/p&gt;</content:encoded></item><item><title>设计之外的三个问题</title><description>&lt;p&gt;也许你要挑战「设计就是设计」，但你无法改变的是，真实世界里，我们所面对的设计挑战早已超越了设计本身，无论你如何缩小设计师的定义，事实依然不能被改变——我们所处的设计环境，逼迫我们在组织架构中解决社会性问题、在商业模式中解决盈利性问题，而不简单只是个设计问题。&lt;/p&gt;
-
-&lt;p&gt;Donald Norman在2010年一篇论文&lt;a href="http://www.jnd.org/dn.mss/why_design_education.html"&gt;《Why Design Education Must Change》&lt;/a&gt;中特别提到：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many problems involve complex social and political issues. As a result, designers have become applied behavioral scientists, complexity of the issues and the depth of knowledge known.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;对设计师而言，设计问题之外还有哪些问题需要面对？设计师又该如何回答这些问题？本篇将列举出3个我认为最重要的问题，&lt;/p&gt;</description><link>http://localhost:2368/beyond-design/</link><guid isPermaLink="false">ab834a46-a5dd-4976-991e-fd09d4ebfc1a</guid><category>设计</category><category>设计思维</category><dc:creator>熊子川</dc:creator><pubDate>Wed, 02 Sep 2015 05:11:58 GMT</pubDate><media:content url="http://localhost:2368/content/images/2015/09/Screen-Shot-2015-09-01-at-10-18-54-PM.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2015/09/Screen-Shot-2015-09-01-at-10-18-54-PM.png" alt="设计之外的三个问题"&gt;&lt;p&gt;也许你要挑战「设计就是设计」，但你无法改变的是，真实世界里，我们所面对的设计挑战早已超越了设计本身，无论你如何缩小设计师的定义，事实依然不能被改变——我们所处的设计环境，逼迫我们在组织架构中解决社会性问题、在商业模式中解决盈利性问题，而不简单只是个设计问题。&lt;/p&gt;
-
-&lt;p&gt;Donald Norman在2010年一篇论文&lt;a href="http://www.jnd.org/dn.mss/why_design_education.html"&gt;《Why Design Education Must Change》&lt;/a&gt;中特别提到：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Many problems involve complex social and political issues. As a result, designers have become applied behavioral scientists, complexity of the issues and the depth of knowledge known.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;对设计师而言，设计问题之外还有哪些问题需要面对？设计师又该如何回答这些问题？本篇将列举出3个我认为最重要的问题，以及如何训练。&lt;/p&gt;
-
-&lt;h2 id="1"&gt;问题1：如何构建系统&lt;/h2&gt;
-
-&lt;p&gt;传统设计教育一般不会教你的，是「系统性思考」，系统性思考的核心在于：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;构建模型（系统中抽象出来的对象）&lt;/li&gt;
-&lt;li&gt;分析正负反馈（对象之间的关系）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;无论它是一个Logo的设计、一个品牌、一套界面、或是一个产品策划，衡量质量的重要标准是「可持续」，而真正可持续的，是系统。&lt;/p&gt;
-
-&lt;p&gt;建立一个好的系统，有以下几个步骤：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;收集信息：尽可能地收集多个方面的多种信息；  &lt;/li&gt;
-&lt;li&gt;寻找洞察：在海量信息中寻找出关键信息，即洞察（Insights）；  &lt;/li&gt;
-&lt;li&gt;抽象对象：将洞察抽象为对象；  &lt;/li&gt;
-&lt;li&gt;寻找关系：在对象之间寻找相互间关系（依赖或强化）；  &lt;/li&gt;
-&lt;li&gt;抽象关系：将关系进行抽象。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;以一个完整的Logo设计过程为例，建立一个围绕在Logo周围的系统逻辑可以是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;寻找所有品牌相关的关键字、客群定义、战略目标、观感等多种信息；  &lt;/li&gt;
-&lt;li&gt;从诸多信息中抽离出重要的、也许毫无关联的洞察；  &lt;/li&gt;
-&lt;li&gt;将这些洞察进行抽象、即概念化；  &lt;/li&gt;
-&lt;li&gt;寻找概念之间的关系；  &lt;/li&gt;
-&lt;li&gt;抽象这种关系，形成真正的设计方向。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/lehu.png" alt="设计之外的三个问题"&gt;
-Logo设计师的概念化过程同时也是构建系统的过程。&lt;/p&gt;
-
-&lt;p&gt;优秀的设计师虽未经过训练，通过常年的练习和实践形成了自己的系统化思维，在特赞这篇《&lt;a href="http://chuansong.me/n/1620788"&gt;这个Logo，绝对配得上千万美元融资&lt;/a&gt;》文章中讲述了设计师张乐乎的设计过程，也许他并不承认，但这个过程和结果都是系统思维的体现。&lt;/p&gt;
-
-&lt;p&gt;一个具有优秀系统思维的设计师可能有如下特点：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;在海量信息中能够敏感地发现有价值的信息；&lt;/li&gt;
-&lt;li&gt;不止看到一点更不纠结于一点细节，而是更加全面形成平衡的设计观点；&lt;/li&gt;
-&lt;li&gt;快速将复杂的事情变得简单、又可冷静地将简单的事情剖析得复杂；&lt;/li&gt;
-&lt;li&gt;快速地教会别人一件事、或者植入一个理念；&lt;/li&gt;
-&lt;li&gt;设计结果显得完整、丰满、过程令人信服；&lt;/li&gt;
-&lt;li&gt;更快速地学习新的知识、高速地沟通过程。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;系统性思维通过多年的实践和重复性工作在潜移默化中形成自己完整的工作方式，如下方式可以更快速地帮助设计师形成自己的系统思维：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;多做跨领域的探索性研究和考据，强制自己接受海量信息；&lt;/li&gt;
-&lt;li&gt;多读设计领域一些归纳性的论文，而不是实用型文章，前者往往是设计师多年经验的理论沉淀；&lt;/li&gt;
-&lt;li&gt;写作也是形成设计师系统思维的好方式；&lt;/li&gt;
-&lt;li&gt;多涂鸦，随时画下自己抽象的结果（下图）。
-&lt;img src="http://localhost:2368/content/images/2015/09/image_1441167161-058961.jpg" alt="设计之外的三个问题"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="2"&gt;问题2：如何帮助决策过程&lt;/h2&gt;
-
-&lt;p&gt;设计的复杂性导致决策过程更加复杂，一个产品最终从概念到推向市场，可能经历更多的决策过程，产品越大、涉及影响越大、决策过程越复杂。&lt;/p&gt;
-
-&lt;p&gt;设计师越来越发现，他们被要求（或主动要求）参与到从头到尾各种决策过程中，并和不同背景的决策者打交道，他们也明白，设计的价值和决策复杂度成正比，即不需要决策的设计就是自说自话，世界上没有即重要的、又不需要决策的设计。&lt;/p&gt;
-
-&lt;p&gt;抱怨组织里冗长的决策过程，不如思考作为设计师如何帮助决策过程。设计思维（Design Thinking）的出现究其根本是为了解决设计决策的问题，因为企业一方面越来越需要设计、一方面设计需要涉及到多个组织内部的利益相关者（Stakeholders），以设计思维为代表的一系列设计方法论，帮助设计者和利益相关者克服设计专业技能的局限，一起进行的是设计决策、而不是设计本身。&lt;/p&gt;
-
-&lt;p&gt;经常扮演引导者（Facilitator）帮助设计师更好地辅助设计决策，推动设计的最终实现，而不是避免设计决策，期待一个完美设计解决所有问题，当设计在企业中成为普遍行为时，这样的情况越来越不会出现。有以下方式可以作为练习：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;帮助持不同观点、毫无设计背景的两个人达成一致；&lt;/li&gt;
-&lt;li&gt;把每次对话当作一次达成一致的过程；&lt;/li&gt;
-&lt;li&gt;学习讲故事，Storytelling是设计师不可缺少的技能之一；&lt;/li&gt;
-&lt;li&gt;根据现实情况、精心设计一个设计工作坊，帮助利益相关者达成一致。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/inception-facilitation.png" alt="设计之外的三个问题"&gt;
-不断练习设计和引导设计工作坊，是学会辅助设计决策的最佳手段。&lt;/p&gt;
-
-&lt;p&gt;此外，洞悉各个利益相关者之间诉求的冲突和一致、对各人之间的政治保持敏感度，毕竟设计已经不是一个简单的创作活动或工程活动，而是一个社会性活动（Social Activity）。&lt;/p&gt;
-
-&lt;h2 id="3"&gt;问题3：如何驱动设计团队&lt;/h2&gt;
-
-&lt;p&gt;任何一个重要的设计都不再是一个人可以完成的事情，设计的生命周期也变得更长，从概念产生到持续运营，之中经历多个阶段、有不同专业背景、多达百人参与，设计之外的第三个问题在于，如何有效地驱动设计团队，最终驱动整个设计在不同阶段稳定运行。&lt;/p&gt;
-
-&lt;p&gt;这个问题涉及到如何建立设计领导力（Design Leadership）的，很多设计师错误地认为「设计领导力是一个管理的问题，而我只关心技能问题、而不愿朝管理者的方向发展」。事实上，智力工作的发展特点在于「专业和管理」不再是两条泾渭分明的职业发展路线，而是更加融合，没有一个优秀设计师只是一个管理者、或只是一个专家。&lt;/p&gt;
-
-&lt;p&gt;驱动设计团队主要包含三个类别的设计问题：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;管理设计目标（Design Goals）：我们为何设计；  &lt;/li&gt;
-&lt;li&gt;管理设计原则（Design Principles）：我们接受和不接受怎样的设计；  &lt;/li&gt;
-&lt;li&gt;管理设计方法（Design Approaches）：我们如何达到我们的设计目标。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而对于设计过程、设计结果、和设计细节应是真正设计管理（Design Management）的职责范围。这就使得设计团队全员应对「驱动设计团队」负责，而不是设计领导者——无论职责的大小，都应该保证：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;对以上三个设计问题有共同的认识；  &lt;/li&gt;
-&lt;li&gt;发现认识的偏差应该及时提示和解决；  &lt;/li&gt;
-&lt;li&gt;主动改进或调整以上三个设计问题。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;作为设计领导者或管理者，应该在设计项目中建立足够宽松的环境，除了管理过程质量和设计产出，帮助团队建立共同的目标、原则、和方法。随着设计过程中所需要的角色越来越多，驱动设计团队将会变得更加重要。&lt;/p&gt;
-
-&lt;h2 id=""&gt;如果你只是一位设计新人？&lt;/h2&gt;
-
-&lt;p&gt;作为设计新人，缺少基础的设计技能是否还需要考虑设计之外的问题？我的回答是：没有必要的设计技能，你根本无法体会到设计之外的其他问题。因此，磨练自己的设计技能，并保持耐心，对设计之外的三个问题保有必要的认识，你只需要明白的一个道理，「对设计的需要将会越来越复杂，而对设计的结果又要求越来越简单」，处理前者需要设计之外的技能，处理后者则需要扎实的设计技能，缺一不可。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;现在，想想你现在的设计领导者，他们在做什么？他是一个「坏」的设计领导者吗？&lt;/p&gt;</content:encoded></item></channel></rss>
