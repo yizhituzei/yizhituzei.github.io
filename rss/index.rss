@@ -1,8 +1,100 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 23 Jun 2016 05:34:09 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>两周启动新硬件产品原型期</title><description>&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sat, 02 Jul 2016 04:57:26 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>ThoughtWorks靠什么挣钱</title><description>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
+
+&lt;p&gt;简单来说，摩尔定律所揭示的是这样一条技术曲线：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/tech.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;而技术突破式创新所带来的商业创新往往后发，商业或业务能力的发展呈现出这样一条曲线：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;作为业务发展和运营的支撑，IT能力的发展往往永远后置于商业或业务能力的发展，呈现出这样一条曲线：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;随着时间的发展，业务潜力永远因为技术发展而产生上升空间、业务的发展又产生了对IT能力更高的需求，然而IT行业人员能力的发展曲线是这样的：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it-talents.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;从事大量流程化工作的IT行业人员，没有达到IT能力要求所需要的成长速度，我们发现了3个巨大的Gap，这三大空间，就是ThoughtWorks的盈利空间：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/gaps.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;这三大空间所代表的需求总得来说是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;业务越来越不能匹配突破性技术的需求；  &lt;/li&gt;
+&lt;li&gt;IT能力越来越不能匹配业务发展的需求；  &lt;/li&gt;
+&lt;li&gt;IT人才的成长越来越不能匹配IT能力发展的需求。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;所有ThoughtWorks的业务都围绕在这三大需求中展开，这就是为什么我们：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;不断投入和投资最新的颠覆性技术，应有在现有客户上，例如帮助传统企业在AR/VR上进行尝试，或者利用块链技术应用于传统金融领域；  &lt;/li&gt;
+&lt;li&gt;不断帮助客户实现突破性的业务，例如当P2P金融还在萌芽期时，我们就已经帮助客户建立了第一个P2P业务平台；  &lt;/li&gt;
+&lt;li&gt;不断招募成长斜率远高于业界水平的IT从业人员。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这也间接回答了很多问题：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;为什么我们从强调颠覆性的技术；  &lt;/li&gt;
+&lt;li&gt;为什么我们要突破IT部门靠拢业务或战略部门；  &lt;/li&gt;
+&lt;li&gt;为什么我们强调学习学习再学习，依靠最年轻的一代。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这3条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</description><link>http://localhost:2368/thoughtworks-business-model/</link><guid isPermaLink="false">b62113c3-ae0f-4b64-bcc5-7478e9506688</guid><dc:creator>熊子川</dc:creator><pubDate>Sat, 02 Jul 2016 04:56:14 GMT</pubDate><content:encoded>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
+
+&lt;p&gt;简单来说，摩尔定律所揭示的是这样一条技术曲线：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/tech.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;而技术突破式创新所带来的商业创新往往后发，商业或业务能力的发展呈现出这样一条曲线：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;作为业务发展和运营的支撑，IT能力的发展往往永远后置于商业或业务能力的发展，呈现出这样一条曲线：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;随着时间的发展，业务潜力永远因为技术发展而产生上升空间、业务的发展又产生了对IT能力更高的需求，然而IT行业人员能力的发展曲线是这样的：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it-talents.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;从事大量流程化工作的IT行业人员，没有达到IT能力要求所需要的成长速度，我们发现了3个巨大的Gap，这三大空间，就是ThoughtWorks的盈利空间：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/gaps.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;这三大空间所代表的需求总得来说是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;业务越来越不能匹配突破性技术的需求；  &lt;/li&gt;
+&lt;li&gt;IT能力越来越不能匹配业务发展的需求；  &lt;/li&gt;
+&lt;li&gt;IT人才的成长越来越不能匹配IT能力发展的需求。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;所有ThoughtWorks的业务都围绕在这三大需求中展开，这就是为什么我们：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;不断投入和投资最新的颠覆性技术，应有在现有客户上，例如帮助传统企业在AR/VR上进行尝试，或者利用块链技术应用于传统金融领域；  &lt;/li&gt;
+&lt;li&gt;不断帮助客户实现突破性的业务，例如当P2P金融还在萌芽期时，我们就已经帮助客户建立了第一个P2P业务平台；  &lt;/li&gt;
+&lt;li&gt;不断招募成长斜率远高于业界水平的IT从业人员。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这也间接回答了很多问题：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;为什么我们从强调颠覆性的技术；  &lt;/li&gt;
+&lt;li&gt;为什么我们要突破IT部门靠拢业务或战略部门；  &lt;/li&gt;
+&lt;li&gt;为什么我们强调学习学习再学习，依靠最年轻的一代。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这3条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</content:encoded></item><item><title>两周启动新硬件产品原型期</title><description>&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上；&lt;/li&gt;
-&lt;li&gt;研发环节、及涉及到的技术能力和实践特别多；&lt;/li&gt;
+&lt;li&gt;研发环节中涉及到的技术能力和实践特别多；&lt;/li&gt;
 &lt;li&gt;风险极大，返工几乎是必然的；&lt;/li&gt;
 &lt;li&gt;涉及到硬件的需求变更的成本极大；&lt;/li&gt;
 &lt;li&gt;传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。&lt;/li&gt;
@@ -30,13 +122,15 @@
 &lt;li&gt;盈利模型（Profit Model ）。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;这些输入本身于软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
+&lt;p&gt;这些输入本身与软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
 
-&lt;p&gt;原型期的核心产出是一个具有完整功能的软硬件技术方案验证，不包含产品化部分（工业设计、品牌等），这个验证方案将基于PCBA板或简单的外壳，结果将用于产品化。&lt;/p&gt;</description><link>http://localhost:2368/hardware-prototype-kickoff/</link><guid isPermaLink="false">8b59197a-8115-4b0b-8607-0783a7b164d1</guid><category>硬件</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 23 Jun 2016 04:56:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" alt="两周启动新硬件产品原型期"&gt;&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
+&lt;p&gt;原型期的核心产出是一个具有完整功能的软硬件技术方案验证，不包含产品化部分（工业设计、品牌等），这个验证方案将基于PCBA板或简单的外壳，结果将用于产品化。&lt;/p&gt;
+
+&lt;h3 id=""&gt;整体规划&lt;/h3&gt;</description><link>http://localhost:2368/hardware-prototype-kickoff/</link><guid isPermaLink="false">8b59197a-8115-4b0b-8607-0783a7b164d1</guid><category>硬件</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 23 Jun 2016 04:56:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" alt="两周启动新硬件产品原型期"&gt;&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上；&lt;/li&gt;
-&lt;li&gt;研发环节、及涉及到的技术能力和实践特别多；&lt;/li&gt;
+&lt;li&gt;研发环节中涉及到的技术能力和实践特别多；&lt;/li&gt;
 &lt;li&gt;风险极大，返工几乎是必然的；&lt;/li&gt;
 &lt;li&gt;涉及到硬件的需求变更的成本极大；&lt;/li&gt;
 &lt;li&gt;传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。&lt;/li&gt;
@@ -64,7 +158,7 @@
 &lt;li&gt;盈利模型（Profit Model ）。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;这些输入本身于软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
+&lt;p&gt;这些输入本身与软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
 
 &lt;p&gt;原型期的核心产出是一个具有完整功能的软硬件技术方案验证，不包含产品化部分（工业设计、品牌等），这个验证方案将基于PCBA板或简单的外壳，结果将用于产品化。&lt;/p&gt;
 
@@ -74,7 +168,7 @@
 
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/hardware-development-phases.png" alt="两周启动新硬件产品原型期"&gt;&lt;/p&gt;
 
-&lt;p&gt;而两周原型期启动完成了产品团队和技术团队第一次「集成」，目标是让技术团队能够顺利地进入原型期，而其成败，是真正「0到1」成功的关键。&lt;/p&gt;
+&lt;p&gt;两周原型期启动完成了产品团队和技术团队第一次「集成」，目标是让技术团队能够顺利地进入原型期，而其成败，是真正「0到1」成功的关键。&lt;/p&gt;
 
 &lt;p&gt;在两周的时间里，我们规划了四个方面的工作：&lt;/p&gt;
 
@@ -129,7 +223,7 @@
 
 &lt;p&gt;在产品原型期，硬件部分的工作风险最大，因此其他三个部分的工作统一由硬件研发牵引，我们将考虑六个重要的里程碑，每个里程碑需要有其他工作项的产出物进行配合：&lt;/p&gt;
 
-&lt;h5 id="schamaticdesign"&gt;电气原理图设计（Schamatic Design）&lt;/h5&gt;
+&lt;h5 id="schematicdesign"&gt;电气原理图设计（Schematic Design）&lt;/h5&gt;
 
 &lt;p&gt;基于对硬件平台和组件的选择，产出适合的电气原理图；&lt;/p&gt;
 
@@ -1829,127 +1923,4 @@
 
 &lt;p&gt;&lt;img src="http://i1.tietuku.com/1b7c930ecd52d6a5.png" alt="全渠道零售下的供应链革命"&gt;&lt;/p&gt;
 
-&lt;p&gt;而对于中国零售商而言，无论是理念、管理、运营、技术水准还里北美主要零售商有一段距离，本报告具备相当的参考价值，获得本报告，可与我联系。&lt;/p&gt;</content:encoded></item><item><title>设计的坏领导</title><description>&lt;p&gt;设计已经越来越从件「专业活动」变成了「社会活动」，设计师不单单要和终端用户打交道、跟团队中各种角色的成员打交道、还要跟组织内把设计转化为业务的各种利益相关者打交道，设计领导（Design Leadership）成为设计活动重要的一个环节，设计领导可能包含在以下设计活动中：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;与终端用户一起共同设计（Co-design）;  &lt;/li&gt;
-&lt;li&gt;通过设计研究获得目标消费人群的洞察（Insights）；  &lt;/li&gt;
-&lt;li&gt;和不同技能背景的设计师完成设计；  &lt;/li&gt;
-&lt;li&gt;与业务和需求方确定设计方向、实现、和未来战略。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;在你所经历的设计项目中一定会回想起来一些不好的经历，回想一下领导者，看看他们是否有以下问题，从而思考，一个优秀的设计领导者，在设计项目中都在干什么：&lt;/p&gt;
-
-&lt;h4 id="1frame"&gt;坏领导1：不明确的设计框架（Frame）&lt;/h4&gt;
-
-&lt;p&gt;一个混乱的设计项目总是包含：所有人不明白为什设计、没有设计原则、无法控制设计边界、不清楚如何达成目标，设计项目在无序和混乱中进行；或者过度关注框架之内的细节，例如使用什么工具、某个不必要的设计细节、进入设计领导者不需要讨论的细节。这种场景下的设计领导者通常有以下特质：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;不能够把控整个设计项目的目标，为什么做、做什么、怎么做；  &lt;/li&gt;
-&lt;li&gt;不能够控制设计过程的底线在哪里，什么该坚持、什么该灵活；  &lt;/li&gt;
-&lt;li&gt;不能够控制客户的预期、和团队工作的范围；  &lt;/li&gt;
-&lt;li&gt;不能够引导正确的设计方式，&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/bad-design-leadership/</link><guid isPermaLink="false">fb698104-2fe5-417b-aa10-ba1534565e53</guid><category>领导力</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 10 Sep 2015 20:48:27 GMT</pubDate><content:encoded>&lt;p&gt;设计已经越来越从件「专业活动」变成了「社会活动」，设计师不单单要和终端用户打交道、跟团队中各种角色的成员打交道、还要跟组织内把设计转化为业务的各种利益相关者打交道，设计领导（Design Leadership）成为设计活动重要的一个环节，设计领导可能包含在以下设计活动中：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;与终端用户一起共同设计（Co-design）;  &lt;/li&gt;
-&lt;li&gt;通过设计研究获得目标消费人群的洞察（Insights）；  &lt;/li&gt;
-&lt;li&gt;和不同技能背景的设计师完成设计；  &lt;/li&gt;
-&lt;li&gt;与业务和需求方确定设计方向、实现、和未来战略。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;在你所经历的设计项目中一定会回想起来一些不好的经历，回想一下领导者，看看他们是否有以下问题，从而思考，一个优秀的设计领导者，在设计项目中都在干什么：&lt;/p&gt;
-
-&lt;h4 id="1frame"&gt;坏领导1：不明确的设计框架（Frame）&lt;/h4&gt;
-
-&lt;p&gt;一个混乱的设计项目总是包含：所有人不明白为什设计、没有设计原则、无法控制设计边界、不清楚如何达成目标，设计项目在无序和混乱中进行；或者过度关注框架之内的细节，例如使用什么工具、某个不必要的设计细节、进入设计领导者不需要讨论的细节。这种场景下的设计领导者通常有以下特质：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;不能够把控整个设计项目的目标，为什么做、做什么、怎么做；  &lt;/li&gt;
-&lt;li&gt;不能够控制设计过程的底线在哪里，什么该坚持、什么该灵活；  &lt;/li&gt;
-&lt;li&gt;不能够控制客户的预期、和团队工作的范围；  &lt;/li&gt;
-&lt;li&gt;不能够引导正确的设计方式，最终达到设计目标、坚守原则和边界。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这些特质的背后体现着设计领导者不能够在设计项目的过程中明确框架（Frame），他是设计活动的基础要素。&lt;/p&gt;
-
-&lt;p&gt;对于设计领导者而言，设计活动的目的不是「发现问题」、「定义问题」、更不是「解决问题」，而是&lt;strong&gt;制造一个大家都认同的框架（Frame）去「发现」、「定义」、和「尝试设计方案&lt;/strong&gt;」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/design-frame.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;这个框架的四边包括：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;设计的目标（Design Vision）：我们为什么参加这个工作坊？  &lt;/li&gt;
-&lt;li&gt;设计的原则（Design Principles）：指导我们做事情的设计原则是什么？例如所有电子化内容之前必须进行至少一次测试；  &lt;/li&gt;
-&lt;li&gt;设计的边界（Design Scope）：什么是暂时不去考虑的？  &lt;/li&gt;
-&lt;li&gt;设计的方式（Design Approaches）：我们将如何达到设计目标、遵守设计原则、和守住设计边界？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id="2"&gt;坏领导2：无法驱动全团队&lt;/h4&gt;
-
-&lt;p&gt;设计领导者对你说：你不需要问这么多，做好你手上的事情，确定方向是我的事情；或者说：你应该做你最擅长的事情。两种表达的含义相同：你做你的，我做我的，你按照我说的做。&lt;/p&gt;
-
-&lt;p&gt;设计在发生变化：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;设计师的技能和背景越来越多元化与融合；&lt;/li&gt;
-&lt;li&gt;设计本身越来越复杂，工程、商业、社会学、持续性、市场、品牌诸多因素需要考虑；&lt;/li&gt;
-&lt;li&gt;因为设计涵盖的范围越来越广使得设计决策者越来越复杂。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这就是设计从工程或者美学问题朝「社会活动（Social Activity）」演化的基础，同时，&lt;strong&gt;这个「社会活动」并不是逻辑驱使的线性制造过程、更不是一人说得算的自我表达，它是各种背景的设计师、决策者、利益相关者在一定上下文中共同制造的结果&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;更多时候，优秀的设计领导者是交响乐队的指挥（Orchester），懂得揉捏不同技能（和缺陷）的设计师在一起，&lt;strong&gt;却背向听众&lt;/strong&gt;，换句话说，设计团队中最显眼的也许不是一个优秀的指挥者。&lt;/p&gt;
-
-&lt;p&gt;坏领导们很少思考一个设计项目如何才能让参与项目的成员获得成长，而是用起长而避其短，他们在项目中的第一件事情总是布置任务，而不是关心每个项目成员的过去、现在、和未来。&lt;/p&gt;
-
-&lt;h4 id="3"&gt;坏领导3：错误关注细节和忽视重要细节&lt;/h4&gt;
-
-&lt;p&gt;细节对于领导者重要吗？&lt;strong&gt;不重要，只要它在设定好的框架中；重要，只要它不在设定好的框架中（此点似乎与直觉相反）&lt;/strong&gt;。坏领导经常犯的错误是在框架内进行「微管理」、却又忽视跳出框架的细节。&lt;/p&gt;
-
-&lt;p&gt;时不时站到你的背后告诉你他看出来1px的误差；告诉你用户访谈的问题必须这么问；强制你使用他最熟悉的设计工具。只要这些细节并没有突破设置好的框架：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;它不会影响我们设计目标的达成；  &lt;/li&gt;
-&lt;li&gt;它不会破坏我们制定的设计原则；  &lt;/li&gt;
-&lt;li&gt;它并不超越我们的工作范围内；  &lt;/li&gt;
-&lt;li&gt;它并不有悖我们的工作方式。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;再大的错误也应该交给团队解决，相反，如果突破，再小的错误也应该由领导者指出来，而并不应该指望团队，根本原因是领导者和团队成员看待项目的视角是完全不同的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/different-visions.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;我们之所以讨厌一个设计领导，是因为在团队内他什么都要管，面对客户、项目、规划、却变得没有底线和摇摆不定，就是下面的样子。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/bad-design-leader.png" alt=""&gt;&lt;/p&gt;
-
-&lt;h4 id="4"&gt;坏领导4：不做总结和必要的调整&lt;/h4&gt;
-
-&lt;p&gt;设计是「社会活动」，它关于一群人的共同探索、发现、启发、决策、制作、和验证，而不是一个线性的建造过程，因此领导者建立的框架也并不是恒久不变的。糟糕的设计领导者要么无法清晰设立框架、要么从来不对目标、原则、边界、和方式进行调整，而&lt;strong&gt;后者的真正原因其实并不是因为坚持，而是因为：一）接受不了调整带来的成本；二）发现不了调整的需要。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;调整的成本非常高，伤害了自己的权威，对未来的管理没有信心；改变了之前的承诺，害怕伤害客户的期待；调整了设计过程，担心团队无法适应。&lt;/p&gt;
-
-&lt;p&gt;发现调整的需要也领导者跳出框架去思考框架本身的问题，而过度关注设计本身的设计领导者往往无法兼顾「建造框架」又「打破框架」。&lt;/p&gt;
-
-&lt;p&gt;最后的结果通常是两个：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;坚持错误的路（不改变和无意识）努力走下去，最后的结果是把团队拖入泥潭，改变再无可能；  &lt;/li&gt;
-&lt;li&gt;单独进行调整不让团队知道、或让团队强制执行，最后的结果是团队涣散和信任丧失。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=""&gt;真正的设计领导力&lt;/h2&gt;
-
-&lt;p&gt;坏的设计领导们仰仗经验和权威，希望用一套标准规划的设计过程管理设计师，他们不关心设计师的成长和需要，从不放权，关注不需要他们关注的细节，对于真正越界的问题置若罔闻，对于设计项目的过程从不调整或者回避问题，设计项目陷入无法自拔的困局。&lt;/p&gt;
-
-&lt;p&gt;而真正的设计领导力体现在以下四个方面：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;设定设计目标、原则、边界、和方式；&lt;/li&gt;
-&lt;li&gt;交给团队自组织边界之中的事情，不关注细节，只关注成员的成长；&lt;/li&gt;
-&lt;li&gt;警惕越界的细节问题，及时发现和解决；&lt;/li&gt;
-&lt;li&gt;在框架之外思考和观察变化，强制总结和调整框架。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;现在，想想你现在的设计领导者，他们在做什么？他是一个「坏」的设计领导者吗？&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;而对于中国零售商而言，无论是理念、管理、运营、技术水准还里北美主要零售商有一段距离，本报告具备相当的参考价值，获得本报告，可与我联系。&lt;/p&gt;</content:encoded></item></channel></rss>
