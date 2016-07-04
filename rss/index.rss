@@ -1,4 +1,52 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sat, 02 Jul 2016 05:48:54 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>ThoughtWorks靠什么挣钱</title><description>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 04 Jul 2016 01:51:25 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>少有人教你的设计道理</title><description>&lt;p&gt;&lt;strong&gt;你所听到的设计不足以成为一个行业&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我们所处，是科技行业，对你我来说，我们所做的设计都是对技术的补充，哪怕你是产品设计、或者工业设计背景，你所做的，也是「消费品市场」这个行业的补充。&lt;/p&gt;
+
+&lt;p&gt;你我需要了解的，不是「设计」这个行业，而是科技这个行业（或其他具体行业）、因为没有「设计这个行业」。那么，如果你身处科技这个行业，你对科技了解多少？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;我们的设计流程依旧来自工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;工业时代的核心在于「定义、标准、流程、指标」，现在依然存在的设计流程、岗位划分、产出物保留着前一个时代的影子。最直白的问题是：「我们为什么要比稿？」、「我们为什么要有多个方案？」，既然没有设计是不变的、从始至终的，起点在哪里有什么关系？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;我们依然来自于工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;工业时代铸造了工人阶级，以及一个阶级的整体特质，这些特质因为工作方式依然残留在我们身上：我们有时抱怨划分较细的岗位、却又依然热衷于保持「设计师的身份」，那份自豪，就像几十年前产业工人的骄傲。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;匠人精神不在于雕琢，而在于经营&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;是谁把「匠人精神」&lt;/p&gt;</description><link>http://localhost:2368/the-real-meanings-of-design/</link><guid isPermaLink="false">83c1acba-48de-4a51-a3b9-2e34f593131e</guid><category>成长</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 04 Jul 2016 01:40:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;你所听到的设计不足以成为一个行业&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我们所处，是科技行业，对你我来说，我们所做的设计都是对技术的补充，哪怕你是产品设计、或者工业设计背景，你所做的，也是「消费品市场」这个行业的补充。&lt;/p&gt;
+
+&lt;p&gt;你我需要了解的，不是「设计」这个行业，而是科技这个行业（或其他具体行业）、因为没有「设计这个行业」。那么，如果你身处科技这个行业，你对科技了解多少？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;我们的设计流程依旧来自工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;工业时代的核心在于「定义、标准、流程、指标」，现在依然存在的设计流程、岗位划分、产出物保留着前一个时代的影子。最直白的问题是：「我们为什么要比稿？」、「我们为什么要有多个方案？」，既然没有设计是不变的、从始至终的，起点在哪里有什么关系？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;我们依然来自于工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;工业时代铸造了工人阶级，以及一个阶级的整体特质，这些特质因为工作方式依然残留在我们身上：我们有时抱怨划分较细的岗位、却又依然热衷于保持「设计师的身份」，那份自豪，就像几十年前产业工人的骄傲。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;匠人精神不在于雕琢，而在于经营&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;是谁把「匠人精神」带给了我们，却不说「匠人精神」的本质在于「匠人独自经营自己的手艺」，而让我们浅显地认为「匠人」就是执念于自己的手艺活，这明明就是「干一行爱一行」的「劳动模范精神」。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;我们在为一个模糊世界设计&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这已经不再是一个变化的（Changing）世界，而是一个模糊的（Ambiguous）世界，它的模糊体现在：对与错已经没有意义、解决问题（Solving Problem）和形成观念（Making Sense）交错进行。设计变成一个一群人「盲目、却以自为明眼的」旅程，关键在于寻找，而不在于找到什么；关键在于角度、而不在于看到什么。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;角度（Perspective）才是设计师真正的敏感&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;设计师真的只负责对美、格式、规则、模式、感觉、体验敏感吗？不，真正的敏感来自于看待事物的多角度，「从来没有人向你那样可以从不同的角度看一件事」才是对设计师最好的评价。&lt;/p&gt;
+
+&lt;p&gt;你深爱Airbnb每一个讲述故事的房间，那么去听听旧金山中国城里租客的声音；你为特斯拉的电动车惊艳设计而感动，那么研究一下电池生产中产生的毒物对第三世界国家的影响；你觉得Uber的拼车模式为尾气减排做出了贡献，那么调查一下我们出行方式的改变对城市产生了什么样的影响。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;何时抛弃设计师的身份&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;大部分的迷失来自于对身份的迷失，「这不是我该做的、这不是我想做的、我应该是这样的，不是那样的」，解决执念在于模糊自己、抛弃身份，寻找属于自己的设计哲理，是有一天不需要标准、角色、界限、产出来定义自己，这才是未来设计师。&lt;/p&gt;
+
+&lt;p&gt;以上。&lt;/p&gt;</content:encoded></item><item><title>ThoughtWorks靠什么挣钱</title><description>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
 
 &lt;p&gt;简单来说，摩尔定律所揭示的是这样一条技术曲线：&lt;/p&gt;
 
@@ -39,12 +87,12 @@
 &lt;p&gt;这也间接回答了很多问题：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;为什么我们从强调颠覆性的技术；  &lt;/li&gt;
+&lt;li&gt;为什么我们强调颠覆性的技术；  &lt;/li&gt;
 &lt;li&gt;为什么我们要突破IT部门靠拢业务或战略部门；  &lt;/li&gt;
 &lt;li&gt;为什么我们强调学习学习再学习，依靠最年轻的一代。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这3条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</description><link>http://localhost:2368/thoughtworks-business-model/</link><guid isPermaLink="false">b62113c3-ae0f-4b64-bcc5-7478e9506688</guid><dc:creator>熊子川</dc:creator><pubDate>Sat, 02 Jul 2016 04:56:14 GMT</pubDate><content:encoded>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
+&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这4条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</description><link>http://localhost:2368/thoughtworks-business-model/</link><guid isPermaLink="false">b62113c3-ae0f-4b64-bcc5-7478e9506688</guid><dc:creator>熊子川</dc:creator><pubDate>Sat, 02 Jul 2016 04:56:14 GMT</pubDate><content:encoded>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
 
 &lt;p&gt;简单来说，摩尔定律所揭示的是这样一条技术曲线：&lt;/p&gt;
 
@@ -85,12 +133,12 @@
 &lt;p&gt;这也间接回答了很多问题：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;为什么我们从强调颠覆性的技术；  &lt;/li&gt;
+&lt;li&gt;为什么我们强调颠覆性的技术；  &lt;/li&gt;
 &lt;li&gt;为什么我们要突破IT部门靠拢业务或战略部门；  &lt;/li&gt;
 &lt;li&gt;为什么我们强调学习学习再学习，依靠最年轻的一代。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这3条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</content:encoded></item><item><title>两周启动新硬件产品原型期</title><description>&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
+&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这4条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</content:encoded></item><item><title>两周启动新硬件产品原型期</title><description>&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上；&lt;/li&gt;
@@ -1709,218 +1757,4 @@
 &lt;li&gt;设计研究不是研究，一切没有设计的研究越来越成为鸡肋；&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;感谢阅读。&lt;/p&gt;</content:encoded></item><item><title>全渠道零售下的供应链革命</title><description>&lt;p&gt;本文是对2014年RSR出品的关于新的供应链战略研究报告的研读。&lt;/p&gt;
-
-&lt;p&gt;零售业的基础模型有两端，采购和销售，二者重叠的部分是运营，即计划、采购、销售、分析的过程。因此零售业的核心策略无外乎三种：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;增加销售（卖出更多货品）；  &lt;/li&gt;
-&lt;li&gt;降低运营成本（更高效和精简的运营）；  &lt;/li&gt;
-&lt;li&gt;降低采购和货品流转成本，以及更快上架周期（通过更高效和多样性的供应链）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;本文所讨论的范畴是在全渠道零售的大背景下，对供应链产生了什么样的影响，都有哪些挑战和机会，零售商们是如何应对的，以及组织架构对供应链战略的影响。&lt;/p&gt;
-
-&lt;h2 id=""&gt;全渠道零售的变局&lt;/h2&gt;
-
-&lt;p&gt;从销售端来看，全渠道零售对于终端消费者而言有三个显著的变化，即：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;消费者可以更加便捷、准确、随时随地、通过任何渠道、用更丰富的方式获得所需产品的全面信息；  &lt;/li&gt;
-&lt;li&gt;消费者可以更加便捷、快速、随时随地、通过任何渠道、用更多元的配送方式获得产品本身；  &lt;/li&gt;
-&lt;li&gt;消费者可以更加便捷、快速、随时随地、通过任何渠道、用更具有人性化的方式享受零售商多元的客户服务。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从供应链的角度，这三个显著的变化对零售商而言影响最大的是更加多元的获得商品的方式（Fulfillment）。北美零售商普遍采用的方式可能有：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;线上/店内购买+物流配送到家；  &lt;/li&gt;
-&lt;li&gt;线上/店内购买+物流配送到快递点自取；&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/winning-supply-chain/</link><guid isPermaLink="false">0de03d9c-2ac6-4f66-9da5-1ceaf92462b1</guid><category>零售</category><category>供应链</category><dc:creator>熊子川</dc:creator><pubDate>Fri, 18 Sep 2015 04:17:46 GMT</pubDate><media:content url="http://i1.tietuku.com/cf62cf36d42b63b0.jpg" medium="image"/><content:encoded>&lt;img src="http://i1.tietuku.com/cf62cf36d42b63b0.jpg" alt="全渠道零售下的供应链革命"&gt;&lt;p&gt;本文是对2014年RSR出品的关于新的供应链战略研究报告的研读。&lt;/p&gt;
-
-&lt;p&gt;零售业的基础模型有两端，采购和销售，二者重叠的部分是运营，即计划、采购、销售、分析的过程。因此零售业的核心策略无外乎三种：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;增加销售（卖出更多货品）；  &lt;/li&gt;
-&lt;li&gt;降低运营成本（更高效和精简的运营）；  &lt;/li&gt;
-&lt;li&gt;降低采购和货品流转成本，以及更快上架周期（通过更高效和多样性的供应链）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;本文所讨论的范畴是在全渠道零售的大背景下，对供应链产生了什么样的影响，都有哪些挑战和机会，零售商们是如何应对的，以及组织架构对供应链战略的影响。&lt;/p&gt;
-
-&lt;h2 id=""&gt;全渠道零售的变局&lt;/h2&gt;
-
-&lt;p&gt;从销售端来看，全渠道零售对于终端消费者而言有三个显著的变化，即：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;消费者可以更加便捷、准确、随时随地、通过任何渠道、用更丰富的方式获得所需产品的全面信息；  &lt;/li&gt;
-&lt;li&gt;消费者可以更加便捷、快速、随时随地、通过任何渠道、用更多元的配送方式获得产品本身；  &lt;/li&gt;
-&lt;li&gt;消费者可以更加便捷、快速、随时随地、通过任何渠道、用更具有人性化的方式享受零售商多元的客户服务。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从供应链的角度，这三个显著的变化对零售商而言影响最大的是更加多元的获得商品的方式（Fulfillment）。北美零售商普遍采用的方式可能有：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;线上/店内购买+物流配送到家；  &lt;/li&gt;
-&lt;li&gt;线上/店内购买+物流配送到快递点自取；  &lt;/li&gt;
-&lt;li&gt;线上购买+物流配送到店面自取；  &lt;/li&gt;
-&lt;li&gt;店内购买+到其他店面自取；  &lt;/li&gt;
-&lt;li&gt;线上预定+店内试穿+店内购买和自取。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src="http://i1.tietuku.com/bdc5e702004d96fd.png" alt="全渠道零售下的供应链革命"&gt;
-&lt;em&gt;北美零售商通常允许顾客用各种方式获得商品，例如潮流品牌Zumiez允许顾客在店内支付、商品将送达顾客家中或其他店面，在这里，店面既不是购物的起点也非终点。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;这些方式通过各种组合，仍在不断丰富，而传统模式中，只有两种：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;线上购买+物流配送到家；  &lt;/li&gt;
-&lt;li&gt;店内购买+店内自取。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;同时，传统模式里，最大的两个假设是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;顾客总在一个地方开始和终结他们的购物体验，即店面；  &lt;/li&gt;
-&lt;li&gt;店面是库存的终点。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而在全渠道零售下：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;顾客在任意地方、任何时候、任意方式开始和结束他们的购物体验，并随意组合获得商品的方式，而不按照零售商设计好的购物路径；  &lt;/li&gt;
-&lt;li&gt;店面是供应链中众多节点的一个。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src="http://i3.tietuku.com/a49748dfe1f80095.png" alt="全渠道零售下的供应链革命"&gt;&lt;/p&gt;
-
-&lt;p&gt;而从采购端来看，大量零售商需要进入全球市场，进入全球市场后带来的外部压力主要有：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;面对快速增长的海外市场，零售商该如何规划供应链中采购、物流、仓储等一系列策略以满足特定市场的需要；  &lt;/li&gt;
-&lt;li&gt;全球销售不同市场对于不同品类的需求不同，需要灵活的本土化策略采购并补充不同市场的库存以满足多样性的需求；  &lt;/li&gt;
-&lt;li&gt;新市场中消费者对于获得商品的方式有着不同的需求和期待，例如中国消费者习惯于更快的收货速度，却对自由退货的需求较低，而欧美则相反，零售商在不同市场中如何制定灵活的、跨渠道的收货方式。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=""&gt;挑战&lt;/h2&gt;
-
-&lt;p&gt;调查将世界范围内中年店面/渠道销售增长绿超过4%的零售商定义成「领先者」，其余归于「追随者」，以比较两组零售商对商业挑战等一系列问题的回应比较，借此了解两组之间的差异。&lt;/p&gt;
-
-&lt;h3 id=""&gt;库存挑战&lt;/h3&gt;
-
-&lt;p&gt;当问到「如何描述公司在库存管理方面的挑战」时，领先者的前三大挑战分别是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;店面过多缺货；  &lt;/li&gt;
-&lt;li&gt;店内库存过多；  &lt;/li&gt;
-&lt;li&gt;不准确的店面库存信息。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;追随者的前三大挑战分别是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;不准确的店面库存信息；  &lt;/li&gt;
-&lt;li&gt;店面过多缺货；  &lt;/li&gt;
-&lt;li&gt;快消产品持续缺货。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从中可以看出无论零售商普遍面临的问题是缺货和不准确的店面库存信息的问题，有趣的是，领先者超过50%的受访者选择了「店内库存过多」，而这一问题在追随者的选择比例只有22%，可以得出结论，领先者更加关心解决「错误的库存」，而追随者则考虑的只是单纯的「不足的库存」。&lt;/p&gt;
-
-&lt;h3 id=""&gt;供应链挑战&lt;/h3&gt;
-
-&lt;p&gt;这一区别也体现在了两组对于供应链所面对挑战的看法：&lt;/p&gt;
-
-&lt;p&gt;领先者认为供应链中最大的挑战是：「消费者需求越来越难以预测」；而另一组的回答则是：「供应链无法满足需求增长」。&lt;/p&gt;
-
-&lt;p&gt;有44%的追随者受访者选择了多渠道购物中灵活的配送方式作为前三大挑战，而这一问题在领先者中只有34%的受访者选择，可见，领先者在灵活配送方面已经较其他零售商更胜一筹。&lt;/p&gt;
-
-&lt;p&gt;另一个有趣的现象是16%的领先者受访者认为全球供应链的低效是前三大挑战，这一比例在追随者中只有9%，可见，整体来看零售商们还处于从「全球采购」到「全球销售」的初期，而&lt;strong&gt;领先者零售商正在逐步走向更加完整和多元的全球销售阶段&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;h3 id=""&gt;配送挑战&lt;/h3&gt;
-
-&lt;p&gt;领先者和追随者对于不同配送的看法存在区别，对于前者，「当日配送」成为69%受访者的首选（下图），而对后者，居首位的是「店面库存信息同步」（注：消费者可以在网上查看到某个单品在某个店面的实时库存量）。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i3.tietuku.com/0c30ee46a8921236.png" alt="全渠道零售下的供应链革命"&gt;&lt;/p&gt;
-
-&lt;p&gt;而从实施角度，我们来对比一下两组的实施情况：&lt;strong&gt;31%的领先者零售商实现了「当日送达」&lt;/strong&gt;，而只有7%的追随者零售商可以在消费者下单后的当天送达商品给消费者。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i3.tietuku.com/eec315b82700d2e6.png" alt="全渠道零售下的供应链革命"&gt;&lt;/p&gt;
-
-&lt;p&gt;另一个有趣的发现是，尽管「店内预定」（消费者预定固定店内的单品，到店购买）普遍受欢迎，但也只有38%的领先者零售商和26%的追随者零售商实施，整体来看各种全渠道零售相关的配送（Fulfillment）模式实施度并不高。从侧面反应出，&lt;strong&gt;完成诸如实时店面库存信息更新、店内购买线上商品、当日配送、当日送达等服务的实现难度较大&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;h2 id=""&gt;机会&lt;/h2&gt;
-
-&lt;p&gt;伴随挑战而来的，是机会，对于可能的机会，两组受访者都将「重新思考在跨渠道配送（Cross-channel Fulfillment）销售和销售成本」作为最为关键的商业机会。&lt;/p&gt;
-
-&lt;p&gt;零售商对渠道的看法大大改变，渠道在不远的未来将只为支持客户体验存在，而&lt;strong&gt;淡化针对渠道的销售&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i3.tietuku.com/4efc71bcbaeaabc8.png" alt="全渠道零售下的供应链革命"&gt;&lt;/p&gt;
-
-&lt;p&gt;差距较大的在于「重新设计跨渠道的供应链和分销网络」位列追随者第2大商业机会，而此选项只获得了领先者零售商25%的选票，位列第8.&lt;/p&gt;
-
-&lt;p&gt;这也体现在领先者零售商已经走在供应链体系较为完善的路上，而不需要重新设计和建设适应全渠道零售的系统。&lt;/p&gt;
-
-&lt;p&gt;而下一步是什么？&lt;/p&gt;
-
-&lt;p&gt;所有零售商（特别是发达国家零售商）都在面临这样的挑战，一方面消费者在要求更加短的送达时间、和更灵活的配送方式；另一方面零售商又要在全球范围内寻找成本更低的生产和外包地（离消费者更远），二者之间通常&lt;strong&gt;存在矛盾&lt;/strong&gt;。我们来看看领先者是如何做的？&lt;/p&gt;
-
-&lt;p&gt;领先者零售商倾向于更多元的外包国家选择，将生产放在成本尽可能低的新兴市场国家，同时将生产地和需求市场更近，而在库存方面采用更加灵活的方式，增加半成品库存。&lt;/p&gt;
-
-&lt;p&gt;同时，领先者认为提高跨渠道的灵活度需要多方面长时间的努力，并需要多方面的考虑包括配送中心（Distribution Center）的流程设计和规划、配送中心内部配送方式、本地配送中心和本地需求的关系等，在考虑实施计划时，领先者想得更加全面，也更加长远。&lt;/p&gt;
-
-&lt;p&gt;另外一个区别是，领先者并没有刻意规避地方法规（进出口安全要求）较为严格的地区，这使得他们获得了更低成本优势。&lt;/p&gt;
-
-&lt;p&gt;总的来说领先者一方面尽可能地寻找更低成本的外包国家、另方面不懈努力提高跨渠道运营的灵活性，并持续改进其核心的供应链系统。&lt;/p&gt;
-
-&lt;h2 id=""&gt;组织&lt;/h2&gt;
-
-&lt;p&gt;任何一次产业变革都离不开组织变革，如前文所述，店面已经成为整个供应链的重要节点而非终点，这种转变背后还包括组织结构的转化，供应链和店面往往归属两个部门，而在全渠道零售背景下，这种组织形式需要改变。报告结果很好地揭示了领先者和追随者的区别。&lt;/p&gt;
-
-&lt;p&gt;对于领先者而言，最大的运营挑战是「配送不够快」（50%），而对于追随者而言，最大挑战则是「店面无法参与到全渠道零售中」（42%），形成鲜明对比的是，此项对于领先者而言只有22%的参访者选择，位列倒数第一。这个结果可以解释为，领先者已经逐步完成了店面进入供应链的转变，而把重点放在配送速度上。&lt;/p&gt;
-
-&lt;p&gt;而谈到组织架构对于新供应链体系的阻碍时，所有受访者综合考虑排在前三的阻碍分别是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;供应链、营销（Merchandising）以及市场部门缺乏配合；  &lt;/li&gt;
-&lt;li&gt;当前的供应链指标过度关注效率而非跨渠道灵活性；  &lt;/li&gt;
-&lt;li&gt;库存信息缺乏准确性。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而对于对策，领先者有着比较好的思路，排在前三的是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;重新调整组织架构模糊渠道的区分；  &lt;/li&gt;
-&lt;li&gt;来自最高层对于供应链策略的统一规划和决策；  &lt;/li&gt;
-&lt;li&gt;利用BI分析供应链策略的执行情况；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;另一方面追随者却没有明显的策略重点，策略主要几种数据分析上。&lt;/p&gt;
-
-&lt;p&gt;很明显，领先者已经认识到，全渠道零售下的供应链革命必须通过组织变革完成，并需要高层的规划和统筹，外加数据支持。这也是为什么领先者更确定地认为，供应链改革需要CEO、营销副总裁和供应链副总裁直接负责。&lt;/p&gt;
-
-&lt;h2 id=""&gt;技术&lt;/h2&gt;
-
-&lt;p&gt;店面库存是关键，没有准确和正确的店面库存信息，只有两种方式能够满足客户需要：1）冒着降低客户体验的风险缺货并提供其他配送方式；2）增加店面库存作为缓冲。&lt;/p&gt;
-
-&lt;p&gt;实现高透明的库存信息，并兼具广泛和深入性，目前还任重道远——被领先者认为最重要的技术能力：实时从交易系统中更新库存信息、实时计算运费、分布式订单管理总体来看分别只有34%、25%、44%的实施度。从这个角度来看，技术还有很高的发展空间（如下图）。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i3.tietuku.com/197035a4142db83d.png" alt="全渠道零售下的供应链革命"&gt;&lt;/p&gt;
-
-&lt;p&gt;而比较不同垂直领域（时尚、快消、耐用品）我们发现，时尚（Fashion）领域中对技术的要求度普遍最高，但是实施度反而是最低的。&lt;/p&gt;
-
-&lt;h2 id=""&gt;总结&lt;/h2&gt;
-
-&lt;p&gt;本篇报告很好地从商业、组织、和技术三个纬度展示了全渠道背景下供应链正在发生的变革，主要挑战主要集中在：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;库存（店面库存和配送中心库存）；  &lt;/li&gt;
-&lt;li&gt;供应链（外包地和配送中心管理）；  &lt;/li&gt;
-&lt;li&gt;配送（实现跨渠道地不同配送方式）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;同时组织架构上，在全渠道方面走在前面的零售商一直认为，整合供应链、营销、市场并由副总裁以上级别领导统筹是实现供应链革命的组织架构保证。&lt;/p&gt;
-
-&lt;p&gt;我们也不得不承认，在技术上，距离真正的全渠道零售供应链还有很长距离，大部分技术都得到了零售商们的重视和投入，而实施比例依旧较小。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i1.tietuku.com/1b7c930ecd52d6a5.png" alt="全渠道零售下的供应链革命"&gt;&lt;/p&gt;
-
-&lt;p&gt;而对于中国零售商而言，无论是理念、管理、运营、技术水准还里北美主要零售商有一段距离，本报告具备相当的参考价值，获得本报告，可与我联系。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;感谢阅读。&lt;/p&gt;</content:encoded></item></channel></rss>
