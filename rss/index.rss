@@ -1,4 +1,131 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 04 Jul 2016 02:01:47 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>少有人教你的设计道理</title><description>&lt;p&gt;&lt;strong&gt;你所听到的设计不足以成为一个产业&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Fri, 08 Jul 2016 20:32:28 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>再造商业模式</title><description>&lt;p&gt;本文是《战略十篇》的第四篇书稿，来自于Mark W.Johnson、Clayton M.Christensen、以及Henning Kagermann，原文刊于《哈佛商业评论》2008年12期（&lt;a href="https://hbr.org/2008/12/reinventing-your-business-model"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;h2 id=""&gt;商业模式的定义&lt;/h2&gt;
+
+&lt;p&gt;关于商业模式讨论有很多，Paul Timmers在1998年一篇经典论文《&lt;a href="http://www.cs.uu.nl/docs/vakken/ec/Timmers_BMem.pdf"&gt;Business Models for Electronic Markets&lt;/a&gt;》中最早讨论了电商的商业模式，这让人有理由相信，正是因为外部环境的巨大变化（互联网的兴起），使得人们需要理解、分析、和重新思考目前的商业模式，他对商业模式有着以下定义：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;一个产品、服务、信息流的架构，包括对其中不同角色的描述；一份对这些不同角色所带来价值的描述；一份对盈利来源的描述。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Timmers的定义中着重强调了「为什么」，而2000年Gary Hamel在《&lt;a href="http://www.cognitionnet.com/member/resources/Summaries/Leadership/leading_the_revolution.pdf"&gt;Leading the Revolution&lt;/a&gt;》一书中将商业模式创新带入了更细节的讨论：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://staehler.info/english/hamel.gif" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;他把商业模式的成功分拆成四个主要元素：客户（Customer Interface）&lt;/p&gt;</description><link>http://localhost:2368/reinventing-business-model/</link><guid isPermaLink="false">0d094390-1330-4ed3-8dbe-a3da5a600447</guid><category>战略十篇</category><category>商业</category><dc:creator>熊子川</dc:creator><pubDate>Fri, 08 Jul 2016 20:29:15 GMT</pubDate><media:content url="https://hbr.org/resources/images/article_assets/2008/12/SEPT15_03_4114335.jpg" medium="image"/><content:encoded>&lt;img src="https://hbr.org/resources/images/article_assets/2008/12/SEPT15_03_4114335.jpg" alt="再造商业模式"&gt;&lt;p&gt;本文是《战略十篇》的第四篇书稿，来自于Mark W.Johnson、Clayton M.Christensen、以及Henning Kagermann，原文刊于《哈佛商业评论》2008年12期（&lt;a href="https://hbr.org/2008/12/reinventing-your-business-model"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;h2 id=""&gt;商业模式的定义&lt;/h2&gt;
+
+&lt;p&gt;关于商业模式讨论有很多，Paul Timmers在1998年一篇经典论文《&lt;a href="http://www.cs.uu.nl/docs/vakken/ec/Timmers_BMem.pdf"&gt;Business Models for Electronic Markets&lt;/a&gt;》中最早讨论了电商的商业模式，这让人有理由相信，正是因为外部环境的巨大变化（互联网的兴起），使得人们需要理解、分析、和重新思考目前的商业模式，他对商业模式有着以下定义：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;一个产品、服务、信息流的架构，包括对其中不同角色的描述；一份对这些不同角色所带来价值的描述；一份对盈利来源的描述。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Timmers的定义中着重强调了「为什么」，而2000年Gary Hamel在《&lt;a href="http://www.cognitionnet.com/member/resources/Summaries/Leadership/leading_the_revolution.pdf"&gt;Leading the Revolution&lt;/a&gt;》一书中将商业模式创新带入了更细节的讨论：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://staehler.info/english/hamel.gif" alt="再造商业模式"&gt;&lt;/p&gt;
+
+&lt;p&gt;他把商业模式的成功分拆成四个主要元素：客户（Customer Interface）、策略（Core Strategy）、资源（Strategic Resources）、和价值网（Value Network）。&lt;/p&gt;
+
+&lt;p&gt;此外四个主要元素之间分别由客户价值（Customer Benefits）、内部架构（Configuration）、企业边界（Company Boundaries）进行关联。&lt;/p&gt;
+
+&lt;p&gt;而在本文中，核心模型简化成「客户价值域」和「企业利润域」两大问题，商业模型究其本质是客户价值到企业利润的持续转化。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business-model-essential.png" alt="再造商业模式"&gt;&lt;/p&gt;
+
+&lt;p&gt;在这个模型当中，Hamel模型中头两个元素被整合成了「客户价值定位Customer Value Proposition」，在其中包括了三大要素：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;目标客户（Target customer）；&lt;/li&gt;
+&lt;li&gt;核心客户目的（Job to be done）；&lt;/li&gt;
+&lt;li&gt;交付物（Offerings）。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business-model-elements.png" alt="再造商业模式"&gt;&lt;/p&gt;
+
+&lt;p&gt;在「客户价值域」中需要讨论的三大主题变为：谁是目标客户？客户要干什么？我们卖什么以及怎么卖。&lt;/p&gt;
+
+&lt;p&gt;而在「企业利润域」中，三个重要元素变成了相互依存和推进的关心，这种表述要比Hamel模型中的线性模式要更加符合真实情况，这三大要素是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;利润模型；&lt;/li&gt;
+&lt;li&gt;核心资源；&lt;/li&gt;
+&lt;li&gt;核心过程。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在真实企业运营中三种都是动态且相互作用的，共同通过产出客户价值进行企业利润的生产。如果我们尝试对其进行简化，便可产出以下模型：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business-model-spaces.png" alt="再造商业模式"&gt;&lt;/p&gt;
+
+&lt;p&gt;这就是本文对于商业模式最简化的定义。&lt;/p&gt;
+
+&lt;h2 id="jobtobedone"&gt;Job to be done&lt;/h2&gt;
+
+&lt;p&gt;在这里最值得一提的是「Job to be done」，这是本文作者之一Clayton M.Christensen三大核心理论之一，在其著名的一个视频讲演中提到了一个有趣的例子：&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/f84LymEs67Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;研究人员发现高速公路入口处的快餐店最畅销的商品是「奶昔」，而这个品牌的「奶昔」在其他地方却没有那么受欢迎，为什么只在高速公路入口处最受欢迎呢？最后研究人员发现，消费者喜欢奶昔的原因不是因为口味，而是「奶昔」正好满足了那个「Job to be done」：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Target Customer：进入高速公路的开车人；&lt;/li&gt;
+&lt;li&gt;Job to be done：在进入收费站前的长龙前干点什么，又不能太狼狈；&lt;/li&gt;
+&lt;li&gt;Offering：一瓶单手就能喝、还不会洒、一会儿就能喝完的奶昔。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;因此，客户购买服务的本质在于服务背后那个「Job to be done」，而不在于服务本身是什么。&lt;/p&gt;
+
+&lt;p&gt;文章又提到了另一个有趣的案例Hilti（正好是我今年的客户）。Hilti是一家总部位于列支敦士登的建筑工具制造商，Hilti意识到，它面对的客户，是全世界建筑工地上的包工头、建筑公司、建筑工人，这些客户的「Job to be done」不是拥有建筑工具，而是「完成建筑任务」。&lt;/p&gt;
+
+&lt;p&gt;在意识到这一点之后，Hilti改变了其商业模式，将纯粹的产品销售变成「帮助客户完成建筑任务」，其推出的Fleet Management服务，将客户从琐碎的工具购买、管理、维修、培训、升级等行为中解脱出来，提供最专业的贴身工具管家服务。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://www.us.hilti.com/medias/sys_master/h83/h23/8912355033118/company_hilti_at_a_glance.jpg" alt="再造商业模式"&gt;&lt;/p&gt;
+
+&lt;p&gt;不光光是工具贴身服务，Hilti甚至制作了很多电子化的工具，为客户在工具采购过程中与其后台系统的集成提供便利，减少工具的等待时间，这背后，是整个业务模型的彻底改变。在伦敦，我跟随许多Hilti一线的客户经理深入各大建筑工地，深感Hilti人对于施工、建筑管理、产品规格和使用知识之丰富。&lt;/p&gt;
+
+&lt;p&gt;我曾经问一位客户会否除打电话给Hilti客户经理之外的方式与Hilti联系，他说不会，我说如果电话没有接到呢？他说：「这事在过去十年里从来没有发生，这也是我选择Hilti的原因」。&lt;/p&gt;
+
+&lt;p&gt;而这背后，一整套运营系统的改变，才可以支持如此独特的客户价值定位。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/IMG_3202-2.JPG" alt="再造商业模式"&gt;
+&lt;em&gt;Hilti的客户经理在和客户展示最新的产品。&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=""&gt;新商业模式的触发&lt;/h2&gt;
+
+&lt;p&gt;在理解商业模式的定义之后，那么是什么触发了新商业模式的产生？&lt;/p&gt;
+
+&lt;p&gt;正如前文所述，正是看到了互联网对于整个商业的影响，才产生了最早一批对于商业模式的讨论（如1998年Paul Timmers），这里不得不提到Hugh Courtney、Jane Kirkland、以及Patrick Viguerie在2000年《&lt;a href="http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/strategy-under-uncertainty#0"&gt;Strategy under uncertainty&lt;/a&gt;》一文对于不确定性的描述：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Managing%20In%20Uncertainty/Strategy%20under%20uncertainty/PNG_Four_levels_uncertainty.ashx" alt="再造商业模式"&gt;&lt;/p&gt;
+
+&lt;p&gt;世界早已告别一个线性发展的世界，2000年，Gary Hamel的《Leading the Revolution》振聋发聩地指出：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The age of progress is over.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;更不要说到16年后的今天，绝大多数的企业已经走入「True uncertainty」的阶段，具体来说，新商业模式出现的触发体现在以下五个场景：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;新出现的、未被满足的潜在客户群；  &lt;/li&gt;
+&lt;li&gt;新技术的突然市场化；  &lt;/li&gt;
+&lt;li&gt;新出现的Job to be done；  &lt;/li&gt;
+&lt;li&gt;正在崛起的底端颠覆者；  &lt;/li&gt;
+&lt;li&gt;现有竞争环境的变化。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;而之所以多数企业的未来开始进入「True uncertainty」阶段的本质在于：&lt;strong&gt;以上五个场景正在同时发生。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;作为一个致力于企业进行创新的战略设计者，你需要理解以下逻辑：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;未来正在倾向于「模糊化（Ambiguity）」，商业模式创新的间歇期可能变得更短，意味着任何一个有效的商业模式可能在短时间内失效；  &lt;/li&gt;
+&lt;li&gt;商业模式的本质是客户价值定位到企业利润的持续转化，企业战略制定者左手抓客户价值中的Job to be done（其次才是目标客户），右手抓利润模型；  &lt;/li&gt;
+&lt;li&gt;真正的创新来自于在现有商业模式中盘活资源、打通桎梏、优化流程、提高效率、促成规模，并在此之上建立新的商业模式，而不在于「技术」、更不在于「设计」。&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title>少有人教你的设计道理</title><description>&lt;p&gt;&lt;strong&gt;你所听到的设计不足以成为一个产业&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;我们所处，是科技产业，对你我来说，我们所做的设计都是对技术的补充，哪怕你是产品设计、或者工业设计背景，你所做的，也是「消费品市场」这个产业的补充。&lt;/p&gt;
 
@@ -1623,138 +1750,4 @@
 
 &lt;p&gt;对创业者而言，应该理解的是&lt;strong&gt;独特性才是真正的护城河&lt;/strong&gt;，独特性应该保证企业行为和定位的一致，并学会避免掉入「成长陷阱」，&lt;strong&gt;当你的企业慢慢跟你的竞争对手一样，发布着难以区分的产品、一样的企业文化、员工无缝跳槽，最后一定是零和游戏，而这样的初创企业，一眼望去，比比皆是&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;你、你的事业、你的企业，创造并保护你的&lt;strong&gt;「独特性」&lt;/strong&gt;，这就是我所理解的战略。&lt;/p&gt;</content:encoded></item><item><title>设计研究与创新的关系</title><description>&lt;p&gt;设计界曾经有一个著名的观点“（用户或市场）研究不是创新的决定因素”，最广泛流传的两个论据一个来自于福特T型车的传奇：“如果我问用户要什么，用户永远说要一匹更快的马”；另一个来自乔布斯把苹果的用户和市场研究部门裁撤，才有了跨时代意义的苹果手机。 究其根本是在质疑“用户”在创新中起到多大程度的作用，是关键因素还是可以忽略不计。&lt;/p&gt;
-
-&lt;p&gt;对于前者，我的看法是：不能因为一个错误的问题就否定用户的作用，事实上，这个故事已经被产品经理奉为经典；而对于后者，我曾经亲自在一个设计大会上向苹果一位设计负责人求证，他的回答是：乔布斯希望所有设计师和工程师都拥有从用户角度出发的思维，而非一个部门，因此裁撤的原因并非研究无用。
-在我看来，此两点论据不足够论证用户在创新中不是决定因素，我本身的反驳观点也显得并无足够说服力，偶然读到Don Norman和Roberto Verganti在2012年三月的一篇论文《 &lt;a href="http://jnd.org/dn.mss/Norman%2520%2526%2520Verganti.%2520Design%2520Research%2520%2526%2520Innovation-18%2520Mar%25202012.pdf"&gt;Incremental and Radical Innovation: Design Research versus Technology and Meaning Change &lt;/a&gt;》，对此才有了更加清晰的认识。 本文是基于本篇论文知识的思考延伸，而非我本人的创造。&lt;/p&gt;
-
-&lt;h2 id=""&gt;两种创新&lt;/h2&gt;
-
-&lt;p&gt;被广泛认同的，是两种创新模式同时存在，分别是“渐进式创新（Incremental Innovation）&lt;/p&gt;</description><link>http://localhost:2368/design-research-and-innovation/</link><guid isPermaLink="false">6acf10fb-55a9-4b3b-8f4c-2138f7ed6e58</guid><category>创新</category><category>设计研究</category><dc:creator>熊子川</dc:creator><pubDate>Sun, 04 Oct 2015 23:31:23 GMT</pubDate><content:encoded>&lt;p&gt;设计界曾经有一个著名的观点“（用户或市场）研究不是创新的决定因素”，最广泛流传的两个论据一个来自于福特T型车的传奇：“如果我问用户要什么，用户永远说要一匹更快的马”；另一个来自乔布斯把苹果的用户和市场研究部门裁撤，才有了跨时代意义的苹果手机。 究其根本是在质疑“用户”在创新中起到多大程度的作用，是关键因素还是可以忽略不计。&lt;/p&gt;
-
-&lt;p&gt;对于前者，我的看法是：不能因为一个错误的问题就否定用户的作用，事实上，这个故事已经被产品经理奉为经典；而对于后者，我曾经亲自在一个设计大会上向苹果一位设计负责人求证，他的回答是：乔布斯希望所有设计师和工程师都拥有从用户角度出发的思维，而非一个部门，因此裁撤的原因并非研究无用。
-在我看来，此两点论据不足够论证用户在创新中不是决定因素，我本身的反驳观点也显得并无足够说服力，偶然读到Don Norman和Roberto Verganti在2012年三月的一篇论文《 &lt;a href="http://jnd.org/dn.mss/Norman%2520%2526%2520Verganti.%2520Design%2520Research%2520%2526%2520Innovation-18%2520Mar%25202012.pdf"&gt;Incremental and Radical Innovation: Design Research versus Technology and Meaning Change &lt;/a&gt;》，对此才有了更加清晰的认识。 本文是基于本篇论文知识的思考延伸，而非我本人的创造。&lt;/p&gt;
-
-&lt;h2 id=""&gt;两种创新&lt;/h2&gt;
-
-&lt;p&gt;被广泛认同的，是两种创新模式同时存在，分别是“渐进式创新（Incremental Innovation）”和“颠覆式创新（Radical Innovation）”，前者对现有体验演进式（用更好的方式解决现有问题）的提升（Improvements within given frame of solutions）；而后者则是在未知领域创造全新（用全新的方式解决现有问题或全新的问题）的生态（A change of frame）。&lt;/p&gt;
-
-&lt;p&gt;“渐进式创新”背后便是Don Norman所推崇的“用户/人为中心（User/Human Centric Design）”的设计框架：迭代式用户研究阶段、快速原型验证结果、不断迭代反馈改进产品。&lt;/p&gt;
-
-&lt;p&gt;而“颠覆式创新”难以预测，它的出现通常是“技术变革（Technology Change）”和“观念变革（Meaning Change）”的产物，两种变革的需要较长时间的发酵期：&lt;/p&gt;
-
-&lt;p&gt;“技术变革”的变革点往往是多种“科学突破”到“应用技术”转化的共同作用，例如我们甚至很难无法定义互联网这一颠覆式创新的起始点，它的民用化爆发还基于通信技术、计算技术、图形界面逐渐成熟等共同作用的结果。&lt;/p&gt;
-
-&lt;p&gt;而“观念变革”的出现更是无踪迹可循，文化传统、社会习俗、重大事件、新产品等可能都会导致观念在某一个时间点突然产生变革，例如工业革命时期需要大量工业劳动力的欧洲，“努力就能享受更好生活的消费主义”成为植入普遍懒散欧洲民众的“观念变革催化剂”。&lt;/p&gt;
-
-&lt;h2 id=""&gt;爬山比喻&lt;/h2&gt;
-
-&lt;p&gt;Norman和Vergani先生在文中引用的“爬山比喻”很好地揭示了两种创新的过程：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i13.tietuku.com/b633159ebf9817f3.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;从A到B的过程是“渐进式创新”典型的“爬山模式”，即使用“以用户/人为中心”的设计方法，不断通过设计提升产品的质量，而当产品质量提升到一定极限（B点）的时候，跳跃到另外一个“未知的（对于B点）”产品高点，则将会经历一段不可预知的“颠覆式创新”阶段，在B点到C点的过程中，真正驱动力往往是“技术变革”和/或“观念变革”，直到C点真正浮现的时候，也许才能出现另一次C到D”渐进式创新“的”爬山模式“。&lt;/p&gt;
-
-&lt;p&gt;这就是为什么当Norman先生尝试寻找通过分析和研究获得成功的颠覆式创新案例时，他失败了：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Every radical innovation he investigated was done without design research, without careful analysis of a person's or even a society's needs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Norman先生无法找到任何由“以用户/人为中心”设计方法导致的“颠覆式创新”，他认为“颠覆式创新”的驱动力是“技术变革”，而无需任何设计研究和分析。&lt;/p&gt;
-
-&lt;p&gt;而Verganti先生在同意Norman先生观点的基础上，把“观念变革”同样当成驱动“颠覆式创新”的核心因素。&lt;/p&gt;
-
-&lt;p&gt;有趣的是，“颠覆性创新”往往需要很多年才能够被承认，例如，苹果的多指触摸控制技术本身早在1982年就被发明（ &lt;a href="http://www.billbuxton.com/multitouchOverview.html"&gt;参考&lt;/a&gt; ），第一台装载通信和计算功能的设备在1973年就获得了专利（ &lt;a href="http://www.billbuxton.com/multitouchOverview.html"&gt;参考&lt;/a&gt; ），在当时，也没有人认为苹果改变了一切。 因此，“颠覆式创新”应该是一个被包装的结果，也许可以被察觉，但无可能预测、更不谈被设计。&lt;/p&gt;
-
-&lt;h2 id=""&gt;由技术和观念驱动的创新&lt;/h2&gt;
-
-&lt;p&gt;然而被技术和观念驱动的创新是可以被“复盘”的，这样的分析过程，帮助我们用系统思考来了解一次“颠覆式创新”是如何产生和演进的。&lt;/p&gt;
-
-&lt;p&gt;故事的初端是拥有PlayStation的索尼公司、Xbox的微软公司、以及GameCube的任天堂公司，他们的产品成为着全世界玩家虚拟娱乐的中心。&lt;/p&gt;
-
-&lt;p&gt;在最开始，玩家对于视频游戏的观念（即视频游戏对他们的意义）是：一个虚拟世界的入口，在这里我可以施展魔法和享受第二人生。 在这个观念基础上，芯片处理能力的极速提升使得游戏主机领域出现新一次颠覆式格局，拥有前所未有计算能力的PlayStation和Xbox成为主宰性力量。&lt;/p&gt;
-
-&lt;p&gt;2001年第一代Xbox发布的时候（①），采用英特尔奔腾3处理器，当时的图形显卡采用GeForce3改良版，配搭8G硬盘和64MB内存，此款实际上就是披着游戏主机外衣的小型计算机售价仅仅299美元。 比尔盖茨近乎赌博式低价策略让他收获了2000万台的销售量，次年，微软又将Xbox的价格从299美元降至199美元，在第6代主机之争中，Xbox在短短的时间里便超越了老牌厂商任天堂的GameCube。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i13.tietuku.com/c9569fd22eb6012b.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;下一次颠覆式创新来自于“互联的虚拟玩家”，在这个阶段，玩家对于游戏的“认识”不在局限于画面和故事性俱优的单机游戏，这也许来自于网络游戏和社交网络在游戏主机领域的平移，重点强调线上游戏功能的Xbox 360于2005年推出（②），这使得微软与第6代主机的霸主、拥有传奇主机PlayStation2的索尼公司的实现“分庭抗礼”的局面。 而在同一时期，任天堂于整整一年时间才推出了自己的第6代主机：Wii系列。&lt;/p&gt;
-
-&lt;p&gt;Wii主机所采用的&lt;a href="http://zh.wikipedia.org/wiki/%25E5%25BE%25AE%25E6%259C%25BA%25E7%2594%25B5%25E7%25B3%25BB%25E7%25BB%259F"&gt;MEMS微机电技术&lt;/a&gt; ，被微软和索尼公司认为是不成熟的技术（这里是一个手工版本水印，如果你在文章的前面并没有看到我文章的出处，第一说明转载的这个媒体没什么品味，第二说明转载的这个媒体的编辑偷了懒），无法应用于其主机所面向的高技能游戏玩家，而任天堂所采取的策略，是在新技术驱动基础上“重新定义”了游戏主机（③），改变了消费者“对游戏的观念”——游戏可以是一群人一起手舞足蹈的活动，而非资深玩家们看不懂的个人世界。 这使得任天堂又重新夺回了第7代主机争夺战的桂冠。&lt;/p&gt;
-
-&lt;p&gt;而接下来的Kinect（④）又在延续Wii对游戏成功全新定义的基础上，加入了动作识别技术（ &lt;a href="http://en.wikipedia.org/wiki/Gesture_recognition"&gt;Gesture Regonition&lt;/a&gt; ），这使得Xbox系列又进入了一个全新的产品生命期（新的山峰）。 本篇文章发表于Xbox One和Sony PS4未上市的2012年，而第8代游戏主机之争刚刚开始，可以从目前趋势看出来，第8代主机的销售量之间并无明显优势，是因为一个颠覆性的产品被认为可行之后将马上进入“渐进式创新”阶段，大量同质的技术和观念（既概念）产生，当所有主机都配备超高的视觉表现、和动作识别技术，再加上庞大的线上社群，我们所期待的，则是另一个突破的应用性技术，或者对游戏全新的一种“观念”。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i13.tietuku.com/59c838bdeaea6d71.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;而下一个突破性的驱动力是什么，是一个强化某个观念的垂直向上驱动力，还是一个横向拓展的全新“观念（Meaning）”，无论是什么，都不是由传统设计研究、以及面向用户或人的设计方法决定的（HCD），这边是“渐进式创新”和“颠覆式创新”的区别。&lt;/p&gt;
-
-&lt;p&gt;另一个文章提到的案例是手表的创新，从最早的奢侈品、到计时工具、到时尚装扮、再到身份象征，最后到个人新的计算中心，每次观念变革都伴随着一种新技术的应用，这样的创新过程是不可预估和设计的，也不由用户决定。&lt;/p&gt;
-
-&lt;h2 id=""&gt;变革本身的渐进性和颠覆性&lt;/h2&gt;
-
-&lt;p&gt;无论是技术还是观念的变革，本身也有渐进性和颠覆性之分，例如游戏主机计算能力的提升本身是渐进式的技术变革，而一个第一次引入微机电技术的主机则是颠覆式的技术变革，同样的道理，一个人到许多人的虚拟世界，本身是渐进性的观念变革，而一个物理空间里的游戏活动则是一个颠覆性的观念变革。&lt;/p&gt;
-
-&lt;p&gt;在文章中，作者又从变革角度重新定义了创新的四个区间，分别是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;市场拉动的创新（HCD）  &lt;/li&gt;
-&lt;li&gt;技术推动的创新  &lt;/li&gt;
-&lt;li&gt;观念推动的创新  &lt;/li&gt;
-&lt;li&gt;科技顿悟（Technology Epiphanies）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src="http://i13.tietuku.com/b3ee7a1e3fd19834.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;我们大部分看到的创新都来自于市场拉动的创新，通过以用户/人为中心的设计方法，不断发现问题、产生创意、验证方案、改进体验，它既不需要更先进的技术也不会改变人们对产品的定位；&lt;/p&gt;
-
-&lt;p&gt;技术推动的创新并不改变产品本身的意义（即用户对产品的观念），而只是利用更加先进的技术，例如从黑白电视机到彩色电视机的进步；&lt;/p&gt;
-
-&lt;p&gt;观念推动的创新也许只利用了现有的成熟技术进行包装，但体现了某个社会观念的变化，例如妇女社会地位的提升背景下迷你裙的流行；&lt;/p&gt;
-
-&lt;p&gt;科技顿悟即由突破性的技术触发，又带来了新的一种社会意味，或真实的观念变革，例如Wii游戏主机和3D打印机。&lt;/p&gt;
-
-&lt;h2 id=""&gt;设计研究的框架&lt;/h2&gt;
-
-&lt;p&gt;退回到设计研究对创新的意义：真正的行业颠覆者来自于一个颠覆性技术、一个颠覆性观念、或者两者的集合，设计研究除了帮助产品进行演进，更重要的作用是识别和防御可能在颠覆式技术和观念中出现的颠覆式创新。 在文章中提到了设计研究模式的一个框架：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://i13.tietuku.com/d7baca823d4f04a5.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;是否考虑包含全新意义、和是否考虑现实性的组合决定了四种类型的设计研究，他们分别是：&lt;/p&gt;
-
-&lt;h3 id="basicdesignresearch"&gt;基础设计研究Basic Design Research&lt;/h3&gt;
-
-&lt;p&gt;考虑全新意义、不考虑现实，完全由愿景驱动的研究方式，而不考虑跟现有产品的整合，2012年底我们曾经帮助国内最大的快递企业设计了一款基于物品分享的手机应用，这个与快递业务基本关联不大的创新研究的出发点，是去寻找消费者生活场景中可能出现的对快递的全新定义，这样最初端的创新最终帮助企业逐渐走向了消费端和零售业。&lt;/p&gt;
-
-&lt;h3 id="designdrivenresearch"&gt;设计驱动的研究Design-Driven Research&lt;/h3&gt;
-
-&lt;p&gt;考虑全新意义、也考虑现实：设计驱动的研究，通过对现有产品和消费者的观察研究、寻找到全新的产品意义，2014年的某国内语音通信领域的客户，我们帮助对消费者在现有产品上发现更多的使用场景，为现有产品附加新的“产品观”，例如在煲电话粥场景中添加情侣间的互动游戏。&lt;/p&gt;
-
-&lt;h3 id="humancenteredresearch"&gt;以人为中心的研究Human-Centered Research&lt;/h3&gt;
-
-&lt;p&gt;不考虑全新意义、但考虑现实：这是最常用的研究手段，通过对现有产品使用行为的观察和分析，寻找改进点，提升每个功能的使用体验。&lt;/p&gt;
-
-&lt;h3 id="tinkering"&gt;随机创新Tinkering&lt;/h3&gt;
-
-&lt;p&gt;不考虑全新意义、也不考虑现实：tinkering的本意是用一种“随意和不带目标”的态度改进某东西，缺少较好的翻译，暂且使用随机创新一词代表其含义，tinkering的典型代表是Google，多个即看不到和主流技术的相关性、也看不到现实意义的创新项目，包括无人驾驶汽车、谷歌眼镜等项目。 作者将其称作“散弹策略（Shotgun Strategy）”：既然颠覆式创新本身是个极具随机性的事件，那么创新过程也可以是随机的。&lt;/p&gt;
-
-&lt;p&gt;值得提出的是，这里所有谈到研究（Research）都有一个前提词：设计（Design），无论是哪一种研究方法，都包含设计在里面，而设计一词的基本含义是“制作一个东西”，因此，只在理论上去论述并作为研究结果的，无论哪种创新，都是毫无意义的，一个完全以设计报告为产出物的研究工作，正在被市场所淘汰。&lt;/p&gt;
-
-&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
-
-&lt;p&gt;2011年的时候还没有互联网金融创新，P2P借贷在当时还只是一个灰色的概念，11年七月我正式接手设计这个国内第一个有金融机构背景的P2P平台的时候，我没有做任何用户研究，所做的设计也没有任何的用户测试，客户批评了我的首页上竟然都没有个注册入口，5个月后上线的时候，每天能有数千万的交易量，我当时发了一条微博：上线才能叫作创新。&lt;/p&gt;
-
-&lt;p&gt;到现在这个产品已经成为国内金融创新的标杆，最近听到他们即将分拆上市的新闻时，我不禁想：创新真的是能够设计出来的吗？ 这样的成功是因为当时的策略？ 还是我的设计？ 还是我们的交付？ 很难说，但唯一能确定的是，用户在其中的作用只是最小的因素。&lt;/p&gt;
-
-&lt;p&gt;这篇文章之所以给我莫大的启发，是因为它用更加清晰的结构，梳理了创新由何而来，由此理论可以构建出更多企业级的创新构架、创新服务定义、设计研究团队的建设思路等等新的思考。总结一下本文的观点：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;创新分做渐进式创新和颠覆性创新；  &lt;/li&gt;
-&lt;li&gt;颠覆性创新的成功案例少、不可预测、也和用户无关；  &lt;/li&gt;
-&lt;li&gt;颠覆性创新来自于“技术变革”和“观念变革”；  &lt;/li&gt;
-&lt;li&gt;技术和观念的是否颠覆性也可以划分创新类型；  &lt;/li&gt;
-&lt;li&gt;设计研究的四种分类决定于是否考虑现实性和新的意义；  &lt;/li&gt;
-&lt;li&gt;设计研究不是研究，一切没有设计的研究越来越成为鸡肋；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;感谢阅读。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;你、你的事业、你的企业，创造并保护你的&lt;strong&gt;「独特性」&lt;/strong&gt;，这就是我所理解的战略。&lt;/p&gt;</content:encoded></item></channel></rss>
