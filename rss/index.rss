@@ -1,4 +1,116 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Fri, 08 Jul 2016 20:32:28 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>再造商业模式</title><description>&lt;p&gt;本文是《战略十篇》的第四篇书稿，来自于Mark W.Johnson、Clayton M.Christensen、以及Henning Kagermann，原文刊于《哈佛商业评论》2008年12期（&lt;a href="https://hbr.org/2008/12/reinventing-your-business-model"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 11 Jul 2016 20:34:04 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>ThoughtWorks设计的五年和下一个五年</title><description>&lt;p&gt;一不小心，ThoughtWorks的设计已经经历了五个年头，2011年7月的时候，我从英国回来，来自全世界各大区最新任命的设计负责人，讨论了如何将设计引入到这间传统技术咨询公司的业务引擎中。在回来的飞机上，我画了这样一幅草图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/xd-team-idea.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;在草图的上部，我把当时还未流行的设计思维模型作为了设计团队的基石，尝试在Empathy、Ideate、Define、Prototype、Test每个环节定义能力和服务。在下面是当时设计团队的现状，除我之外，近200人的中国公司里只有一位设计师和一位前端工程师，当时国内市场还未打开，于是当时的策略变得非常简单，更加积极地招聘和将现有设计师尽可能放在交付上。&lt;/p&gt;
+
+&lt;p&gt;于是我们有了第一个招募广告，那时候手绘的风格还没有流行，我在微博和博客上转发了第一份广告：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/recruit-ad.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;这里面写着：要好奇但思维得有调理、英文不要太差微话唠、爱设计爱学习、会一些手绘可HTML/CSS不是必须、能接受去不同国家工作。这样一个招聘的「聘」字不会学、简单一个「I'm UX」都出现语法错误的广告并没有引起什么关注。&lt;/p&gt;
+
+&lt;p&gt;但不管怎么样，快进到现在，这支团队有40人那么多，最开始出现在那张纸上的名字都已经不在；第一次参加伦敦会议的12个人里，只有两人依然在ThoughtWorks工作；甚至在一直当作榜样跟随的导师已经离开人世；我也早已不承担设计主管的职务——五年竟然发生了那么多。&lt;/p&gt;
+
+&lt;p&gt;半个月以前，我和这个团队最年轻的设计师在一起，关于上一个五年，&lt;/p&gt;</description><link>http://localhost:2368/next-five-years/</link><guid isPermaLink="false">c3028e7f-57b1-4ab0-bb16-bcee1e55ada1</guid><category>成长</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 11 Jul 2016 20:14:41 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/tw-ux-team-2.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/tw-ux-team-2.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;&lt;p&gt;一不小心，ThoughtWorks的设计已经经历了五个年头，2011年7月的时候，我从英国回来，来自全世界各大区最新任命的设计负责人，讨论了如何将设计引入到这间传统技术咨询公司的业务引擎中。在回来的飞机上，我画了这样一幅草图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/xd-team-idea.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;&lt;/p&gt;
+
+&lt;p&gt;在草图的上部，我把当时还未流行的设计思维模型作为了设计团队的基石，尝试在Empathy、Ideate、Define、Prototype、Test每个环节定义能力和服务。在下面是当时设计团队的现状，除我之外，近200人的中国公司里只有一位设计师和一位前端工程师，当时国内市场还未打开，于是当时的策略变得非常简单，更加积极地招聘和将现有设计师尽可能放在交付上。&lt;/p&gt;
+
+&lt;p&gt;于是我们有了第一个招募广告，那时候手绘的风格还没有流行，我在微博和博客上转发了第一份广告：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/recruit-ad.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;&lt;/p&gt;
+
+&lt;p&gt;这里面写着：要好奇但思维得有调理、英文不要太差微话唠、爱设计爱学习、会一些手绘可HTML/CSS不是必须、能接受去不同国家工作。这样一个招聘的「聘」字不会学、简单一个「I'm UX」都出现语法错误的广告并没有引起什么关注。&lt;/p&gt;
+
+&lt;p&gt;但不管怎么样，快进到现在，这支团队有40人那么多，最开始出现在那张纸上的名字都已经不在；第一次参加伦敦会议的12个人里，只有两人依然在ThoughtWorks工作；甚至在一直当作榜样跟随的导师已经离开人世；我也早已不承担设计主管的职务——五年竟然发生了那么多。&lt;/p&gt;
+
+&lt;p&gt;半个月以前，我和这个团队最年轻的设计师在一起，关于上一个五年，我已经&lt;a href="https://www.zhihu.com/question/26222095/answer/32541527"&gt;讲了太多&lt;/a&gt;，我来讲讲下一个五年。&lt;/p&gt;
+
+&lt;h3 id=""&gt;避免竞争才是最好的竞争&lt;/h3&gt;
+
+&lt;p&gt;与其思考我们如何才能更有竞争力，不如思考如何才能避免竞争——如何做到「客户在市场上找不到类似的服务提供商，却又觉得有价值」而非「为客户提供更有竞争力的服务体验」。&lt;/p&gt;
+
+&lt;p&gt;任何一个市场都在趋近于成熟，市场上的服务提供商一定会越来越同质，这是经典的「红海竞争理论」，我们目前所面对的「竞争对手（即设计咨询公司）」无一不追随以下商业逻辑：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;从一种专业技能开始（几乎所有设计咨询公司的创始人都具有某种专业技能）；  &lt;/li&gt;
+&lt;li&gt;由专业技能演化出专业服务（几乎所有设计咨询公司都从某种专业设计服务开始）；  &lt;/li&gt;
+&lt;li&gt;扩充专业服务的问题域（例如从用户研究到产品设计再到产品策略）；  &lt;/li&gt;
+&lt;li&gt;围绕新的问题域构建新的理念（无论是以什么为中心的设计）。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;所有人的竞争体现在：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;专业技能是否强大；  &lt;/li&gt;
+&lt;li&gt;专业服务是否专业；  &lt;/li&gt;
+&lt;li&gt;问题域是否广阔和有效；  &lt;/li&gt;
+&lt;li&gt;理念对应新的问题域是否合理。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;可怕的是，每年都有更具有专业技能年轻设计师出现、那些世界一流设计专业服务公司的设计师在不断提升专业服务的专业度、所有人都号称自己走到问题域的最顶端、每年都在产生新的、和淘汰旧的设计理念。&lt;/p&gt;
+
+&lt;p&gt;这也是为什么在这个行业里，每几年就会有一间新的设计咨询公司脱颖而出、每几年就有一间旧的设计咨询公司面临淘汰和被收购，那么我们要不要进入到这个序列中去？&lt;/p&gt;
+
+&lt;p&gt;这也是为什么一直以来，我们所强调的，是「不同」、而不是「更好」，这解释了为什么他们有高大上的设计环境、和看起来炫酷的设计项目、以及你为什么常年在出差、并和客户在一起做没那么有趣的设计。前者并不一定等同于「更好」、后者一定代表着「不同」。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;不同、而不是更好。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;理解这个逻辑，是所有ThoughtWorks设计师的共识，所有的服务都应该围绕在「不同」，其次才是「更好」；所有你应该思考的，是如何成为一个「与众不同」的设计职场人，而不是追随这个人才市场上的主流。「不同」的你以及「不同」的业务，让我们避免竞争带来的「天然衰退」。&lt;/p&gt;
+
+&lt;h3 id=""&gt;为真实世界设计&lt;/h3&gt;
+
+&lt;p&gt;上个月我在伦敦，我带着一支设计团队在为第一线的建筑工程师做设计，头脑里想着这样一个场景：我们把产出的设计放在画板上，在午休时间让大家进行讨论和投票。真实的情况是：根本没有人理你，所有人告诉你，你只有3分钟。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/real-world-design.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;
+&lt;em&gt;这才是真实世界的设计环境。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;这让我思考，无论你如何强制自己相信自己在为「真实世界设计」，「真实世界」都在用最羞辱和残酷的方式「打你设计师的脸」。&lt;/p&gt;
+
+&lt;p&gt;三个月以前，我给一家公司做设计提案审稿的工作，非常荣幸地，我看了多份来自中国本土和世界一流设计咨询公司的设计提案，并不好意思地将他们全部否定，因为没有一个在为真实世界设计，全是「设计师有限世界观下扭曲的表达」，既不是真实世界、也不是真实表达。&lt;/p&gt;
+
+&lt;p&gt;人、系统、环境、文化、技术、关系、利益、规则都是真实世界的不同元素，我们所宣称的「以客户为中心」的设计并不是真实世界的全部；另一方面，世界并没有像我们曾经相信的那样「趋同」——美国激烈的社会矛盾、英国的脱欧都体现出&lt;strong&gt;历史并没有一条共同的道路&lt;/strong&gt;，即并没有一个「理想未来」，而更多是一道光谱，在这道光谱上，真实世界的元素都在变化，这意味着「为一个理想未来设计」的破产，设计师需要把自己置身于光谱之中。&lt;/p&gt;
+
+&lt;p&gt;世界如此，商业同样在发生变革，所有人都在说「商业即技术（所有商业公司都是技术公司）」的潜台词是：「技术不再是一次性购买的投入、而是资产」，设计也是如此。试想这样一个场景：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;当所有企业都不把设计当成一次性投入、而是资产的时候，会怎么样？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;可以确定的是，对于设计人才的需要就变成：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;在真实上下文中和外界趋势和变革中寻找机会；&lt;/li&gt;
+&lt;li&gt;拥抱真实的商业环境并接受限制和善于平衡；&lt;/li&gt;
+&lt;li&gt;兼具有效（Solving Problem）和合理（Making Sense）。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而你今天忍受的、我们所做的「不同」，都是为了培养这样的设计人才做准备，因此，「为真实世界设计」不是一种设计理想，它是为未来企业格局变化做的战略性准备。&lt;/p&gt;
+
+&lt;h3 id=""&gt;寻找自己的旅程&lt;/h3&gt;
+
+&lt;p&gt;最后，我依然想回到ThoughtWorks的使命，我们所有人，首先是ThoughtWorker，其次才是ThoughtWorks的设计师，之前并没有强调，是因为让一个新形态存活并独立成长要比融入更重要，而现在，是时候思考自己作为一个TW设计师应该有的使命感。&lt;/p&gt;
+
+&lt;p&gt;一群以IT革命者身份的人建立了这间公司，「社会实验」的烙印深深打在这间公司每个人身上，这个烙印，来自于对自己个人旅程（Personal Journey）的找寻。&lt;/p&gt;
+
+&lt;p&gt;旅程无关于开始、也无关于结束，我没有优秀的设计教育背景、也没有令人骄傲的设计成绩，更没有想过成为谁、做成什么事，我只希望对这个世界有更多的认识而已，大量的博客，也许都是自说自话，但是「心安、方能理得」，如果顺道能让设计师获得一些启发，便是更好。对我来说，这就是我的个人旅程。&lt;/p&gt;
+
+&lt;p&gt;至少有几个方向，我觉得是有趣的、并可能在ThoughtWorks这个平台上实现的：&lt;/p&gt;
+
+&lt;p&gt;首先是设计界的性别不平等：最近发生的事情，让人气愤，更无奈地是，大家所讨论的大多是「讨论女性容貌在设计大会这样的场合不合适」，而忽略了一个现实：「尽管以女性为主的设计行业，女性依然得不到基本的尊重、并缺少机会」，那么我们能否为女性设计师和企业树立优秀的榜样？&lt;/p&gt;
+
+&lt;p&gt;其次是设计界为消费主义设计的导向：在中国社会整体向右走的趋势下，
+还有许多底层的社会问题没有得到足够的关注，我们能否做一个「向右走、却向左看」的设计师，帮助底层叙事、社会和经济公正？&lt;/p&gt;
+
+&lt;p&gt;再次是成为批判先锋：任何设计风潮中，总少不了对现实担忧、制造纠结和冲突的一批人，他们从另外一个角度推动了设计行业的发展，以互联网为基础的「科技设计Design in Tech」行业很少有主流观点之外的批判性思考，我们是否能够为这个行业带来足够的批判性？&lt;/p&gt;
+
+&lt;p&gt;每个人的个人旅程让我们走出自己，到「真实世界设计」，同时造就了我们的「不同」；而这份难能可贵的「不同」造就了我们作为一个商业模式的「不同」；最终它将带领我们走完下一个五年。&lt;/p&gt;
+
+&lt;p&gt;那么，下一个五年再见。&lt;/p&gt;</content:encoded></item><item><title>再造商业模式</title><description>&lt;p&gt;本文是《战略十篇》的第四篇书稿，来自于Mark W.Johnson、Clayton M.Christensen、以及Henning Kagermann，原文刊于《哈佛商业评论》2008年12期（&lt;a href="https://hbr.org/2008/12/reinventing-your-business-model"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
 
 &lt;h2 id=""&gt;商业模式的定义&lt;/h2&gt;
 
@@ -1567,187 +1679,4 @@
 &lt;li&gt;面对不足的设计能力，设计资源如何分配？&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;最后预祝转型成功！&lt;/p&gt;</content:encoded></item><item><title>何为战略</title><description>&lt;p&gt;&lt;em&gt;我一直相信知识工作者的成长路径，无论是程序员或是设计师，从信息的收集者、开始分析信息形成逻辑、在逻辑上包装内容、把内容形成产品、最终从产品中抽象出形态、归纳原则、总结规律，而战略（Strategy）正是成长路径中重要的一环。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;当我重新阅读《&lt;a href="http://www.amazon.com/Strategy-including-featured-Michael-Porter/dp/1422157989"&gt;HBR's 10 Must Reads - On Strategy&lt;/a&gt;》时发现，经过几年的积累，对「战略」一词有了新的认识，这便是此系列《战略十篇》的初衷——重新梳理对「战略」的理解。相信无论是产品设计者、创业者、企业管理者，在其中都能找到帮助。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;首篇来自管理战略大师&lt;a href="https://en.wikipedia.org/wiki/Michael_Porter"&gt;Michael E. Porter&lt;/a&gt;开宗明义的一篇《何为战略（What Is Strategy）》&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=""&gt;经营效率不是战略&lt;/h1&gt;
-
-&lt;p&gt;日本企业在上世纪70和80年代之间建立了一场「经营」革命，诸如TQM（&lt;a href="https://zh.wikipedia.org/wiki/全面品质管理"&gt;Total&lt;/a&gt;&lt;/p&gt;</description><link>http://localhost:2368/what-is-strategy/</link><guid isPermaLink="false">fade8fcf-382b-4737-b14b-8d00eee1e2f4</guid><category>战略</category><category>战略十篇</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 30 Nov 2015 05:18:12 GMT</pubDate><media:content url="http://t1.qpic.cn/mblogpic/2884f1639ccffb09f10c/2000.jpg" medium="image"/><content:encoded>&lt;img src="http://t1.qpic.cn/mblogpic/2884f1639ccffb09f10c/2000.jpg" alt="何为战略"&gt;&lt;p&gt;&lt;em&gt;我一直相信知识工作者的成长路径，无论是程序员或是设计师，从信息的收集者、开始分析信息形成逻辑、在逻辑上包装内容、把内容形成产品、最终从产品中抽象出形态、归纳原则、总结规律，而战略（Strategy）正是成长路径中重要的一环。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;当我重新阅读《&lt;a href="http://www.amazon.com/Strategy-including-featured-Michael-Porter/dp/1422157989"&gt;HBR's 10 Must Reads - On Strategy&lt;/a&gt;》时发现，经过几年的积累，对「战略」一词有了新的认识，这便是此系列《战略十篇》的初衷——重新梳理对「战略」的理解。相信无论是产品设计者、创业者、企业管理者，在其中都能找到帮助。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;首篇来自管理战略大师&lt;a href="https://en.wikipedia.org/wiki/Michael_Porter"&gt;Michael E. Porter&lt;/a&gt;开宗明义的一篇《何为战略（What Is Strategy）》&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=""&gt;经营效率不是战略&lt;/h1&gt;
-
-&lt;p&gt;日本企业在上世纪70和80年代之间建立了一场「经营」革命，诸如TQM（&lt;a href="https://zh.wikipedia.org/wiki/全面品质管理"&gt;Total Quality Management&lt;/a&gt;）全面品质管理、TPS（&lt;a href="https://zh.wikipedia.org/wiki/豐田生產方式"&gt;Toyota Production System&lt;/a&gt;）丰田生产方式等先进生产和管理手段，使得日本人的产品在相当一段时间内成为平价高质的代名词。追求一致性、拥有服从和执行精神的日本人将经营效率（Operational Effectiveness）推高到一个难以企及的高度，并引领了一个时代。&lt;/p&gt;
-
-&lt;p&gt;而之后的20年，世界经济GDP总量从1980年到2014年增长了&lt;a href="http://knoema.com/mhrzolg/gdp-statistics-from-the-world-bank?country=World"&gt;7倍&lt;/a&gt;，期间2004年《经济学人》的一份&lt;a href="http://www.economist.com/media/globalexecutive/outsourcing_revolution_e_02.pdf"&gt;报告&lt;/a&gt;中显示，90%的受访者将外包作为其重要的成长战略，产品中70%至80%的部分由外包制造，新技术和全球化的红利，又将全世界企业的经营效率提高到了新的高度。&lt;/p&gt;
-
-&lt;p&gt;企业们竞相利用合并和收购来获得竞争对手的经营效率，世界范围的合并和收购（M&amp;amp;A）的总额从1985年到2014年间增长了&lt;a href="http://www.imaa-institute.org/recources/statistics-mergers-acquisitions/"&gt;10倍&lt;/a&gt;（见下图）。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://www.imaa-institute.org/images/figure_announced%20mergers%20&amp;amp;%20acquisitions%20(worldwide).jpg" alt="何为战略"&gt;&lt;/p&gt;
-
-&lt;p&gt;在很长一段时间，从制造和流水线管理、到全球化外包、再到合并收购，经营效率成为企业战略的核心，管理者们思考的往往是如何将生产线的效率推高到极致、或是寻找更低成本的外包地；管理咨询者们不遗余力地制造各种管理框架、基线、指标、流程、并包装各种「最佳实践（Best Practice）」帮助管理者继续推高经营效率；行业软件巨头推出各种以经营效率为核心的企业级应用软件或制造科技。&lt;/p&gt;
-
-&lt;p&gt;然而，经营效率的持续提升并不足以获得持续的竞争力，日本公司被认为是世界经营革命的启动者，并一度靠此超越苏联成为世界第二大经济体（1978年），但被标以「鲜有战略」的标签，在经营上以追随、复制、收购竞争对手为目标，不断提升经营效率，在文化上追求统一性和执行，当外部环境发生重大变化时，即1985年的&lt;a href="https://zh.wikipedia.org/wiki/广场协议"&gt;广场协议&lt;/a&gt;，日本企业随整个日本经济进入「&lt;a href="https://en.wikipedia.org/wiki/Lost_Decade_(Japan)"&gt;失去的十年（Lost Decade）&lt;/a&gt;」，甚至失去的二十年。&lt;/p&gt;
-
-&lt;p&gt;管理者们意识到，企业所遇到的环境发生了前所未有的变化：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;全球经济一体化造成的宏观经济连锁反应，例如用日本经济补贴美国在上世纪80年代中期的巨额贸易赤字；  &lt;/li&gt;
-&lt;li&gt;新技术的发展使得一切经营效率手段变得容易复制、全球外包资源的标准化和高流动性，使得竞争容易趋于同质化；  &lt;/li&gt;
-&lt;li&gt;新兴市场国家消费升级使全球市场需求更迭更加迅速。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;至少日本人无法用最先进的管理和制造方式应对全球经济环境的变化，真正的竞争力也许在一定时间内来自于经营效率，然而当：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;随着技术、高技能工作者数量、外包服务的发展，进入高经营效率区间（Productivity Frontier）的成本更低；  &lt;/li&gt;
-&lt;li&gt;技术突破带来的颠覆性创新，竞争区间发生转化（下图）；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/11/competition-shift.png" alt="何为战略"&gt;&lt;/p&gt;
-
-&lt;p&gt;经营效率则不足以应对，因此以经营效率为核心的企业战略在当前环境下应该被重新思考，战略不应该与经营效率划等号。那么战略究竟是什么？&lt;/p&gt;
-
-&lt;h1 id=""&gt;战略是独特的企业行为&lt;/h1&gt;
-
-&lt;p&gt;传统管理者认为，一个独特的「定位（Positioning）」是竞争力的核心，但事实上，在一个多元的市场、经济、消费者、和技术环境下，「定位」过于静态，而真正保持企业核心竞争力的事实上是「独特的企业行为」。&lt;/p&gt;
-
-&lt;p&gt;文章中讲述了美国西南航空的案例，在成立的伊始有这样一个故事：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;1967年达拉斯的一个小餐馆里，在一个白色的餐巾纸上画着三个城市之间航线的草图。这是罗林·金在与约翰·帕克讨论之后向凯莱赫提出的建议。围绕着这场餐巾纸发生了以下对话：「赫布，我们开设一家航空公司吧？」 「罗林，你疯了吧！我们就这么办吧！」「我们为什么不能创立这样一家航空公司，每班飞机的票价很低，但是每天飞许多航空，以取代其他航空公司每天只飞几次但是每班票价都十分昂贵的做法呢？」&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;之后，西南航空坚持只是用波音737作为唯一机型、不可思议地完成15分钟过站提高飞机利用率、坚持一种舱位而保持低票价、坚持只在中型城市和大型城市的第二机场开设航班，更为独特的是，西南航空是美国自1973年以来唯一保持每年都盈利的航空公司。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://www.alternet.org/files/story_images/southwest-airlines.jpg" alt="何为战略"&gt;
-（Copyright: &lt;a href="http://www.alternet.org/files/story_images/southwest-airlines.jpg"&gt;http://www.alternet.org/files/story_images/southwest-airlines.jpg&lt;/a&gt; )&lt;/p&gt;
-
-&lt;p&gt;这里的每一个选择，即企业行为，都是西南航空独特性的一部分，而到底是成功的经营给她带来独特性、还是独特性带了她经营上的成功，我们无法定论，但至少，观察每一家成功的企业，真正的独特性都是「从头到脚」的不同。&lt;/p&gt;
-
-&lt;p&gt;虽然「定位」过于静态，但依然是构建企业行为的核心。有三种方式来建立独特的「战略性定位」：&lt;/p&gt;
-
-&lt;h5 id="varietybased"&gt;通过独立产品或服务细分（Variety-based）&lt;/h5&gt;
-
-&lt;p&gt;这种细分从现有产品或服务的区分度出发，而非消费者划分，针对相同的需求建立了一种新的产品或服务方式。例如最近的&lt;a href="http://z.jd.com/project/details/29809.html"&gt;Vinci智能头机&lt;/a&gt;，虽然质疑声不绝于耳，但至少Vinci在现有耳机产品中，针对广泛的音乐需求，建立了一种独特的产品模式。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://t1.qpic.cn/mblogpic/84d5969d70b6e970d390/2000.jpg" alt="何为战略"&gt;
-(无论怎样，Vinci头机至少有一个独特的战略性定位，而这并不是所有初生企业都具备的)&lt;/p&gt;
-
-&lt;h5 id="needbased"&gt;通过特定客户群细分（Need-based）&lt;/h5&gt;
-
-&lt;p&gt;这种细分通过特定客户群出发、尝试满足其所有相关需求，宜家便是最佳范例，恐怕全世界再也难以找到第二家宜家，它所针对的就是那些对价格敏感却又想享受优秀设计、并对家具质量没有长久需要的年轻客户。围绕这一客户群体，宜家建立的所有体系，例如自组装、自由展示和尝试、自取货等等，都体现了对这一客户群的深刻理解。&lt;/p&gt;
-
-&lt;h5 id="accessbased"&gt;通过独特方式细分（Access-based）&lt;/h5&gt;
-
-&lt;p&gt;针对某一细分客户的特定需求提供特定的服务方式，也许这些客户的需求有所类似，但是如何满足这些需求的方式则有所不同。例如文章中提到的&lt;a href="https://en.wikipedia.org/wiki/Carmike_Cinemas"&gt;Carmike电影院&lt;/a&gt;只针对20万人以下的城镇消费者，在选址、宣传方式、硬件配套、播放技术等等都有针对性的策略，使得其曾一度成为全美第二大电影连锁品牌（受互联网冲击，Carmike目前已下降至全美第四）。&lt;/p&gt;
-
-&lt;p&gt;有效战略的真正奥秘在于：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;选择一个独特的细分方式，要么基于独特的产品或服务、或是独特的客群、或是服务某一客群的独特方式；  &lt;/li&gt;
-&lt;li&gt;建立一个完整且独特的企业行为（Company Activities）集合，并区分于自己的竞争对手。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;再回过头来看看那个曾被&lt;a href="http://www.leiphone.com/news/201510/xvG8MRkVYKGjTqIT.html"&gt;千夫所指的Vinci智能头机&lt;/a&gt;，思考创始人浮夸、甚至无理的举动，你会发现，这款我行我素的独特产品之上，还有一个疯狂的企业行为集合在支持，从这个角度上来说，是多么的符合逻辑。&lt;/p&gt;
-
-&lt;p&gt;尽管如此，独特定位和与之匹配的独特企业行为依然不能够推导出商业成功，还有两点需要企业管理者思考。&lt;/p&gt;
-
-&lt;h1 id=""&gt;战略是妥协&lt;/h1&gt;
-
-&lt;p&gt;到底是什么阻止你的竞争对手复制？你的技术能力吗？不是，他们可以挖走你的技术团队，或者使用更好的技术；你的管理手段吗？不是，他们可以轻易地获得你所有的过程文档；你的企业架构吗？不是，他们也许用着跟你一样的咨询公司；你的合作伙伴吗？不是，就像你击败你之前的竞争者一样，偷走你的合作伙伴。&lt;/p&gt;
-
-&lt;p&gt;真正你竞争对手很难偷走的，是你为获得这种独特性所付出的「妥协（Trade-offs）」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/11/you-cant-steal-tradeoffs.png" alt="何为战略"&gt;&lt;/p&gt;
-
-&lt;p&gt;2013年&lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;公司在全球范围内&lt;a href="https://www.thoughtworks.com/news/zero-commissions"&gt;取消了所有销售的销售分成&lt;/a&gt;，这是专业服务领域罕见的做法，而这也是这家公司为了自身的独特性做出的妥协。ThoughtWorks的核心定位是帮助缺少技术能力的企业通过技术完成非凡的使命，那么销售就应该尝试更加具有挑战性的项目，并倾向于与客户建立更加长久的伙伴关系，而非通过更容易成单的项目（相对「平庸」）获得快速分成。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are passionate technologists. We provide software delivery, pioneering tools and consulting for organizations with ambitious missions. -ThoughtWorks公司的独特定位&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;而妥协的结果也相当明显，销售人员的士气也许收到打击，强销售的文化不容易建立，也难以获得更好的直接销售收入。&lt;/p&gt;
-
-&lt;p&gt;因此，当竞争者尝试复制这间公司的独特性时，例如针对大型客户、获得业界最具技术挑战性的项目，必须得思考是否能够承受得起「妥协」带来的后果。&lt;/p&gt;
-
-&lt;p&gt;通常「妥协」来自于以下几个方面：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;不持续的公众形象和品牌；  &lt;/li&gt;
-&lt;li&gt;被挑战的企业行为，独特性意味着现有企业行为，包括过程、文化、技能、风格、价值观、甚至质量需要被妥协；  &lt;/li&gt;
-&lt;li&gt;管理层面对「极不靠谱」的独特性的容忍程度。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;如果你是创业者或是企业新战略的建立和执行者，请思考，竞争者无法复制的，是你所放弃的「妥协」吗？&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h1 id=""&gt;持续性和适应性是战略的核心优势&lt;/h1&gt;
-
-&lt;p&gt;建立一个独特的定位，规划和实施一系列企业行为在其之上，放弃一些因此而「妥协」的东西，你已经基本上完成了战略的前三步，而第四步，则是保证这些企业行为具备持续性和适应性。&lt;/p&gt;
-
-&lt;p&gt;当我们看到西南航空的成功，却往往无法了解其背后各种企业行为之间的相互作用，下图展示了西南航空的企业行为图：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://t1.qpic.cn/mblogpic/417b883e2937bc0a673a/2000.jpg" alt="何为战略"&gt;&lt;/p&gt;
-
-&lt;p&gt;每一个圆圈内的行为，都与相连圆圈中的行为相互作用，例如：限制性乘客服务（不能选座）、才有更频繁的起飞、才有更高效的地勤人员、才有更高利用率的飞机、才有更低的票价、最后使得限制性乘客服务依然获得优秀的客户满意度。因此，只有当所有的元素集合在一起工作的时候，才有了西南航空的成功。&lt;/p&gt;
-
-&lt;p&gt;规划归规划，各种企业行为中如何配合，实现「正反馈」，便需要在现有企业中寻找适应性（Fit），这种适应性决定了整个战略（作为一个系统）持续地进行运作。&lt;/p&gt;
-
-&lt;p&gt;适应性（Fit）的重要性往往被低估，通常有三种适应性的方式：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;和已有企业行为配合，不捣乱；  &lt;/li&gt;
-&lt;li&gt;借助已有的企业行为，强化；  &lt;/li&gt;
-&lt;li&gt;超越强化形成组织级别的支持，借势。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;在处理适应性的过程中，自然要尊重已有上下文、做出妥协和让步、吸收现有企业行为作为强化，这个过程越成功，整个行为系统就越持久、越具备竞争力。&lt;/p&gt;
-
-&lt;h1 id=""&gt;战略为何失败&lt;/h1&gt;
-
-&lt;p&gt;战略很容易被人理解为纸上空谈的高瞻远瞩，事实上，战略有着完整的系统结构，战略设计者的目标，就是在组织里尝试建立这一系统结构：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://t1.qpic.cn/mblogpic/8070623b9a943439932c/2000.jpg" alt="何为战略"&gt;&lt;/p&gt;
-
-&lt;p&gt;理解这一系统架构后，战略失败的原因不言自明，它们即：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;没有独特的定位；  &lt;/li&gt;
-&lt;li&gt;没有建立与独特定位匹配的企业行为；  &lt;/li&gt;
-&lt;li&gt;不愿意放弃和面对妥协；  &lt;/li&gt;
-&lt;li&gt;没办法与现有组织进行适配。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这对于企业的领导者而言提出了新的要求，从逻辑上来看，中低层管理者很难获得企业战略方向的同理心，领导者的重要职责是在寻找到一个合适的定位、建立独特的企业行为系统、不断桥接、调教、化解、强化、简化、妥协，最终完成这一独特行为在现有企业环境中的适配，从而形成核心竞争力。领导团队对于战略的理解和处理能力决定企业是否朝真正战略目标前进，而不仅仅是在经营效率上竞争。&lt;/p&gt;
-
-&lt;p&gt;对成长的渴求（The Demand for Growth）也可能成为战略失败或缺乏战略的原因。成长最直接的方式，正是实实在在、可执行、可复制的企业行为，这样的案例不胜枚举。成长带来最大的问题是&lt;strong&gt;独特性的模糊化&lt;/strong&gt;，服务、需求、客户、功能在不断扩展，相对应的企业行为也在不断扩充。当你有30位乐人、10种乐器在你的乐团时，指挥也许对你来说迎刃有余，如果有300位乐人、500种乐器呢？&lt;/p&gt;
-
-&lt;p&gt;而没有线性成长的眼前利益，就没有承受失败的空间、以及勇于突破的底气，领导者需要在线性增长和投资未来间进行权衡，阻止公司同质化、梳理企业行为、并在市场趋势中对投资做出决断。&lt;/p&gt;
-
-&lt;p&gt;因此，企业领导者保护着企业战略的成功，其特质应该是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;有独一无二的野心；  &lt;/li&gt;
-&lt;li&gt;对市场有独特的理解和敏锐度；  &lt;/li&gt;
-&lt;li&gt;懂得梳理、协调、桥接、强化各个企业行为间的关系；  &lt;/li&gt;
-&lt;li&gt;懂得引入着眼未来的新的企业行为；  &lt;/li&gt;
-&lt;li&gt;懂得放弃和妥协；  &lt;/li&gt;
-&lt;li&gt;权衡线性增长的最佳实践和战略投资间的关系；  &lt;/li&gt;
-&lt;li&gt;培养具备高适应力、明锐度的特殊战略型人才。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=""&gt;写在最后&lt;/h1&gt;
-
-&lt;p&gt;本文最早读于2010年，5年后重新阅读，有了全新的体会，对个人而言，每个人依然是自己成长的战略规划者，它也符合本文所提到的逻辑：1）建立独一无二的价值定位；2）建立一个行为系统，输出这种价值；3）懂得在企业内权衡和放弃；4）从不给别人添乱开始、学会借助企业已有的行为模式、到跟随企业的大势。&lt;/p&gt;
-
-&lt;p&gt;对企业内部创新而言，我所经历过的内部创业过程，无一不是跟随这样的思路，从价值定位开始，死死守住新业务的独特性，努力建立一个符合当前企业上下文的适配，形成一套完整的战略系统。&lt;/p&gt;
-
-&lt;p&gt;对创业者而言，应该理解的是&lt;strong&gt;独特性才是真正的护城河&lt;/strong&gt;，独特性应该保证企业行为和定位的一致，并学会避免掉入「成长陷阱」，&lt;strong&gt;当你的企业慢慢跟你的竞争对手一样，发布着难以区分的产品、一样的企业文化、员工无缝跳槽，最后一定是零和游戏，而这样的初创企业，一眼望去，比比皆是&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;你、你的事业、你的企业，创造并保护你的&lt;strong&gt;「独特性」&lt;/strong&gt;，这就是我所理解的战略。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;最后预祝转型成功！&lt;/p&gt;</content:encoded></item></channel></rss>
