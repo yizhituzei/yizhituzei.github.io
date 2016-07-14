@@ -1,4 +1,168 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 11 Jul 2016 20:34:04 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>ThoughtWorks设计的五年和下一个五年</title><description>&lt;p&gt;一不小心，ThoughtWorks的设计已经经历了五个年头，2011年7月的时候，我从英国回来，来自全世界各大区最新任命的设计负责人，讨论了如何将设计引入到这间传统技术咨询公司的业务引擎中。在回来的飞机上，我画了这样一幅草图：&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 14 Jul 2016 00:15:27 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>蓝海战略</title><description>&lt;p&gt;本文是《战略十篇》的第五篇书稿，来自于Renée Mauborgne和W. Chan Kim，原文刊于《哈佛商业评论》2004年10期（&lt;a href="https://hbr.org/2004/10/blue-ocean-strategy"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;1984年来自加拿大魁北克的两位街头艺人盖·拉利伯特与吉列斯·史特-克洛伊克斯建立了一间自我定义为「马戏艺术和街头娱乐的戏剧性组合」的表演团体——索拉奇艺坊。这就是当今最富盛名的「太阳马戏团（法语：Cirque du Soleil）」的前身。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://image60.360doc.com/DownloadImg/2013/04/0921/31529700_5.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;马戏表演作为一个古老的行业在当时发生前所未有的变局，从需求端来看：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;大量其他形式的娱乐层出不穷；&lt;/li&gt;
+&lt;li&gt;曾今的主要观众——儿童的大量娱乐时间被电子游戏占据；&lt;/li&gt;
+&lt;li&gt;动物保护组织对动物表演的抵制。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而从供给端来看，马戏表演者极度缺少、且成本越来越高，这使得这个古老的行业进入全面萧条。&lt;/p&gt;
+
+&lt;p&gt;自1984成立至今，太阳马戏团却在十年里以超过20%的年均增长，收获超过9000万观众，堪称逐渐衰落的「马戏表演产业」的奇迹。理解太阳马戏团成功的背后，我们需要理解几个关键的商业逻辑：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;所有已知行业的趋势都是行业边界越来越清晰、竞争规则越来越明确；  &lt;/li&gt;
+&lt;li&gt;所有行业内公司的首要目的，都是在边界和规则明晰的前提下，提升效能（Outperform），以在现有市场中占据更大份额；&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/blue-ocean-strategy/</link><guid isPermaLink="false">4292c5e5-ef06-4934-8cdd-79fb9c64f557</guid><category>战略十篇</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 14 Jul 2016 00:12:24 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/photo-1451417379553-15d8e8f49cde.jpeg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/photo-1451417379553-15d8e8f49cde.jpeg" alt="蓝海战略"&gt;&lt;p&gt;本文是《战略十篇》的第五篇书稿，来自于Renée Mauborgne和W. Chan Kim，原文刊于《哈佛商业评论》2004年10期（&lt;a href="https://hbr.org/2004/10/blue-ocean-strategy"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;1984年来自加拿大魁北克的两位街头艺人盖·拉利伯特与吉列斯·史特-克洛伊克斯建立了一间自我定义为「马戏艺术和街头娱乐的戏剧性组合」的表演团体——索拉奇艺坊。这就是当今最富盛名的「太阳马戏团（法语：Cirque du Soleil）」的前身。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://image60.360doc.com/DownloadImg/2013/04/0921/31529700_5.jpg" alt="蓝海战略"&gt;&lt;/p&gt;
+
+&lt;p&gt;马戏表演作为一个古老的行业在当时发生前所未有的变局，从需求端来看：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;大量其他形式的娱乐层出不穷；&lt;/li&gt;
+&lt;li&gt;曾今的主要观众——儿童的大量娱乐时间被电子游戏占据；&lt;/li&gt;
+&lt;li&gt;动物保护组织对动物表演的抵制。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;而从供给端来看，马戏表演者极度缺少、且成本越来越高，这使得这个古老的行业进入全面萧条。&lt;/p&gt;
+
+&lt;p&gt;自1984成立至今，太阳马戏团却在十年里以超过20%的年均增长，收获超过9000万观众，堪称逐渐衰落的「马戏表演产业」的奇迹。理解太阳马戏团成功的背后，我们需要理解几个关键的商业逻辑：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;所有已知行业的趋势都是行业边界越来越清晰、竞争规则越来越明确；  &lt;/li&gt;
+&lt;li&gt;所有行业内公司的首要目的，都是在边界和规则明晰的前提下，提升效能（Outperform），以在现有市场中占据更大份额；  &lt;/li&gt;
+&lt;li&gt;市场会倾向于越来越拥挤;  &lt;/li&gt;
+&lt;li&gt;产品会倾向于变为毫无区分度的日用品（Commodity）；  &lt;/li&gt;
+&lt;li&gt;竞争会倾向于变得更激烈，利润会倾向于变得更低。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这便是红海理论的描述，而蓝海代表着还未曾存在的产业、或未曾出现竞争的产业。蓝海的出现有时候因为信息技术而突然出现，例如eBay之于在线拍售，而绝大多数的情况，蓝海从红海中产生，而关键则在于敢于挑战产业边界（Boundary）。&lt;/p&gt;
+
+&lt;h2 id=""&gt;产业变局&lt;/h2&gt;
+
+&lt;p&gt;不再有人怀疑我们所处的是充满变局的时代，行业更替每时每刻都在发生，具体体现在三个方面：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;行业更替和新生变得更加频繁；&lt;/li&gt;
+&lt;li&gt;技术快速应用和全球化贸易；&lt;/li&gt;
+&lt;li&gt;全球范围内需求增长受限，长期来看大部分行业的供给高于需求。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最终结果是产品和服务的快速同质化、价格战、品牌价值下降，远在1970年到1980年间日本汽车对全球汽车产业格局的影响，近到两年里中国智能手机品牌崛起。&lt;/p&gt;
+
+&lt;h2 id=""&gt;对战略的不同认识&lt;/h2&gt;
+
+&lt;p&gt;在研究了108间公司，作者发现86%的企业新事业集团（New venture）来自于现有业务的延伸，剩下的14%则目标建立一个新的市场；从利润贡献的角度，前者从62%的收入中贡献了39%的整体利润，而后者只用38%的收入贡献了61%的利润。&lt;/p&gt;
+
+&lt;p&gt;巨大利润贡献能力的背后是对战略的理解——许多企业战略的词汇来自于军事，例如「首席执行官（Chief Executitive Officers）中」的Officers、「总部（Headquarter）」、「前线（Front Lines）等等，企业战略的本质受军事影响在于「用最少的代价、最大可能地将对手挤出去」。而蓝海战略正是要打破这种对企业战略根深蒂固的认识——蓝海战略是要寻找新的土地，而非分割现有土地、赢下对手。&lt;/p&gt;
+
+&lt;p&gt;因此如何看待竞争，成为蓝海战略最大的不同。诚然，没有人否认竞争的重要性，只是蓝海战略有自己的优先级，其取代竞争的两件重要事情是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;寻找和开发新的市场；  &lt;/li&gt;
+&lt;li&gt;在新市场中充分获利和保护。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=""&gt;蓝海战略的逻辑&lt;/h2&gt;
+
+&lt;p&gt;理解和制定蓝海战略需要理解以下几点逻辑：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;蓝海与技术创新无关&lt;/strong&gt;：我们以为技术创新是产生蓝海的触发点，但是事实上，科技并没有如我们想象中那样不可思议。我们耳熟能详的产业创新中：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;福特T型车采用现有科技；&lt;/li&gt;
+&lt;li&gt;IBM的659个人电脑采用现有科技；&lt;/li&gt;
+&lt;li&gt;苹果个人电脑采用现有科技；&lt;/li&gt;
+&lt;li&gt;康柏的首台PC服务器采用现有科技；&lt;/li&gt;
+&lt;li&gt;戴尔的自助式（Build-to-order）PC销售采用现有科技。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;另外一方面蓝海几乎都存在于现有红海中。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;研究蓝海战略不能研究公司和行业表现&lt;/strong&gt;：公司和行业总是起伏，蓝海存在于红海之中，但自从它被发现、并被验证之后也一定趋向于成为红海。应该研究的是公司具体战略决策，例如康柏并不被认为是一间优秀的公司（2001年被HP收购），但其在1989年在PC服务器领域的决策创造了一个数十亿美元的市场，堪称蓝海战略的经典例案。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Compaq_SystemPro_Server_Case_102_2422.jpg/330px-Compaq_SystemPro_Server_Case_102_2422.jpg" alt="蓝海战略"&gt;
+(&lt;em&gt;Compaq公司于1989年推出的SystemPro PC服务器&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;创造蓝海战略提升品牌&lt;/strong&gt;：行业首入者往往在品牌上占据长期的优势，例如福特T型车下线的时候早在1908年，而108年以后，福特品牌依然受惠于那次蓝海战略的实施，同样的例子还有360系列个人计算机、iPhone上市对于IBM和Apple品牌的影响。&lt;/p&gt;
+
+&lt;h2 id=""&gt;蓝海战略的特点&lt;/h2&gt;
+
+&lt;p&gt;最核心的区别在于，蓝海战略反对传统战略中的核心：价值和成本之间的博弈——而同时追求特色和低成本。&lt;/p&gt;
+
+&lt;p&gt;回到之前的例子，太阳马戏团的秘诀在哪里？正如其所宣称的那样「我们重新发明了马戏」，典型的策略有：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;去除表演明星和动物表演，大大缩减开支；&lt;/li&gt;
+&lt;li&gt;去除场内特许销售，建立高雅的环境；&lt;/li&gt;
+&lt;li&gt;减少闹剧、刺激、和危险这些传统马戏的元素，用主题性的独特场景和多种元素增强表演的艺术性、叙事性、和戏剧性。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我们发现这些手段无不是为了寻找到一个巧妙的契合点：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;既提供了不同的客户体验与价值；&lt;/li&gt;
+&lt;li&gt;又因此降低了运营成本。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;因此对于每一个寻求蓝海战略的设计者而言，蓝海战略的核心便在于这个契合点。&lt;/p&gt;
+
+&lt;p&gt;有趣的是，对于一个传统企业战略的执行者而言，行业规则和固有认识有时是牢不可破的边界——「马戏没有马还算是马戏吗？」；而蓝海战略的制定者则敢于重新定义产业规则，并建立一个可持续的运营体系进行支撑（例如不雇佣大牌马戏明星）。&lt;/p&gt;
+
+&lt;p&gt;而这正式大部分企业无法逾越的鸿沟——我们可以定义出一个不一样的、并被市场所接受的客户体验、但我们无法建立一套持续的运营体系支撑这个客户体验持续运行。&lt;/p&gt;
+
+&lt;p&gt;在之前的文章《何是战略》中我们谈到了美国西南航空的案例，其之所以能够创造独一无二、并持续盈利的客户体验，在于其背后完整的「企业行为系统（Activity-system）」。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://t1.qpic.cn/mblogpic/417b883e2937bc0a673a/2000.jpg" alt="蓝海战略"&gt;
+(&lt;em&gt;美国西南航空背后无法复制的企业行为系统。&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;这同时也是蓝海战略中企业保护其市场的根基。&lt;/p&gt;
+
+&lt;h2 id=""&gt;思考设计服务市场&lt;/h2&gt;
+
+&lt;p&gt;在之前的文章《&lt;a href="http://www.tuzei8.com/next-five-years/"&gt;ThoughtWorks设计的五年和下一个五年&lt;/a&gt;》提到：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;避免竞争才是最好的竞争。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这便是对我们所处行业竞争的重新思考，设计服务市场逃不开所有产业面临的问题：服务同质性上升、后入者层出不穷、利润下降。在这样的环境中，我们应该如何重新思考我们自己的蓝海战略。&lt;/p&gt;
+
+&lt;p&gt;事实上我们所提供的服务已于大部分竞争对手相异，例如：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;全程设计师驻场；&lt;/li&gt;
+&lt;li&gt;对前沿技术的应用；&lt;/li&gt;
+&lt;li&gt;端到端的设计方法论；&lt;/li&gt;
+&lt;li&gt;设计到真正业务实现和价值。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;那么如果这是我们异于市场的「独特的客户体验」，下一个问题是「我们如何建立、加强、保护我们的企业活动系统？」。换言之我们需要思考的是以下问题：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;我们需要做什么才能使得我们的年轻设计师都变成全面和强大的驻场设计师？&lt;/li&gt;
+&lt;li&gt;我们需要做什么才能使得我们的客户认为使用最前沿的技术应该由ThoughtWorks的设计师完成？&lt;/li&gt;
+&lt;li&gt;我们需要做什么才能使得我们每一位设计师对于不同阶段的设计方法论有在中国范围内最深刻的理解？&lt;/li&gt;
+&lt;li&gt;我们需要做什么才能使得我们的服务永远面向于交付真实业务价值？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这些是留给大家的问题。&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;本文峰回路转地从另一个角度展示了什么是战略，并提供了另外一种思路：&lt;strong&gt;不把竞争当成战略的核心&lt;/strong&gt;。这与Porter所表达的战略即「独特客户价值主张」+「可持续的企业活动系统」有些类似，而更偏向于从产业的角度。&lt;/p&gt;
+
+&lt;p&gt;更重要的是，本文让我们重新理解了行业竞争倾向于激烈、利润倾向于下降的天然属性，重新思考「竞争力」在企业战略中的位置。&lt;/p&gt;
+
+&lt;p&gt;同时不禁感慨到过去的10年里，满眼都是资本所扶持的、赌博式的所谓业务创新，虽有看起来了不起的「独特客户价值主张」，没有几个真正有「可持续的企业活动系统」。&lt;/p&gt;</content:encoded></item><item><title>ThoughtWorks设计的五年和下一个五年</title><description>&lt;p&gt;一不小心，ThoughtWorks的设计已经经历了五个年头，2011年7月的时候，我从英国回来，来自全世界各大区最新任命的设计负责人，讨论了如何将设计引入到这间传统技术咨询公司的业务引擎中。在回来的飞机上，我画了这样一幅草图：&lt;/p&gt;
 
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/xd-team-idea.png" alt=""&gt;&lt;/p&gt;
 
@@ -1587,96 +1751,4 @@
 
 &lt;p&gt;别忘记了，Reliability解决的是你有把不错的弓箭，Validity解决的是让你射在正确的靶子上。&lt;/p&gt;
 
-&lt;p&gt;最后感谢给我建议的朋友。&lt;/p&gt;</content:encoded></item><item><title>设计实践与敏捷研发体系</title><description>&lt;p&gt;一位来自传统企业、正在经历研发系统敏捷转型的IT组织管理者L先生问我：「当整个研发体系正在朝敏捷方向转型，现有的美工该怎么办？」&lt;/p&gt;
-
-&lt;p&gt;本文回答L先生的问题，首先，我们来谈敏捷研发体系转型的基本逻辑：&lt;/p&gt;
-
-&lt;h4 id=""&gt;敏捷体系的基本逻辑&lt;/h4&gt;
-
-&lt;p&gt;对于传统公司的研发体系而言，定义需求、设计方案、研发系统、测试系统、系统部署、和产品运营往往是独立存在的阶段。越来越多人开始实践敏捷时，选择第一步往往是通过敏捷研发实践和持续构建，将开发体系和测试体系整合（图中①）。&lt;/p&gt;
-
-&lt;p&gt;在经历了第一步「研发+测试」敏捷实践之后的第二步，往往是向后将「上线体系」集成在「研发体系」中——即通过持续集成的方式、缩短小到功能大到产品从研发到上线的时间，并将上线过程碎片化（图中②）。&lt;/p&gt;
-
-&lt;p&gt;这两步所解决的基本都是「&lt;strong&gt;如何用正确的方式做软件（Do things right）&lt;/strong&gt;」的问题，之后，企业内的研发组织所思考的是如何将工程实践整合「需求实践」，因为越来越多IT组织的负责人发现，软件研发中真正的浪费来自于需求不明确和需求变动，于是「业务敏捷」成为较为成熟的敏捷IT组织着眼的下一步，即「&lt;strong&gt;做正确的软件（Do right&lt;/strong&gt;&lt;/p&gt;</description><link>http://localhost:2368/design-and-new-it-org/</link><guid isPermaLink="false">6ee14c06-0c8e-4be8-9642-7bfa278ba3f7</guid><category>敏捷</category><dc:creator>熊子川</dc:creator><pubDate>Sat, 13 Feb 2016 06:07:41 GMT</pubDate><content:encoded>&lt;p&gt;一位来自传统企业、正在经历研发系统敏捷转型的IT组织管理者L先生问我：「当整个研发体系正在朝敏捷方向转型，现有的美工该怎么办？」&lt;/p&gt;
-
-&lt;p&gt;本文回答L先生的问题，首先，我们来谈敏捷研发体系转型的基本逻辑：&lt;/p&gt;
-
-&lt;h4 id=""&gt;敏捷体系的基本逻辑&lt;/h4&gt;
-
-&lt;p&gt;对于传统公司的研发体系而言，定义需求、设计方案、研发系统、测试系统、系统部署、和产品运营往往是独立存在的阶段。越来越多人开始实践敏捷时，选择第一步往往是通过敏捷研发实践和持续构建，将开发体系和测试体系整合（图中①）。&lt;/p&gt;
-
-&lt;p&gt;在经历了第一步「研发+测试」敏捷实践之后的第二步，往往是向后将「上线体系」集成在「研发体系」中——即通过持续集成的方式、缩短小到功能大到产品从研发到上线的时间，并将上线过程碎片化（图中②）。&lt;/p&gt;
-
-&lt;p&gt;这两步所解决的基本都是「&lt;strong&gt;如何用正确的方式做软件（Do things right）&lt;/strong&gt;」的问题，之后，企业内的研发组织所思考的是如何将工程实践整合「需求实践」，因为越来越多IT组织的负责人发现，软件研发中真正的浪费来自于需求不明确和需求变动，于是「业务敏捷」成为较为成熟的敏捷IT组织着眼的下一步，即「&lt;strong&gt;做正确的软件（Do right thing）&lt;/strong&gt;」。&lt;/p&gt;
-
-&lt;p&gt;这个阶段，企业开始构建自己的设计和产品经理团队，通过一前（新需求的设计）一后（产品的运营演进），在成熟的技术平台与研发实践上完成从需求设计到最后运营的全过程（图中③）。&lt;/p&gt;
-
-&lt;p&gt;到③的阶段，IT组织已经基本上和成熟互联网公司相当，这里面包含三个要素：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;优秀的研发实践；  &lt;/li&gt;
-&lt;li&gt;成熟的持续构建和持续集成体系；  &lt;/li&gt;
-&lt;li&gt;成熟的设计和产品管理实践；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而超越阶段③到达阶段④，即IT组织可以帮助业务部门完成对需求的定义，成为业务部门的合作伙伴，而非「供应商」，敏捷研发体系则到达最成熟的阶段。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/agile-maturity.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;从上图可以看出，研发部门的工作领域，随着敏捷成熟度的提升而延伸到传统业务部门领域，这就是我们经常说的「业务敏捷」。&lt;/p&gt;
-
-&lt;p&gt;为什么要谈「敏捷研发体系」的成熟度，因为&lt;strong&gt;对设计而言，研发组织所处的阶段，决定了它需要什么样的「美工」，即设计实践。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=""&gt;美工的传统领域&lt;/h4&gt;
-
-&lt;p&gt;回过头来我们看美工，这是对设计师最传统的定义，在传统软件研发中，往往是进入开发环节前的最后一环，或是满足产品运营过程中的零碎需求，美工将产品经理或需求分析师定义的需求，转化成「美的东西」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/designer-role-1.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;在传统软件开发模式中，设计师之所以被简单定义为「美工」，是由开发模式决定，而当开发模式改变之后，设计师的协作模式自然需要改变。&lt;/p&gt;
-
-&lt;p&gt;简单来说，&lt;strong&gt;当研发部门和业务部门越来越融合，无论设计师来自于哪一方，工作方式、职责、技能都会发生巨大的改变，此点往往不可逆转&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;例如，敏捷转型进入③阶段，需求不再通过较长时间的整理期，最后通过文档的形式流入研发阶段，而是通过设计最小可验证集合（MVP）的方式，尽可能快地进入研发阶段，一方面设计师需要将需求转化为设计、又要充分了解研发能力，还要尽可能地参与到研发和测试过程中去，这样的方式决定了设计师或设计团队的新工作方式。&lt;/p&gt;
-
-&lt;p&gt;因此，设计师的技能要求、工作方式由研发体系决定，首先了解目前的研发体系是怎样的，处于哪个阶段，才能设计出当前体系最合适的设计实践。&lt;/p&gt;
-
-&lt;h4 id=""&gt;设计实践的规划&lt;/h4&gt;
-
-&lt;p&gt;对于设计实践的规划往往取决于研发组织的成熟度、以及研发产品本身的特性（运营为主、还是新产品为主、还是探索性创新为主），因此无法有固定模式存在，例如，研发体系主要以现有产品运营为主时，对设计实践中的用户测试、定量数据分析要求更高；若研发体系主要以新产品为主，设计实践则更需要设计协作、快速原型、定性分析的能力。&lt;/p&gt;
-
-&lt;p&gt;下面这个表格总结了不同成熟度的研发体系，针对不同特性的产品研发，可以着重考虑的设计实践：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/suggestion.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;对于上表，有以下几点需要注意：&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;并不是所有情况都适合设计外包&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;设计外包本身基于传统研发和业务分离的模式，&lt;strong&gt;当你目前研发体系越需要和业务整合在一起，传统设计外包的冲突越大&lt;/strong&gt;；此外探索性创新本身对自身设计要求较高，探索的成功率极低，因此通过探索过程积累创新经验至关重要，在没有设计能力的情况下，将其外包，成功率低、也毫无益处。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;进入研发和业务逐渐融合的阶段2，对设计沟通的能力可能高于设计本身&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;一旦研发和业务发生融合，设计师所承担的责任比不只是设计本身，还有大量的沟通工作，在这个阶段应该引入好的设计沟通实践，逐渐建立适合自身需求的流程和方法，对于设计交付物，可以选择设计外包的方式。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;设计是影响业务部门最好的手段&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;设计是业务和研发部门间最天然的融合手段，敏捷研发体系向业务部门拓展的第一步就是引入优秀的设计实践，建立和业务部门的互动方式。&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;选择合适的项目投入设计资源&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;传统企业的研发部门往往负担多种职责，从产品运营、新产品研发、到探索性创新，对于有限的设计资源，包括设计外包，应该有针对性地根据当前情况投入，例如，有针对性引入设计咨询帮助建立产品运营方面必要的设计实践，而不是在自身未成熟的情况下投入设计资源到探索性创新的项目。&lt;/p&gt;
-
-&lt;h4 id=""&gt;写在最后&lt;/h4&gt;
-
-&lt;p&gt;无论是否称作敏捷，传统公司的数字化转型往往从研发体系的变革开始，研发体系逐步向业务部门拓展，建立和业务部门更紧密的联系，已经成为趋势。在这个背景下，设计实践在不同的阶段产生不同的作用，研发体系的领导者应该思考以下几个问题：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;我们的研发体系目前在什么阶段？  &lt;/li&gt;
-&lt;li&gt;我们提供什么样的服务？  &lt;/li&gt;
-&lt;li&gt;我们和业务部门的关系如何？  &lt;/li&gt;
-&lt;li&gt;阶段、服务、和关系需要怎样的设计实践？  &lt;/li&gt;
-&lt;li&gt;面对不足的设计能力，设计资源如何分配？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;最后预祝转型成功！&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;最后感谢给我建议的朋友。&lt;/p&gt;</content:encoded></item></channel></rss>
