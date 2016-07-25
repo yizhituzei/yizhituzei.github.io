@@ -1,8 +1,371 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 14 Jul 2016 00:15:27 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>蓝海战略</title><description>&lt;p&gt;本文是《战略十篇》的第五篇书稿，来自于Renée Mauborgne和W. Chan Kim，原文刊于《哈佛商业评论》2004年10期（&lt;a href="https://hbr.org/2004/10/blue-ocean-strategy"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 25 Jul 2016 02:11:42 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>战略执行的逻辑</title><description>&lt;p&gt;《战略十篇》的第六篇书稿，来自于Gary L. Neilson、Karla L. Martin、以及Elizabeth Powers，原文刊于《哈佛商业评论》2008年6期（&lt;a href="https://hbr.org/2008/06/the-secrets-to-successful-strategy-execution"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;战略设计让企业管理者敏锐地在市场上找到独特定位，但优秀的战略执行才是让其真正守住位置的关键。可惜的是，大部分企业在战略执行上表现糟糕，究其原因是管理者对「结构（Structure）」的过度关注。&lt;/p&gt;
+
+&lt;h2 id=""&gt;组织结构并不等同与执行效率&lt;/h2&gt;
+
+&lt;p&gt;传统管理者认为，设计一个好的结构将使得执行变得更加高效，这个结构里包含里以下元素：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;层级和职责：控制边界；  &lt;/li&gt;
+&lt;li&gt;指标和流程：控制过程；  &lt;/li&gt;
+&lt;li&gt;奖惩制度：控制结果。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;他们的假设是，如果我们用层级和职责定义好边界、指标和流程控制过程、最后用奖惩制度推动战略在某一环节所期待的结果，战略就会实现最高效的执行。这也是为什么大量的传统「组织转型」活动所关注的都是边界、过程、与结果的重新定义，即定义企业组织结构。&lt;/p&gt;
+
+&lt;h2 id=""&gt;决策决定执行效率&lt;/h2&gt;
+
+&lt;p&gt;当我们重新思考「企业组织结构为什么服务？或为什么要定义一个结构？」企业组织结构定义的出发点并不是交付结果（Outcomes），而是规定规则（&lt;/p&gt;</description><link>http://localhost:2368/the-secrets-to-successful-strategy-execution/</link><guid isPermaLink="false">ef5e4aaf-57b7-45ad-8093-89bca23e8a69</guid><category>战略十篇</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 25 Jul 2016 02:00:43 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/main_1200.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/main_1200.jpg" alt="战略执行的逻辑"&gt;&lt;p&gt;《战略十篇》的第六篇书稿，来自于Gary L. Neilson、Karla L. Martin、以及Elizabeth Powers，原文刊于《哈佛商业评论》2008年6期（&lt;a href="https://hbr.org/2008/06/the-secrets-to-successful-strategy-execution"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;战略设计让企业管理者敏锐地在市场上找到独特定位，但优秀的战略执行才是让其真正守住位置的关键。可惜的是，大部分企业在战略执行上表现糟糕，究其原因是管理者对「结构（Structure）」的过度关注。&lt;/p&gt;
+
+&lt;h2 id=""&gt;组织结构并不等同与执行效率&lt;/h2&gt;
+
+&lt;p&gt;传统管理者认为，设计一个好的结构将使得执行变得更加高效，这个结构里包含里以下元素：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;层级和职责：控制边界；  &lt;/li&gt;
+&lt;li&gt;指标和流程：控制过程；  &lt;/li&gt;
+&lt;li&gt;奖惩制度：控制结果。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;他们的假设是，如果我们用层级和职责定义好边界、指标和流程控制过程、最后用奖惩制度推动战略在某一环节所期待的结果，战略就会实现最高效的执行。这也是为什么大量的传统「组织转型」活动所关注的都是边界、过程、与结果的重新定义，即定义企业组织结构。&lt;/p&gt;
+
+&lt;h2 id=""&gt;决策决定执行效率&lt;/h2&gt;
+
+&lt;p&gt;当我们重新思考「企业组织结构为什么服务？或为什么要定义一个结构？」企业组织结构定义的出发点并不是交付结果（Outcomes），而是规定规则（Priniciples），这个规则约定了组织里的每一个人：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;什么是应该做的？什么是不应该做的？  &lt;/li&gt;
+&lt;li&gt;该怎么做？  &lt;/li&gt;
+&lt;li&gt;做到了怎么办？做不到怎么办？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这些规则约定了一个最基本的「决策手册」，拥有了这份手册，战略的制定者们以为员工们就会按照这些规则完成各个岗位上的不同工作、最终形成合力达到战略目标，但事实不不尽如人意。&lt;/p&gt;
+
+&lt;p&gt;诚然，企业的本质是一个有机的复杂系统，结构中所定义的边界、过程、和结果都是这个系统中不可或缺的部分，但影响战略执行优劣的本质已经不是一个高效的结构，其本质的原因来自于战略和企业本身的特点正在发生变化：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;从战略来看，由于技术、竞争环境、消费者需求的变化剧烈，企业战略正在从完美（Deliberate）战略过度到适应（Emergent）战略，而组织结构的适应性天然拖战略适应性的后腿，因此首要关注点放在组织结构上有天然的阻力；&lt;/li&gt;
+&lt;li&gt;从企业来看，由于新工作方式、新一代员工、管理手段、企业文化正在互相作用，使得传统组织结构转型本身的难度相较上一个时代更高，例如年轻一代的员工和上一代的员工对于管理手段有着截然不同的反应，前者更希望灵活的手段、期待创造性的工作；而后者更期待完善和一致性的过程和公平的奖惩手段，期待一种完美的组织结构适应所有员工本身就不现实。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;简单来说，期待组织结构转型（重新定义边界、过程、和结果）就能带来优秀的战略执行，在目前市场（战略的适应性）和企业（组织的复杂度）环境中难以成功。&lt;/p&gt;
+
+&lt;p&gt;承认组织结构转型是帮助决策的一个手段，而不是全部，思考高效战略执行的逻辑，我们应该做的是回到「决策本身」。&lt;/p&gt;
+
+&lt;h2 id=""&gt;决策环境&lt;/h2&gt;
+
+&lt;p&gt;无论环境如何变化，一切对战略的优秀执行，依然来自于千百个不同层级、不同大小的优秀决策的共同作用；一切糟糕战略执行的背后，一定也是千百个不同层级、不同大小犹豫或坏决策。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.newyorker.com/wp-content/uploads/2015/01/150126_r26061-864.jpg" alt="战略执行的逻辑"&gt;&lt;/p&gt;
+
+&lt;p&gt;请允许我用「决策环境（Context of Decision-making）」这个词来表达一间企业「&lt;strong&gt;普遍&lt;/strong&gt;是如何做决策的」。一个企业的「决策环境」可能有如下四个方面的要素：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;决策权：决策的所属权是否明晰、决策的自由度是否合适；  &lt;/li&gt;
+&lt;li&gt;信息：跨越组织内部边界的信息是否流动、市场前沿信息是否向内传递、组织战略信息是否向组织扩散；  &lt;/li&gt;
+&lt;li&gt;驱动力：是否自发性、统一认同的驱动力帮助决策更趋向于明晰和合适自由度、信息趋向于流动；  &lt;/li&gt;
+&lt;li&gt;结构：是否有合适的组织结构帮助持续产生这种驱动力。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;思考这四个方面，就可以描绘出来一副企业决策系统是如何工作的，我们来看下面这个例子：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;决策权&lt;/strong&gt;：员工不知道自己什么时候该做决策、不敢于做决策、事无巨细交给管理者做决策；管理者事无巨细为员工做决策、不愿意把事务性（Operational Work）交给员工自行决策、采用过于细节的命令式手段、员工没有决策自由；员工反而倾向于挑战或质疑其他员工做出的决策；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;信息&lt;/strong&gt;：员工只知自己的办公室、不了解也不愿意了解企业其他部门的运营情况；市场信息隐藏在一线员工那里，没有意愿传递到管理者，甚至刻意隐瞒、虚报以提升自己的重要性；企业战略要求传递不到员工，员工也不因为决策权受限制，不愿意了解；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;驱动力&lt;/strong&gt;：没有自发的驱动力鼓励自我决策和信息流动，所有人习惯于现状而不愿意改变；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;结构&lt;/strong&gt;：从上至下的命令式管理手段，不鼓励甚至通过层级、行政力量阻止这种驱动力的产生。&lt;/p&gt;
+
+&lt;p&gt;更好的「决策环境」可以是以下这样一个情况：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;决策权&lt;/strong&gt;：员工勇于在合理范围内做决策、快速执行、敢于与管理者不断商议决策的边界；管理者将事务性工作的决策权交给员工、管理结果而不过度管理过程、鼓励员工勇于承担决策、并给予指导和培训帮助员工做出最明智的决策；对于其他员工做出的决策，给予建议和支持；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;信息&lt;/strong&gt;：员工了解并愿意了解企业其他部门的信息，甚至愿意换岗；每一个员工都有信息通道和意愿将市场信息第一时间汇聚到企业管理者手中；企业宏观战略、未来投资等信息能够传递到一线员工手中，每个员工都可以成为企业的品牌代言人；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;驱动力&lt;/strong&gt;：有各种手段鼓励自我决策和信息流动，包括培训、企业文化宣导、奖励等；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;结构&lt;/strong&gt;：取代效率（Efficiency），而将适应性（Adaptability）作为结构设计的出发点，根据市场环境和员工特点、建立更适应市场和雇员特征的组织结构，持续产生改善「决策环境」的驱动力。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/decision-context-3.png" alt="战略执行的逻辑"&gt;&lt;/p&gt;
+
+&lt;p&gt;我们的目标是构建一个更合适的「决策环境」实现战略的有效执行，目标是有效执行，而不在于「决策环境」本身。应该强调的是，每个企业有着不同的外部条件（市场、消费者、竞争等）和内部条件（规模、阶段、文化、雇员等）——这意味着既有「&lt;a href="https://zhuanlan.zhihu.com/p/19633906"&gt;Do the right thing, wait to get fired&lt;/a&gt;」的企业文化产生，也有华为狼性的执行文化存在。&lt;/p&gt;
+
+&lt;p&gt;「决策环境」是动态的、根据企业内外条件不同进行调配的，并不能意味强调程度，甚至每个部门的管理者都可以根据该部门的情况设计出更合适的「决策环境」，而不是&lt;strong&gt;只会&lt;/strong&gt;通过定岗、定责、定流程、定指标等手段。&lt;/p&gt;
+
+&lt;p&gt;无论你是创业公司、或者大型企业的管理者，都可以问自己以下问题：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;我们的战略真的被很好地执行了吗？  &lt;/li&gt;
+&lt;li&gt;如果没有，我们不同层次的员工是如何看待自己的决策权的？  &lt;/li&gt;
+&lt;li&gt;组织内信息是如何横向（跨部门）与纵向（市场到管理层）流动的？  &lt;/li&gt;
+&lt;li&gt;我们都有哪些方式鼓励和阻止自我决策和信息流动的？  &lt;/li&gt;
+&lt;li&gt;我们的结构是如何基于外部和内部条件，考虑其对决策的影响的？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;在日常管理过程中，「决策环境」应是每个层级的管理者需要关注的重要部分，通过「决策权」、「信息」、「驱动力」、「结构」四个方面的分析、管理、和演进，构建适合当前组织内外条件的「决策环境」，提升战略执行的效率。&lt;/p&gt;</content:encoded></item><item><title>为不确定性设计</title><description>&lt;p&gt;领导力提升的重要指标是「领导者可以在多大程度上承担不确定性（Uncertainty）」，&lt;strong&gt;优秀的领导者懂得将事务性的、确定性的工作进行赋权，而承担更具风险和责任的不确定性事务&lt;/strong&gt;，这使得层级越高的领导者所处上下文、面临的问题、做出的决策越具有不确定性，无论从过程还是结果而言。&lt;/p&gt;
+
+&lt;p&gt;而作为设计师，我们需要与不同层级的管理者合作，理解企业不同级别的不确定性帮助我们：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;更好理解设计期待；  &lt;/li&gt;
+&lt;li&gt;采用更好的设计实践；  &lt;/li&gt;
+&lt;li&gt;产出合适的设计交付物；  &lt;/li&gt;
+&lt;li&gt;采取更好的设计策略。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;同时，也帮助我们有一天成长为组织中更具影响力的领导者。那么首先，在设计上下文中，什么是不确定性？&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计的不确定性&lt;/h2&gt;
+
+&lt;p&gt;你经常会问：「设计是否有效？」，这句话背后代表设计有着极大的不确定性，而这个问题本身并不全面，它缺少了一个重要的前提「对什么而言」，这里的「什么」，在一个组织里，包含了许多，它可能是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;用户：用户会喜欢这个设计并使用吗？&lt;/li&gt;
+&lt;li&gt;系统/产品：这个设计能在这个系统或产品中无缝运行吗？&lt;/li&gt;
+&lt;li&gt;业务：这个设计会对业务产生价值吗？；&lt;/li&gt;
+&lt;li&gt;商业模式：这个设计会成为一个持续且规模化的商业模式吗？&lt;/li&gt;
+&lt;li&gt;组织：这个设计会帮助整个组织成功吗？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;如果你对一个商业组织有一定理解，你会发现这些问题往往不来自于同一个人，而是来自于处于组织中不同层次的管理者。这便是设计不确定性的基础：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;设计的不确定性来自于组织内不同利益相关者（&lt;/p&gt;&lt;/blockquote&gt;</description><link>http://localhost:2368/design-for-uncertainty/</link><guid isPermaLink="false">21963903-3b48-4daa-9bb2-63b748681bc6</guid><category>成长</category><category>商业</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 18 Jul 2016 21:19:57 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/SEPT15_10_96518441.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/SEPT15_10_96518441.jpg" alt="为不确定性设计"&gt;&lt;p&gt;领导力提升的重要指标是「领导者可以在多大程度上承担不确定性（Uncertainty）」，&lt;strong&gt;优秀的领导者懂得将事务性的、确定性的工作进行赋权，而承担更具风险和责任的不确定性事务&lt;/strong&gt;，这使得层级越高的领导者所处上下文、面临的问题、做出的决策越具有不确定性，无论从过程还是结果而言。&lt;/p&gt;
+
+&lt;p&gt;而作为设计师，我们需要与不同层级的管理者合作，理解企业不同级别的不确定性帮助我们：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;更好理解设计期待；  &lt;/li&gt;
+&lt;li&gt;采用更好的设计实践；  &lt;/li&gt;
+&lt;li&gt;产出合适的设计交付物；  &lt;/li&gt;
+&lt;li&gt;采取更好的设计策略。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;同时，也帮助我们有一天成长为组织中更具影响力的领导者。那么首先，在设计上下文中，什么是不确定性？&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计的不确定性&lt;/h2&gt;
+
+&lt;p&gt;你经常会问：「设计是否有效？」，这句话背后代表设计有着极大的不确定性，而这个问题本身并不全面，它缺少了一个重要的前提「对什么而言」，这里的「什么」，在一个组织里，包含了许多，它可能是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;用户：用户会喜欢这个设计并使用吗？&lt;/li&gt;
+&lt;li&gt;系统/产品：这个设计能在这个系统或产品中无缝运行吗？&lt;/li&gt;
+&lt;li&gt;业务：这个设计会对业务产生价值吗？；&lt;/li&gt;
+&lt;li&gt;商业模式：这个设计会成为一个持续且规模化的商业模式吗？&lt;/li&gt;
+&lt;li&gt;组织：这个设计会帮助整个组织成功吗？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;如果你对一个商业组织有一定理解，你会发现这些问题往往不来自于同一个人，而是来自于处于组织中不同层次的管理者。这便是设计不确定性的基础：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;设计的不确定性来自于组织内不同利益相关者（Stakeholders）对于设计结果不同的期待，而这种期待的不同，来自于其权责范围的区别。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;因此逻辑是，理解设计不确定性，就是理解企业中利益相关者的职权范围和预期效果。&lt;/p&gt;
+
+&lt;h2 id=""&gt;利益相关者&lt;/h2&gt;
+
+&lt;p&gt;过去10年里，我作为设计师接触了一个商业组织中从最底层到最高层的利益相关者，他们主要分为5个层次：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;产品经理；  &lt;/li&gt;
+&lt;li&gt;项目经理；  &lt;/li&gt;
+&lt;li&gt;业务线总监；  &lt;/li&gt;
+&lt;li&gt;副总裁（CMO、CTO等）；  &lt;/li&gt;
+&lt;li&gt;高级副总裁至总裁。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;组织级别越高的利益相关者拥有更多的资源和资源调动能力、更大却更模糊的责任范围、更复杂的决策系统、以及对风险更高的容忍度。我们分别来看他们相关的权责范围与对设计结果的期待：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/stakeholders-uncertainty.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计师如何为不确定性设计&lt;/h2&gt;
+
+&lt;p&gt;设计师的成长程度与其能够产生影响力的大小成正比，对于产品、项目、业务、商业模式、到组织的影响力决定了一个设计师是否具有职业意义上成功；同时，在组织里，设计师是否能够用设计（交付物、实践、战略、领导力、文化影响）处理从极低到极高的不确定性，亦是设计师精进的不二法门。&lt;/p&gt;
+
+&lt;p&gt;我们来看看每个层次上，设计师应该如何为不确定性设计。&lt;/p&gt;
+
+&lt;h3 id=""&gt;进入产品经理层次&lt;/h3&gt;
+
+&lt;p&gt;传统设计师所处的位置往往包裹在产品经理的职权范围之内，其所承担的角色往往是对某个功能或功能集合进行信息、交互、或视觉的设计，与产品经理职责范围内的其他角色配合，共同达到产品经理所期待的结果——设计能够满足客户需要。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/product-scope-1.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;从不确定性的角度来看，设计圈（包括其他角色圈）里的不确定性，要完全小于产品经理圈，产品经理承担的风险更大，换言之，他能够承担的不确定性更高。&lt;/p&gt;
+
+&lt;p&gt;这种不确定性的核心来自「我们不确定我们的设计满足客户需要」。作为一个设计师，你所思考的应该是：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;我如何才能够和产品经理一起分享这样的不确定性？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;于是，我们看到许多设计实践都在帮助设计师在这样不确定性的条件下进行设计，例如以下我们所熟悉的设计实践：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design Sprint：在最短的时间里收集客户上下文，完成洞察、设计、测试、验证的过程；&lt;/li&gt;
+&lt;li&gt;迭代式的用户测试：从纸上原型到快速高保真交互原型；&lt;/li&gt;
+&lt;li&gt;基于假设的设计过程（Hypothesis-driven Design）：通过建立假设和验证试验，把设计本身当成用户研究（Design for research, not research for design）；&lt;/li&gt;
+&lt;li&gt;共同设计（Co-design）：和外部用户和内部利益相关者共同设计。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/co-design.png" alt="为不确定性设计"&gt;
+（&lt;em&gt;在终端用户现场进行设计活动&lt;/em&gt;）&lt;/p&gt;
+
+&lt;h3 id=""&gt;进入项目经理层次&lt;/h3&gt;
+
+&lt;p&gt;设计其实只是项目的一个部分而已，除此之外，作为一个项目经理还需考虑其他方面，它们可能包括：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;技术实现和项目进程；  &lt;/li&gt;
+&lt;li&gt;相关系统集成；  &lt;/li&gt;
+&lt;li&gt;多合作方协作；  &lt;/li&gt;
+&lt;li&gt;内容准备和迁移；  &lt;/li&gt;
+&lt;li&gt;客户准备和迁移；  &lt;/li&gt;
+&lt;li&gt;市场营销准备；  &lt;/li&gt;
+&lt;li&gt;维护和运营。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;在每个方面上，不确定性都可能存在，最直接的是现有设计不可能通过设计在规定时间内完成，设计体验可能大打折扣；一些不易察觉的不确定性还有很多：&lt;/p&gt;
+
+&lt;p&gt;例如，某一个大型电商网站的改版，客户引入了多个设计合作方进行协作，结果变得混乱，导致设计反复、需求失去控制、项目交付延期，项目失败。&lt;/p&gt;
+
+&lt;p&gt;再例如，某市场研究机构的核心客户系统重新设计和升级，因为没有做好现有客户的迁移工作，导致客户资料丢失、满意度急剧下降。&lt;/p&gt;
+
+&lt;p&gt;这些不确定性，都是普通设计师、甚至产品经理不需要考虑的，但是一个优秀设计师的成长，应该把目标定位在真正&lt;strong&gt;交付&lt;/strong&gt;持续为客户所使用的产品，而不仅仅停留在功能设计和产品设计上。&lt;/p&gt;
+
+&lt;p&gt;在最近一个设计项目里，我授权了许多跟项目合同、资源准备、技术架构方面的事宜给我的设计师，目的是希望她们能够站在项目交付的角度，体会和分担项目过程中超越功能和产品之外的不确定性。只有理解了这些，她们才能跟组织内权责更大的利益相关者展开对话，用设计的力量进行影响。&lt;/p&gt;
+
+&lt;h3 id=""&gt;进入业务线总监层次&lt;/h3&gt;
+
+&lt;p&gt;在业务线总监这个层次，我们的进入了完全不同的讨论。业务线总监的职责是在一定「问题域（Problem Space）」中发现、定义、排列问题，并组织、引导、协调解决方案的进行。&lt;/p&gt;
+
+&lt;p&gt;通俗来说：总监知道自己的业务范围是什么，她手上有许多问题需要解决，她要做的是厘清哪些需要解决、哪些不需要解决、哪些要增加用于解决的资源、哪些要停止解决。这便是业务线总监最核心的职责：投资组合管理（Investment Portfolio Management）。&lt;/p&gt;
+
+&lt;p&gt;管理IPM的核心机构通常是围绕在业务线总监周围的PMO（Project Management Office），这个组织通常汇聚了多个项目的项目经理和核心人员，她们所面对的不确定性是「所辖业务是否增长」。&lt;/p&gt;
+
+&lt;p&gt;那么，设计师希望突破单个项目的限制进入业务线总监层次应该如何做呢？&lt;/p&gt;
+
+&lt;h4 id=""&gt;理解问题域&lt;/h4&gt;
+
+&lt;p&gt;设计师善于理解一个浮于表面的「体验问题」，却很难理解这个简单的体验问题可能由一组在同一问题域中互相关联问题引起。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/problem-space.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;例如，客户一般拥有多个账户，每个账户中有多个账单寄送的地址，而产品寄送的地方属于产品寄送的地址，这种业务逻辑使得1个客户有x个账户、y个账单地址、z个产品寄送地址，在设计的时候，因为客户通常更经常了解同一个寄送地址下收到的产品，这个「体验问题」背后却有着许多关联问题存在：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;数据库设计里产品寄送地址属于账单地址的子表、账单地址又属于账户的子表、账户则属于用户表，数据的调取顺序是x-y-z；  &lt;/li&gt;
+&lt;li&gt;目前xyz的信息分别存在于多个系统上；  &lt;/li&gt;
+&lt;li&gt;目前有若干个项目正在进行中尝试改变底层数据结构、抽取成独立服务。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这些关联性的问题都是这个「体验问题」冰山之下的其他问题，而最重要的是，这些问题在组织中&lt;strong&gt;通常已经有相对应的项目在进行解决&lt;/strong&gt;，而进度、风险、难度都不一，你所面临是错综复杂的一系列问题和解决方案的集合。&lt;/p&gt;
+
+&lt;p&gt;业务线总监管理的难度早已不在具体问题或方案，而在于梳理问题之下的其他问题和方案中，寻找到一条最佳策略调动所辖内资源。&lt;/p&gt;
+
+&lt;h4 id=""&gt;系统思维发现问题&lt;/h4&gt;
+
+&lt;p&gt;在一个真实企业运营中，可能有上百个同时运行的项目，都在解决其各自认为的问题，但不幸的是，问题的独立解决，带来了单点效率提升，却没有办法获得整个业务系统的提升。&lt;/p&gt;
+
+&lt;p&gt;设计师应该用更加独特的角度，去发现多点解决方案在整合的情况下所发现的问题，暴露「系统问题」而非一个单点问题。&lt;/p&gt;
+
+&lt;p&gt;例如，我们观察了一家企业客户经理整个销售的过程，虽然在每一个信息需求点上都有相对应的解决方案，但当它们整合在一起的时候，变成了混乱。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/systemic-problems.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;这种问题的发现帮助业务总监在她的问题域中、多个业务系统间找到系统性解决方案，也许一个简单的系统改进就能使整个系统的效率成倍增长。&lt;/p&gt;
+
+&lt;p&gt;这种系统思维发现问题的方式，让设计师在「问题域」的层次上帮助业务线总监思考和处理「不确定性」。&lt;/p&gt;
+
+&lt;h4 id="pmo"&gt;建立更适应「不确定性」的PMO机制&lt;/h4&gt;
+
+&lt;p&gt;导致多项目管理的「不确定性」可能来自多个方面，例如：紧急的客户需求、市场竞争变化、业务或资源瓶颈突破、大规模投资、某核心项目失败或延期、某高速增长的业务等。&lt;/p&gt;
+
+&lt;p&gt;这些因素对一个具有优秀适应性的PMO机制提出了以下要求：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;灵活的机会管理；  &lt;/li&gt;
+&lt;li&gt;兼具主导性和自发性的创新；  &lt;/li&gt;
+&lt;li&gt;战略性的投资决策；  &lt;/li&gt;
+&lt;li&gt;更精益的需求管理；  &lt;/li&gt;
+&lt;li&gt;有机的项目协调。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;例如下图是我们为企业创新中机会管理建立的漏斗机制：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/innovation-funnel.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;更多关于如何打造一个具备以上素质的PMO在此不展开讨论，请关注后续Lean PMO相关的文章。&lt;/p&gt;
+
+&lt;h3 id=""&gt;进入资深副总裁至总裁层次&lt;/h3&gt;
+
+&lt;p&gt;这个层次的不确定性已经完全脱离了某个项目、产品、问题域、业务线，更多在一个行业（外）和组织（内）的角度处理模糊（Ambiguity），我们分别从外和内的角度分析这些不确定性，来自于哪里？对外来说有以下方面具有极高的不确定性：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;颠覆性技术&lt;/strong&gt;：事实证明，对一个金融机构而言，真正的颠覆并不来自于已经市场化的技术实现，例如采用P2P模式对接借贷双方的技术实现虽在短期挑战了许多传统银行的业务，但从长期来看，现实技术的实现门槛只会越来越低，并不足以撼动传统金融机构的地位。&lt;/p&gt;
+
+&lt;p&gt;而某些颠覆性技术，例如区块链（Blockchain）技术所带来的分布式金融体系则有可能真正颠覆传统金融体系，那么对于这个新技术领域的提前布局和准备，是极具不确定性的战略投入。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/tech-radar.png" alt="为不确定性设计"&gt;
+（ThoughtWorks的技术雷达每年都会为组织评点最新出现的技术趋势以及对应策略）&lt;/p&gt;
+
+&lt;p&gt;当「技术即商业（Every business is a digital business）」越来越多的企业高层决策者所接受，对于颠覆性技术的了解、尝试、和准备，将在未来一段时间内将进入许多高层决策者的视野。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;颠覆性模式、产品和服务&lt;/strong&gt;：我们看到了许多传统行业的企业正在拥抱被认为是「颠覆性」的模式、产品和服务。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/PJ-CB510_PTECHi_16U_20150505125639.jpg" alt="为不确定性设计"&gt;
+(ILLUSTRATION: ROBERT NEUBECKER)&lt;/p&gt;
+
+&lt;p&gt;除了在美国发生的「Uber of Everything (Uber一切)」，以及中国版的「互联网+一切」运动，都在刺激着传统企业。美国传统酒精饮料卖场巨头TotalWine与网召快递Instacart进行合作，推出1小时快递服务：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/totalwine-instantcart.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;传统豪华车品牌BMW，在今年5月刚&lt;a href="http://fortune.com/2016/05/25/bmw-carpool-scoop/"&gt;收购&lt;/a&gt;了位于加利福利亚的车辆共享（Carpooling）技术公司&lt;a href="https://www.takescoop.com/"&gt;Scoop&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/scoop.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;中国速运巨头牵头国内五家速运企业投资「蜂巢科技」，提供智能化的快递柜和相关科技。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/sf-express.jpeg" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;这些战略性的投入都标志着传统企业对于新生模式态度的转变，从不屑一顾、到形成战略合作伙伴关系、甚至到全资收购。那么选择谁、怎么选、如何执行、怎样成长这样超不确定性的问题纷至沓来。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;组织形式&lt;/strong&gt;：另外一个部分不确定性来自于企业内部，在一个高不确定性的成长模式下，组织需要什么样的能力、流程、管理模式、激励手段、合作方式、和文化进行配合，同样也是企业决策层所需要面对不确定性因素。&lt;/p&gt;
+
+&lt;p&gt;因此，作为设计师，在与企业决策层进行合作时，有以下要求：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;对颠覆性技术保持了解、并能对其在特定行业的影响形成观点，例如AR/VR技术和4K显示技术对于传统存储行业的机会；  &lt;/li&gt;
+&lt;li&gt;对市场中颠覆性模式有较高的敏感度和本质上的分析，例如口袋妖怪VR的流行对于传统零售业有哪些启示；  &lt;/li&gt;
+&lt;li&gt;拥有战略思考的能力，对竞争对手的战略布局有深入的思考和快速的信息解析能力；  &lt;/li&gt;
+&lt;li&gt;对企业运营有足够的储备，包括领导力、企业行为、并购、预算、企业文化等方面的知识；  &lt;/li&gt;
+&lt;li&gt;对企业级IT架构有足够的储备，包括核心系统的划分、基础数据、核心业务流程、服务化等方面的知识。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;本文很长，它也揭示出一位设计师成长的核心脉络，这便是&lt;strong&gt;「永远为更高不确定性设计」&lt;/strong&gt;，而不是为某个交互、某个产品、某个服务、也不是以客户为中心的设计，设计师终极志向应是「组织的成功」，这里的成功包含了多重因素，包含商业和社会的全面成功。&lt;/p&gt;
+
+&lt;p&gt;这也间接推导出设计师所能影响的5个不确定领域（Spaces of Uncertainty）：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/uncertainty-levels.png" alt="为不确定性设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;过去10年里，我们学会了：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;设计不再是美、还有用户交互体验；  &lt;/li&gt;
+&lt;li&gt;设计不再是用户交互体验、还有以客户为中心的设计；  &lt;/li&gt;
+&lt;li&gt;设计不再是只以客户为中心、还有构成整个服务体验的诸多因素。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;究其核心都是设计师尝试承担更多不确定性责任以及更大影响力的结果，从不确定性角度思考设计，帮助设计师目标远大的成长。&lt;/p&gt;</content:encoded></item><item><title>蓝海战略</title><description>&lt;p&gt;本文是《战略十篇》的第五篇书稿，来自于Renée Mauborgne和W. Chan Kim，原文刊于《哈佛商业评论》2004年10期（&lt;a href="https://hbr.org/2004/10/blue-ocean-strategy"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
 
 &lt;p&gt;1984年来自加拿大魁北克的两位街头艺人盖·拉利伯特与吉列斯·史特-克洛伊克斯建立了一间自我定义为「马戏艺术和街头娱乐的戏剧性组合」的表演团体——索拉奇艺坊。这就是当今最富盛名的「太阳马戏团（法语：Cirque du Soleil）」的前身。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="http://image60.360doc.com/DownloadImg/2013/04/0921/31529700_5.jpg" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://www.thetimes.co.uk/tto/multimedia/archive/00820/Cirque_du_Soleil__T_820274a.jpg" alt=""&gt;&lt;/p&gt;
 
 &lt;p&gt;马戏表演作为一个古老的行业在当时发生前所未有的变局，从需求端来看：&lt;/p&gt;
 
@@ -22,7 +385,7 @@
 
 &lt;p&gt;1984年来自加拿大魁北克的两位街头艺人盖·拉利伯特与吉列斯·史特-克洛伊克斯建立了一间自我定义为「马戏艺术和街头娱乐的戏剧性组合」的表演团体——索拉奇艺坊。这就是当今最富盛名的「太阳马戏团（法语：Cirque du Soleil）」的前身。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="http://image60.360doc.com/DownloadImg/2013/04/0921/31529700_5.jpg" alt="蓝海战略"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://www.thetimes.co.uk/tto/multimedia/archive/00820/Cirque_du_Soleil__T_820274a.jpg" alt="蓝海战略"&gt;&lt;/p&gt;
 
 &lt;p&gt;马戏表演作为一个古老的行业在当时发生前所未有的变局，从需求端来看：&lt;/p&gt;
 
@@ -1563,192 +1926,4 @@
 &lt;li&gt;把情绪带到面试中，不要过于激动或感动；&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;预祝大家设计师面试愉快。&lt;/p&gt;</content:encoded></item><item><title>重新思考波特五力</title><description>&lt;p&gt;&lt;em&gt;Michael E. Porter堪为企业战略理论大师，「波特五力」则是企业战略的基础理论框架，战略分析师通过对五种力量的分析，寻找到企业成长的最优路径，十几年来奉为经典。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href="http://localhost:2368/five-competitive-forces/HBR's 10 Must Reads - On Strategy"&gt;《HBR's 10 Must Reads - On Strategy》&lt;/a&gt;中收录的《The Five Competitive Forces That Shape Strategy》即是「波特五力」的经典之源头，多年之后，重新阅读，有了新的体会。&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=""&gt;竞争力勘误&lt;/h2&gt;
-
-&lt;p&gt;在中文中「竞争力」一词的含义为「企业在竞争中体现的能力」，即为Competitiveness，而Competitive Force的真正含义则是&lt;strong&gt;「一个商业环境中竞争的激烈程度」&lt;/strong&gt;，前者着眼于自身、后者着眼于外界。&lt;/p&gt;
-
-&lt;p&gt;因为中文中没有一个相对应的词汇表达「竞争烈度」，这使得我们对「波特五力」理解可能产生偏差，即在谈论波特五力中容易容易陷入一种「寻找竞争力」的盲目乐观，而轻视了外部竞争环境所带来的摧毁的力量。&lt;/p&gt;
-
-&lt;p&gt;在思考「&lt;/p&gt;</description><link>http://localhost:2368/five-competitive-forces/</link><guid isPermaLink="false">906c0cce-6a54-4336-9d58-5cb4035848db</guid><category>创新</category><category>战略十篇</category><dc:creator>熊子川</dc:creator><pubDate>Sun, 06 Mar 2016 01:15:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;Michael E. Porter堪为企业战略理论大师，「波特五力」则是企业战略的基础理论框架，战略分析师通过对五种力量的分析，寻找到企业成长的最优路径，十几年来奉为经典。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href="http://localhost:2368/five-competitive-forces/HBR's 10 Must Reads - On Strategy"&gt;《HBR's 10 Must Reads - On Strategy》&lt;/a&gt;中收录的《The Five Competitive Forces That Shape Strategy》即是「波特五力」的经典之源头，多年之后，重新阅读，有了新的体会。&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=""&gt;竞争力勘误&lt;/h2&gt;
-
-&lt;p&gt;在中文中「竞争力」一词的含义为「企业在竞争中体现的能力」，即为Competitiveness，而Competitive Force的真正含义则是&lt;strong&gt;「一个商业环境中竞争的激烈程度」&lt;/strong&gt;，前者着眼于自身、后者着眼于外界。&lt;/p&gt;
-
-&lt;p&gt;因为中文中没有一个相对应的词汇表达「竞争烈度」，这使得我们对「波特五力」理解可能产生偏差，即在谈论波特五力中容易容易陷入一种「寻找竞争力」的盲目乐观，而轻视了外部竞争环境所带来的摧毁的力量。&lt;/p&gt;
-
-&lt;p&gt;在思考「波特五力」时，核心的关键在于&lt;strong&gt;将「波特五力」视为摧毁组织的力量，而非「竞争力（Competitiveness）」&lt;/strong&gt;，这五大可能摧毁你现有组织的力量包括：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;供货商议价能力（Bargaining Power of Suppliers）  &lt;/li&gt;
-&lt;li&gt;消费者议价能力（Bargaining Power of Buyers）  &lt;/li&gt;
-&lt;li&gt;新入者威胁（Treat of New Entrants）  &lt;/li&gt;
-&lt;li&gt;替代品威胁（Threat of Substitute Products or Services）  &lt;/li&gt;
-&lt;li&gt;现有竞争（Rivalry Among Existing Competitors）&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src="http://wiki.mbalib.com/w/images/4/48/%E6%B3%A2%E7%89%B9%E4%BA%94%E5%8A%9B%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B1.gif" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;因此，波特五力是用于理解和分析外界竞争环境的，而非企业竞争力本身，翻译成「波特竞争力模型」容易产生误解。&lt;/p&gt;
-
-&lt;h2 id=""&gt;企业衰落&lt;/h2&gt;
-
-&lt;p&gt;「波特五力」天生具有增强的趋势：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;供货商永远希望支付得越多、供给得越少；&lt;/li&gt;
-&lt;li&gt;消费者永远希望支付得越少、得到得更多；&lt;/li&gt;
-&lt;li&gt;新入者用更少的成本获得已成熟公司的经验、知识、技术、并拥有较少的负担；&lt;/li&gt;
-&lt;li&gt;替代产品和服务瞬间改变整个市场；&lt;/li&gt;
-&lt;li&gt;竞争随着产业逐步成熟而愈加激烈。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这就意味着，&lt;strong&gt;所有公司都在衰落，所有公司最终都会倒下&lt;/strong&gt;：无论任何行业的任何商业形态，供给方和客户的议价能力一定保持自然增长、一定会出现颠覆者、一定有新的技术替代现有产品、现有竞争一定趋于白热化，最后的结果是，利润天然在干涸。&lt;/p&gt;
-
-&lt;p&gt;公司的领导者们所做的，本质上都是在保护公司不断干涸的利润，大多数的公司行为都是在抵抗这五种力量的侵蚀。当理解了这一点，再思考许多公司的行为时，便会有新的认识。&lt;/p&gt;
-
-&lt;h2 id=""&gt;企业行为&lt;/h2&gt;
-
-&lt;p&gt;诸如苹果公司这样的企业正努力构建着防护波特五力的保护网：全球化分工、规模生产、多供应商选择打散了供应链上所有供应商的利润分布，使其不能出现强大的供应商；利用封闭式、统一性的跨系统体验、被塑造的设计英雄、冠以无以伦比的设计牢牢绑定消费者；利用大量技术专利保护和封闭式系统阻止新的企业进入；大量的研发投入始终保持技术的领先性，并不断拓展生态圈，建立壁垒；通过对供应链的影响巧妙操纵低端竞争，使得大量行业竞争发生在低端。&lt;/p&gt;
-
-&lt;p&gt;当我重新思考ThoughtWorks公司整个业务模式建立的初始，也有类似的企业行为正在保护这家20年历史的定制软件咨询公司。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;供应商：定制软件的供应商是优秀的软件工程师，ThoughtWorks一直以来保护着其值得骄傲的工程师文化；&lt;/li&gt;
-&lt;li&gt;消费者：定制软件需要大规模和客户内部系统进行集成，这种强绑定本身也进一步地削弱了消费者（即客户）的议价能力；&lt;/li&gt;
-&lt;li&gt;新入者：同等业务模式几乎不可能在短时间内积攒起有足够力量颠覆行业的智力资源和客户渠道；&lt;/li&gt;
-&lt;li&gt;行业内竞争：虽竞争激烈，而IT服务市场持续稳定增长为行业获得空间。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;至少在以上四点，ThoughtWorks都可以保证在很长一段时间成长，更值得一提的，是来自「替代产品和服务」的威胁。&lt;/p&gt;
-
-&lt;p&gt;过去的30年里，摩尔定律让计算机的外部存储至少增长了十万倍、内部存储增长一万倍、CPU速度增长一千倍，有趣的是，尽管IDE工具和框架发展迅猛，编程语言本身的发展及其，通俗一点，虽然我们的计算设备能力发生爆炸式的增长，但软件开发依然是一件昂贵的事情。在企业对定制软件需求不变的前提下，这点成功地保护了企业定制软件市场的现有规则，阻止了替代产品和服务的出现。&lt;/p&gt;
-
-&lt;p&gt;「波特五力」决定了企业行为的基本脉络，在每个主题之下也许战略不同，但目标都是一样，以ThoughtWorks为例，即：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;供应商：如何持续获得、保持、和升值软件工程师持续不断的智力资源；&lt;/li&gt;
-&lt;li&gt;消费者：如何坚持绑定长期客户；&lt;/li&gt;
-&lt;li&gt;新入者：如何保持规模和服务的多样性，建立高门槛；&lt;/li&gt;
-&lt;li&gt;替代产品和服务：如何适应客户业务模式变化所带来的对IT技术要求的变化（从集成商、到数字化、再到去中心化业务）；&lt;/li&gt;
-&lt;li&gt;行业内竞争：如何不断追求独特性。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=""&gt;波特五力和创新&lt;/h2&gt;
-
-&lt;p&gt;仔细思考「波特五力」下企业行为的基本脉络，似乎缺少「创新」的位置，多的是「持续」、「坚持」、「保持」、「适应」、「不断追求」这样的词语，这似乎是我对「波特五力」持有的最大疑问：如果一间企业已经处于了较为有利的竞争空间，即有足够的能力应对来自五个方面的力量，继续处于这个竞争空间是否是企业最佳的选择？而不是创新。&lt;/p&gt;
-
-&lt;p&gt;当所有人都在谈论「不创新、毋宁死」的时候，寻找到最佳的竞争空间并保持下去是不是更好的一种方式？创新是不是一个被过度渲染和理想化的词语？失去曾经的竞争空间是否是因为「不创新」，还是因为「不适应」？&lt;/p&gt;
-
-&lt;p&gt;事实上，绝大部分的公司还没有进入到竞争空间就已经死亡、一小部分公司进入了错误的竞争空间、极少部分公司因为不适应而逐渐消亡，因为「不创新」而死亡的公司只是媒体创造出来的概念。&lt;/p&gt;
-
-&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
-
-&lt;p&gt;在创新还没有成为「最不创新」的「老生常谈」的年代，「波特五力」就已经成为分析企业竞争环境的基本框架，它所解释的，是决定一个企业盈利能力的不单单来自于直接竞争本身，还来自于竞争环境中的其他多个方面。&lt;/p&gt;
-
-&lt;p&gt;一共五种力量，在蚕食着企业的盈利能力，优秀的企业在此之上构建企业行为，对抗着这五种力量，并适应它所发生的变化。因此，&lt;strong&gt;创新不是目的而是手段之一、找到合适竞争环境并适应它才是目的，不应本末倒置&lt;/strong&gt;。&lt;/p&gt;</content:encoded></item><item><title>Reliability还是Validity？</title><description>&lt;p&gt;去年一场设计思维的工作坊，我讲到了分析思维和直觉思维的区别，当时我展示了一幅图，图的左边是分析思维（Analytical Thinking）：即期待重复发生的事件中、用重复的方式找到共同之处；而右边是直觉思维（Intuitive Thinking）：即期待突然降临的灵感突然奏效。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/The-predilection-gap.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;讲演中我说：分析思维更加重视可验证性，而直觉思维更加依赖于某个可以信赖的人，此图有些错误，右边应该是Reliability，左侧才是Validity。&lt;/p&gt;
-
-&lt;p&gt;直到今年，经过朋友的指点，我才意识到，我对于Reliability和Validity的理解是错误的。以下是我对Reliability和Validity的重新理解，并做了相关的延伸阅读，是以为记。&lt;/p&gt;
-
-&lt;h4 id=""&gt;可信赖的过程和有效的结果&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;首先，Reliability偏重过程可以重复可信赖（Reliable），而不在于结果有效（Valid）。&lt;/strong&gt; 下图完美地解释了&lt;strong&gt;可信赖的过程&lt;/strong&gt;（Reliable Process）和&lt;strong&gt;有效的结果&lt;/strong&gt;（Valid Result）之间的区别：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/target.gif" alt=""&gt;&lt;/p&gt;
-
-&lt;h4 id=""&gt;可信赖的过程扼杀有效的结果&lt;/h4&gt;
-
-&lt;p&gt;其次，重复可信赖的过程需要分析思维的帮助，通过分析结果反推过程，寻找可以固化的模式，并反复使用，最终获得持续的结果。但结果本身往往是无法验证有效的，因为「有效的结果」&lt;/p&gt;</description><link>http://localhost:2368/reliablity-or-validity/</link><guid isPermaLink="false">d18edc07-f22b-4fe2-9dee-fe03638f1582</guid><category>创新</category><category>设计思维</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 29 Feb 2016 21:38:14 GMT</pubDate><content:encoded>&lt;p&gt;去年一场设计思维的工作坊，我讲到了分析思维和直觉思维的区别，当时我展示了一幅图，图的左边是分析思维（Analytical Thinking）：即期待重复发生的事件中、用重复的方式找到共同之处；而右边是直觉思维（Intuitive Thinking）：即期待突然降临的灵感突然奏效。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/The-predilection-gap.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;讲演中我说：分析思维更加重视可验证性，而直觉思维更加依赖于某个可以信赖的人，此图有些错误，右边应该是Reliability，左侧才是Validity。&lt;/p&gt;
-
-&lt;p&gt;直到今年，经过朋友的指点，我才意识到，我对于Reliability和Validity的理解是错误的。以下是我对Reliability和Validity的重新理解，并做了相关的延伸阅读，是以为记。&lt;/p&gt;
-
-&lt;h4 id=""&gt;可信赖的过程和有效的结果&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;首先，Reliability偏重过程可以重复可信赖（Reliable），而不在于结果有效（Valid）。&lt;/strong&gt; 下图完美地解释了&lt;strong&gt;可信赖的过程&lt;/strong&gt;（Reliable Process）和&lt;strong&gt;有效的结果&lt;/strong&gt;（Valid Result）之间的区别：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/target.gif" alt=""&gt;&lt;/p&gt;
-
-&lt;h4 id=""&gt;可信赖的过程扼杀有效的结果&lt;/h4&gt;
-
-&lt;p&gt;其次，重复可信赖的过程需要分析思维的帮助，通过分析结果反推过程，寻找可以固化的模式，并反复使用，最终获得持续的结果。但结果本身往往是无法验证有效的，因为「有效的结果」存在上下文（即不同的靶心）。&lt;/p&gt;
-
-&lt;p&gt;例如，网页设计中的「F模式」被广泛应用于网页设计，模式本身基于大量人眼跟踪测试结果，这个设计可以称之为「可信赖的」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/f-pattern-website-design.jpg" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;但是不少设计师开始反思这种以「最佳实践驱动的设计」本身是不是在犯着「自说自话」的错误，在一篇反思互联网是否在扼杀设计师创造力的文章《&lt;a href="https://www.smashingmagazine.com/2016/01/is-the-internet-killing-creativity/"&gt;Is The Internet Killing Creativity?&lt;/a&gt;》中作者这样评价「F模式」：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;What comes first, the F reading pattern, or the F design pattern? I think people read our sites like they do because we design them that way. （到底是现有F阅读模式、还是现有F设计模式？我想只是因为我们这么设计、人们才这样阅读。）&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;换言之，到底什么是「更加有效的结果」的讨论，往往被扼杀在「看起来可信赖的过程」中。&lt;/p&gt;
-
-&lt;h4 id=""&gt;先追求过程还是先追求结果&lt;/h4&gt;
-
-&lt;p&gt;当我们把这个问题引入到企业创新这个话题上，这将是所有企业创新者所遇到的问题：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;追求过程往往限制创新，获得平庸的结果；  &lt;/li&gt;
-&lt;li&gt;追求结果往往无法持续，再漂亮的结果也是昙花一现，对组织无益。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;不同特点领导者的关注点可能不同：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;我不管你实现的结果，我只关注可以落地的实践；  &lt;/li&gt;
-&lt;li&gt;我不管你实现的过程或是否能够复制，我只关注成功的结果。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而在组织里，你也会遇到两类执行者：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;我首先想到的是使用流程和最佳实践，保证有结果，而不是最好的结果；  &lt;/li&gt;
-&lt;li&gt;我首先想到的是最好的结果，同时绕过流程和最佳实践。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从设计思维中，我们可以给出很好的答案。&lt;/p&gt;
-
-&lt;p&gt;过度追求过程的可依赖性最后的结果只是「刻舟求剑」——当靶心早已变化；一味追求结果的有效，却不尊重上下文和持续性，最后的结果则毫无意义（Unreliable validity is not validity）。而将各自所代表的「分析思维」与「直觉思维」相互整合才是设计思维的核心。&lt;/p&gt;
-
-&lt;p&gt;回到最初的问题，作为主导企业创新决策者的你，先追求过程还是追求结果？&lt;/p&gt;
-
-&lt;p&gt;我的回答的是，&lt;strong&gt;取决你有什么样的推动者&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;当你有一个「分析思维」的推动者，他的特点是认真、稳重，你要做的是「挑战他的结果」——这是正确的结果吗？还有更好的结果吗？你评价结果的标准正确吗？这帮助他突破因为「过程导向」所导致的「结果蒙蔽」。&lt;/p&gt;
-
-&lt;p&gt;当你有一个「直觉思维」的推动者，他充满热情、无所畏惧，你要做的是「挑战他的过程」——我们从结果中学到了什么？为什么成功？为什么失败？做什么可以帮助我们第二次成功？阻止我们第二次失败？这避免使他成为「幼稚的机会主义者」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/innovation-pratictioner-strategies.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;我始终的观点是，就算对设计思维理解极深刻的人，都不可能保证完美成为50/50的Design Thinker，他最多只能对另外一边保持「认识（Aware）」，而由不同人组成的组织可以，优秀的企业领导者，应该识别出组织内创新的推动者偏向哪一边，同时考虑组织当前更需要哪一边，给予他不同策略（追求结果或追求过程）的支持。&lt;/p&gt;
-
-&lt;h4 id=""&gt;写在最后&lt;/h4&gt;
-
-&lt;p&gt;如果一定让我避免咨询师般「It depends」式模棱两可的回答，我想说：&lt;/p&gt;
-
-&lt;p&gt;关于过程可依赖性与结果有效的讨论其实大量出现在企业活动中，有趣的是，&lt;strong&gt;结果有效时你所收到「如何才能可持续」的挑战，要远远多于当过程已经持续时，你收到「真的在解决真正问题吗」的质疑&lt;/strong&gt;，原因很简单：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;手上有弓，到处都是靶。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;因此，到底是Reliability还是Validity的问题，看看在你的组织里，到底哪种挑战更多，如果没有人挑战「真的在解决真正问题吗（is it valid）？」那么放弃一些过程的可信赖，也是可以的。&lt;/p&gt;
-
-&lt;p&gt;别忘记了，Reliability解决的是你有把不错的弓箭，Validity解决的是让你射在正确的靶子上。&lt;/p&gt;
-
-&lt;p&gt;最后感谢给我建议的朋友。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;预祝大家设计师面试愉快。&lt;/p&gt;</content:encoded></item></channel></rss>
