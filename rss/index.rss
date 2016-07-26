@@ -1,4 +1,158 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 25 Jul 2016 02:11:42 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>战略执行的逻辑</title><description>&lt;p&gt;《战略十篇》的第六篇书稿，来自于Gary L. Neilson、Karla L. Martin、以及Elizabeth Powers，原文刊于《哈佛商业评论》2008年6期（&lt;a href="https://hbr.org/2008/06/the-secrets-to-successful-strategy-execution"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 26 Jul 2016 01:14:02 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>重新思考颠覆式创新</title><description>&lt;p&gt;Clayton Christensen被认为是至今最伟大的企业管理思想巨匠之一，1997年其所著《创新者的窘境（&lt;em&gt;The Innvator's Dilemma&lt;/em&gt;）》至今仍被科技界奉为圭臬。正是因为此书，使颠覆式创新（Disruptive Innovation）成为几乎有科技界从业者口中津津乐道的概念。&lt;/p&gt;
+
+&lt;p&gt;于是各类创新咨询层出不穷、以此为生的「创新咨询师」、「创新教练」振聋发聩地喊出「不是颠覆别人、就是被颠覆」、「不创新、毋宁死」的口号——来自埃森哲的咨询师&lt;a href="http://www.larrydownes.com"&gt;Larry Downes&lt;/a&gt;甚至将颠覆式创新升华为「颠覆大爆炸（Big Bang Disruption）」，网站上的标题是：Big Bang Disruption: The innovator's disaster（创新者的灾难）。&lt;/p&gt;
+
+&lt;p&gt;当原来的「窘境」变成了「灾难」，颠覆式创新理论在将近20年的时间里到底发生了什么？为何这个曾今影响了许多企业管理者的理念到如今变成了咨询公司「咋咋呼呼的咆哮」？回答这些问题，重新思考颠覆式创新变得很有必要。&lt;/p&gt;
+
+&lt;h2 id=""&gt;窘境&lt;/h2&gt;
+
+&lt;p&gt;理解「&lt;/p&gt;</description><link>http://localhost:2368/rethink-disruptive-innovation/</link><guid isPermaLink="false">62a683f7-15af-4192-a1e4-30604e59e71d</guid><category>创新</category><category>商业</category><dc:creator>熊子川</dc:creator><pubDate>Tue, 26 Jul 2016 01:03:20 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/hand-gun-gesture.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/hand-gun-gesture.jpg" alt="重新思考颠覆式创新"&gt;&lt;p&gt;Clayton Christensen被认为是至今最伟大的企业管理思想巨匠之一，1997年其所著《创新者的窘境（&lt;em&gt;The Innvator's Dilemma&lt;/em&gt;）》至今仍被科技界奉为圭臬。正是因为此书，使颠覆式创新（Disruptive Innovation）成为几乎有科技界从业者口中津津乐道的概念。&lt;/p&gt;
+
+&lt;p&gt;于是各类创新咨询层出不穷、以此为生的「创新咨询师」、「创新教练」振聋发聩地喊出「不是颠覆别人、就是被颠覆」、「不创新、毋宁死」的口号——来自埃森哲的咨询师&lt;a href="http://www.larrydownes.com"&gt;Larry Downes&lt;/a&gt;甚至将颠覆式创新升华为「颠覆大爆炸（Big Bang Disruption）」，网站上的标题是：Big Bang Disruption: The innovator's disaster（创新者的灾难）。&lt;/p&gt;
+
+&lt;p&gt;当原来的「窘境」变成了「灾难」，颠覆式创新理论在将近20年的时间里到底发生了什么？为何这个曾今影响了许多企业管理者的理念到如今变成了咨询公司「咋咋呼呼的咆哮」？回答这些问题，重新思考颠覆式创新变得很有必要。&lt;/p&gt;
+
+&lt;h2 id=""&gt;窘境&lt;/h2&gt;
+
+&lt;p&gt;理解「颠覆」要从「窘境」开始。「窘境」的意涵是「进退维谷」，Christensen认为，企业的衰落不在于管理者做了错误的决定，而往往是因为他们做了正确的决定。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Doing the right thing is the wrong thing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;许多现在看起来成功的产品或服务在当时并不是符合正常的商业逻辑：例如IBM不可能选择进入个人电脑领域，因为小型机市场依然是最具商业价值的市场，在那是，个人还没有对于个人电脑的需要。&lt;/p&gt;
+
+&lt;p&gt;这便是创新者所面临的左右为难的境地：我们该如何看待目前还不存在的市场、不成熟的技术、不盈利的业务，不做，错过了时机、做了，却存在现有业务的阻力。&lt;/p&gt;
+
+&lt;p&gt;而颠覆性技术正在同时不断接近市场的沸点，当技术和市场同时成熟的时候，那些在市场上率先使用更新技术、推出新产品和服务适应市场变化的企业开始从行业底端向上占据已有市场份额。&lt;/p&gt;
+
+&lt;p&gt;成功逆袭的，便称之为颠覆者（Disruptor）；相反被拉下神坛的，称之为被颠覆者（The Disrupted）。而沸点何时发生、哪个技术会突破沸点、市场会如何变化、谁会扮演颠覆者的角色，我们都不得而知——举棋不定的，则是深处窘境中的创新者。&lt;/p&gt;
+
+&lt;h2 id=""&gt;创造和破坏&lt;/h2&gt;
+
+&lt;p&gt;人类执着于解释「创造」与「破坏」的关系，就像痴迷于思考生死一样。在印度教中，湿婆神（Shiva）同时是毁灭者又是创造神，这被广泛认为是西方政治经济学中「Creative Destruction（创造性破坏）」的灵感来源。&lt;/p&gt;
+
+&lt;p&gt;《共产党宣言》中马克思将资本主义之所以兴盛的秘密解释成「不断生产和消灭财富」、而持续发生危机的原因也正是因为「不断生产和消灭财富」。&lt;/p&gt;
+
+&lt;p&gt;至1942&lt;a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9"&gt;约瑟夫·熊彼特&lt;/a&gt;在所著《资本主义、社会主义和民主》一书中发展了马克思主义的理论，正式提出「破坏性创造」这一理论，到后世，大部分自由主义经济学家认为资本主义的活力正式来自于「资本主义内在破坏性创造的革新机制」。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://economicstudents.com/wp-content/uploads/2016/05/David_Hurley_Article_Image.jpg" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
+
+&lt;p&gt;熊彼特相信在创业者的创新是经济增长的颠覆性力量，颠覆的对象是享有现有价值的现有技术、组织形式、法规、以及经济形态。&lt;/p&gt;
+
+&lt;p&gt;因此颠覆式创新的理论框架依然延续着「创造性破坏」的规律，只是从技术的角度尝试解释这一规律发生的成因。&lt;/p&gt;
+
+&lt;p&gt;「破坏性创造」来自于马克思对资本主义本质的解释，并第一次让人们开始思考创新本身对于经济增长意味着什么，而以信息技术革新为基础的第三次工业革命的到来，第一次让人民意识到「破坏性创造」的残酷一面。&lt;/p&gt;
+
+&lt;h2 id=""&gt;创造的阵痛&lt;/h2&gt;
+
+&lt;p&gt;标准普尔500（S&amp;amp;P500）公司的平均生存年限从1935年的90年降到了2014年的&lt;a href="http://seekingalpha.com/article/2651195-increasing-churn-rate-in-the-s-and-p-500-whats-the-lifespan-of-your-stock"&gt;18年&lt;/a&gt;，按照目前的速度75%的S&amp;amp;P500公司将在2027年消失。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://static.cdn-seekingalpha.com/uploads/2014/11/2557601_14152433773155_rId6.png" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
+
+&lt;p&gt;资本主义曾今的繁荣让人不得不重新回想起马克思在1848年《共产党宣言》中对资本主义天然危机的描述：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在这些危机中，不仅仅只是现有的生产，甚至以前的生产所得，都会间歇性地被摧毁...社会会突然回到一个短暂的野蛮时代（Barbarism）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;颠覆式创新正是在这样一个历史阶段中被提出。其中最著名的磁盘存储领域案例正是在当时阵痛最明显的行业，其中提到了希捷（Seagate）正是被颠覆式创新颠覆的公司之一。而Jill Lepore在2014年6月23日《纽约客》封面文章《&lt;a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine"&gt;The Disruption Machine&lt;/a&gt;》中尖锐地指出：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;事实上，希捷科技并没有因颠覆而倒下。1989年到1990年期间，希捷的运营收入达到24亿美元，几乎是在美国其所有竞争对手加起来的全部...去年（指2013年）希捷销售了20亿支硬盘，而Christensen所提到的颠覆者早已不在。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这篇文章也成为2014年开始人们对于颠覆式创新进行批评和质疑的焦点。&lt;/p&gt;
+
+&lt;h2 id=""&gt;质疑的焦点&lt;/h2&gt;
+
+&lt;p&gt;除了颠覆式创新理论基础中的案例有些不符合真实发生的情况，在现实中许多被认为具有颠覆性的商业模式也并不符合其理论框架的定义。&lt;/p&gt;
+
+&lt;p&gt;例如，Christensen在评价苹果的iPhone手机时说：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;iPhone只是诺基亚的延续性技术，他们只是在造更好的手机。而理论预测苹果将不会在iPhone上取得成功...这并不是一个颠覆式的创新。历史会给出答案，它成功的可能性将非常有限。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Christensen在2007年接受了新闻周刊（BusinessWeek）的&lt;a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice"&gt;采访&lt;/a&gt;，采访者问到：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;您的书中着重描述了因为技术而产生颠覆性创新，然而现在当我们谈创新的时候，范围已经更广，例如商业模式、流程、和客户体验创新。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Christensen教授回答：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;是的，我在写《创新者的窘境》时，头脑中确实只思考了技术，并只在技术方面寻求解释。因此我在最初称它为「颠覆式技术」，后来发现这是有局限性的...在《创新者的解决方案》一书里，我把它称之为「颠覆式创新」，在之前将它打上技术标签是不正确的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这成为Christensen教授理论一个重要瑕疵，即没有考虑到消费力量的转移。在最初的理论中，几乎所有研究的对象都是针对企业的市场，例如小型机、存储磁盘等等，企业市场的最重要的特点是「购买者的理性（Radical Purchasers）」，理性的重要评价值是「回报率」，而颠覆者所擅长的，是提供更高「回报率」的产品，依此反转整个行业格局。&lt;/p&gt;
+
+&lt;p&gt;而我们很快进入了「消费者时代」，大部分的企业开始直接面对终端消费者——「非理性的购买者（Irradical Purchasers）」，那么「产品的回报率」就变成没那么重要的选项，而更多关心用户体验、品牌、社会资本等，这也是为什么苹果并没有使用任何颠覆性的技术却依然依靠iPhone取得了巨大的商业成功。&lt;/p&gt;
+
+&lt;h2 id=""&gt;对理论的演绎&lt;/h2&gt;
+
+&lt;p&gt;颠覆式创新在当时的经济环境下有着合理的逻辑：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;某个行业发生了巨大的变革——技术开始出现多样化并快速成长——针对市场上多种计算机的不同类型的存储技术快速发展，让现有存储企业不知所措（下图是磁盘性能和市场需要的变化）；  &lt;/li&gt;
+&lt;li&gt;行业中出现了重新洗牌，有些公司正在走向衰落；  &lt;/li&gt;
+&lt;li&gt;衰落的往往是那些没有抓住颠覆性技术、并将其商业化的公司，但在当时他们并没有做错什么；  &lt;/li&gt;
+&lt;li&gt;企业应该制定合适的战略关注那些依然处于成长期的市场需求和技术，并紧盯行业中那些敢于创新的小型企业。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/disk-drive-and-market-need.png" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
+
+&lt;p&gt;理论的大部分在于解释在当时环境中，看起来如日中天的企业为何走向衰败，而那些看起来不起眼的公司，为何能够脱颖而出。它所表达「为何衰败或突然成功（Why）」，多于「如何成功（How）」。&lt;/p&gt;
+
+&lt;p&gt;而在后来的解释中，一切创新都被标注成「颠覆式」，已经很少人关注理论产生的背景和指导意义，而是陷入一种「莫名其妙的兴奋」，一时间「颠覆」这次开始大量出现，特别在创业圈里。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://women2.com/wp-content/uploads/2012/09/tc2.jpg" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
+
+&lt;p&gt;而各种「创业成功学」和「科技成功学」作家们更是打造了「奇点」这个概念——颠覆可能在我们想象得更早的时间里发生。「奇点」配合着「颠覆」让人们早就忘了经济学原理和管理的本质，执着地崇拜着「科技时代的宏大叙事」、紧紧跟随在Kevin Kelly、Peter Thiel、以及作为低配版的罗振宇周围，内心戏丰富地阅读着每一篇冠以颠覆的报道、由衷相信每个点石成金、反转世界的想法、默默点赞。&lt;/p&gt;
+
+&lt;h2 id=""&gt;颠覆式创新理论是否还有效&lt;/h2&gt;
+
+&lt;p&gt;颠覆式创新帮助我们理解了20年前信息技术爆炸早期技术和产业的关系，将现代企业管理者开始思考科技对于商业的破坏性作用，以及先有模式对于未来发展的约束作用、人们也开始思考运营和技术的相互牵制作用、并重视那些市场中不起眼的竞争者。&lt;/p&gt;
+
+&lt;p&gt;然而近20年后的今天，市场环境发生了重要变化：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;从质量和效率转向服务和体验；  &lt;/li&gt;
+&lt;li&gt;从对公业务转向于针对消费者；  &lt;/li&gt;
+&lt;li&gt;全球化带来的全球智力资源的重新分配和流动；  &lt;/li&gt;
+&lt;li&gt;资本运作的活跃，使得企业可以更容易通过收购和兼并获得科技能力；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;企业们事实上也在执行颠覆式创新中所提到的实践，我们看到越来越多的公司正在实现业务和技术的整合——Digital作为一个独立部门的出现。&lt;/p&gt;
+
+&lt;p&gt;越来越多的科技企业并购，例如BMW、Daimler、Audi对Nokia&lt;a href="http://www.wsj.com/articles/bmw-daimler-audi-agree-to-buy-nokias-here-maps-business-1438580698"&gt;地图业务的并购&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;越来越多原生态的、循序渐进的、而不追求爆炸式的创新，例如波音787 Dreamliner采用&lt;a href="http://apex.aero/2015/12/10/turning-down-the-cabin-pressure"&gt;更高舱内气压&lt;/a&gt;的演进性创新。&lt;/p&gt;
+
+&lt;p&gt;另一方面，被我们奉为经典的「颠覆者」们也没有像想象中那样颠覆一切，全球麻烦不断的Uber、Airbnb们依然还没有证明自己，风风火火的电商也并没有像几年前预测的那样彻底让实体零售走向死亡，我们还有什么理由相信那些「危言耸听」和「夸大其词」的「盛世危言」？&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;每个时代都不缺乏时代的「解释者（Storyteller）」，人们也需要更简单的方式理解现在和未来，然而利用人们对于成功的渴望，通过「恫吓」和描绘一个「赢者通吃」的世界，美其名曰「脑洞大开」，实际上是机会主义者的投机。&lt;/p&gt;
+
+&lt;p&gt;创新本身的破坏性是经济学原理决定的，无论颠覆式创新是否存在；颠覆不是企业发展的目的，成长才是；被颠覆也不是企业衰落的原因，成长不足才是。&lt;/p&gt;
+
+&lt;p&gt;Christensen教授的颠覆式创新理论（以及其他基础理论）是我们对人类经济行为优秀的思想总结，它依然是熊彼特「创造性破坏」理论的延伸，而将其作为「万能药」售卖，是不负责任的。&lt;/p&gt;
+
+&lt;h2 id=""&gt;推荐阅读&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://doc-04-b4-apps-viewer.googleusercontent.com/viewer/secure/pdf/hvn78gpb48o2o3ksbhkk1mqon02h4frl/t2s0slhorgkuh40uad38c1ffi8vvnhd4/1469465025000/lantern/10936358008765371125/ACFrOgBYKpRTkLyCL8qWqmRg5iN9JZp4q8dGooo1fHCmdswpVCbA-Iuo3VFZK5enXUd_uhoA2vUOzfXMzNAWhIzyIc8oQG0XtAUOyzx-Mjz5DsvY7KpDGiwGwc2O0Ps=?print=true&amp;amp;nonce=4htu12dlcn3di&amp;amp;user=10936358008765371125&amp;amp;hash=26kpugo6er4of9dh24f4fk4bsbued0r0"&gt;Disruptive Technologies: Catching the Wave&lt;/a&gt; - by Joseph L. Bower and Clayton M. Christensen  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9ouwUs4QmFQ"&gt;Clay Christensen on the recent debate surrounding his theory of disruptive innovation&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.linkedin.com/pulse/20140626165608-63095025-has-the-disruption-theory-truly-been-disrupted"&gt;Has the disruption theory truly been.. disrupted?&lt;/a&gt; - Christian Ramsey  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stratechery.com/2013/clayton-christensen-got-wrong/"&gt;What Clayton Christensen Got Wrong&lt;/a&gt; - Ben Thomson  &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice"&gt;Clayton Christensen's Innovation Brain&lt;/a&gt; - Jena Mcgregor  &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nymag.com/daily/intelligencer/2014/06/lets-all-stop-saying-disrupt.html"&gt;Let’s All Stop Saying ‘Disrupt’ Right This Instant&lt;/a&gt; - Kevin Roose  &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine"&gt;The Disruption Machine&lt;/a&gt; - Jill Lepore  &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slate.com/articles/business/moneybox/2013/05/disrupting_disruption_a_once_useful_concept_has_become_a_lame_catchphrase.html"&gt;Stop “Disrupting” Everything&lt;/a&gt; - Matthew Yglesias  &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://telecareaware.com/soapbox-round-2-disruptive-innovation-debate-disrupts-the-chattering-classes/"&gt;Soapbox Round 2: ‘disruptive innovation’ debate disrupts ‘the chattering classes’&lt;/a&gt; - Donna Cusano &lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title>战略执行的逻辑</title><description>&lt;p&gt;《战略十篇》的第六篇书稿，来自于Gary L. Neilson、Karla L. Martin、以及Elizabeth Powers，原文刊于《哈佛商业评论》2008年6期（&lt;a href="https://hbr.org/2008/06/the-secrets-to-successful-strategy-execution"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
 
 &lt;p&gt;战略设计让企业管理者敏锐地在市场上找到独特定位，但优秀的战略执行才是让其真正守住位置的关键。可惜的是，大部分企业在战略执行上表现糟糕，究其原因是管理者对「结构（Structure）」的过度关注。&lt;/p&gt;
 
@@ -1837,93 +1991,4 @@
 &lt;li&gt;王端廷 -《&lt;a href="http://big5.china.com.cn/gate/big5/art.china.cn/voice/2013-10/22/content_6394185.htm"&gt;西方現代、後現代和當代藝術的分期與區別&lt;/a&gt;》  &lt;/li&gt;
 &lt;li&gt;郇建立 - 《&lt;a href="http://www.cuhk.edu.hk/ics/21c/issue/articles/075_0208085.pdf"&gt;現代性的悲哀&lt;/a&gt;》  &lt;/li&gt;
 &lt;li&gt;《&lt;a href="http://art.china.cn/voice/2010-12/03/content_3876659.htm"&gt;艺术的两重性：从杜尚的《泉》看当代艺术的文化角色&lt;/a&gt;》&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title>设计师面试</title><description>&lt;p&gt;过去8年里，在中国和北美，加起来直接面试过40位年轻到资深不等的设计师，我不认为中美设计师面试考察点有太多区别，本文便是我对设计师面试的简单总结。当然，这些建议基于我对设计的宏观认识，它们包括：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;设计是复杂的人、团队和社会活动；  &lt;/li&gt;
-&lt;li&gt;看到、识别、并利用设计之外的力量达到设计结果才是设计真正的力量；  &lt;/li&gt;
-&lt;li&gt;设计是智力工作，智力工作需要学徒精神。  &lt;/li&gt;
-&lt;li&gt;设计过程胜于设计结果。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=""&gt;作品集展示全面能力和设计过程&lt;/h4&gt;
-
-&lt;p&gt;作品集通常是设计师参与面试的第一步，一个优秀的作品集应该体现的有四个方面：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;设计技能的广度：设计工作已早已朝多样化发展，而不是单一技能，从研究、版式、字体、视觉、架构、交互、数据分析可能都需要有一定涉猎；  &lt;/li&gt;
-&lt;li&gt;设计技能的深度：无论是什么，作品集应该体现出某个（或几个）技能的深度，对于某个技能自己的理解，而不只是简单陈列结果；  &lt;/li&gt;
-&lt;li&gt;讲述设计过程：对某几个项目，讲解设计是如何产生、完成、和演进的；  &lt;/li&gt;
-&lt;li&gt;体现人的参与：大部分我们所谈的设计不允许你坐在电脑前完成，你需要和人打交道，「人」在你简历集中的影响应该被体现，这里的体现可能包括：1）人是如何参与你的设计的；2）&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/designer-interview/</link><guid isPermaLink="false">2ba0f507-e459-4eb5-9ef8-946ec3656a9d</guid><category>成长</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 10 Mar 2016 21:10:14 GMT</pubDate><content:encoded>&lt;p&gt;过去8年里，在中国和北美，加起来直接面试过40位年轻到资深不等的设计师，我不认为中美设计师面试考察点有太多区别，本文便是我对设计师面试的简单总结。当然，这些建议基于我对设计的宏观认识，它们包括：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;设计是复杂的人、团队和社会活动；  &lt;/li&gt;
-&lt;li&gt;看到、识别、并利用设计之外的力量达到设计结果才是设计真正的力量；  &lt;/li&gt;
-&lt;li&gt;设计是智力工作，智力工作需要学徒精神。  &lt;/li&gt;
-&lt;li&gt;设计过程胜于设计结果。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=""&gt;作品集展示全面能力和设计过程&lt;/h4&gt;
-
-&lt;p&gt;作品集通常是设计师参与面试的第一步，一个优秀的作品集应该体现的有四个方面：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;设计技能的广度：设计工作已早已朝多样化发展，而不是单一技能，从研究、版式、字体、视觉、架构、交互、数据分析可能都需要有一定涉猎；  &lt;/li&gt;
-&lt;li&gt;设计技能的深度：无论是什么，作品集应该体现出某个（或几个）技能的深度，对于某个技能自己的理解，而不只是简单陈列结果；  &lt;/li&gt;
-&lt;li&gt;讲述设计过程：对某几个项目，讲解设计是如何产生、完成、和演进的；  &lt;/li&gt;
-&lt;li&gt;体现人的参与：大部分我们所谈的设计不允许你坐在电脑前完成，你需要和人打交道，「人」在你简历集中的影响应该被体现，这里的体现可能包括：1）人是如何参与你的设计的；2）人是如何评价你的设计；3）叙事性的作品展示（Storytelling）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;相反，减分的情况包括：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;拿以往项目的产出物直接打包；  &lt;/li&gt;
-&lt;li&gt;发几张设计截图；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=""&gt;有一定的设计观&lt;/h4&gt;
-
-&lt;p&gt;当进入到面试环节，最常见的开场问题，通常是：「你认为什么是设计？什么是设计中最重要的问题？」，要做好准备回答这样较为意识形态的问题，它的背后是考察你是否&lt;strong&gt;有设计观&lt;/strong&gt;，注意，不是&lt;strong&gt;你是否有正确的设计观&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;对于一个年轻设计师，认为「设计就是对我自己的表达」、或是「设计的核心是商业价值」，并没有本质区别，因为设计观本身基于观者所处的上下文。但是过度悲观的设计观，认为设计无用、设计方法无用、看似「看穿一切」，实际是沉闷无趣。&lt;/p&gt;
-
-&lt;p&gt;「设计观」的形成往往来自于你对世界的看法，「设计观」就是「世界观」，面试官希望面试者是一个对世界充满感性认识、逻辑分析、以及生动表达的人。&lt;/p&gt;
-
-&lt;h4 id=""&gt;了解设计行业&lt;/h4&gt;
-
-&lt;p&gt;面试的本质是双方期待相互匹配的过程，而你越了解面试者所处的行业，越能了解他们对你的期待。&lt;/p&gt;
-
-&lt;p&gt;例如设计咨询公司通常不会期待一个员工工作超过3年，因此尽可能地期待员工在3年中尽可能快的成长（市场价值增长速度超过员工成本增长速度），则代表了更高的利润，因此，面对设计咨询公司，面试者所体现地更多是成长的意愿和方法。&lt;/p&gt;
-
-&lt;p&gt;大型互联网公司的产品公司所期待的是每个员工都能尽可能快和持续地适应「最佳实践」，那么他们对于面试者的作品集、工具的熟练程度、执行力、协作则有更高的要求。&lt;/p&gt;
-
-&lt;p&gt;小型互联网产品公司的存活期普遍不超过3年，当然希望员工都是充满干劲、满负荷工作的奋斗者，而对于基础能力反而并不看重。&lt;/p&gt;
-
-&lt;p&gt;每个期待背后，都有一个减分项存在，例如在面试设计咨询公司时，你问：「我们能不能根据自己的爱好选择项目？」虽然面试官口头上说：「当然，我们有不同客户，我们会根据你的情况挑选。」事实上，咨询公司受市场影响巨大，特别是作为初生的设计咨询行业，真实世界里，要么被淘汰，要么适应市场，没有让你挑选的余地。&lt;/p&gt;
-
-&lt;h4 id=""&gt;展现极强的适应力&lt;/h4&gt;
-
-&lt;p&gt;无论是什么行业，随着业务本身需要更紧密地跟随市场的变化，几乎所有职位需要更强的适应力，适应力并不代表随波逐流的人云亦云，而在于积极变化、挑战自己舒适区的勇气。&lt;/p&gt;
-
-&lt;p&gt;面试官会通过侧面了解你的适应力，你的性格、你对生活的态度、你的爱好，都能体现你适应世界的能力。&lt;/p&gt;
-
-&lt;p&gt;乐观更是适应世界的法宝，一个轻松有趣的沟通过程，常常保持微笑，都会给面试官留下深刻印象。&lt;/p&gt;
-
-&lt;h4 id=""&gt;从面试中学习&lt;/h4&gt;
-
-&lt;p&gt;就像最开始提到的，设计是智力工作，学习学习再学习永远是让你设计增值的唯一方式，向面试官体现在面试中的学习成果是任何一个面试官都不会拒绝的加分项。花几分钟，跟面试官讲讲设计过程中的体会，甚至从设计角度给他提一些建议。&lt;/p&gt;
-
-&lt;p&gt;特别是在「问面试官」的环节，不要问一些明显可以从HR那里得到的答案，例如「培训怎么做？」、「绩效怎么算？」，多好奇于「面试官是怎样的？」，例如问「这么多年你最大的成就是什么？挑战是什么？」&lt;/p&gt;
-
-&lt;h4 id=""&gt;不要犯低级错误&lt;/h4&gt;
-
-&lt;p&gt;再好的面试者也可能被一些低级错误毁掉，例如：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;完全不了解这个公司到底干什么的？  &lt;/li&gt;
-&lt;li&gt;抱着试一试的心态，而不把自己放置于这个职位进行思考；  &lt;/li&gt;
-&lt;li&gt;不尊重女性，当有男性和女性面试官同时出现时，过多关注男性面试官；  &lt;/li&gt;
-&lt;li&gt;把情绪带到面试中，不要过于激动或感动；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;预祝大家设计师面试愉快。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;/ol&gt;</content:encoded></item></channel></rss>
