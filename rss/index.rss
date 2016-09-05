@@ -1,4 +1,89 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 05 Sep 2016 02:59:50 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>重新思考Persona</title><description>&lt;p&gt;我想，是时候重新审视甚至抛弃Persona这样的实践了。Persona作为以人为中心的设计方法论中不可或缺的部分，长久以来被几乎所有设计机构或团队使用，包括我们自己也将其奉为圭臬。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 05 Sep 2016 17:51:25 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>重新思考服务设计</title><description>&lt;p&gt;在之前的博客中《&lt;a href="http://www.tuzei8.com/the-challenges-of-service-design/"&gt;服务设计的难点&lt;/a&gt;》我们讨论了服务设计的逻辑。两年过去了，服务设计在不瘟不火中成为一个行业的热点，两年前我说我们没有必要大张旗鼓地进入这个领域，自然有人帮助我们酝酿这个概念，事实上确实如此，在最近的几次设计咨询中，我被邀请讲解服务设计的体系和对其的看法，服务设计在两年以后，值得我们重新思考。&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计服务市场的趋势&lt;/h2&gt;
+
+&lt;p&gt;谈论设计概念和实践的流行，背后是设计服务市场的推动，这里包含对设计服务的需求和供给。&lt;/p&gt;
+
+&lt;p&gt;从市场需求的角度，移动设计的出现已经经历若干年的时间，若干年里，中国出现了「互联网+」的概念，其本质是互联网经济明白，真正的客户体验在「最后一公里」，互联网服务需要向实体服务下沉，才能避免线上纯粹的流量竞争，对互联网服务线下化的需求增加。&lt;/p&gt;
+
+&lt;p&gt;另一方面，传统公司随着近十年的数字化投资，已经积攒了一定的数字化能力，他们突然发现其线下丰富的服务体验反而是对抗互联网新贵的优势，这时候，他们也需要整合线下服务到线上体验的解决方案。&lt;/p&gt;
+
+&lt;p&gt;从供给的角度，移动设计体验正在朝标准化发展，基础线上「元体验」（特指移动互联网最基础的交互形式），如浏览、搜索、导航、支付等，单纯移动体验提升的空间已经不足，这使得传统设计服务公司的竞争空间已经越来越小，它们需要新的服务从竞争中脱颖而出。&lt;/p&gt;
+
+&lt;p&gt;近几年设计服务公司的主要业务创新包括：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;以设计投资（Design Venture）&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/rethink-service-design/</link><guid isPermaLink="false">21291d0b-98f1-4212-90ba-7d7b4527bff4</guid><category>服务设计</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 05 Sep 2016 17:49:52 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/09/photo-1453974336165-b5c58464f1ed.jpeg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/09/photo-1453974336165-b5c58464f1ed.jpeg" alt="重新思考服务设计"&gt;&lt;p&gt;在之前的博客中《&lt;a href="http://www.tuzei8.com/the-challenges-of-service-design/"&gt;服务设计的难点&lt;/a&gt;》我们讨论了服务设计的逻辑。两年过去了，服务设计在不瘟不火中成为一个行业的热点，两年前我说我们没有必要大张旗鼓地进入这个领域，自然有人帮助我们酝酿这个概念，事实上确实如此，在最近的几次设计咨询中，我被邀请讲解服务设计的体系和对其的看法，服务设计在两年以后，值得我们重新思考。&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计服务市场的趋势&lt;/h2&gt;
+
+&lt;p&gt;谈论设计概念和实践的流行，背后是设计服务市场的推动，这里包含对设计服务的需求和供给。&lt;/p&gt;
+
+&lt;p&gt;从市场需求的角度，移动设计的出现已经经历若干年的时间，若干年里，中国出现了「互联网+」的概念，其本质是互联网经济明白，真正的客户体验在「最后一公里」，互联网服务需要向实体服务下沉，才能避免线上纯粹的流量竞争，对互联网服务线下化的需求增加。&lt;/p&gt;
+
+&lt;p&gt;另一方面，传统公司随着近十年的数字化投资，已经积攒了一定的数字化能力，他们突然发现其线下丰富的服务体验反而是对抗互联网新贵的优势，这时候，他们也需要整合线下服务到线上体验的解决方案。&lt;/p&gt;
+
+&lt;p&gt;从供给的角度，移动设计体验正在朝标准化发展，基础线上「元体验」（特指移动互联网最基础的交互形式），如浏览、搜索、导航、支付等，单纯移动体验提升的空间已经不足，这使得传统设计服务公司的竞争空间已经越来越小，它们需要新的服务从竞争中脱颖而出。&lt;/p&gt;
+
+&lt;p&gt;近几年设计服务公司的主要业务创新包括：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;以设计投资（Design Venture）的方式新兴互联网企业的服务孵化；  &lt;/li&gt;
+&lt;li&gt;对接传统公司推出数字与线下服务整合的服务创新。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;前者正好对应互联网市场的第一个需求、后者则对应其二。因此服务设计的流行，是符合设计服务需求市场趋势的。&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计实践的趋势&lt;/h2&gt;
+
+&lt;p&gt;理解一个设计概念，应该从历史的角度看待其客观规律，我们所处的设计行业依然是IT行业的分支，在服务设计之前，有如下几个发展阶段：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;功能设计阶段；  &lt;/li&gt;
+&lt;li&gt;用户交互设计阶段；  &lt;/li&gt;
+&lt;li&gt;移动设计阶段。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;从功能设计到移动设计的演进，就是上下文逐渐占据设计之核心的过程——设计的中心从功能到用户再到上下文的转变。这个转变随之带来的，是设计方法的演进，从最开始的调研、文档、执行，到移动时代的快速原型、设计研究，这个趋势不可逆转，正因为这样的趋势，我们才强调许多传统设计方法在新时代中的比重变得越来越小，例如冗长的调研过程、繁复的用户建模等。&lt;/p&gt;
+
+&lt;p&gt;而设计服务所做，是在多元变化的上下文中，连接多种设备、多个故事、多种体验、多个利益方、建立一个价值系统，这个系统早已超越用户、设备、和上下文，在这个背景下，设计实践难以拥有一个专注点（Multidisciplinary）：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/09/design-approach-evolution.png" alt="重新思考服务设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;设计的专注点（Design Focus）决定了设计实践的核心，每个时代都有经典的设计实践支撑其专注点，例如功能时代的设计文档、交互设计时代的用户测试、移动设计时代的原型。在服务设计的背景下，我不认为我们足够有信心对服务设计实践有成熟的归纳。&lt;/p&gt;
+
+&lt;p&gt;我们所看到的，依然是以过去思维方式进行进行服务设计，例如大规模的市场研究、以客户为中心的思维等等，这些都不应该成为服务设计实践的核心，正是因为如此，我不认为市场上有任何一个「被设计的」服务设计案例，包括我们自己，都不可谓之成功。&lt;/p&gt;
+
+&lt;p&gt;简单的例子，多触点背景下，单一客户体验地图（Customer Journey Map）所设计的早已不再是客户体验服务的唯一路径，那么我们是不是要重新思考此设计实践的作用？&lt;/p&gt;
+
+&lt;p&gt;对于一个兴起的设计概念，背后有火热的市场需求，作为行业中的设计实践者，应该从设计的核心逻辑中、从设计演进的角度，重新思考设计实践如何适应新的设计关注点——没有单一的关注点。&lt;/p&gt;
+
+&lt;h2 id=""&gt;业务局限性&lt;/h2&gt;
+
+&lt;p&gt;服务设计兴起的同时，企业线上下业务开始出现从未有的撞击，传统市场、渠道、销售、售后的体系也开始接受新服务的挑战。拿简单的电商线下化来说，传统数字渠道与线下服务分离的形式中，客户选择的服务非常单一：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/09/traditional-ecommerce.png" alt="重新思考服务设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;线上下的整合服务，出现了大量全新的服务形式，如下图显示的那样，例如线上预定店内购买、店内同过线上购买、店内购买线上配送、线上购买店内提货等。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/09/new-services-in-digical-experience.png" alt="重新思考服务设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;真实场景中，这只是冰山一角，如果我们将配送中心、不同地点的店面、其他数字渠道（如微信）、售后服务加入进来，服务将更加复杂和灵活。
+因此，服务设计核心在于「适应性（Adaptativity）」而不只在流程简化、或单点体验升级。&lt;/p&gt;
+
+&lt;p&gt;适应性的服务设计遇到了最大挑战——企业内哪个组织负责服务的整体改造？线上部门、线下部门、市场部门、还是客户服务部门？在传统业务构架下，企业难以找到一个合理的「牵头者」带领服务体验的整体改造。&lt;/p&gt;
+
+&lt;p&gt;因此之前所说「市场上有任何一个被设计的服务设计案例」的另一部分原因来自需求市场的不成熟——不解决企业的业务结构问题、责权分配，无法完成真正的服务设计。&lt;/p&gt;
+
+&lt;p&gt;这也给传统设计服务市场提供商制造了巨大的挑战：缺少组织级战略的影响力。真实发生的实例是，设计服务公司所规划的设计方案，在业务上难以落地，这几乎发生在每一间设计服务公司里，一方面传统设计业务竞争太过于激烈、二方面新兴业务缺少真正具有商业影响力的成功案例。&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;本篇的目的是从行业的角度来思考服务设计在中国的发展趋势，总体来说，有大量存在的需求，无论来自新兴互联网模式还是传统企业；但绝大部分的需求还不成熟，现有业务模式是服务设计创新的最大桎梏。&lt;/p&gt;
+
+&lt;p&gt;从供给的角度，设计实践还未曾成熟、设计师能力良莠不齐、设计服务一哄而上，缺少从商业和市场角度看服务的组织影响力。&lt;/p&gt;
+
+&lt;p&gt;服务设计的兴起有其必然性，它是设计服务市场供需双方共同作用的结果，诸君应冷静和理性的对待。&lt;/p&gt;</content:encoded></item><item><title>重新思考Persona</title><description>&lt;p&gt;我想，是时候重新审视甚至抛弃Persona这样的实践了。Persona作为以人为中心的设计方法论中不可或缺的部分，长久以来被几乎所有设计机构或团队使用，包括我们自己也将其奉为圭臬。&lt;/p&gt;
 
 &lt;p&gt;在长期使用Persona的过程中，我们开始反思在当前设计环境下Persona作为设计方法论的必要性。Persona的定义和解释不再赘述，即尝试使用一个具象的用户画像来讨论用户的需求（内在与外在）、定义用户目标、规划体验地图、发现痛点和机会、最后进行设计。&lt;/p&gt;
 
@@ -1986,63 +2071,4 @@
 &lt;li&gt;组织内协作和社交。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;而不是着眼于需求本身，如果我们只懂得用需求列表中的工作量估算、功能排期、优先级排列，「需求失控」只是时间问题。&lt;/p&gt;</content:encoded></item><item><title>建立公司愿景</title><description>&lt;p&gt;&lt;em&gt;本文是《战略十篇》的第三篇书稿，来自于James C. Collins和Jerry I. Porras刊载于1996年9-10月《哈佛商业评论》的《Building Your Company's Vision》，文章可以在&lt;a href="http://www.academia.edu/9661558/Building_Your_Companys_Vision"&gt;Academia&lt;/a&gt;上找到。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;伟大公司所求为「基业长青（Build to Last）」，而但凡长盛不衰的公司背后的秘诀是「用核心理念指引和因可见未来激励公司的人（来自于Jim Collins所著《Built to Last: Successful Habits of Visionary Companies》）」。这里的两要素是「核心理念（Core Ideology）」、「可见未来（Envisioned Future）」：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;核心理念指引人们如何做决策，该做什么、不该做什么、为什么做、怎么做；&lt;/li&gt;
-&lt;li&gt;可见未来激励公司的人朝着共同方向前进，哪怕永远不会达成；&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/articulate-a-vision.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;愿景在二者相互作用下逐渐产生，未来即是理念的「&lt;/p&gt;</description><link>http://localhost:2368/company-vision/</link><guid isPermaLink="false">c32a159e-45c6-43b5-acba-5619ef5d4dac</guid><category>战略十篇</category><category>战略</category><dc:creator>熊子川</dc:creator><pubDate>Sat, 18 Jun 2016 05:11:09 GMT</pubDate><content:encoded>&lt;p&gt;&lt;em&gt;本文是《战略十篇》的第三篇书稿，来自于James C. Collins和Jerry I. Porras刊载于1996年9-10月《哈佛商业评论》的《Building Your Company's Vision》，文章可以在&lt;a href="http://www.academia.edu/9661558/Building_Your_Companys_Vision"&gt;Academia&lt;/a&gt;上找到。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;伟大公司所求为「基业长青（Build to Last）」，而但凡长盛不衰的公司背后的秘诀是「用核心理念指引和因可见未来激励公司的人（来自于Jim Collins所著《Built to Last: Successful Habits of Visionary Companies》）」。这里的两要素是「核心理念（Core Ideology）」、「可见未来（Envisioned Future）」：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;核心理念指引人们如何做决策，该做什么、不该做什么、为什么做、怎么做；&lt;/li&gt;
-&lt;li&gt;可见未来激励公司的人朝着共同方向前进，哪怕永远不会达成；&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/articulate-a-vision.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;愿景在二者相互作用下逐渐产生，未来即是理念的「因」、也是「果」，二者可以被制定（由始创者），而相互作用的结果是全体员工行为准则（（A [company] Way），这种准则在实践中逐步固化、影响、并持续加强，进而形成了一群人的信念，这种信念区分我们和他们，激励组织成长、用一种无人能够理解的方式成长。&lt;/p&gt;
-
-&lt;p&gt;1996年，3M公司分拆了当时依然大量盈利的计算机存储设备业务（录像带、录音带、软盘），最后这部分业务成了现在独立上市的Imation公司，这次分拆成为商业战略的经典案例，最普遍的解释是，3M将「Solving unsolved problems innovatively」当作企业和核心目的（Core Purposes），即3M公司存在的意义，任何可能与其不符的事情都应该停止。&lt;/p&gt;
-
-&lt;p&gt;事实上，在当时，保持盈利的存储业务已开始导致其部门主管在公司内发言权过大、利益过于集中，了防止其阻碍公司不断进行的创新和转型，3M公司完成了这次经典的分拆案例。&lt;/p&gt;
-
-&lt;p&gt;接下来，3M将重点放在了具有更高透光率的液晶薄膜技术，这个技术在后来为3M公司获得了超过百亿美元的利润，当然，我们并不能将薄膜技术的大获成功简单归于对存储业务的分拆，但可以肯定是，正是这种不断追求最终企业意义的执着奠定了3M公司长久来的成功。&lt;/p&gt;
-
-&lt;p&gt;一间企业的核心理念定义着「企业信则（Tenets）」，它超越了市场、产品、服务、技术突破等其他一切元素支撑着企业的存在，它包括了两个部分：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;核心价值观（Core Values）：我们认为什么是对的、什么是不对的；  &lt;/li&gt;
-&lt;li&gt;核心目的（Core Purpose）：我们从哪里来、为什么存在；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;一个组织相信什么，它不受时间、市场、以及外界价值的影响。无论外界如何批评和评论、市场如何随时间和技术变化，这些信则始终贯穿企业的行为中。这些信则大多时候是企业竞争力的基础，有时候也被其所累，甚至成为核心竞争力的伤害者。&lt;/p&gt;
-
-&lt;p&gt;例如，Sony成立至今的是相信好的产品帮助提升日本文化和国家地位，这一信念让Sony几乎凭借一己之力通过价廉物美和设计卓越的电子产品将日本变成高质量产品的代名词，同时因为太过于「日本」，又无法不断地适应国际数字产业变局。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://pic4.zhimg.com/72e2817396acc6c6dd085b05adb089c7_b.jpg" alt=""&gt;
-（Sony即是日本电子产品卓越的代表、又是被盛名所累迟迟不能跟上全球数字产业变革的步伐）&lt;/p&gt;
-
-&lt;p&gt;核心理念之上是企业对于可见未来的描述，其中包括：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;一个BHAG（Big, Hairy, Audacious Goal）目标，通常是大胆的、粗糙的、甚至有些放肆的目标；&lt;/li&gt;
-&lt;li&gt;一个对未来具体的描述。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;合在一起，一间公司的愿景逐渐清晰出来。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/sony-vision-1.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;而这里有个衍生问题：「企业文化从哪里来？」无论是核心理念和可见未来，都没有对企业文化进行定义，最直白的回答是：&lt;strong&gt;当相信公司愿景、遵守企业信则的人聚合在一起时，他们的行为就变成了企业文化。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;换言之，&lt;strong&gt;企业文化是副产品&lt;/strong&gt;，当我们谈论「文化守护」的时候，不是去鼓励企业文化之下的行为，而是将公司愿景深深植入每位员工的心里，这里包括一份必须遵守的「信则」、而一份深信不疑的「未来」，至于文化本身，则由这一群人的行为所代表。&lt;/p&gt;
-
-&lt;p&gt;考虑到公司愿景是企业战略的重要部分，我更愿意认为&lt;strong&gt;企业文化是企业战略的副产品&lt;/strong&gt;。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;而不是着眼于需求本身，如果我们只懂得用需求列表中的工作量估算、功能排期、优先级排列，「需求失控」只是时间问题。&lt;/p&gt;</content:encoded></item></channel></rss>
