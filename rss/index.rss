@@ -1,29 +1,29 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 05 Sep 2016 17:51:25 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>重新思考服务设计</title><description>&lt;p&gt;在之前的博客中《&lt;a href="http://www.tuzei8.com/the-challenges-of-service-design/"&gt;服务设计的难点&lt;/a&gt;》我们讨论了服务设计的逻辑。两年过去了，服务设计在不瘟不火中成为一个行业的热点，两年前我说我们没有必要大张旗鼓地进入这个领域，自然有人帮助我们酝酿这个概念，事实上确实如此，在最近的几次设计咨询中，我被邀请讲解服务设计的体系和对其的看法，服务设计在两年以后，值得我们重新思考。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 05 Sep 2016 17:54:20 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>重新思考服务设计</title><description>&lt;p&gt;在之前的博客中《&lt;a href="http://www.tuzei8.com/the-challenges-of-service-design/"&gt;服务设计的难点&lt;/a&gt;》我们讨论了服务设计的逻辑。两年过去了，服务设计在不瘟不火中成为一个行业的热点，两年前我说我们没有必要大张旗鼓地进入这个领域，自然有人帮助我们酝酿这个概念，事实上确实如此，在最近的几次设计咨询中，我被邀请讲解服务设计的体系和对其的看法，服务设计在两年以后，值得我们重新思考。&lt;/p&gt;
 
 &lt;h2 id=""&gt;设计服务市场的趋势&lt;/h2&gt;
 
 &lt;p&gt;谈论设计概念和实践的流行，背后是设计服务市场的推动，这里包含对设计服务的需求和供给。&lt;/p&gt;
 
-&lt;p&gt;从市场需求的角度，移动设计的出现已经经历若干年的时间，若干年里，中国出现了「互联网+」的概念，其本质是互联网经济明白，真正的客户体验在「最后一公里」，互联网服务需要向实体服务下沉，才能避免线上纯粹的流量竞争，对互联网服务线下化的需求增加。&lt;/p&gt;
+&lt;p&gt;从市场需求的角度，移动设计的出现已经经历若干年的时间，若干年里，中国出现了「互联网+」的概念，其本质是互联网经济明白，真正的客户体验在「最后一公里」，互联网服务需要向实体服务下沉，才能避免线上纯粹的流量竞争，于是对互联网服务线下化的需求增加。&lt;/p&gt;
 
 &lt;p&gt;另一方面，传统公司随着近十年的数字化投资，已经积攒了一定的数字化能力，他们突然发现其线下丰富的服务体验反而是对抗互联网新贵的优势，这时候，他们也需要整合线下服务到线上体验的解决方案。&lt;/p&gt;
 
-&lt;p&gt;从供给的角度，移动设计体验正在朝标准化发展，基础线上「元体验」（特指移动互联网最基础的交互形式），如浏览、搜索、导航、支付等，单纯移动体验提升的空间已经不足，这使得传统设计服务公司的竞争空间已经越来越小，它们需要新的服务从竞争中脱颖而出。&lt;/p&gt;
+&lt;p&gt;从供给的角度，移动设计体验正在朝标准化发展，基础线上「元体验」（特指移动互联网最基础的交互形式）趋于完善，如浏览、搜索、导航、支付等，单纯移动体验提升的空间已经不足，这使得传统设计服务公司的竞争空间已经越来越小，它们需要新的服务从竞争中脱颖而出。&lt;/p&gt;
 
 &lt;p&gt;近几年设计服务公司的主要业务创新包括：&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;以设计投资（Design Venture）&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/rethink-service-design/</link><guid isPermaLink="false">21291d0b-98f1-4212-90ba-7d7b4527bff4</guid><category>服务设计</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 05 Sep 2016 17:49:52 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/09/photo-1453974336165-b5c58464f1ed.jpeg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/09/photo-1453974336165-b5c58464f1ed.jpeg" alt="重新思考服务设计"&gt;&lt;p&gt;在之前的博客中《&lt;a href="http://www.tuzei8.com/the-challenges-of-service-design/"&gt;服务设计的难点&lt;/a&gt;》我们讨论了服务设计的逻辑。两年过去了，服务设计在不瘟不火中成为一个行业的热点，两年前我说我们没有必要大张旗鼓地进入这个领域，自然有人帮助我们酝酿这个概念，事实上确实如此，在最近的几次设计咨询中，我被邀请讲解服务设计的体系和对其的看法，服务设计在两年以后，值得我们重新思考。&lt;/p&gt;
+&lt;li&gt;以设计投资（Design&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/rethink-service-design/</link><guid isPermaLink="false">21291d0b-98f1-4212-90ba-7d7b4527bff4</guid><category>服务设计</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 05 Sep 2016 17:49:52 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/09/photo-1453974336165-b5c58464f1ed.jpeg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/09/photo-1453974336165-b5c58464f1ed.jpeg" alt="重新思考服务设计"&gt;&lt;p&gt;在之前的博客中《&lt;a href="http://www.tuzei8.com/the-challenges-of-service-design/"&gt;服务设计的难点&lt;/a&gt;》我们讨论了服务设计的逻辑。两年过去了，服务设计在不瘟不火中成为一个行业的热点，两年前我说我们没有必要大张旗鼓地进入这个领域，自然有人帮助我们酝酿这个概念，事实上确实如此，在最近的几次设计咨询中，我被邀请讲解服务设计的体系和对其的看法，服务设计在两年以后，值得我们重新思考。&lt;/p&gt;
 
 &lt;h2 id=""&gt;设计服务市场的趋势&lt;/h2&gt;
 
 &lt;p&gt;谈论设计概念和实践的流行，背后是设计服务市场的推动，这里包含对设计服务的需求和供给。&lt;/p&gt;
 
-&lt;p&gt;从市场需求的角度，移动设计的出现已经经历若干年的时间，若干年里，中国出现了「互联网+」的概念，其本质是互联网经济明白，真正的客户体验在「最后一公里」，互联网服务需要向实体服务下沉，才能避免线上纯粹的流量竞争，对互联网服务线下化的需求增加。&lt;/p&gt;
+&lt;p&gt;从市场需求的角度，移动设计的出现已经经历若干年的时间，若干年里，中国出现了「互联网+」的概念，其本质是互联网经济明白，真正的客户体验在「最后一公里」，互联网服务需要向实体服务下沉，才能避免线上纯粹的流量竞争，于是对互联网服务线下化的需求增加。&lt;/p&gt;
 
 &lt;p&gt;另一方面，传统公司随着近十年的数字化投资，已经积攒了一定的数字化能力，他们突然发现其线下丰富的服务体验反而是对抗互联网新贵的优势，这时候，他们也需要整合线下服务到线上体验的解决方案。&lt;/p&gt;
 
-&lt;p&gt;从供给的角度，移动设计体验正在朝标准化发展，基础线上「元体验」（特指移动互联网最基础的交互形式），如浏览、搜索、导航、支付等，单纯移动体验提升的空间已经不足，这使得传统设计服务公司的竞争空间已经越来越小，它们需要新的服务从竞争中脱颖而出。&lt;/p&gt;
+&lt;p&gt;从供给的角度，移动设计体验正在朝标准化发展，基础线上「元体验」（特指移动互联网最基础的交互形式）趋于完善，如浏览、搜索、导航、支付等，单纯移动体验提升的空间已经不足，这使得传统设计服务公司的竞争空间已经越来越小，它们需要新的服务从竞争中脱颖而出。&lt;/p&gt;
 
 &lt;p&gt;近几年设计服务公司的主要业务创新包括：&lt;/p&gt;
 
