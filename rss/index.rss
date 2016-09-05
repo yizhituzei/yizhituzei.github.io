@@ -1,4 +1,98 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sat, 27 Aug 2016 08:46:27 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>数字转型的政治</title><description>&lt;p&gt;现代企业中的政治问题到底是怎么产生的，对政治的经典定义是「一群有组织的群体对于某个位置（Position）的实现和保护」——这样的定义在企业中也存在，组织变成了有种相同商业目标的部门，位置变成了企业价值链中的一环，实现和保护成为部门生存和成长的必要。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 05 Sep 2016 02:59:50 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>重新思考Persona</title><description>&lt;p&gt;我想，是时候重新审视甚至抛弃Persona这样的实践了。Persona作为以人为中心的设计方法论中不可或缺的部分，长久以来被几乎所有设计机构或团队使用，包括我们自己也将其奉为圭臬。&lt;/p&gt;
+
+&lt;p&gt;在长期使用Persona的过程中，我们开始反思在当前设计环境下Persona作为设计方法论的必要性。Persona的定义和解释不再赘述，即尝试使用一个具象的用户画像来讨论用户的需求（内在与外在）、定义用户目标、规划体验地图、发现痛点和机会、最后进行设计。&lt;/p&gt;
+
+&lt;h2 id="persona"&gt;Persona为何盛行&lt;/h2&gt;
+
+&lt;p&gt;Persona开始盛行时，设计师所面临的环境是这样的：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;更多的企业内部系统、或应用型系统的设计，系统的存在往往是解决某个真实发生的业务问题；&lt;/li&gt;
+&lt;li&gt;大多数人的思维依然停留在功能，决策者们、甚至设计师对于「以人为中心」缺乏理解和教育。&lt;/li&gt;
+&lt;li&gt;功能与上下文是独立的，大多数设计讨论不需要讨论上下文；&lt;/li&gt;
+&lt;li&gt;使用者是固定的，用户需求通常由工作岗位决定，设计者所接触的往往就是有直接任务、直接痛点的使用者；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Persona作为一种方法论恰好解决了这些问题：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;通过同理心地图（Empathy Map）的方式教育决策者和设计师将设计的中心从功能转向人；&lt;/li&gt;
+&lt;li&gt;通过用户画像梳理出外在和内在的需要并转化成用户任务（User Tasks）进行优先级排序以精简设计范围；&lt;/li&gt;
+&lt;li&gt;连接后续的用户体验地图设计（User Journey Map）将设计串连，而不是功能的堆砌。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=""&gt;时代的变迁&lt;/h2&gt;
+
+&lt;p&gt;在功能时代过度到「以人为中心」的设计时代，&lt;/p&gt;</description><link>http://localhost:2368/rethink-persona/</link><guid isPermaLink="false">0c854eca-1ed9-4953-8539-d01385893e0c</guid><category>设计思维</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 05 Sep 2016 02:58:04 GMT</pubDate><content:encoded>&lt;p&gt;我想，是时候重新审视甚至抛弃Persona这样的实践了。Persona作为以人为中心的设计方法论中不可或缺的部分，长久以来被几乎所有设计机构或团队使用，包括我们自己也将其奉为圭臬。&lt;/p&gt;
+
+&lt;p&gt;在长期使用Persona的过程中，我们开始反思在当前设计环境下Persona作为设计方法论的必要性。Persona的定义和解释不再赘述，即尝试使用一个具象的用户画像来讨论用户的需求（内在与外在）、定义用户目标、规划体验地图、发现痛点和机会、最后进行设计。&lt;/p&gt;
+
+&lt;h2 id="persona"&gt;Persona为何盛行&lt;/h2&gt;
+
+&lt;p&gt;Persona开始盛行时，设计师所面临的环境是这样的：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;更多的企业内部系统、或应用型系统的设计，系统的存在往往是解决某个真实发生的业务问题；&lt;/li&gt;
+&lt;li&gt;大多数人的思维依然停留在功能，决策者们、甚至设计师对于「以人为中心」缺乏理解和教育。&lt;/li&gt;
+&lt;li&gt;功能与上下文是独立的，大多数设计讨论不需要讨论上下文；&lt;/li&gt;
+&lt;li&gt;使用者是固定的，用户需求通常由工作岗位决定，设计者所接触的往往就是有直接任务、直接痛点的使用者；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Persona作为一种方法论恰好解决了这些问题：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;通过同理心地图（Empathy Map）的方式教育决策者和设计师将设计的中心从功能转向人；&lt;/li&gt;
+&lt;li&gt;通过用户画像梳理出外在和内在的需要并转化成用户任务（User Tasks）进行优先级排序以精简设计范围；&lt;/li&gt;
+&lt;li&gt;连接后续的用户体验地图设计（User Journey Map）将设计串连，而不是功能的堆砌。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=""&gt;时代的变迁&lt;/h2&gt;
+
+&lt;p&gt;在功能时代过度到「以人为中心」的设计时代，Persona起到不可比拟的作用，但是，我们的时代已经不同，相较于上一个时代我们发现：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;大量设计需求来自于终端消费者的使用场景；&lt;/li&gt;
+&lt;li&gt;越来越多的人认识到体验和人的重要性；&lt;/li&gt;
+&lt;li&gt;在移动设计的背景下功能和上下文强相关；&lt;/li&gt;
+&lt;li&gt;使用者的痛点并不明显，也不存在必要的用户任务、用户旅程多样；&lt;/li&gt;
+&lt;li&gt;人们在拒绝标签化，在不同场景下人们可能表现出不同标签化行为。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;总的来说，前一个时代，人的要素要高于相对特定的上下文——需求更来自于人的不同；而在现在这一时代，上下文则高于人的要素——需求来自于上下文的不同。&lt;/p&gt;
+
+&lt;p&gt;最简单的例子，当所有人挤进地铁之后，在同样一个上下文中，用户的使用习惯趋同，而讨论每个人用户画像则变得意义不大。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/09/0023248155c618caf00f3d.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;此外还需要考虑当前移动体验的日趋成、价格日趋降低、和学习成本降低的背景下，一个60岁母亲在子女的教育下、使用最新款的智能手机，其使用习惯不见得比她的子女有多少不同。&lt;/p&gt;
+
+&lt;h2 id=""&gt;被设计思维滥用&lt;/h2&gt;
+
+&lt;p&gt;Persona的确是设计思维中一项重要的活动，同时也是最不需要参与者任何的洞察力与系统思考的能力，它几乎是零基础的。这往往就成为参与者们最喜欢做的一项实践，在头脑风暴中，无论背景和专业的人都参与到绘制过程中。&lt;/p&gt;
+
+&lt;p&gt;然而，设计思维所坚持的是心手合一，通过建造、思考、改进的过程设计真正直达人心的体验，而不是娱乐化的自我满足，以为满墙的纸片就是设计、以为热火朝天的场面就是协作。&lt;/p&gt;
+
+&lt;h2 id="persona"&gt;自我陶醉的Persona&lt;/h2&gt;
+
+&lt;p&gt;同样不能忽视Persona在设计过程中「夸大其词」的倾向，打开绝大多数设计咨询公司的设计文档，在Persona部分，我们往往看到的是一张姣好的面容，一份超过当地收入平均水平的普通工作，一份「爱旅行」、「爱美食」、「爱音乐」的组合，且不说这样的形象对于产品本身的用户使用习惯有何特别之处，是否真实存在这样一个形象，更让人存疑。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://pcuseman.com/image/pcard.JPG" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;被美化的Persona变成了设计者的自我陶醉，或是「收买」决策者的幻药——用一个假设的、皆大欢喜的角色让决策者对其产品设计充满信心。&lt;/p&gt;
+
+&lt;p&gt;2011年的博文《&lt;a href="http://www.tuzei8.com/what-is-persona/"&gt;什么是Persona&lt;/a&gt;》中提到，Persona的目的是为了「Emapthy」，既将自己带入到使用者的情景中。那么，一份脱离真实世界的用户画像，无非是建设了一个「自己和大家都愿意相信」的情景。&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;此三点便是Persona作为一种实践应该被重新思考的原因：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;新的时代中，相同上下文中不同人的行为趋同——你是否和你的父母在自家客厅三个人各自刷手机？Persona的意义被消减；&lt;/li&gt;
+&lt;li&gt;Persona的实践难度低，人人都可以参与，Persona在设计思维的名义下被形式化，并不对后续阶段产生多少真正的设计价值；&lt;/li&gt;
+&lt;li&gt;Persona如果大部分时间都是拍脑袋的自我陶醉，用户画像只是你所希望目标用户形象，事实上他们要么不是真正用户、要么根本不存在。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Persona是过程而不是结果，真正目的是让设计师理解目标用户所处的情景，而真正理解情景，在以往，通过对目标用户的任务分析（往往可以从Persona中推导）就可以实现，而现在，理解情景必须走入到真正的世界中，而不是用理想化的用户画像让人「倾向于相信」，这样的Persona，还不如不做。&lt;/p&gt;</content:encoded></item><item><title>数字转型的政治</title><description>&lt;p&gt;现代企业中的政治问题到底是怎么产生的，对政治的经典定义是「一群有组织的群体对于某个位置（Position）的实现和保护」——这样的定义在企业中也存在，组织变成了有种相同商业目标的部门，位置变成了企业价值链中的一环，实现和保护成为部门生存和成长的必要。&lt;/p&gt;
 
 &lt;p&gt;从基本逻辑上来看，部门的生长若是必然，那么一旦商业目标发生了变化或模糊、位置发生了变化，部门的「政治警报」必然拉响，因其关乎部门是否能存在。&lt;/p&gt;
 
@@ -1951,121 +2045,4 @@
 
 &lt;p&gt;换言之，&lt;strong&gt;企业文化是副产品&lt;/strong&gt;，当我们谈论「文化守护」的时候，不是去鼓励企业文化之下的行为，而是将公司愿景深深植入每位员工的心里，这里包括一份必须遵守的「信则」、而一份深信不疑的「未来」，至于文化本身，则由这一群人的行为所代表。&lt;/p&gt;
 
-&lt;p&gt;考虑到公司愿景是企业战略的重要部分，我更愿意认为&lt;strong&gt;企业文化是企业战略的副产品&lt;/strong&gt;。&lt;/p&gt;</content:encoded></item><item><title>如何看待设计思维</title><description>&lt;p&gt;本文原刊载于知乎问题《&lt;a href="https://www.zhihu.com/question/41853850/answer/98676217"&gt;IDEO运用Design Thinking做了很多社会创新的项目，那么DT是如何应用到实际工作中呢？&lt;/a&gt;》的&lt;a href="https://www.zhihu.com/question/41853850/answer/98676217"&gt;回答&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;看待设计思维（Design Thinking）应该有一个良性的态度，即不应该把它奉若神明、也不应该犬儒地、不假思索地否定，通过不同角度来看设计思维，帮助我们真正认识这个几年来设计界最流行的「概念」。&lt;/p&gt;
-
-&lt;h2 id="ideodt"&gt;从IDEO公司的角度看DT&lt;/h2&gt;
-
-&lt;p&gt;自IDEO创始人Tim Brown在2008年第6期的《哈佛商业评论》（&lt;a href="https://hbr.org/2008/06/design-thinking"&gt;Design Thinking&lt;/a&gt;）提出设计思维已经8年，我们来看当时作为一间设计咨询公司所面对的世界：&lt;/p&gt;
-
-&lt;p&gt;设计通常发生在开发的下端；&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;产品研发方式是瀑布式的一步一步进行收敛和明晰的；&lt;/li&gt;
-&lt;li&gt;风险只可能在最后暴露出来，创新要么平庸要么赌博；&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;而对于一间设计公司，这三点对一间希望在设计界成为翘楚的专业服务公司都是极大的风险：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;谁也不愿意自己的设计服务在低端竞争，做一次就好；&lt;/li&gt;
-&lt;li&gt;瀑布式的研发过程设计咨询公司难以在研发过程中发挥作用，一切按部就班哪有服务机会；&lt;/li&gt;
-&lt;li&gt;要么为过程买单要么为结果买单，即难以参与过程、又难以交付结果，设计服务公司的价值在哪里？&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;让我们来想象一个完美的世界：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;设计充满在整个创新过程、概念、研究、演进、制造、测试、成长等等，而不是最前或者最后的部分；&lt;/li&gt;
-&lt;li&gt;需求可以根据客户需求和市场变化而变化、设计对于产品研发有着更多指导的意义；&lt;/li&gt;
-&lt;li&gt;创新无疑是高风险的，&lt;/li&gt;&lt;/ul&gt;</description><link>http://localhost:2368/what-design-thinking-really-is/</link><guid isPermaLink="false">5ee6fb25-899d-4b98-9d8a-bbb426429d30</guid><category>设计思维</category><dc:creator>熊子川</dc:creator><pubDate>Wed, 15 Jun 2016 23:23:33 GMT</pubDate><content:encoded>&lt;p&gt;本文原刊载于知乎问题《&lt;a href="https://www.zhihu.com/question/41853850/answer/98676217"&gt;IDEO运用Design Thinking做了很多社会创新的项目，那么DT是如何应用到实际工作中呢？&lt;/a&gt;》的&lt;a href="https://www.zhihu.com/question/41853850/answer/98676217"&gt;回答&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;看待设计思维（Design Thinking）应该有一个良性的态度，即不应该把它奉若神明、也不应该犬儒地、不假思索地否定，通过不同角度来看设计思维，帮助我们真正认识这个几年来设计界最流行的「概念」。&lt;/p&gt;
-
-&lt;h2 id="ideodt"&gt;从IDEO公司的角度看DT&lt;/h2&gt;
-
-&lt;p&gt;自IDEO创始人Tim Brown在2008年第6期的《哈佛商业评论》（&lt;a href="https://hbr.org/2008/06/design-thinking"&gt;Design Thinking&lt;/a&gt;）提出设计思维已经8年，我们来看当时作为一间设计咨询公司所面对的世界：&lt;/p&gt;
-
-&lt;p&gt;设计通常发生在开发的下端；&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;产品研发方式是瀑布式的一步一步进行收敛和明晰的；&lt;/li&gt;
-&lt;li&gt;风险只可能在最后暴露出来，创新要么平庸要么赌博；&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;而对于一间设计公司，这三点对一间希望在设计界成为翘楚的专业服务公司都是极大的风险：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;谁也不愿意自己的设计服务在低端竞争，做一次就好；&lt;/li&gt;
-&lt;li&gt;瀑布式的研发过程设计咨询公司难以在研发过程中发挥作用，一切按部就班哪有服务机会；&lt;/li&gt;
-&lt;li&gt;要么为过程买单要么为结果买单，即难以参与过程、又难以交付结果，设计服务公司的价值在哪里？&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;让我们来想象一个完美的世界：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;设计充满在整个创新过程、概念、研究、演进、制造、测试、成长等等，而不是最前或者最后的部分；&lt;/li&gt;
-&lt;li&gt;需求可以根据客户需求和市场变化而变化、设计对于产品研发有着更多指导的意义；&lt;/li&gt;
-&lt;li&gt;创新无疑是高风险的，那么至少让过程变得「大家都开心」，客户就会为过程买单，而胜于结果。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;如果对「设计思维」稍有理解，就能知道这三点就是「设计思维」所提倡的。换句话说，「设计思维」的提出符合以IDEO为代表的设计咨询公司的核心业务需要。那么它是不是有价值的呢？非常有价值。&lt;/p&gt;
-
-&lt;h2 id="dt"&gt;从市场的角度看DT&lt;/h2&gt;
-
-&lt;p&gt;2008年到2016年的8年间产业界发生了什么？从瀑布（Waterfall）到敏捷（Agile）再到精益（Lean）、从云到微服务（Micro Service）、从持续构建（CI）到开发自运维（DevOps）、从电子渠道（Digital Channel）到全渠道（Omnichannel）、从互联网到移动互联网、从Online到Online-to-offline，如果你仔细思考8年内这些观念的变化你会找到几个共通点：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;这些变化都在为更快的反馈准备；&lt;/li&gt;
-&lt;li&gt;这些变化都在支持融合而不是分隔；&lt;/li&gt;
-&lt;li&gt;这些变化都在帮助创新从一次性赌博（One Bet）变成BAU（Business As Usual）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;如果你再回头看DT所代表的理念，你会发现它正好迎合了这个市场的大趋势：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;设计思维通过持续的快速反馈进行可验证的学习（Validated Learning）；&lt;/li&gt;
-&lt;li&gt;设计思维通过协作方式打破不同部门、背景、习惯、文化的界限、进行融合；&lt;/li&gt;
-&lt;li&gt;设计思维既不要按部就班数据分析的平庸、也不要直觉式的孤注一掷，而是将创新变成一个日常性的事务。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;因此，设计思维是符合市场趋势的，一定会被市场广泛接受。&lt;/p&gt;
-
-&lt;h2 id="dt"&gt;从设计师的角度看DT&lt;/h2&gt;
-
-&lt;p&gt;再看8年里市场对设计师的要求，最好的办法是看设计教育的学科设计，可以体会市场上到底需要什么样的设计师。&lt;/p&gt;
-
-&lt;p&gt;我2010年开始在中国区招募UX设计师，80%的人来自于「工业设计」、20%的人来自于「平面设计」背景，大部分的工作年限在两年以下；这个情况到了2012年，开始出现了「HCI」或「应用心理学」等专业的求职者；到了2014年，专业变得更加多元化，从「数字媒体」、「设计战略」、到「Design Tech」、「Transdisciplinary Design 」。&lt;/p&gt;
-
-&lt;p&gt;求职者和入职者专业的变化反映着职业市场的需求，对设计人才的需要已经深入到产品研发过程的各个方面，并开始进行设计、商业、和技术的大融合，最新一期2016年约翰前田一年一度《&lt;a href="http://www.slideshare.net/kleinerperkins/design-in-tech-report-2016-chinese"&gt;科技中的设计&lt;/a&gt;》中提到：商学院正在可能成为设计师的产出地：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://pic1.zhimg.com/5299763f1e1cfe53f3214e35ff3ce50c_b.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;这样的变化有理由让我们相信，设计师身处在这个科技、设计、商业大规模融合的时代，而Design Thinking所宣传的「科技、商业、和设计的融合」符合市场对于新设计师的需要，这样的需要不但来自于技能上，同样来自于归属感。&lt;/p&gt;
-
-&lt;p&gt;因此，&lt;strong&gt;Design Thinking符合市场对设计师成长的需要，以及设计师自身的自我认同&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;最后回到本题，设计思维是如何应用在我的工作的？&lt;/p&gt;
-
-&lt;p&gt;有趣的是，我正好是2008年加入ThoughtWorks公司，第一份工作是在敏捷环境下为客户交付软件，设计技能反而不是我的必要能力、而是锦上添花，我的职责是和客户进行沟通、拆分、确定、砍需求、问为什么、帮助客户与开发团队、他们的用户和领导者协作，简单来说，就是：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;帮助开发团队尽可能早地得到用户和客户的反馈，降低交付风险；&lt;/li&gt;
-&lt;li&gt;帮助所有人融合；&lt;/li&gt;
-&lt;li&gt;帮助所有人形成新的「做软件」的习惯。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在当时我并不了解设计思维，但却幸运地做了设计思维所推崇的事情，而更幸运的事情，莫过于在一间世界上最棒的科技公司、和世界上最好的商业客户、做设计。这才是实践设计思维真正有趣的地方。&lt;/p&gt;
-
-&lt;p&gt;到如今，我依然还是在做2008年我开始做的事情：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;快速反馈、去除风险、交付；&lt;/li&gt;
-&lt;li&gt;融合、聚集资源、撬动投资；&lt;/li&gt;
-&lt;li&gt;形成一种新的企业行为。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;只是对象从客户方的小经理，变成了世界上最好公司高层管理人员，事情依然没有变，看起来也许还是那些满墙「没什么用」的便签纸，而真正身在其中的人，才能体会深意。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://pic2.zhimg.com/e80e77a679f9f6e48b8b0d307d84fbe9_b.jpg" alt=""&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;考虑到公司愿景是企业战略的重要部分，我更愿意认为&lt;strong&gt;企业文化是企业战略的副产品&lt;/strong&gt;。&lt;/p&gt;</content:encoded></item></channel></rss>
