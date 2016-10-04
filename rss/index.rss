@@ -1,4 +1,146 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 19 Sep 2016 03:20:40 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>玩弄虚实的设计</title><description>&lt;p&gt;&lt;em&gt;本篇是《Speculative Everything》一书第8章《Between Reality and the Impossible》的读书笔记。&lt;/em&gt;&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 04 Oct 2016 19:25:29 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>设计、政治、和社会</title><description>&lt;p&gt;激进的18世纪法国唯物主义史观的乌托邦学者认为大众（the mass of the people）是其社会与物质条件结合的产物，而不具备能力超越；现实世界的牢笼区将社会区分割成两个部分：被现实世界软禁的、被动的大众（the passive mass）;以及书写历史、建立「统治性的世界观（ruling ideas）」的少数精英。&lt;/p&gt;
+
+&lt;p&gt;这些「统治性的世界观」的目的在于增强现实，它构建起一整套共有价值（commonsense）在潜移默化中强化大众对物质世界的认识，例如「穷人穷是因为懒」、「移民偷走了我们的工作」、「入侵他国是为了解放当地人民」等等。&lt;/p&gt;
+
+&lt;p&gt;真正的社会割裂正式来自于此，而深处科技行业的我们，无意识地成为帮凶——技术帮助我们制造精英式的生活方式、传播被主流现实定义为「美的」东西、我们相信只要「那些人」努力他们会成为我们、同时相信只要我们努力我们也会成为「那些人」、我们一方面担忧这个被分层的社会、但担忧的终究只是「我们为什么不在那上层」。&lt;/p&gt;
+
+&lt;p&gt;同时，科学通过其无所不能，解释这个现实世界，并肆无忌惮地炫耀着其改变世界的伟大能力，&lt;/p&gt;</description><link>http://localhost:2368/speculative-everything/</link><guid isPermaLink="false">cd231fbe-d79f-4f00-a3c7-06953f2e3f82</guid><category>异梦</category><dc:creator>熊子川</dc:creator><pubDate>Tue, 04 Oct 2016 19:22:58 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/10/Mould-Map-6-2016-Miguel-Angel-Valdivia-for-Dunne-Raby-Communo-Train-Control-Room-part-of-United-Micro-Kingdoms.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/10/Mould-Map-6-2016-Miguel-Angel-Valdivia-for-Dunne-Raby-Communo-Train-Control-Room-part-of-United-Micro-Kingdoms.jpg" alt="设计、政治、和社会"&gt;&lt;p&gt;激进的18世纪法国唯物主义史观的乌托邦学者认为大众（the mass of the people）是其社会与物质条件结合的产物，而不具备能力超越；现实世界的牢笼区将社会区分割成两个部分：被现实世界软禁的、被动的大众（the passive mass）;以及书写历史、建立「统治性的世界观（ruling ideas）」的少数精英。&lt;/p&gt;
+
+&lt;p&gt;这些「统治性的世界观」的目的在于增强现实，它构建起一整套共有价值（commonsense）在潜移默化中强化大众对物质世界的认识，例如「穷人穷是因为懒」、「移民偷走了我们的工作」、「入侵他国是为了解放当地人民」等等。&lt;/p&gt;
+
+&lt;p&gt;真正的社会割裂正式来自于此，而深处科技行业的我们，无意识地成为帮凶——技术帮助我们制造精英式的生活方式、传播被主流现实定义为「美的」东西、我们相信只要「那些人」努力他们会成为我们、同时相信只要我们努力我们也会成为「那些人」、我们一方面担忧这个被分层的社会、但担忧的终究只是「我们为什么不在那上层」。&lt;/p&gt;
+
+&lt;p&gt;同时，科学通过其无所不能，解释这个现实世界，并肆无忌惮地炫耀着其改变世界的伟大能力，其目的并不在于「改变」而在于强化现有的物质世界，对大众而言，只是牢笼中，多了件沙发。&lt;/p&gt;
+
+&lt;p&gt;某种意义上说，艺术也是帮凶，从天顶画师们对无上权利的赞颂，到后世设计运动对现实世界的忧虑，不过于歌功颂德或无病呻吟，何尝不是一种政治宣传——不过是牢笼中粉饰的天空而已——安慰剂而已。&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计与社会变革&lt;/h2&gt;
+
+&lt;p&gt;Dunne和Raby所期待的，便是在众多社会变革的方式中找到属于「设计」的一条路。这一条路与马克思所阐述的「社会变革必须来自于群众自我意识和其对客观世界改造的结合」类似，其关联性有三：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;设计是从下至上的、并基于个体行为（individual action）的；&lt;/li&gt;
+&lt;li&gt;设计是主观世界（需求）和客观世界（方案）的结合；&lt;/li&gt;
+&lt;li&gt;设计是包含自我意识的：我将选择什么样的设计？如何选择？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;因此，这便是D&amp;amp;R在《Speculative Everything》一书中的最核心的逻辑——是否可以将设计变为帮助大众获得真正自由意志主体（Free Agent）的手段？&lt;/p&gt;
+
+&lt;p&gt;有趣之处在于，传统意义上，设计是共有价值（commonsense）「玩弄」大众的产物：我来告诉你什么是好的和美的？以及更重要的——我来告诉什么是你需要的？但D&amp;amp;R却希望翻转设计，使其成为割开现实世界统治的一把匕首、自我改造的一副耕犁。&lt;/p&gt;
+
+&lt;p&gt;因此，理解Speculative Design的意涵，需要理解其期待改造社会的一面，如书中所言：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Can design achieve this, too, if it is decoupled from narrow commercial agenda? We think so. （设计是否能够帮助我们突破商业现实？我们相信可以）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这里的商业现实（commercial agenda）早在大众媒体兴盛之时就已经将真实世界与个人世界的边界模糊，而精妙之处在于，技术和传播的合谋，将无数个本该独立存在的现实被一股脑地丢进同一个现实里，在这里，现实变成了单数形式（reality singular）。&lt;/p&gt;
+
+&lt;p&gt;突破共有价值或商业现实的约束，抹去决定现实真实性的威权，建立现实的多重性（reality plural）应是设计师的新职责：帮助大众打开想象力，而非代表大众建立一个唯一的现实和未来。其目的，是在于帮助多数人重新思考自己与现实世界的关系，实现真正的自由意志。在这里，设计师是辅助者（facilitator），而非主宰者，更非官方意志的帮凶。&lt;/p&gt;
+
+&lt;p&gt;在科技现实中，这里官方意志的代言人，变成了「科技寡头」，它们构建了一个未来通过数据互联的世界，迫使70亿人基于&lt;em&gt;一个&lt;/em&gt;统一的现实世界，去相信&lt;em&gt;一个&lt;/em&gt;人类共有的「美好」未来。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/131125_r24296-868.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;这个未来的建筑，失去社会性的纬度（social dimension），取而代之的是科学、技术、以及逻辑。Bob Dylan在《&lt;a href="https://en.wikipedia.org/wiki/Subterranean_Homesick_Blues"&gt;Subterranean Homesick Blues&lt;/a&gt;》中唱到：「You don't need a weatherman to know which way the wind blows」，这里的Weatherman，可以指代一切被这个由科技精英构建的这个未来中，一切可以预见的元素。&lt;/p&gt;
+
+&lt;p&gt;在科技的穹顶之下，连政治家都在向马克·扎克伯格顶礼膜拜，冗杂着新自由主义的梦（neoliberal dream），最高生产力的代表者跟他们的前任者一样，维护着科技的未来之路，大众早已遗忘自己是否需要一个天气预报员告诉自己风往哪边刮。&lt;/p&gt;
+
+&lt;h2 id="nudge"&gt;Nudge&lt;/h2&gt;
+
+&lt;p&gt;Dunne和Raby所期待Speculative Design能做的，就是用一种鼓励（nudge）的方式，辅助大众开始对某个话题的讨论。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/27gray-blog427.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;一个名为&lt;a href="http://www.roadmap2050.eu/"&gt;Eneropa&lt;/a&gt;（能源欧罗巴）的项目，作为项目的一部分，设计事务所&lt;a href="http://oma.eu/partners/rem-koolhaas"&gt;AMO&lt;/a&gt;的创始人Rem Koolhaas先生设计一份全新的欧洲地图，期待用一种设计的方式，将欧洲各国结合其主要能源的选择进行重新命名，就这样出现了「生物质堡（Biomassburg）」这样的地名——倾向于使用生物能源的巴尔干地区。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.merged-vertices.com/wp-content/uploads/2014/08/20100415eneropa.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;这份地图来源于欧洲目前主要能源供给规划的分布，其目的是让民众和政策制定者开始重新思考和协商欧洲各国的能源策略：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/roadmap-2050_amo-press-selection_page_8.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;这样的设计本身是具有引导性，而不尝试解决任何问题的。为美国军方服务的智库&lt;a href="https://zh.wikipedia.org/wiki/%E5%85%B0%E5%BE%B7%E5%85%AC%E5%8F%B8"&gt;兰德公司&lt;/a&gt;2007年发布了《&lt;a href="http://www.rand.org/pubs/monographs/MG557.html"&gt;国家建设初学者手册&lt;/a&gt;》，旨在帮助美国政府在世界各地政府发生倾覆时迅速建立起国家机构，受到这一项目的启发Dunne和Raby思考：我们该如何建立一个国家？如何思考能源、政治、经济、和意识形态（ideology）对一个国家建立的影响。整个项目的核心要素是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主要技术和国家意识形态整合；&lt;/li&gt;
+&lt;li&gt;在政治区间上有确定的位置；&lt;/li&gt;
+&lt;li&gt;用交通工具（vehicle）表现。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;首先，在标准的政治区间上标注出四种技术和意识形态的组合，分别是：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/political-chart.png" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Digitarians：以撒切尔和里根时代为代表的&lt;a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9"&gt;新自由主义&lt;/a&gt;（Neoliberalism）和数字技术的组合；&lt;/li&gt;
+&lt;li&gt;Communonuclearists：共产主义和核技术的组合；&lt;/li&gt;
+&lt;li&gt;Bioliberals：&lt;a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E6%9C%83%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9"&gt;社会民主主义&lt;/a&gt;和生物技术的组合；&lt;/li&gt;
+&lt;li&gt;Anarchoevolutionists：&lt;a href="https://zh.wikipedia.org/zh/%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89"&gt;无政府主义&lt;/a&gt;和自我进化技术的组合。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;通过这样的简化和抽象（典型的设计方法），设计师开始设计每个微型国家中的交通工具。&lt;/p&gt;
+
+&lt;h3 id=""&gt;数字车&lt;/h3&gt;
+
+&lt;p&gt;Digitarians所在的数字国家，政府通过数字建立威权也提供福祉，指标、全面的监控、跟踪、数字记录、百分百的透明，不再区分谁是人民（citizens）谁是消费者（consumers），连民众的想象都可以由数字完成，一切都在数字的管理之下，根本不存在所谓的乌托邦，所有行为都变成越来越短暂的输入输出。&lt;/p&gt;
+
+&lt;p&gt;在这个背景下，主要的交通工具是「数字车（Digicar）」，一种完全自动驾驶的行驶工具，和现在无人驾驶提出的「更好的出行体验」不同，高速公路的拥有者将数字车提供给消费者，他们就像现在的运营商一样，通过数字监控和优化，引导数字车寻找最优化的路线，实现最大化利润。出行就像购买流量包或话费套餐（tariff）一样，整个国家变成一个由无差别的单点数字包组成的流量系统，&lt;strong&gt;每一个单点上的人都显得可爱、质朴、如他们想象的那样自由，就像每一个数字车的设计一样。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/mit-media-lab-Dunne-Raby-Digicars1.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.unitedmicrokingdoms.org/wp-content/uploads/2013/04/carsFinal-Color-Output0000-web1.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;数字车就是在发生的现实，Google和Tesla们正在把人类塞入一个个数字包，而每个人似乎都感受到了无处不在的自由和幸福，一个自由幸福的Digitarian。&lt;/p&gt;
+
+&lt;h3 id=""&gt;列车之国&lt;/h3&gt;
+
+&lt;p&gt;Communonuclearists生活在巨大列车（Train）上的国度，核能技术极为发达，为了保证生产和供给的平衡，这是一个人口不再增长的国度，有人上车就要有人下车，在持续运行的列车里，国家把人民和危险的环境（可能的核污染）隔离，不同车厢提供各种设施，所有消费和快乐都是配给的，居住者享受着所有国家福利，同时必须严格服从规则。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/Nuclear_train-1-540x360.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://www.domusweb.it/content/dam/domusweb/en/news/2015/07/10/dunne_raby_the_school_of_constructed_realities/domus-dunne-e-raby-mak-280.jpg/_jcr_content/renditions/cq5dam.web.960.800.jpeg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;这个隐喻妙不可言，永远行进的列车代表着中心权力通过速度对时间和地点的控制（我们要去向一个永远到不了的地方），也掌握了所有土地，即车厢，让所有人都变成无产者，同时又是共享富裕的，前提是无限能量的核能，以及不再增长的最终社会形态或终极故事。&lt;/p&gt;
+
+&lt;h3 id=""&gt;生物车&lt;/h3&gt;
+
+&lt;p&gt;化石能源贯穿了整个西方世界的价值观，&lt;strong&gt;燃烧和分化石油以获得速度和效率的隐喻&lt;/strong&gt;在资本主义世界中无处不在，而在社会民主主义制度下生活的Bioliberals们希望基于生物技术建立一个完全不同的世界，更快不一定更好，他们追求的是和自然融为一体，在这里，主要的交通工具是「生物车（Biocar）」——一款完全使用生物能源驱动的、又大又重又臭的四轮车。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/BioCars_objects_01.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;居民们根据自己的需要自己生产这种交通工具，采用厌氧菌排出气体作为动力，虽然慢、也不符合空气动力学原理，但这是最自然的方式。这个设计最有趣的地方在于讨论生物技术的极度发展对于国家政体和意识形态的影响——如果人人都掌握了制造能源的方式会怎样？&lt;/p&gt;
+
+&lt;h3 id=""&gt;自我进化生物&lt;/h3&gt;
+
+&lt;p&gt;镜头转向Anarcho-evolutionists的国度，在这里，人们把进化的权利掌握在自己手里，他们抛弃了几乎所有的技术，至少不在开发他们，而是通过自我训练、生物改进、自我进化去适应更加苛刻的生活环境以摆脱威权的管理，他们不相信政府而更相信自己，他们与Digitarians完全相反，人应该回到世界的主体。&lt;/p&gt;
+
+&lt;p&gt;他们的世界是没有车的世界，自己就是自己的交通工具、或是风、或是经过生物改良的动物，社会性和合作胜于速度与竞争，无政府主义事实上存于一个高度自治、且人人可为（can do not do better）的社会。&lt;/p&gt;
+
+&lt;p&gt;在这个社会里产生了「气球人（Ballonist）」和「单车人（Cyclists）」两种不同进化方向的人，前者更高更瘦、后者拥有更高级的大腿肌肉群；同时「马牛（Hox）」和「斗牛奇（Pitsky）」两种新物种被驯养出来，前者是马和牛的产物用于重物运输、后者是斗牛梗和哈士奇的组合，用于轻物运输和保护。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/speculative_United_2.jpg" alt="设计、政治、和社会"&gt;&lt;/p&gt;
+
+&lt;p&gt;这一组设计的精妙之处在于讨论如下问题：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;如果近乎无限的能源掌握在少数人手中，人类社会会变成什么？  &lt;/li&gt;
+&lt;li&gt;如果所有的数据都掌握在少数人手中，人类社会会变成什么？  &lt;/li&gt;
+&lt;li&gt;如果人人拥有制造能源的能力，人类社会会变成什么？  &lt;/li&gt;
+&lt;li&gt;如果人人都可以通过自我改造进行进化，人类社会会变成什么？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=""&gt;真正的力量&lt;/h2&gt;
+
+&lt;p&gt;威权因为掌握能源和数据而成为威权、人民掌握能源和自我进化而更加自由，通过设计，我们所讨论的不是是非对错的问题，而是从一个假设出发，制造一个环境让人们思考新的一种可能性，而非顺延着现实社会所定义的路线图，膜拜现实——我们以为自己不再是社会主义列车里的一份子，却欢心鼓舞地期待一个由自动车和虚拟显示技术构造的数字世界，本质上并没有区别。&lt;/p&gt;
+
+&lt;p&gt;这是《Speculative Design》的最后一章，让我们来回顾和总结Speculative Design的精要：科学用于解释世界、目的依然是增强现在的世界；艺术用于表达世界，却不在于改造；对世界真正的改造来自于人们自身的改造，是从下自上的；设计天生具有独立个体行为的特质，它能够通过交互的方式引导人们对于自身的改造；设计师是大众的，而不应该是精英的，应该为大众设计，用设计的方式启发和引导大众思考，保护大众的内心世界，而不被包裹在美好、自由、生活方式里的力量摧毁。&lt;/p&gt;
+
+&lt;p&gt;这本书，我用了两年的时间进行阅读，它真正讨论的话题已经超越了我们所理解的设计本身，而是把设计放在了&lt;strong&gt;科学和艺术之间、政治和意识形态之间、客观解释和自我表达之间、政治权利和个人意志之间，去探讨设计的意涵。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这才理解，人依然是社会和政治的动物，如何看待设计也决定了你要用什么样的方式生活、以及你和这个社会的关系。这才是Speculative Design真正的力量。&lt;/p&gt;
+
+&lt;p&gt;两年来，阅读愉快，谢谢。&lt;/p&gt;</content:encoded></item><item><title>玩弄虚实的设计</title><description>&lt;p&gt;&lt;em&gt;本篇是《Speculative Everything》一书第8章《Between Reality and the Impossible》的读书笔记。&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;当我们谈到现实（Reality）的时候，不自觉的将「可解释」当作区分现实与不现实的属性，也就是说现实一定是可解释的，无论这是一个真实发生的物理现象、还是一个意识上的「理所当然」。前者我们通过科学进行解释、后者我们通过艺术或哲学进行解释，一般意义上，这二者是泾渭分明的——科学的疆界止于艺术或哲学。&lt;/p&gt;
 
@@ -1665,275 +1807,4 @@
 &lt;li&gt;为什么我们强调学习学习再学习，依靠最年轻的一代。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这4条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</content:encoded></item><item><title>两周启动新硬件产品原型期</title><description>&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上；&lt;/li&gt;
-&lt;li&gt;研发环节中涉及到的技术能力和实践特别多；&lt;/li&gt;
-&lt;li&gt;风险极大，返工几乎是必然的；&lt;/li&gt;
-&lt;li&gt;涉及到硬件的需求变更的成本极大；&lt;/li&gt;
-&lt;li&gt;传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;而新硬件产品的设计研发又使得整体风险和难度成倍增加，这里的新硬件产品是指：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;缺少现有标准硬件方案；&lt;/li&gt;
-&lt;li&gt;新的用户使用场景；&lt;/li&gt;
-&lt;li&gt;多个已有方案的整合；&lt;/li&gt;
-&lt;li&gt;对于硬件选型有苛刻的要求。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;过去8年里，我启动了几十个软件交付项目，启动一个硬件研发项目还是第一次，本文是我对本次启动的总结。&lt;/p&gt;
-
-&lt;h2 id=""&gt;背景&lt;/h2&gt;
-
-&lt;p&gt;启动前期对于该产品的产品逻辑已经有了较长时间的讨论，这些讨论最终成为原型期的输入，这些输入包括：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;产品概念定义（Core Product Concept）；&lt;/li&gt;
-&lt;li&gt;客户价值主张（Customer Value Proposition）；&lt;/li&gt;
-&lt;li&gt;核心使用场景（Core User Scenarios）；&lt;/li&gt;
-&lt;li&gt;盈利模型（Profit Model ）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这些输入本身与软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
-
-&lt;p&gt;原型期的核心产出是一个具有完整功能的软硬件技术方案验证，不包含产品化部分（工业设计、品牌等），这个验证方案将基于PCBA板或简单的外壳，结果将用于产品化。&lt;/p&gt;
-
-&lt;h3 id=""&gt;整体规划&lt;/h3&gt;</description><link>http://localhost:2368/hardware-prototype-kickoff/</link><guid isPermaLink="false">8b59197a-8115-4b0b-8607-0783a7b164d1</guid><category>硬件</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 23 Jun 2016 04:56:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/06/pcb-design-service02.png" alt="两周启动新硬件产品原型期"&gt;&lt;p&gt;硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上；&lt;/li&gt;
-&lt;li&gt;研发环节中涉及到的技术能力和实践特别多；&lt;/li&gt;
-&lt;li&gt;风险极大，返工几乎是必然的；&lt;/li&gt;
-&lt;li&gt;涉及到硬件的需求变更的成本极大；&lt;/li&gt;
-&lt;li&gt;传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;而新硬件产品的设计研发又使得整体风险和难度成倍增加，这里的新硬件产品是指：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;缺少现有标准硬件方案；&lt;/li&gt;
-&lt;li&gt;新的用户使用场景；&lt;/li&gt;
-&lt;li&gt;多个已有方案的整合；&lt;/li&gt;
-&lt;li&gt;对于硬件选型有苛刻的要求。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;过去8年里，我启动了几十个软件交付项目，启动一个硬件研发项目还是第一次，本文是我对本次启动的总结。&lt;/p&gt;
-
-&lt;h2 id=""&gt;背景&lt;/h2&gt;
-
-&lt;p&gt;启动前期对于该产品的产品逻辑已经有了较长时间的讨论，这些讨论最终成为原型期的输入，这些输入包括：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;产品概念定义（Core Product Concept）；&lt;/li&gt;
-&lt;li&gt;客户价值主张（Customer Value Proposition）；&lt;/li&gt;
-&lt;li&gt;核心使用场景（Core User Scenarios）；&lt;/li&gt;
-&lt;li&gt;盈利模型（Profit Model ）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这些输入本身与软件规划中的产品逻辑定义基本类似，可以视为两周新硬件产品原型期的必要输入。&lt;/p&gt;
-
-&lt;p&gt;原型期的核心产出是一个具有完整功能的软硬件技术方案验证，不包含产品化部分（工业设计、品牌等），这个验证方案将基于PCBA板或简单的外壳，结果将用于产品化。&lt;/p&gt;
-
-&lt;h3 id=""&gt;整体规划&lt;/h3&gt;
-
-&lt;p&gt;硬件产品的研发通常分为四个主要阶段，每个阶段大致划分产品和技术两条线，且比重不同。如下图所示：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/hardware-development-phases.png" alt="两周启动新硬件产品原型期"&gt;&lt;/p&gt;
-
-&lt;p&gt;两周原型期启动完成了产品团队和技术团队第一次「集成」，目标是让技术团队能够顺利地进入原型期，而其成败，是真正「0到1」成功的关键。&lt;/p&gt;
-
-&lt;p&gt;在两周的时间里，我们规划了四个方面的工作：&lt;/p&gt;
-
-&lt;h3 id=""&gt;产品需求&lt;/h3&gt;
-
-&lt;p&gt;产品需求部分与软件项目启动非常类似，我们对之前需求调研期中总结出来的产品概念、客户价值主张、核心使用场景、盈利模型重新探讨。值得注意的有三点：&lt;/p&gt;
-
-&lt;h4 id=""&gt;使用实体原型体会产品交互&lt;/h4&gt;
-
-&lt;p&gt;和软件产品不同，硬件产品往往构建了新的「交互范式（Interaction Paradigm）」，其中包括：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;全新的使用场景；&lt;/li&gt;
-&lt;li&gt;全新的使用设备：&lt;/li&gt;
-&lt;li&gt;多种交互模式进行配合。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在这个背景下，我们使用了大量体验式原型（&lt;a href="http://www.servicedesigntools.org/tools/21"&gt;Experience Prototype&lt;/a&gt; ），例如用纸盒子代表未来产品，加上一系列道具，让技术人员进行角色扮演，亲自体会未来产品的使用场景、反复重复，并把操作过程拍摄成短片。这比文档或者设计稿的方式更加有效。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/box-prototype.png" alt="两周启动新硬件产品原型期"&gt;
-(&lt;em&gt;使用纸盒制作的体验式原型&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/IMG_3513.gif" alt="两周启动新硬件产品原型期"&gt;
-(&lt;em&gt;让技术人员亲自操作体验式原型，体会产品交互&lt;/em&gt;)&lt;/p&gt;
-
-&lt;h4 id=""&gt;尽可能核心的产品逻辑&lt;/h4&gt;
-
-&lt;p&gt;和硬件方案相比较，工作在硬件平台上的软件本身风险较小，因此保持一个最精简的概念模型，保证端到端产品「可使用」便可，这里遵循软件研发中概念精简的原理，在此不做赘述。在真实项目里，我们假设了一个最简单的端到端需求场景，并考虑在原型期结束前保证需求锁定，把重点放在重大的硬件技术风险上。&lt;/p&gt;
-
-&lt;h4 id=""&gt;规划产品未来&lt;/h4&gt;
-
-&lt;p&gt;硬件规划不能只考虑一个简单的需求场景，一个硬件平台需要考虑未来2年到3年的产品需求，以下几个因素将帮助硬件架构师规划硬件平台：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2到3年内产品功能将扩展到什么样子；&lt;/li&gt;
-&lt;li&gt;预测的市场价格是多少；&lt;/li&gt;
-&lt;li&gt;预测的月出货量有多少；&lt;/li&gt;
-&lt;li&gt;期待的产品毛利润是多少；&lt;/li&gt;
-&lt;li&gt;期待的产品单位成本是多少；&lt;/li&gt;
-&lt;li&gt;产品生命周期是多长。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;通过以上三点的理解，技术团队对需求、产品概念、以及规划有了足够的理解，在此之上将进入技术规划的讨论。&lt;/p&gt;
-
-&lt;h3 id=""&gt;技术规划&lt;/h3&gt;
-
-&lt;p&gt;一个典型的硬件技术方案将分为四个层次，它们分别是：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/hardware-solution-2.png" alt="两周启动新硬件产品原型期"&gt;&lt;/p&gt;
-
-&lt;h4 id=""&gt;硬件&lt;/h4&gt;
-
-&lt;p&gt;在产品原型期，硬件部分的工作风险最大，因此其他三个部分的工作统一由硬件研发牵引，我们将考虑六个重要的里程碑，每个里程碑需要有其他工作项的产出物进行配合：&lt;/p&gt;
-
-&lt;h5 id="schematicdesign"&gt;电气原理图设计（Schematic Design）&lt;/h5&gt;
-
-&lt;p&gt;基于对硬件平台和组件的选择，产出适合的电气原理图；&lt;/p&gt;
-
-&lt;h5 id="pcbpcblayout"&gt;PCB设计（PCB Layout）&lt;/h5&gt;
-
-&lt;p&gt;基于电气原理图，产出PCB（Printed Circuit Board）设计，PCB板设计是给第三方厂商定制PCB和PCBA的重要设计文档；&lt;/p&gt;
-
-&lt;h5 id="pcbpcbamanufacture"&gt;打样（PCB/PCBA Manufacture）&lt;/h5&gt;
-
-&lt;p&gt;选择合适的第三方厂家生产设计好的PCB以及PCBA。&lt;/p&gt;
-
-&lt;h5 id="hardwaredebug"&gt;硬件调试（Hardware Debug）&lt;/h5&gt;
-
-&lt;p&gt;对第三方厂家生产好的PCBA板进行电气特性调试。&lt;/p&gt;
-
-&lt;h5 id="bsphardwarebspintegration"&gt;硬件BSP集成（Hardware + BSP Integration）&lt;/h5&gt;
-
-&lt;p&gt;在通过电气特性调试的PCBA板上集成已完成的BSP组件，并进行测试和排障。&lt;/p&gt;
-
-&lt;h5 id="hardwaremoduleapplicationintegration"&gt;软硬集成集成（Hardware + Module + Application Integration）&lt;/h5&gt;
-
-&lt;p&gt;对已完成的应用或服务器端软件与PCBA板、BSP组件进行集成测试和排障。&lt;/p&gt;
-
-&lt;h4 id="bsp"&gt;板级支持包（BSP）&lt;/h4&gt;
-
-&lt;p&gt;板级支持包部分包含了多种&lt;strong&gt;必须&lt;/strong&gt;基于硬件的软件组件，这里包含：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;操作系统加载器（Bootloader）；&lt;/li&gt;
-&lt;li&gt;定制化操作系统（OS）；&lt;/li&gt;
-&lt;li&gt;标准化或定制化的驱动（Drivers）；&lt;/li&gt;
-&lt;li&gt;某些特定套件（Suits）；&lt;/li&gt;
-&lt;li&gt;基本库（Libraries）；&lt;/li&gt;
-&lt;li&gt;UI框架（UI Framework）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;某些套件不需要依赖硬件方案确定即可开始独立研发，例如一个特定需求的基本库；而大部分BSP组件的研发都需要等到硬件方案确定后、获得评估套件（Evaluation Kits，由硬件厂商提供）才可以进行。&lt;/p&gt;
-
-&lt;h4 id=""&gt;应用&lt;/h4&gt;
-
-&lt;p&gt;应用部分的工作指不需要硬件平台即可以独立运行的软件，例如Web Server；某一特定第三方软件包，例如一个P2P文件传输的框架；以及客户端应用程序的研发，例如一个基于Linux的Demo App。&lt;/p&gt;
-
-&lt;h4 id=""&gt;服务器端&lt;/h4&gt;
-
-&lt;p&gt;服务器端包含产品可能需要的服务器端软件，例如一个数据传输硬件的寻址服务器（Addressing Server）。&lt;/p&gt;
-
-&lt;h3 id=""&gt;风险模型&lt;/h3&gt;
-
-&lt;p&gt;硬件项目在原型期的风险模型跟传统软件研发完全不同，作为项目管理者，需要建立全新的风险模型。理解硬件项目在原型期的风险有如下两点：&lt;/p&gt;
-
-&lt;p&gt;首先，最大的风险来自于硬件定制化本身，BSP和软件（包含独立应用和服务器端）需要与硬件方案产生多次集成；&lt;/p&gt;
-
-&lt;p&gt;其次，每次集成中，出现的问题都可能产生在硬件本身、BSP或软件，一旦发生硬件本身的错误，都必须回到硬件设计阶段——进行重新打样、修改PCB设计、修改电气原理图设计、甚至重新进行硬件选型。&lt;/p&gt;
-
-&lt;p&gt;下图展示了一个硬件项目在原型期中的风险模型：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/risk-model.png" alt="两周启动新硬件产品原型期"&gt;&lt;/p&gt;
-
-&lt;p&gt;每一次向上的箭头都是一次风险，特别到了后期的软硬件集成，某个硬件设计的故障可能导致整个硬件原型研发的全面返工，甚至失败。&lt;/p&gt;
-
-&lt;p&gt;作为硬件产品研发的项目经理，应该尽可能推进完成三大调试或集成点，并为项目规划留出缓冲时间，到项目后期的集成，返工工作量可能成倍增加，对于项目风险的控制应该极为小心。&lt;/p&gt;
-
-&lt;p&gt;特别指出的是，涉及到PCB/PCBA板的制造，通常需要第三方厂商配合、时间周期长、且相对固定，在项目管理中应给予足够的重视。在真实的硬件研发中，硬件工程师通常会使用一些暂时性的手段（Workarounds）将硬件调试推进到下一个测试环节、以期待暴露更多的问题，再统一一次性解决，这样可以减少PCB返工的时间。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/06/pcb.jpg" alt="两周启动新硬件产品原型期"&gt;
-(&lt;em&gt;图中的电线就是硬件工程师经常使用的「飞线」，用于暂时修正PCBA的故障，统一集中问题一次性返工解决。&lt;/em&gt;)&lt;/p&gt;
-
-&lt;h3 id=""&gt;项目规划&lt;/h3&gt;
-
-&lt;h4 id=""&gt;工作线&lt;/h4&gt;
-
-&lt;p&gt;硬件项目规划与软件项目不同，在一开始就需要拆分出工作线（Working Stream），各工作线的启动依赖如下：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;硬件线：依赖于供应商的支持；&lt;/li&gt;
-&lt;li&gt;BSP线：依赖于供应商的支持（如相关资料、评估套件等）；&lt;/li&gt;
-&lt;li&gt;应用线：无依赖；&lt;/li&gt;
-&lt;li&gt;服务器端：无依赖。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;除硬件和BSP工作通常依赖于供应商之外，其他工作线皆可以并行启动，项目经理可根据资源情况，以及未来硬件调试或软硬集成的时间，倒推出工作线启动时间。&lt;/p&gt;
-
-&lt;h4 id=""&gt;角色与能力&lt;/h4&gt;
-
-&lt;p&gt;由于硬件产品研发的特殊性，在技术线方面，至少需要以下背景的工程师：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;硬件工程师&lt;/strong&gt;：熟悉各厂商硬件方案的区别，可以根据产品需求转化成电气原理图设计和PCB设计、在市场寻找合适的供应商、最终生产出PCB和PCBA，并在后续的研发中负责硬件调试，以及和供应商的沟通、协作、管理进度；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;嵌入式软件开发工程师&lt;/strong&gt;：与硬件工程师合作，完成硬件选型，在选定厂家的评估套件上完成BSP的开发，并在后续的硬件调试、集成测试中，与硬件工程师、应用软件工程师合作，排查和修复与嵌入式软件相关的故障；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;应用软件工程师&lt;/strong&gt;：完成应用层和服务器端软件的开发、供终端用户使用。&lt;/p&gt;
-
-&lt;p&gt;特别指出的是，通常嵌入式软件开发工程师和应用软件工程师的区分没有那么明显。&lt;/p&gt;
-
-&lt;p&gt;从产品线考虑，硬件产品研发与软件产品研发类似，至少需要以下三种角色：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;产品经理&lt;/strong&gt;：不必要的复杂度可能增加硬件研发的风险，用户体验在前期需要让步于技术风险，产品经理需要保护产品需求不被扩大或颠覆性变化，在核心产品逻辑不变的情况下改进产品体验；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;交互设计师&lt;/strong&gt;：硬件产品通常涉及新的交互范式，交互设计师没有现有交互方式作为参考，特别需要系统式的交互设计逻辑，最好拥有人因工程设计的背景，再加上硬件产品物理性的特点，需要设计师反复考虑使用场景和环境限制；但是，值得指出的是，在原型期并不涉及到产品的结构、外观、材料等设计，设计可能只是在界面交互层次；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;项目经理&lt;/strong&gt;：不像软件研发，很多工种可以互换、形成特性团队，硬件产品研发流程复杂、工种之间相对独立，这对于沟通和协作产生了极高的要求，再加上外部合作方（工厂、方案提供商）的参与，项目管理难度极大；除沟通协作之外，控制高风险也是摆在项目经理面前重要的工作，多次软硬集成测试的问题、合作方的拖延、多条研发线的拖延，都可能让项目走向失败。&lt;/p&gt;
-
-&lt;h4 id=""&gt;评估&lt;/h4&gt;
-
-&lt;p&gt;敏捷软件开发中的评估采用相对复杂度的方式，这种评估方式的基础是：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;基于一个模糊分工的团队（倾向于全功能团队）；&lt;/li&gt;
-&lt;li&gt;由一个对团队能力、系统复杂度有充分了解的软件技术带头人完成；&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;而硬件产品研发中目前还难以建立全功能团队，能力和角色难以整合；技术带头人极少拥有硬件、嵌入式、软件三种研发背景，复杂度在三种不同体系下是否可以比较，也值得商榷。&lt;/p&gt;
-
-&lt;p&gt;因此，使用传统敏捷软件开发中的评估方法，对硬件产品研发工作量进行估计，我持有保留意见，这种方式是否有效、还需要时间和实践来检验。&lt;/p&gt;
-
-&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
-
-&lt;p&gt;本文是对一次通过两周时间启动一个新硬件产品原型期的总结，在这个过程中，我们做了如下几件事：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;重新定义产品；&lt;/li&gt;
-&lt;li&gt;产出核心用户交互体验；&lt;/li&gt;
-&lt;li&gt;对技术路线图进行规划；&lt;/li&gt;
-&lt;li&gt;识别工作线；&lt;/li&gt;
-&lt;li&gt;识别关键角色和能力；&lt;/li&gt;
-&lt;li&gt;对时间点进行最好和最坏的估计；&lt;/li&gt;
-&lt;li&gt;对项目管理方式达成一致。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;总体来说，硬件产品研发的复杂度、风险、管理难度都超过了软件产品研发，是否可以借用敏捷软件开发中的方法，还需要时间验证。对于一个硬件产品而言，留给自己和大家思考的是：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;如何管理产品需求？&lt;/li&gt;
-&lt;li&gt;如何演进用户体验？&lt;/li&gt;
-&lt;li&gt;如何估计工作量？&lt;/li&gt;
-&lt;li&gt;如何提前暴露风险？&lt;/li&gt;
-&lt;li&gt;如何对硬件产品进行持续集成？&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这4条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</content:encoded></item></channel></rss>
