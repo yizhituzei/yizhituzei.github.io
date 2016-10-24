@@ -1,4 +1,127 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 04 Oct 2016 19:25:29 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>设计、政治、和社会</title><description>&lt;p&gt;激进的18世纪法国唯物主义史观的乌托邦学者认为大众（the mass of the people）是其社会与物质条件结合的产物，而不具备能力超越；现实世界的牢笼区将社会区分割成两个部分：被现实世界软禁的、被动的大众（the passive mass）;以及书写历史、建立「统治性的世界观（ruling ideas）」的少数精英。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 24 Oct 2016 20:11:12 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>平衡计分卡</title><description>&lt;p&gt;《战略十篇》的第七篇书稿，来自于Robert S.Kaplan和David P.Norton，原文刊于《哈佛商业评论》2007年7期（&lt;a href="https://hbr.org/2007/07/using-the-balanced-scorecard-as-a-strategic-management-system"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;战略进入到执行层次时便不再是少数战略规划者的游戏，而成为贯穿组织的共同行为，这里的「共同」所指:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;对远期目标的&lt;strong&gt;共同&lt;/strong&gt;认识;  &lt;/li&gt;
+&lt;li&gt;认定战略执行需要各部门&lt;strong&gt;共同&lt;/strong&gt;协作以及必须与绩效相&lt;strong&gt;关联&lt;/strong&gt;；  &lt;/li&gt;
+&lt;li&gt;共同协作需要&lt;strong&gt;共同&lt;/strong&gt;的规划过程；  &lt;/li&gt;
+&lt;li&gt;战略执行是&lt;strong&gt;共同&lt;/strong&gt;的反馈和学习机制。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;平衡计分卡（Balanced Scorecard）正是为此四个目的而发明——期待用一种可衡量的过程和工具，帮助战略规划者：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;解释和传递共同愿景；  &lt;/li&gt;
+&lt;li&gt;促进沟通和绩效关联；  &lt;/li&gt;
+&lt;li&gt;辅助商业规划；  &lt;/li&gt;
+&lt;li&gt;反馈和成长。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这四点成为战略管理的四大核心过程，可通过平衡计分卡的形式进行管理：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/4-processes-of-balanced-scorecard.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;通过对这四大核心过程的管理，平衡计分卡的出现丰富了企业对于愿景和战略管理的手段，管理企业愿景和战略，不只是通过财务指标，还包括：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;内部业务流程；  &lt;/li&gt;
+&lt;li&gt;学习和成长；  &lt;/li&gt;
+&lt;li&gt;客户。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文完成于1992年，&lt;/p&gt;</description><link>http://localhost:2368/balanced-scorecard/</link><guid isPermaLink="false">58ccf226-9900-413e-a4a1-05cc4b95b40f</guid><dc:creator>熊子川</dc:creator><pubDate>Mon, 24 Oct 2016 20:09:59 GMT</pubDate><content:encoded>&lt;p&gt;《战略十篇》的第七篇书稿，来自于Robert S.Kaplan和David P.Norton，原文刊于《哈佛商业评论》2007年7期（&lt;a href="https://hbr.org/2007/07/using-the-balanced-scorecard-as-a-strategic-management-system"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;战略进入到执行层次时便不再是少数战略规划者的游戏，而成为贯穿组织的共同行为，这里的「共同」所指:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;对远期目标的&lt;strong&gt;共同&lt;/strong&gt;认识;  &lt;/li&gt;
+&lt;li&gt;认定战略执行需要各部门&lt;strong&gt;共同&lt;/strong&gt;协作以及必须与绩效相&lt;strong&gt;关联&lt;/strong&gt;；  &lt;/li&gt;
+&lt;li&gt;共同协作需要&lt;strong&gt;共同&lt;/strong&gt;的规划过程；  &lt;/li&gt;
+&lt;li&gt;战略执行是&lt;strong&gt;共同&lt;/strong&gt;的反馈和学习机制。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;平衡计分卡（Balanced Scorecard）正是为此四个目的而发明——期待用一种可衡量的过程和工具，帮助战略规划者：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;解释和传递共同愿景；  &lt;/li&gt;
+&lt;li&gt;促进沟通和绩效关联；  &lt;/li&gt;
+&lt;li&gt;辅助商业规划；  &lt;/li&gt;
+&lt;li&gt;反馈和成长。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这四点成为战略管理的四大核心过程，可通过平衡计分卡的形式进行管理：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/4-processes-of-balanced-scorecard.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;通过对这四大核心过程的管理，平衡计分卡的出现丰富了企业对于愿景和战略管理的手段，管理企业愿景和战略，不只是通过财务指标，还包括：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;内部业务流程；  &lt;/li&gt;
+&lt;li&gt;学习和成长；  &lt;/li&gt;
+&lt;li&gt;客户。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文完成于1992年，此三个衡量公司表现的额外指标体现着当时公司治理的风向标，即上世纪90年代的大部分企业已经认识到：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;内外部信息对于企业竞争力、投资、资产管理、以及决策的影响；  &lt;/li&gt;
+&lt;li&gt;如果只追求财务指标，其滞后性不利于企业追求中长期经营目标；  &lt;/li&gt;
+&lt;li&gt;企业的成长来自于内部能力建设；  &lt;/li&gt;
+&lt;li&gt;优秀的内部流程和执行力是成长的基础；  &lt;/li&gt;
+&lt;li&gt;应把客户价值放在企业的核心战略和愿景中。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这些公司治理的趋势一直延续，从内部流程优化、以客户为中心、到&lt;a href="https://zh.wikipedia.org/wiki/%E5%AD%B8%E7%BF%92%E5%9E%8B%E6%A9%9F%E6%A7%8B"&gt;学习型组织&lt;/a&gt;的出现，因此平衡计分卡符合企业发展的大环境趋势，其理论思想到今天仍然受用，例如尊重数据、迭代演进、多角度和组合式的目标、与系统思考。&lt;/p&gt;
+
+&lt;p&gt;无论是制造业中的戴明环（&lt;a href="https://en.wikipedia.org/wiki/PDCA"&gt;PDCA Ring&lt;/a&gt;），或是精益创业中的&lt;a href="http://theleanstartup.com/principles"&gt;Build-Measure-Learn模型&lt;/a&gt;，都可以找到平衡计分卡的影子，而后者更具备组织级别的现实意义——前两者的目标依然在于制造（Build），而不在组织成功。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/10/deming-lean-startup-balanced-scorecard.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;另一个平衡计分卡所倡导的基础思想是系统思考：当我们只关注财务表现（Financial Performance）的时候，必然导致对系统思考的疏忽。&lt;/p&gt;
+
+&lt;p&gt;目前有一种风潮，特别是在精益创业理论出现以后，传统严格的战略到执行的过程被批评、取而代之的是更拥抱变化和轻量级的制造过程，更有甚者宣称「战略已死（Strategy is Dead）」，认为「制造就是一切（Build first）」。&lt;/p&gt;
+
+&lt;p&gt;此观点看到了战略规划的问题——规划与执行的脱节，却又引入了新的问题：当我们说「制造就是一切」的时候，可能导致「非系统思考」，事实上，这种思想的结果是从严格规划突然转向自由建造，重点在于是否可工作，而不在于追求平衡（Balanced）。&lt;/p&gt;
+
+&lt;p&gt;这种轻量级的制造、跟踪、和学习过程虽然在一定程度上构建了一个学习型组织的基石，但如果它让实践者忽略了系统思考，便得不偿失，毕竟我们所谈论的上下文，是有着长远经营目标的公司治理，而非从0到1的创业公司。&lt;/p&gt;
+
+&lt;p&gt;平衡计分卡的表现形式反而显得不那么重要，我个人对于这种耗时长、过程复杂的方法是否依然适应当前企业特点持保留态度，主要因以下几点：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;企业所提供服务或产品的生命周期在大大缩短；  &lt;/li&gt;
+&lt;li&gt;企业年轻一代雇员对工作的定义发生改变；  &lt;/li&gt;
+&lt;li&gt;企业从产品公司到服务公司再到智力工作者公司（所有公司可能都变成科技公司）的转变。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;但这并不能否定其理论基础的价值，即我们需要在战略和执行之间找到一种介质（Media）包含以下职责：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;可帮助愿景进行解释；  &lt;/li&gt;
+&lt;li&gt;可帮助战略进行传播；  &lt;/li&gt;
+&lt;li&gt;可帮助战略连接到长期目标与资源分配；  &lt;/li&gt;
+&lt;li&gt;可帮助平衡多个战略投资形成合力；  &lt;/li&gt;
+&lt;li&gt;可帮助战略进行反馈和演进。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;同时这种介质倡导以下原则：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;可传播的愿景胜于准确的愿景；  &lt;/li&gt;
+&lt;li&gt;平衡胜于结果；  &lt;/li&gt;
+&lt;li&gt;组织成功胜于单点改进；  &lt;/li&gt;
+&lt;li&gt;可演进胜于固守标准。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;对于战略咨询者，平衡计分卡的意义在于理解战略规划和管理的核心：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;寻找一种介质，帮助融合战略和执行（例如平衡计分卡）；  &lt;/li&gt;
+&lt;li&gt;明确此种介质的职责；  &lt;/li&gt;
+&lt;li&gt;构建此种介质在运行中所遵守的原则；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;理解了这一核心，可以让我们在不同的战略咨询场景中，设计出战略规划和管理的实施框架，以适合企业对侧重点、范围、目标、和时间长短的不同需要，最终实现企业战略和执行的融合，帮助企业走向更加平衡的组织成功。&lt;/p&gt;</content:encoded></item><item><title>设计、政治、和社会</title><description>&lt;p&gt;激进的18世纪法国唯物主义史观的乌托邦学者认为大众（the mass of the people）是其社会与物质条件结合的产物，而不具备能力超越；现实世界的牢笼区将社会区分割成两个部分：被现实世界软禁的、被动的大众（the passive mass）;以及书写历史、建立「统治性的世界观（ruling ideas）」的少数精英。&lt;/p&gt;
 
 &lt;p&gt;这些「统治性的世界观」的目的在于增强现实，它构建起一整套共有价值（commonsense）在潜移默化中强化大众对物质世界的认识，例如「穷人穷是因为懒」、「移民偷走了我们的工作」、「入侵他国是为了解放当地人民」等等。&lt;/p&gt;
 
@@ -1715,96 +1838,4 @@
 
 &lt;p&gt;大部分的迷失来自于对身份的迷失，「这不是我该做的、这不是我想做的、我应该是这样的，不是那样的」，解决执念在于模糊自己、抛弃身份，寻找属于自己的设计哲理，是有一天不需要标准、角色、界限、产出来定义自己，这才是未来设计师。&lt;/p&gt;
 
-&lt;p&gt;以上。&lt;/p&gt;</content:encoded></item><item><title>ThoughtWorks靠什么挣钱</title><description>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
-
-&lt;p&gt;简单来说，摩尔定律所揭示的是这样一条技术曲线：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/tech.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;而技术突破式创新所带来的商业创新往往后发，商业或业务能力的发展呈现出这样一条曲线：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;作为业务发展和运营的支撑，IT能力的发展往往永远后置于商业或业务能力的发展，呈现出这样一条曲线：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;随着时间的发展，业务潜力永远因为技术发展而产生上升空间、业务的发展又产生了对IT能力更高的需求，然而IT行业人员能力的发展曲线是这样的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it-talents.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;从事大量流程化工作的IT行业人员，没有达到IT能力要求所需要的成长速度，我们发现了3个巨大的Gap，这三大空间，就是ThoughtWorks的盈利空间：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/gaps.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;这三大空间所代表的需求总得来说是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;业务越来越不能匹配突破性技术的需求；  &lt;/li&gt;
-&lt;li&gt;IT能力越来越不能匹配业务发展的需求；  &lt;/li&gt;
-&lt;li&gt;IT人才的成长越来越不能匹配IT能力发展的需求。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;所有ThoughtWorks的业务都围绕在这三大需求中展开，这就是为什么我们：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;不断投入和投资最新的颠覆性技术，应有在现有客户上，例如帮助传统企业在AR/VR上进行尝试，或者利用块链技术应用于传统金融领域；  &lt;/li&gt;
-&lt;li&gt;不断帮助客户实现突破性的业务，例如当P2P金融还在萌芽期时，我们就已经帮助客户建立了第一个P2P业务平台；  &lt;/li&gt;
-&lt;li&gt;不断招募成长斜率远高于业界水平的IT从业人员。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这也间接回答了很多问题：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;为什么我们强调颠覆性的技术；  &lt;/li&gt;
-&lt;li&gt;为什么我们要突破IT部门靠拢业务或战略部门；  &lt;/li&gt;
-&lt;li&gt;为什么我们强调学习学习再学习，依靠最年轻的一代。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这4条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</description><link>http://localhost:2368/thoughtworks-business-model/</link><guid isPermaLink="false">b62113c3-ae0f-4b64-bcc5-7478e9506688</guid><dc:creator>熊子川</dc:creator><pubDate>Sat, 02 Jul 2016 04:56:14 GMT</pubDate><content:encoded>&lt;p&gt;尝试用最简单的方式解释ThoughtWorks的盈利模式。&lt;/p&gt;
-
-&lt;p&gt;简单来说，摩尔定律所揭示的是这样一条技术曲线：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/tech.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;而技术突破式创新所带来的商业创新往往后发，商业或业务能力的发展呈现出这样一条曲线：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;作为业务发展和运营的支撑，IT能力的发展往往永远后置于商业或业务能力的发展，呈现出这样一条曲线：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;随着时间的发展，业务潜力永远因为技术发展而产生上升空间、业务的发展又产生了对IT能力更高的需求，然而IT行业人员能力的发展曲线是这样的：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/it-talents.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;从事大量流程化工作的IT行业人员，没有达到IT能力要求所需要的成长速度，我们发现了3个巨大的Gap，这三大空间，就是ThoughtWorks的盈利空间：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/gaps.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;这三大空间所代表的需求总得来说是：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;业务越来越不能匹配突破性技术的需求；  &lt;/li&gt;
-&lt;li&gt;IT能力越来越不能匹配业务发展的需求；  &lt;/li&gt;
-&lt;li&gt;IT人才的成长越来越不能匹配IT能力发展的需求。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;所有ThoughtWorks的业务都围绕在这三大需求中展开，这就是为什么我们：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;不断投入和投资最新的颠覆性技术，应有在现有客户上，例如帮助传统企业在AR/VR上进行尝试，或者利用块链技术应用于传统金融领域；  &lt;/li&gt;
-&lt;li&gt;不断帮助客户实现突破性的业务，例如当P2P金融还在萌芽期时，我们就已经帮助客户建立了第一个P2P业务平台；  &lt;/li&gt;
-&lt;li&gt;不断招募成长斜率远高于业界水平的IT从业人员。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这也间接回答了很多问题：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;为什么我们强调颠覆性的技术；  &lt;/li&gt;
-&lt;li&gt;为什么我们要突破IT部门靠拢业务或战略部门；  &lt;/li&gt;
-&lt;li&gt;为什么我们强调学习学习再学习，依靠最年轻的一代。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;有趣的是，过去50年是这样，也许往后100年，这4条曲线依然存在，理解这4条曲线，便可理解ThoughtWorks经久不衰的奥秘。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;以上。&lt;/p&gt;</content:encoded></item></channel></rss>
