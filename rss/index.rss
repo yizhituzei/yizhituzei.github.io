@@ -1,4 +1,71 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 24 Oct 2016 20:11:12 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>平衡计分卡</title><description>&lt;p&gt;《战略十篇》的第七篇书稿，来自于Robert S.Kaplan和David P.Norton，原文刊于《哈佛商业评论》2007年7期（&lt;a href="https://hbr.org/2007/07/using-the-balanced-scorecard-as-a-strategic-management-system"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 16 Jan 2017 22:40:30 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>和首席数字官工作</title><description>&lt;p&gt;从去年开始，我开始和美国企业中的首席数字官（Chief Digital Officer）合作，这个在执行官（C-suites）中逐渐兴起的年轻职位，被认为是企业全面数字化转型的催化剂，而我所扮演的角色，则是「催化剂的催化剂」。&lt;/p&gt;
+
+&lt;p&gt;首席数字官在2012年逐渐兴起，其重要性，被认为将在2020年超越首席信息官（CIO）（&lt;a href="https://news.sap.com/digital-transformation-top-ten-changes-2017/"&gt;参考&lt;/a&gt;）。然而，也有观点指出，首席数字官在企业内只有较短的生命周期，一个在数字领域成熟的企业，是不需要首席数字官的——英国报业巨头News UK的CTO Christina Scott尖锐地指出：「首席数字官只是表示这个企业的首席信息官在数字领域的捉襟见肘。」（&lt;a href="http://www.v3.co.uk/v3-uk/news/2479300/news-uk-cto-cdo-role-has-a-finite-lifespan"&gt;参考&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;首席数字官兴起的同时，公司也在出现大量前所未有的执行官职位，从可口可乐拗口的首席持续发展官（Chief Sustainability Officer）到戴尔公司的首席倾听官（Chief Listeners）。&lt;/p&gt;
+
+&lt;p&gt;《Your Marketing Sucks》的作者Mark Stevens对福布斯杂志（&lt;a href="http://www.forbes.com/sites/jennagoudreau/2012/01/10/c-is-for-silly-the-new-c-suite-titles/#7e25338b674e"&gt;参考&lt;/a&gt;）谈到最近出现各种新CXO时说：「就像是幼儿园过家家的游戏，这些人通常没有任何权利。」&lt;/p&gt;
+
+&lt;p&gt;无论这些看起来新潮的名字如何变化，最终的权利通常把握在首席执行官（CEO）&lt;/p&gt;</description><link>http://localhost:2368/work-with-chief-digital-officer/</link><guid isPermaLink="false">67dcd9e7-0768-4c5f-a5f8-a3bac99bd294</guid><category>创新</category><category>商业</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 16 Jan 2017 19:00:47 GMT</pubDate><content:encoded>&lt;p&gt;从去年开始，我开始和美国企业中的首席数字官（Chief Digital Officer）合作，这个在执行官（C-suites）中逐渐兴起的年轻职位，被认为是企业全面数字化转型的催化剂，而我所扮演的角色，则是「催化剂的催化剂」。&lt;/p&gt;
+
+&lt;p&gt;首席数字官在2012年逐渐兴起，其重要性，被认为将在2020年超越首席信息官（CIO）（&lt;a href="https://news.sap.com/digital-transformation-top-ten-changes-2017/"&gt;参考&lt;/a&gt;）。然而，也有观点指出，首席数字官在企业内只有较短的生命周期，一个在数字领域成熟的企业，是不需要首席数字官的——英国报业巨头News UK的CTO Christina Scott尖锐地指出：「首席数字官只是表示这个企业的首席信息官在数字领域的捉襟见肘。」（&lt;a href="http://www.v3.co.uk/v3-uk/news/2479300/news-uk-cto-cdo-role-has-a-finite-lifespan"&gt;参考&lt;/a&gt;）&lt;/p&gt;
+
+&lt;p&gt;首席数字官兴起的同时，公司也在出现大量前所未有的执行官职位，从可口可乐拗口的首席持续发展官（Chief Sustainability Officer）到戴尔公司的首席倾听官（Chief Listeners）。&lt;/p&gt;
+
+&lt;p&gt;《Your Marketing Sucks》的作者Mark Stevens对福布斯杂志（&lt;a href="http://www.forbes.com/sites/jennagoudreau/2012/01/10/c-is-for-silly-the-new-c-suite-titles/#7e25338b674e"&gt;参考&lt;/a&gt;）谈到最近出现各种新CXO时说：「就像是幼儿园过家家的游戏，这些人通常没有任何权利。」&lt;/p&gt;
+
+&lt;p&gt;无论这些看起来新潮的名字如何变化，最终的权利通常把握在首席执行官（CEO）、首席运营官（COO）、和首席财务官（CFO）手中，大部分时候，这些新任的执行官都是为了补充企业目前短板而设立。&lt;/p&gt;
+
+&lt;p&gt;现实的确如此，一方面在数字浪潮中，首席数字官成为行业新星，另一方面这个「新任的」高管，也在与现有角色、以及其他新任角色产生冲突。理解这种冲突，是和首席数字官工作的第一步。&lt;/p&gt;
+
+&lt;h2 id=""&gt;理解冲突&lt;/h2&gt;
+
+&lt;p&gt;德勤在一份关于首席数字官的&lt;a href="http://www.deloittedigital.ca/chief-digital-officer"&gt;研究报告&lt;/a&gt;中这样描述首席数字官的三大职责：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;帮助其他数字背景的中层管理人员成长和晋升；  &lt;/li&gt;
+&lt;li&gt;集中散落在组织各处的数字资源和能力；  &lt;/li&gt;
+&lt;li&gt;打破现有桎梏进行创新。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这三大职责对于一位新任的首席数字官而言通常都面临着不小的挑战，即其中任何一项都必须打破现有的组织结构和流程。&lt;/p&gt;
+
+&lt;p&gt;首先我们来看撬动数字人才成长和晋升，对于每一个部门而言，数字时代所需要的人才基本都已经成为各部门的培养对象，这种撬动通常显得多此一举，一个企业内现有人才可能难以放弃现有职业路径改弦更张，这也是为什么一个新任首席数字官通常选择重新招募核心团队的原因，事实上，这种内部挖角更可能引起部门间的警觉和误解。&lt;/p&gt;
+
+&lt;p&gt;再看集中数字资源和能力，在设置首席数字官之前，组织已经自生出一套数字生态，最显著的特点是「稳定的供应商」——每个部门都已经有各自的供应商补充数字能力，而供应商背后又有部门领导者各自的利益相关，打破现有供应商体系，尝试整合，通常是首席数字官最常碰到的挑战。&lt;/p&gt;
+
+&lt;p&gt;最后看突破式创新，打破现有桎梏意味着可能全新的供需关系、内部流程、以及新的能力模型，这必然引起其他部门的消极合作甚至挑战，然而完全不考虑与现有业务集成的创新，具备突破性，却难以持续，便极难形成规模。&lt;/p&gt;
+
+&lt;p&gt;因此最普遍的情况是，首席数字官难以形成内部核心团队、难以引入或更换供应商、难以实现具有商业价值的创新，企业的数字转型举步维艰。&lt;/p&gt;
+
+&lt;p&gt;巨大挑战之于我的工作，则是极大的机会。&lt;/p&gt;
+
+&lt;h2 id=""&gt;构建价值&lt;/h2&gt;
+
+&lt;p&gt;和首席数字官的工作必须围绕在其前所未有的挑战上来。如果用设计挑战的方式，我们将这样描述首席创新官的需求：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/01/cdo-design-challenges.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;仔细分析这些设计挑战，前部分通常容易达成，真正的难度在后半部分，例如招募人才易、避免人才竞争难；构建能力易、避免部门保护难；交付创新易、形成持续演进、建立深植于企业的商业模式难。&lt;/p&gt;
+
+&lt;p&gt;因此我们的服务必须得考虑两个部分，第一个部分是外在效果（Champion Digital Leadership），第二个部分则是降低现有组织带来的风险（Mitigate Organizational Risk ）。以下是我所思考的矩阵：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/01/offering-matrix-1.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;这个价值体系的最终结果，正如HBR在《&lt;a href="https://hbr.org/2014/09/we-need-better-managers-not-more-technocrats"&gt;We Need Better Managers, Not More Technocrats&lt;/a&gt;》一文中对数字转型的目标所做的阐释：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;构建数字时代的转型愿景；&lt;/li&gt;
+&lt;li&gt;与雇员一起实现这个愿景；&lt;/li&gt;
+&lt;li&gt;通过数字治理疏浚企业数字资源；&lt;/li&gt;
+&lt;li&gt;打破领导层壁垒。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;数字时代对于企业而言是供需关系的重大变革，传统企业组织架构正在发生从下至上的变化；对于数字人才的大量需要，也决定了全新的管理方式。首席数字官的职责，是应对需求端出现的变革、推动组织变革、构建能力、疏导资源、调整优先级、最终实现组织在数字时代的转型。&lt;/p&gt;
+
+&lt;p&gt;在设计为首席数字官的服务时，应重复考虑这份工作的两个核心目标，一是数字成果、二为组织适应，前者谈论上线、后者保证底线，二者缺一不可。&lt;/p&gt;</content:encoded></item><item><title>平衡计分卡</title><description>&lt;p&gt;《战略十篇》的第七篇书稿，来自于Robert S.Kaplan和David P.Norton，原文刊于《哈佛商业评论》2007年7期（&lt;a href="https://hbr.org/2007/07/using-the-balanced-scorecard-as-a-strategic-management-system"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
 
 &lt;p&gt;战略进入到执行层次时便不再是少数战略规划者的游戏，而成为贯穿组织的共同行为，这里的「共同」所指:&lt;/p&gt;
 
@@ -1790,52 +1857,4 @@
 &lt;li&gt;未来正在倾向于「模糊化（Ambiguity）」，商业模式创新的间歇期可能变得更短，意味着任何一个有效的商业模式可能在短时间内失效；  &lt;/li&gt;
 &lt;li&gt;商业模式的本质是客户价值定位到企业利润的持续转化，企业战略制定者左手抓客户价值中的Job to be done（其次才是目标客户），右手抓利润模型；  &lt;/li&gt;
 &lt;li&gt;真正的创新来自于在现有商业模式中盘活资源、打通桎梏、优化流程、提高效率、促成规模，并在此之上建立新的商业模式，而不在于「技术」、更不在于「设计」。&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title>少有人教你的设计道理</title><description>&lt;p&gt;&lt;strong&gt;你所听到的设计不足以成为一个产业&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;我们所处，是科技产业，对你我来说，我们所做的设计都是对技术的补充，哪怕你是产品设计、或者工业设计背景，你所做的，也是「消费品市场」这个产业的补充。&lt;/p&gt;
-
-&lt;p&gt;你我需要了解的，不是「设计」这个产业，而是科技这个产业（或其他具体产业）、因为没有「设计这个产业」。那么，如果你身处科技这个产业，你对科技了解多少？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;我们的设计流程依旧来自工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;工业时代的核心在于「定义、标准、流程、指标」，现在依然存在的设计流程、岗位划分、产出物保留着前一个时代的影子。最直白的问题是：「我们为什么要比稿？」、「我们为什么要有多个方案？」，既然没有设计是不变的、从始至终的，起点在哪里有什么关系？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;我们依然来自于工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;工业时代铸造了工人阶级，以及一个阶级的整体特质，这些特质因为工作方式依然残留在我们身上：我们有时抱怨划分较细的岗位、却又依然热衷于保持「设计师的身份」，那份自豪，就像几十年前产业工人的骄傲。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;匠人精神不在于雕琢，而在于经营&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;是谁把「匠人精神」&lt;/p&gt;</description><link>http://localhost:2368/the-real-meanings-of-design/</link><guid isPermaLink="false">83c1acba-48de-4a51-a3b9-2e34f593131e</guid><category>成长</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 04 Jul 2016 01:40:28 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;你所听到的设计不足以成为一个产业&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;我们所处，是科技产业，对你我来说，我们所做的设计都是对技术的补充，哪怕你是产品设计、或者工业设计背景，你所做的，也是「消费品市场」这个产业的补充。&lt;/p&gt;
-
-&lt;p&gt;你我需要了解的，不是「设计」这个产业，而是科技这个产业（或其他具体产业）、因为没有「设计这个产业」。那么，如果你身处科技这个产业，你对科技了解多少？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;我们的设计流程依旧来自工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;工业时代的核心在于「定义、标准、流程、指标」，现在依然存在的设计流程、岗位划分、产出物保留着前一个时代的影子。最直白的问题是：「我们为什么要比稿？」、「我们为什么要有多个方案？」，既然没有设计是不变的、从始至终的，起点在哪里有什么关系？&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;我们依然来自于工业时代的遗产&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;工业时代铸造了工人阶级，以及一个阶级的整体特质，这些特质因为工作方式依然残留在我们身上：我们有时抱怨划分较细的岗位、却又依然热衷于保持「设计师的身份」，那份自豪，就像几十年前产业工人的骄傲。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;匠人精神不在于雕琢，而在于经营&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;是谁把「匠人精神」带给了我们，却不说「匠人精神」的本质在于「匠人独自经营自己的手艺」，而让我们浅显地认为「匠人」就是执念于自己的手艺活，这明明就是「干一行爱一行」的「劳动模范精神」。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;我们在为一个模糊世界设计&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;这已经不再是一个变化的（Changing）世界，而是一个模糊的（Ambiguous）世界，它的模糊体现在：对与错已经没有意义、解决问题（Solving Problem）和形成观念（Making Sense）交错进行。设计变成一个一群人「盲目、却以自为明眼的」旅程，关键在于寻找，而不在于找到什么；关键在于角度、而不在于看到什么。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;角度（Perspective）才是设计师真正的敏感&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;设计师真的只负责对美、格式、规则、模式、感觉、体验敏感吗？不，真正的敏感来自于看待事物的多角度，「从来没有人向你那样可以从不同的角度看一件事」才是对设计师最好的评价。&lt;/p&gt;
-
-&lt;p&gt;你深爱Airbnb每一个讲述故事的房间，那么去听听旧金山中国城里租客的声音；你为特斯拉的电动车惊艳设计而感动，那么研究一下电池生产中产生的毒物对第三世界国家的影响；你觉得Uber的拼车模式为尾气减排做出了贡献，那么调查一下我们出行方式的改变对城市产生了什么样的影响。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;何时抛弃设计师的身份&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;大部分的迷失来自于对身份的迷失，「这不是我该做的、这不是我想做的、我应该是这样的，不是那样的」，解决执念在于模糊自己、抛弃身份，寻找属于自己的设计哲理，是有一天不需要标准、角色、界限、产出来定义自己，这才是未来设计师。&lt;/p&gt;
-
-&lt;p&gt;以上。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;/ol&gt;</content:encoded></item></channel></rss>
