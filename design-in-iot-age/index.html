@@ -1,0 +1,287 @@
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>IoT时代的设计</title>
+    <meta name="description" content="">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="../favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=7800ce9b1c">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="origin">
+    
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="IoT时代的设计">
+    <meta property="og:description" content="设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。 现有的设计范式 在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即： 一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作； 一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」； 基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制； 设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。 在这个背景之下，设计师的工作类型无外乎于两种： 用任务（Task）驱动的用户体验设计（User Experience Design）；   用诉求（Job）驱动的客户体验设计（Customer Experience Design）">
+    <meta property="og:url" content="http://localhost:2368/design-in-iot-age/">
+    <meta property="og:image" content="http://localhost:2368/content/images/2017/02/iot-devices.png">
+    <meta property="article:published_time" content="2017-02-20T20:23:31.194Z">
+    <meta property="article:modified_time" content="2017-02-20T20:31:24.487Z">
+    <meta property="article:tag" content="设计">
+    <meta property="article:tag" content="IoT">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="IoT时代的设计">
+    <meta name="twitter:description" content="设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。 现有的设计范式 在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即： 一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作； 一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」； 基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制； 设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。 在这个背景之下，设计师的工作类型无外乎于两种： 用任务（Task）驱动的用户体验设计（User Experience Design）；   用诉求（Job）驱动的客户体验设计（Customer Experience Design）">
+    <meta name="twitter:url" content="http://localhost:2368/design-in-iot-age/">
+    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2017/02/iot-devices.png">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="设计, IoT">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "一只土贼",
+        "logo": "http://localhost:2368/content/images/2015/04/tuzei-logo-1.png"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "熊子川",
+        "image": "http://localhost:2368/content/images/2015/09/image_1442553695-265918.jpg",
+        "url": "http://localhost:2368/author/zichuan/",
+        "sameAs": []
+    },
+    "headline": "IoT时代的设计",
+    "url": "http://localhost:2368/design-in-iot-age/",
+    "datePublished": "2017-02-20T20:23:31.194Z",
+    "dateModified": "2017-02-20T20:31:24.487Z",
+    "image": "http://localhost:2368/content/images/2017/02/iot-devices.png",
+    "keywords": "设计, IoT",
+    "description": "设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。 现有的设计范式 在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即： 一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作； 一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」； 基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制； 设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。 在这个背景之下，设计师的工作类型无外乎于两种： 用任务（Task）驱动的用户体验设计（User Experience Design）；   用诉求（Job）驱动的客户体验设计（Customer Experience Design）"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html">
+</head>
+<body class="post-template tag-she-ji tag-iot nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="index.html#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+            <li class="nav-" role="presentation"><a href="../">首页</a></li>
+            <li class="nav-" role="presentation"><a href="../about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="../tag/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/yi-meng/">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
+    </ul>
+        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head " style="background-image: url(../content/images/2017/02/iot-devices.png)">
+    <nav class="main-nav overlay clearfix">
+        <a class="blog-logo" href="../"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
+            <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post tag-she-ji tag-iot">
+
+        <header class="post-header">
+            <h1 class="post-title">IoT时代的设计</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2017-02-20">20 February 2017</time>  on <a href="../tag/she-ji/">设计</a>, <a href="../tag/iot/">IoT</a>
+            </section>
+        </header>
+
+        <section class="post-content">
+            <p>设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。</p>
+
+<p><img src="../content/images/2017/02/ui-evolution.png" alt=""></p>
+
+<h2 id="">现有的设计范式</h2>
+
+<p>在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即：</p>
+
+<ul>
+<li>一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作；</li>
+<li>一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」；</li>
+<li>基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制；</li>
+<li>设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。</li>
+</ul>
+
+<p>在这个背景之下，设计师的工作类型无外乎于两种：</p>
+
+<ol>
+<li>用任务（Task）驱动的用户体验设计（User Experience Design）；  </li>
+<li>用诉求（Job）驱动的客户体验设计（Customer Experience Design）。</li>
+</ol>
+
+<p>区别在于前者已经假设用户一定会用，多用于专业或中后台应用设计；后者则尝试深入挖掘消费者深层次需求，多用于消费类应用（用Digital解决问题）或服务类（不止用Digital解决问题）设计。</p>
+
+<p>无论我们如何研习和精进设计方法，我们依然难以逃脱基础逻辑和工作范围的束缚，然而IoT时代的来临正在悄然改变这一现状。</p>
+
+<h2 id="">被改变的基础逻辑</h2>
+
+<p>IoT的基础意涵，并不只在于具有计算能力的物体本身，它包括以下可能的行为能力：</p>
+
+<ol>
+<li>感知（Sensing）；  </li>
+<li>处理（Processing）；  </li>
+<li>表现（Presenting）；  </li>
+<li>存储（Storing）；  </li>
+<li>解析（Diagnosing）  </li>
+<li>行动（Acting）；  </li>
+<li>联网（Networking）。</li>
+</ol>
+
+<p>相交于以前统一的交互平台，事情变得复杂多了：</p>
+
+<p>首先，任何一个可计算物体的行为能力都是以上七种行为的组合，例如一辆自动驾驶汽车包含了以上所有行为能力；而一个简单的可联网的温湿度感知报警器，却只包含感知、处理、和联网的行为能力。</p>
+
+<p>其次，可计算物体可大可小，具有相当复杂性的计算物体通常是上千个可计算物体的集合，可塑性极强，单个技术上的更新可能引起整个平台的更迭，这也是为何诸如智能汽车（Smart Car）这样的IoT平台无法形成主宰性统一交互平台的原因。</p>
+
+<p>最后，人机交互可能在无感知的情况下发生，就算发生亦非以人为主的交互，人已不在是交互的主宰，人本设计（Human Centric Design）的理念可能需要更新。</p>
+
+<p>因此，我们所面临的情况是：</p>
+
+<ul>
+<li>不再有一个主宰性的交互范式，范式变得灵活多变；</li>
+<li>人类对于机器的认识已经发生更新，机器是否在为人类服务开始发生动摇；</li>
+<li>早已超越屏幕的设计，设计将回归传统工业设计时代；</li>
+<li>设计开始重新塑造技术的可能性，设计师需要了解技术的可能性而非限制性。</li>
+</ul>
+
+<h2 id="">全新的设计</h2>
+
+<p>在这个全新的背景之下，设计哲学和实践需要重新思考。以下元素在过去的设计时代里是不曾有过的。</p>
+
+<h4 id="">大量〇交互的设计</h4>
+
+<p>IoT即将出现大量不存在的交互，或未被者感知的交互，未来的对于「好的交互设计」将变成「更不被消费者感知的交互」，相信在未来五年里，将有更多的设计大会用「〇」作为大会的主题。例如，在Amazon Go的设计中，通过计算机视觉（Computer Vision）、传感器网络（Sensor Fusion）、以及深度学习（Deep Learning）技术，消费者完全脱离了屏幕或语音交互的束缚。</p>
+
+<p><img src="../content/images/2017/02/amazon-go.png" alt=""></p>
+
+<h4 id="perception">观感（Perception）的设计</h4>
+
+<p>数字技术已经早已超越技术本身，而建立其独立的「社会含义」，或称之为「增强人性（Augmented Humanity）」，诸如隐私、伦理、和道德都需要进行重新讨论，人类对技术的观感（Perception）需要考虑在设计当中去。例如，Amazon Echo选择用类似圆柱形音响的形态，必然考虑了欧美对于家庭音响的现有接受度。</p>
+
+<p><img src="../content/images/2017/02/amazon-echo_large.png" alt=""></p>
+
+<h4 id="">独立的设计语言</h4>
+
+<p>设计师需要全新设计一套独立的设计语言（Design Language），这套语言巧妙隐藏那些透明的〇设计、又塑造着使用者对于技术的观感。</p>
+
+<h4 id="">数据的商业潜力</h4>
+
+<p>IoT时代的重要特性还包含物理世界的信息被全面数字化和算法化，这使得独立设计语言背后还有一套并行的商业逻辑，传统的先客户后商业模式的设计思维可能发生变化，数据将独立成为设计思维中重要的一环，甚至成为新的入手点也并不为过。</p>
+
+<p><img src="../content/images/2017/02/design-thinking-iot.png" alt=""></p>
+
+<h2 id="">写在最后</h2>
+
+<p>虽被Mary Meeker为首的互联网人广泛看好，NUI虽是正在崛起的交互范式，我并不反对NUI作为一次范式革命的意义，但是如果我们面对的是一场「<strong>范式的革命</strong>」呢？即，如果「<strong>我们不再有任何一个主宰性的交互范式</strong>」怎么办？</p>
+
+<p>设计永远为现实世界服务，我们所谈论的设计思维和实践方法，皆来自于对现实设计问题的解决，例如，个人计算设备的兴起，触发了以用户为中心的用户体验设计；互联网经济的蓬勃发展，又带动了结合客户需求、技术实现、商业模式的设计思维的发展。</p>
+
+<p>而这有一个前提，是我们有一个主宰性的计算设备（PC机、Web、到Mobile），IoT时代的到来正在打破由一个主宰性计算设备所带来的「主流范式规则」，如果这一规则发生变化，我们所基于此建立的、关于设计的一切，都需要我们进行重新思考。</p>
+
+<p>在最后，让我们来比较前IoT时代与IoT时代设计的区别。</p>
+
+<p><img src="../content/images/2017/02/iot-design-comparison-png-001.jpeg" alt=""></p>
+
+<p>在接下来的讨论里，我将对IoT时代的设计实践、理念、以及设计师做更多的讨论。</p>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="../author/zichuan/" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
+
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    <span class="author-location icon-location">San Francisco</span>
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=IoT%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%BE%E8%AE%A1&amp;url=http://localhost:2368/design-in-iot-age/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/design-in-iot-age/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/design-in-iot-age/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+
+        </footer>
+
+    </article>
+</main>
+
+<aside class="read-next">
+    <a class="read-next-story prev no-cover" href="../work-with-chief-digital-officer/">
+        <section class="post">
+            <h2>和首席数字官工作</h2>
+            <p>从去年开始，我开始和美国企业中的首席数字官（Chief Digital Officer）合作，这个在执行官（C-suites）中逐渐兴起的年轻职位，被认为是企业全面数字化转型的催化剂，而我所扮演的角色，则是「催化剂的催化剂」。 首席数字官在2012年逐渐兴起，其重要性，被认为将在2020年超越首席信息官（CIO）（参考）。然而，…</p>
+        </section>
+    </a>
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="../">一只土贼</a> © 2017</section>
+            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <!-- You can safely delete this line if your theme does not require jQuery -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d7f406aaa2e48a4cca39518080c7b553";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=7800ce9b1c"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=7800ce9b1c"></script>
+
+</body>

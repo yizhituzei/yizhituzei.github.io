@@ -1,4 +1,118 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 16 Jan 2017 22:40:30 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>和首席数字官工作</title><description>&lt;p&gt;从去年开始，我开始和美国企业中的首席数字官（Chief Digital Officer）合作，这个在执行官（C-suites）中逐渐兴起的年轻职位，被认为是企业全面数字化转型的催化剂，而我所扮演的角色，则是「催化剂的催化剂」。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 20 Feb 2017 20:32:36 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>IoT时代的设计</title><description>&lt;p&gt;设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/ui-evolution.png" alt=""&gt;&lt;/p&gt;
+
+&lt;h2 id=""&gt;现有的设计范式&lt;/h2&gt;
+
+&lt;p&gt;在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作；&lt;/li&gt;
+&lt;li&gt;一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」；&lt;/li&gt;
+&lt;li&gt;基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制；&lt;/li&gt;
+&lt;li&gt;设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在这个背景之下，设计师的工作类型无外乎于两种：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;用任务（Task）驱动的用户体验设计（User Experience Design）；  &lt;/li&gt;
+&lt;li&gt;用诉求（Job）驱动的客户体验设计（Customer Experience Design）&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/design-in-iot-age/</link><guid isPermaLink="false">7a65c47d-a2aa-4c5e-8dd7-cb55e971b4e0</guid><category>设计</category><category>IoT</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 20 Feb 2017 20:23:31 GMT</pubDate><media:content url="http://localhost:2368/content/images/2017/02/iot-devices.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2017/02/iot-devices.png" alt="IoT时代的设计"&gt;&lt;p&gt;设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/ui-evolution.png" alt="IoT时代的设计"&gt;&lt;/p&gt;
+
+&lt;h2 id=""&gt;现有的设计范式&lt;/h2&gt;
+
+&lt;p&gt;在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作；&lt;/li&gt;
+&lt;li&gt;一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」；&lt;/li&gt;
+&lt;li&gt;基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制；&lt;/li&gt;
+&lt;li&gt;设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在这个背景之下，设计师的工作类型无外乎于两种：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;用任务（Task）驱动的用户体验设计（User Experience Design）；  &lt;/li&gt;
+&lt;li&gt;用诉求（Job）驱动的客户体验设计（Customer Experience Design）。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;区别在于前者已经假设用户一定会用，多用于专业或中后台应用设计；后者则尝试深入挖掘消费者深层次需求，多用于消费类应用（用Digital解决问题）或服务类（不止用Digital解决问题）设计。&lt;/p&gt;
+
+&lt;p&gt;无论我们如何研习和精进设计方法，我们依然难以逃脱基础逻辑和工作范围的束缚，然而IoT时代的来临正在悄然改变这一现状。&lt;/p&gt;
+
+&lt;h2 id=""&gt;被改变的基础逻辑&lt;/h2&gt;
+
+&lt;p&gt;IoT的基础意涵，并不只在于具有计算能力的物体本身，它包括以下可能的行为能力：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;感知（Sensing）；  &lt;/li&gt;
+&lt;li&gt;处理（Processing）；  &lt;/li&gt;
+&lt;li&gt;表现（Presenting）；  &lt;/li&gt;
+&lt;li&gt;存储（Storing）；  &lt;/li&gt;
+&lt;li&gt;解析（Diagnosing）  &lt;/li&gt;
+&lt;li&gt;行动（Acting）；  &lt;/li&gt;
+&lt;li&gt;联网（Networking）。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;相交于以前统一的交互平台，事情变得复杂多了：&lt;/p&gt;
+
+&lt;p&gt;首先，任何一个可计算物体的行为能力都是以上七种行为的组合，例如一辆自动驾驶汽车包含了以上所有行为能力；而一个简单的可联网的温湿度感知报警器，却只包含感知、处理、和联网的行为能力。&lt;/p&gt;
+
+&lt;p&gt;其次，可计算物体可大可小，具有相当复杂性的计算物体通常是上千个可计算物体的集合，可塑性极强，单个技术上的更新可能引起整个平台的更迭，这也是为何诸如智能汽车（Smart Car）这样的IoT平台无法形成主宰性统一交互平台的原因。&lt;/p&gt;
+
+&lt;p&gt;最后，人机交互可能在无感知的情况下发生，就算发生亦非以人为主的交互，人已不在是交互的主宰，人本设计（Human Centric Design）的理念可能需要更新。&lt;/p&gt;
+
+&lt;p&gt;因此，我们所面临的情况是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;不再有一个主宰性的交互范式，范式变得灵活多变；&lt;/li&gt;
+&lt;li&gt;人类对于机器的认识已经发生更新，机器是否在为人类服务开始发生动摇；&lt;/li&gt;
+&lt;li&gt;早已超越屏幕的设计，设计将回归传统工业设计时代；&lt;/li&gt;
+&lt;li&gt;设计开始重新塑造技术的可能性，设计师需要了解技术的可能性而非限制性。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=""&gt;全新的设计&lt;/h2&gt;
+
+&lt;p&gt;在这个全新的背景之下，设计哲学和实践需要重新思考。以下元素在过去的设计时代里是不曾有过的。&lt;/p&gt;
+
+&lt;h4 id=""&gt;大量〇交互的设计&lt;/h4&gt;
+
+&lt;p&gt;IoT即将出现大量不存在的交互，或未被者感知的交互，未来的对于「好的交互设计」将变成「更不被消费者感知的交互」，相信在未来五年里，将有更多的设计大会用「〇」作为大会的主题。例如，在Amazon Go的设计中，通过计算机视觉（Computer Vision）、传感器网络（Sensor Fusion）、以及深度学习（Deep Learning）技术，消费者完全脱离了屏幕或语音交互的束缚。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/amazon-go.png" alt="IoT时代的设计"&gt;&lt;/p&gt;
+
+&lt;h4 id="perception"&gt;观感（Perception）的设计&lt;/h4&gt;
+
+&lt;p&gt;数字技术已经早已超越技术本身，而建立其独立的「社会含义」，或称之为「增强人性（Augmented Humanity）」，诸如隐私、伦理、和道德都需要进行重新讨论，人类对技术的观感（Perception）需要考虑在设计当中去。例如，Amazon Echo选择用类似圆柱形音响的形态，必然考虑了欧美对于家庭音响的现有接受度。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/amazon-echo_large.png" alt="IoT时代的设计"&gt;&lt;/p&gt;
+
+&lt;h4 id=""&gt;独立的设计语言&lt;/h4&gt;
+
+&lt;p&gt;设计师需要全新设计一套独立的设计语言（Design Language），这套语言巧妙隐藏那些透明的〇设计、又塑造着使用者对于技术的观感。&lt;/p&gt;
+
+&lt;h4 id=""&gt;数据的商业潜力&lt;/h4&gt;
+
+&lt;p&gt;IoT时代的重要特性还包含物理世界的信息被全面数字化和算法化，这使得独立设计语言背后还有一套并行的商业逻辑，传统的先客户后商业模式的设计思维可能发生变化，数据将独立成为设计思维中重要的一环，甚至成为新的入手点也并不为过。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/design-thinking-iot.png" alt="IoT时代的设计"&gt;&lt;/p&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;虽被Mary Meeker为首的互联网人广泛看好，NUI虽是正在崛起的交互范式，我并不反对NUI作为一次范式革命的意义，但是如果我们面对的是一场「&lt;strong&gt;范式的革命&lt;/strong&gt;」呢？即，如果「&lt;strong&gt;我们不再有任何一个主宰性的交互范式&lt;/strong&gt;」怎么办？&lt;/p&gt;
+
+&lt;p&gt;设计永远为现实世界服务，我们所谈论的设计思维和实践方法，皆来自于对现实设计问题的解决，例如，个人计算设备的兴起，触发了以用户为中心的用户体验设计；互联网经济的蓬勃发展，又带动了结合客户需求、技术实现、商业模式的设计思维的发展。&lt;/p&gt;
+
+&lt;p&gt;而这有一个前提，是我们有一个主宰性的计算设备（PC机、Web、到Mobile），IoT时代的到来正在打破由一个主宰性计算设备所带来的「主流范式规则」，如果这一规则发生变化，我们所基于此建立的、关于设计的一切，都需要我们进行重新思考。&lt;/p&gt;
+
+&lt;p&gt;在最后，让我们来比较前IoT时代与IoT时代设计的区别。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/iot-design-comparison-png-001.jpeg" alt="IoT时代的设计"&gt;&lt;/p&gt;
+
+&lt;p&gt;在接下来的讨论里，我将对IoT时代的设计实践、理念、以及设计师做更多的讨论。&lt;/p&gt;</content:encoded></item><item><title>和首席数字官工作</title><description>&lt;p&gt;从去年开始，我开始和美国企业中的首席数字官（Chief Digital Officer）合作，这个在执行官（C-suites）中逐渐兴起的年轻职位，被认为是企业全面数字化转型的催化剂，而我所扮演的角色，则是「催化剂的催化剂」。&lt;/p&gt;
 
 &lt;p&gt;首席数字官在2012年逐渐兴起，其重要性，被认为将在2020年超越首席信息官（CIO）（&lt;a href="https://news.sap.com/digital-transformation-top-ten-changes-2017/"&gt;参考&lt;/a&gt;）。然而，也有观点指出，首席数字官在企业内只有较短的生命周期，一个在数字领域成熟的企业，是不需要首席数字官的——英国报业巨头News UK的CTO Christina Scott尖锐地指出：「首席数字官只是表示这个企业的首席信息官在数字领域的捉襟见肘。」（&lt;a href="http://www.v3.co.uk/v3-uk/news/2479300/news-uk-cto-cdo-role-has-a-finite-lifespan"&gt;参考&lt;/a&gt;）&lt;/p&gt;
 
@@ -1730,131 +1844,4 @@
 
 &lt;p&gt;每个人的个人旅程让我们走出自己，到「真实世界设计」，同时造就了我们的「不同」；而这份难能可贵的「不同」造就了我们作为一个商业模式的「不同」；最终它将带领我们走完下一个五年。&lt;/p&gt;
 
-&lt;p&gt;那么，下一个五年再见。&lt;/p&gt;</content:encoded></item><item><title>再造商业模式</title><description>&lt;p&gt;本文是《战略十篇》的第四篇书稿，来自于Mark W.Johnson、Clayton M.Christensen、以及Henning Kagermann，原文刊于《哈佛商业评论》2008年12期（&lt;a href="https://hbr.org/2008/12/reinventing-your-business-model"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
-
-&lt;h2 id=""&gt;商业模式的定义&lt;/h2&gt;
-
-&lt;p&gt;关于商业模式讨论有很多，Paul Timmers在1998年一篇经典论文《&lt;a href="http://www.cs.uu.nl/docs/vakken/ec/Timmers_BMem.pdf"&gt;Business Models for Electronic Markets&lt;/a&gt;》中最早讨论了电商的商业模式，这让人有理由相信，正是因为外部环境的巨大变化（互联网的兴起），使得人们需要理解、分析、和重新思考目前的商业模式，他对商业模式有着以下定义：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;一个产品、服务、信息流的架构，包括对其中不同角色的描述；一份对这些不同角色所带来价值的描述；一份对盈利来源的描述。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Timmers的定义中着重强调了「为什么」，而2000年Gary Hamel在《&lt;a href="http://www.cognitionnet.com/member/resources/Summaries/Leadership/leading_the_revolution.pdf"&gt;Leading the Revolution&lt;/a&gt;》一书中将商业模式创新带入了更细节的讨论：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://staehler.info/english/hamel.gif" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;他把商业模式的成功分拆成四个主要元素：客户（Customer Interface）&lt;/p&gt;</description><link>http://localhost:2368/reinventing-business-model/</link><guid isPermaLink="false">0d094390-1330-4ed3-8dbe-a3da5a600447</guid><category>战略十篇</category><category>商业</category><dc:creator>熊子川</dc:creator><pubDate>Fri, 08 Jul 2016 20:29:15 GMT</pubDate><media:content url="https://hbr.org/resources/images/article_assets/2008/12/SEPT15_03_4114335.jpg" medium="image"/><content:encoded>&lt;img src="https://hbr.org/resources/images/article_assets/2008/12/SEPT15_03_4114335.jpg" alt="再造商业模式"&gt;&lt;p&gt;本文是《战略十篇》的第四篇书稿，来自于Mark W.Johnson、Clayton M.Christensen、以及Henning Kagermann，原文刊于《哈佛商业评论》2008年12期（&lt;a href="https://hbr.org/2008/12/reinventing-your-business-model"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
-
-&lt;h2 id=""&gt;商业模式的定义&lt;/h2&gt;
-
-&lt;p&gt;关于商业模式讨论有很多，Paul Timmers在1998年一篇经典论文《&lt;a href="http://www.cs.uu.nl/docs/vakken/ec/Timmers_BMem.pdf"&gt;Business Models for Electronic Markets&lt;/a&gt;》中最早讨论了电商的商业模式，这让人有理由相信，正是因为外部环境的巨大变化（互联网的兴起），使得人们需要理解、分析、和重新思考目前的商业模式，他对商业模式有着以下定义：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;一个产品、服务、信息流的架构，包括对其中不同角色的描述；一份对这些不同角色所带来价值的描述；一份对盈利来源的描述。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Timmers的定义中着重强调了「为什么」，而2000年Gary Hamel在《&lt;a href="http://www.cognitionnet.com/member/resources/Summaries/Leadership/leading_the_revolution.pdf"&gt;Leading the Revolution&lt;/a&gt;》一书中将商业模式创新带入了更细节的讨论：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://staehler.info/english/hamel.gif" alt="再造商业模式"&gt;&lt;/p&gt;
-
-&lt;p&gt;他把商业模式的成功分拆成四个主要元素：客户（Customer Interface）、策略（Core Strategy）、资源（Strategic Resources）、和价值网（Value Network）。&lt;/p&gt;
-
-&lt;p&gt;此外四个主要元素之间分别由客户价值（Customer Benefits）、内部架构（Configuration）、企业边界（Company Boundaries）进行关联。&lt;/p&gt;
-
-&lt;p&gt;而在本文中，核心模型简化成「客户价值域」和「企业利润域」两大问题，商业模型究其本质是客户价值到企业利润的持续转化。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business-model-essential.png" alt="再造商业模式"&gt;&lt;/p&gt;
-
-&lt;p&gt;在这个模型当中，Hamel模型中头两个元素被整合成了「客户价值定位Customer Value Proposition」，在其中包括了三大要素：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;目标客户（Target customer）；&lt;/li&gt;
-&lt;li&gt;核心客户目的（Job to be done）；&lt;/li&gt;
-&lt;li&gt;交付物（Offerings）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business-model-elements.png" alt="再造商业模式"&gt;&lt;/p&gt;
-
-&lt;p&gt;在「客户价值域」中需要讨论的三大主题变为：谁是目标客户？客户要干什么？我们卖什么以及怎么卖。&lt;/p&gt;
-
-&lt;p&gt;而在「企业利润域」中，三个重要元素变成了相互依存和推进的关心，这种表述要比Hamel模型中的线性模式要更加符合真实情况，这三大要素是：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;利润模型；&lt;/li&gt;
-&lt;li&gt;核心资源；&lt;/li&gt;
-&lt;li&gt;核心过程。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在真实企业运营中三种都是动态且相互作用的，共同通过产出客户价值进行企业利润的生产。如果我们尝试对其进行简化，便可产出以下模型：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/business-model-spaces.png" alt="再造商业模式"&gt;&lt;/p&gt;
-
-&lt;p&gt;这就是本文对于商业模式最简化的定义。&lt;/p&gt;
-
-&lt;h2 id="jobtobedone"&gt;Job to be done&lt;/h2&gt;
-
-&lt;p&gt;在这里最值得一提的是「Job to be done」，这是本文作者之一Clayton M.Christensen三大核心理论之一，在其著名的一个视频讲演中提到了一个有趣的例子：&lt;/p&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/f84LymEs67Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;研究人员发现高速公路入口处的快餐店最畅销的商品是「奶昔」，而这个品牌的「奶昔」在其他地方却没有那么受欢迎，为什么只在高速公路入口处最受欢迎呢？最后研究人员发现，消费者喜欢奶昔的原因不是因为口味，而是「奶昔」正好满足了那个「Job to be done」：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Target Customer：进入高速公路的开车人；&lt;/li&gt;
-&lt;li&gt;Job to be done：在进入收费站前的长龙前干点什么，又不能太狼狈；&lt;/li&gt;
-&lt;li&gt;Offering：一瓶单手就能喝、还不会洒、一会儿就能喝完的奶昔。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;因此，客户购买服务的本质在于服务背后那个「Job to be done」，而不在于服务本身是什么。&lt;/p&gt;
-
-&lt;p&gt;文章又提到了另一个有趣的案例Hilti（正好是我今年的客户）。Hilti是一家总部位于列支敦士登的建筑工具制造商，Hilti意识到，它面对的客户，是全世界建筑工地上的包工头、建筑公司、建筑工人，这些客户的「Job to be done」不是拥有建筑工具，而是「完成建筑任务」。&lt;/p&gt;
-
-&lt;p&gt;在意识到这一点之后，Hilti改变了其商业模式，将纯粹的产品销售变成「帮助客户完成建筑任务」，其推出的Fleet Management服务，将客户从琐碎的工具购买、管理、维修、培训、升级等行为中解脱出来，提供最专业的贴身工具管家服务。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="https://www.us.hilti.com/medias/sys_master/h83/h23/8912355033118/company_hilti_at_a_glance.jpg" alt="再造商业模式"&gt;&lt;/p&gt;
-
-&lt;p&gt;不光光是工具贴身服务，Hilti甚至制作了很多电子化的工具，为客户在工具采购过程中与其后台系统的集成提供便利，减少工具的等待时间，这背后，是整个业务模型的彻底改变。在伦敦，我跟随许多Hilti一线的客户经理深入各大建筑工地，深感Hilti人对于施工、建筑管理、产品规格和使用知识之丰富。&lt;/p&gt;
-
-&lt;p&gt;我曾经问一位客户会否除打电话给Hilti客户经理之外的方式与Hilti联系，他说不会，我说如果电话没有接到呢？他说：「这事在过去十年里从来没有发生，这也是我选择Hilti的原因」。&lt;/p&gt;
-
-&lt;p&gt;而这背后，一整套运营系统的改变，才可以支持如此独特的客户价值定位。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/IMG_3202-2.JPG" alt="再造商业模式"&gt;
-&lt;em&gt;Hilti的客户经理在和客户展示最新的产品。&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=""&gt;新商业模式的触发&lt;/h2&gt;
-
-&lt;p&gt;在理解商业模式的定义之后，那么是什么触发了新商业模式的产生？&lt;/p&gt;
-
-&lt;p&gt;正如前文所述，正是看到了互联网对于整个商业的影响，才产生了最早一批对于商业模式的讨论（如1998年Paul Timmers），这里不得不提到Hugh Courtney、Jane Kirkland、以及Patrick Viguerie在2000年《&lt;a href="http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/strategy-under-uncertainty#0"&gt;Strategy under uncertainty&lt;/a&gt;》一文对于不确定性的描述：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://www.mckinsey.com/~/media/McKinsey/Global%20Themes/Managing%20In%20Uncertainty/Strategy%20under%20uncertainty/PNG_Four_levels_uncertainty.ashx" alt="再造商业模式"&gt;&lt;/p&gt;
-
-&lt;p&gt;世界早已告别一个线性发展的世界，2000年，Gary Hamel的《Leading the Revolution》振聋发聩地指出：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The age of progress is over.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;更不要说到16年后的今天，绝大多数的企业已经走入「True uncertainty」的阶段，具体来说，新商业模式出现的触发体现在以下五个场景：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;新出现的、未被满足的潜在客户群；  &lt;/li&gt;
-&lt;li&gt;新技术的突然市场化；  &lt;/li&gt;
-&lt;li&gt;新出现的Job to be done；  &lt;/li&gt;
-&lt;li&gt;正在崛起的底端颠覆者；  &lt;/li&gt;
-&lt;li&gt;现有竞争环境的变化。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;而之所以多数企业的未来开始进入「True uncertainty」阶段的本质在于：&lt;strong&gt;以上五个场景正在同时发生。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
-
-&lt;p&gt;作为一个致力于企业进行创新的战略设计者，你需要理解以下逻辑：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;未来正在倾向于「模糊化（Ambiguity）」，商业模式创新的间歇期可能变得更短，意味着任何一个有效的商业模式可能在短时间内失效；  &lt;/li&gt;
-&lt;li&gt;商业模式的本质是客户价值定位到企业利润的持续转化，企业战略制定者左手抓客户价值中的Job to be done（其次才是目标客户），右手抓利润模型；  &lt;/li&gt;
-&lt;li&gt;真正的创新来自于在现有商业模式中盘活资源、打通桎梏、优化流程、提高效率、促成规模，并在此之上建立新的商业模式，而不在于「技术」、更不在于「设计」。&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;那么，下一个五年再见。&lt;/p&gt;</content:encoded></item></channel></rss>
