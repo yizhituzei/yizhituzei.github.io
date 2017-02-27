@@ -1,4 +1,121 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sun, 26 Feb 2017 02:06:23 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>IoT时代的设计</title><description>&lt;p&gt;设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 27 Feb 2017 23:51:34 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>星巴克数字忠诚十五年（上）</title><description>&lt;p&gt;2017年初，一条消息令所有北美零售商震动：星巴克用户所有存储在礼品卡和移动应用中的现金超过12亿美元，而这一成绩，超过了绝大多数美国银行机构（下图）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/starbucks_holds_more_cash_than_many_banks_n.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;在传统零售商中，星巴克将客户忠诚推至前所未有的高度，所有人都将这一成绩归结于其成功的移动支付平台，而事实上，这是其十五年客户忠诚度的长期积累。让我们回顾星巴克数字产品的十五年，看她是如何一步一步成长为数字忠诚的最佳案例之一的。&lt;/p&gt;
+
+&lt;h2 id="2001"&gt;2001年：礼品卡&lt;/h2&gt;
+
+&lt;p&gt;礼品卡（Gift Card）已经成为美国人生活的一部分，每年超过1千亿美元的礼品卡被93%的美国人购买或使用，平均消费高达213美元每年（&lt;a href="http://www.giftcards.com/gift-card-statistics"&gt;参考&lt;/a&gt;），而回到2001年，星巴克是最先推出礼品卡的公司之一。礼品卡的初衷，是希望客户可以将咖啡当作礼品赠送，有趣的是，据调查，只有25%的客户（&lt;a href="https://www.forbes.com/sites/quora/2014/06/13/why-is-the-starbucks-mobile-payments-app-so-successful/#3086e4463957"&gt;参考&lt;/a&gt;）将礼品卡当作礼品，大多数的客户只是为了结账更快。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/starbucks-giftcard.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;因为更多客户将礼品卡和支付结合在一起，这就出现了对于交易的额外需要，而这部分客户恰好又是较为高频光顾的消费者，至此高频交易和交易需求结合在了一起，星巴克为这部分客户提供了许多礼品卡公司难以提供的解决方案：&lt;strong&gt;丢失补款&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;客户在丢失礼品卡以后可以将礼品卡中的金额找回，毕竟是自己使用，这一特点满足了高频客户对于金额的担忧。这使得星巴克的礼品卡受到消费者热捧，2015年全年，有50亿美元的礼品卡被消费者购买（&lt;a href="http://money.cnn.com/2015/12/22/news/companies/starbucks-christmas-gift-card/"&gt;参考&lt;/a&gt;），这已经占到了接近25%的全年销售额（&lt;a href="https://www.statista.com/statistics/266466/net-revenue-of-the-starbucks-corporation-worldwide/"&gt;参考&lt;/a&gt;&lt;/p&gt;</description><link>http://localhost:2368/15-years-of-starbucks-digital-loyalty/</link><guid isPermaLink="false">0eac9028-0e55-487d-9c00-c0464d41308b</guid><category>零售</category><category>创新</category><category>数字忠诚</category><category>产品战略</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 27 Feb 2017 23:49:55 GMT</pubDate><media:content url="https://images.pexels.com/photos/228799/pexels-photo-228799.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" medium="image"/><content:encoded>&lt;img src="https://images.pexels.com/photos/228799/pexels-photo-228799.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt="星巴克数字忠诚十五年（上）"&gt;&lt;p&gt;2017年初，一条消息令所有北美零售商震动：星巴克用户所有存储在礼品卡和移动应用中的现金超过12亿美元，而这一成绩，超过了绝大多数美国银行机构（下图）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/starbucks_holds_more_cash_than_many_banks_n.jpg" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;在传统零售商中，星巴克将客户忠诚推至前所未有的高度，所有人都将这一成绩归结于其成功的移动支付平台，而事实上，这是其十五年客户忠诚度的长期积累。让我们回顾星巴克数字产品的十五年，看她是如何一步一步成长为数字忠诚的最佳案例之一的。&lt;/p&gt;
+
+&lt;h2 id="2001"&gt;2001年：礼品卡&lt;/h2&gt;
+
+&lt;p&gt;礼品卡（Gift Card）已经成为美国人生活的一部分，每年超过1千亿美元的礼品卡被93%的美国人购买或使用，平均消费高达213美元每年（&lt;a href="http://www.giftcards.com/gift-card-statistics"&gt;参考&lt;/a&gt;），而回到2001年，星巴克是最先推出礼品卡的公司之一。礼品卡的初衷，是希望客户可以将咖啡当作礼品赠送，有趣的是，据调查，只有25%的客户（&lt;a href="https://www.forbes.com/sites/quora/2014/06/13/why-is-the-starbucks-mobile-payments-app-so-successful/#3086e4463957"&gt;参考&lt;/a&gt;）将礼品卡当作礼品，大多数的客户只是为了结账更快。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/starbucks-giftcard.jpg" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;因为更多客户将礼品卡和支付结合在一起，这就出现了对于交易的额外需要，而这部分客户恰好又是较为高频光顾的消费者，至此高频交易和交易需求结合在了一起，星巴克为这部分客户提供了许多礼品卡公司难以提供的解决方案：&lt;strong&gt;丢失补款&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;客户在丢失礼品卡以后可以将礼品卡中的金额找回，毕竟是自己使用，这一特点满足了高频客户对于金额的担忧。这使得星巴克的礼品卡受到消费者热捧，2015年全年，有50亿美元的礼品卡被消费者购买（&lt;a href="http://money.cnn.com/2015/12/22/news/companies/starbucks-christmas-gift-card/"&gt;参考&lt;/a&gt;），这已经占到了接近25%的全年销售额（&lt;a href="https://www.statista.com/statistics/266466/net-revenue-of-the-starbucks-corporation-worldwide/"&gt;参考&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;h2 id="2009"&gt;2009年：移动支付&lt;/h2&gt;
+
+&lt;p&gt;如果说礼品卡的成功是迎合了高配消费者对于&lt;strong&gt;快速交易&lt;/strong&gt;的需求，那么2009年星巴克首推的移动支付方案，则是近一步的优化——消费者无需取出自己的礼品卡就可以实现支付。&lt;/p&gt;
+
+&lt;p&gt;时任星巴克移动支付项目负责人Benjamin Vigier一改当时由客户扫码的主流方案，设计了特殊的条码扫描机器（下图），由柜台服务生进行扫码，这一方案在当时甚至受到了很多人的嘲笑，事实上，这一方案在当时是极具超前意识、并早于Apple和Google公司。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/pos-scanner.jpg" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;这一方案的核心在于并没有增加客户一个额外的环节，只是改变了现有扫描礼品卡环节的交互方式，最初的支付页面也十分简单：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/starbucks-scanner.jpg" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;至此，大多数使用礼品卡的消费者找到了更加快速的结帐方式，其移动应用的下载量持续上升，但是依然，应用不能称之为完整的移动支付方案，金额仍然存在于某个虚拟礼品卡中，充值行为依然要通过物理礼品卡作为介质，这一情况到了两年后得到了解决。&lt;/p&gt;
+
+&lt;h2 id="2011"&gt;2011年：移动钱包&lt;/h2&gt;
+
+&lt;p&gt;到2011年，星巴克正式宣布消费者可以通过关联信用卡等多种支付方式在移动应用中预存一定量的金额，于此同时，对店面的POS系统进行全面的升级，移动支付全面铺开——2011年1月全美6800家星巴克店全面接受移动支付。&lt;/p&gt;
+
+&lt;p&gt;至此，星巴克成为业界为数不多提供「完全移动支付」体验的公司，即充值和支付完全通过手机应用完成。高频用户的支付问题到2011年被全面解决，以移动钱包为应用主体的星巴克App也已经趋于稳定，核心功能（支付）积攒了大量高频使用者，接下来，「客户忠诚」终于有机会成为主角，而这离礼品卡推出已经过了10年之久。&lt;/p&gt;
+
+&lt;p&gt;同时，用户第一次可以通过移动应用查询到积分情况，而不需要通过访问某个独立的网站（&lt;a href="https://www.starbucks.com/account/signin"&gt;Starbucks Account&lt;/a&gt;），客户体验进一步增强。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/Starbuckscard_hero.jpg" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;h2 id="2014"&gt;2014年：积分第一&lt;/h2&gt;
+
+&lt;p&gt;在2011年移动应用改版之前，星巴克并没有传统意义上的积分计划（Rewards Program），而采用购买不同级别的会员卡获得优惠，这一设计在星巴克早期大大降低的运营的难度——缺少便捷的支付手段，客户对积分的获取、升级、兑换等就会产生更多要求。而这一情况随着移动支付手段越来越便捷开始发生改观。&lt;/p&gt;
+
+&lt;p&gt;2014年，星巴克对其广受欢迎的移动应用做了重大的改版，在这一版的设计中，Reward Dashboard（下图左一）的概念被着重提出，围绕在周围的是三个次级页面（支付、店面、礼品卡）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/starbucks-app-2014.png" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;在这样的设计里，积分成为产品核心，支付退居其次，同时在2014年的设计中，开始出现了诸如Message（消息）的概念，这一概念在2015年的更新中被演化成Inbox（收件箱）。&lt;/p&gt;
+
+&lt;p&gt;2014年的改版成功，将移动应用的基础转移到积分上，围绕这一衡量忠诚的最佳货币，从2015年开始，星巴克开始了大规模的数字化建设。&lt;/p&gt;
+
+&lt;h2 id="2015"&gt;2015年：忠诚优先与店外体验&lt;/h2&gt;
+
+&lt;p&gt;积分只是用忠诚兑换价值的货币而已，真正的「忠诚优先」体系在价值，而不在货币本身。2015年星巴克的App设计者正式提出「忠诚优先（Loyalty First）」的概念，首当其冲的设计改变便是将积分页面隐藏，转而呈现收件箱（Inbox）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/upstanders_appscreen.jpg" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;在收件箱中，用户开始收到具有相关性的信息，包括促销和活动等等，积分被简化成金黄色的信息条。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/loyalty-bar.png" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;2015年同时推出的Mobile Order &amp;amp; Pay更是将客户忠诚推到了全新的高度，从15年1月起，顾客可以在全美所有店面实现手机下单、店内取单的无缝体验。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/mobile-order-pay.png" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;这个体验的推出，标志着消费者和星巴克品牌的交互并不只发生在店面内，更重要的是：为星巴克更加广泛的产品线提供了销售机会，特别是使个性化推荐成为可能。&lt;/p&gt;
+
+&lt;p&gt;星巴克从未停止过对其产品线的创新和持续投入，2008年，星巴克推出了多款早餐产品，例如「星巴克燕麦粥（Starbucks Perfect Oatmeal）」。然而在早晨这样的高峰期，店员和顾客都很难有时间推荐或购买而外的产品，星巴克便很难有机会向消费者推荐配搭的其他产品。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/20130125-238266-StarbOatsJPG.JPG" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;而Mobile Order &amp;amp; Pay的推出彻底解决了这个难题，并演化出更多无限可能的销售方式。目前，如果顾客预定一款咖啡，在下单页面中将根据顾客所下单的时间结合以往购买历史推荐匹配的产品。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/image_1487980431-356851.jpg" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;积分、促销推送、推荐三个移动渠道上客户忠诚的重要元素被正式建立起来，并互相作用和影响，形成了多种可能的玩法，例如：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;积分 + 促销推送 + 推荐 = 用双倍积分的方式进行促销推送最可能购买的某一产品；&lt;/li&gt;
+&lt;li&gt;积分 + 促销推送 = 不定期地在顾客最常光顾时间推送限时积分挑战（Rewards Dash）；&lt;/li&gt;
+&lt;li&gt;积分 + 推荐 = 在推荐产品中获得额外积分；&lt;/li&gt;
+&lt;li&gt;促销推送 + 推荐 = 推送推荐产品品尝的活动。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在这个体系下，产品既获得了更多的销售机会、客户亦可获得更加个性化的忠诚回报。&lt;/p&gt;
+
+&lt;h2 id=""&gt;十五年的产品闭环&lt;/h2&gt;
+
+&lt;p&gt;如果我们回顾星巴克十五年来的产品演进过程，我们可以发现一个显著的趋势，那便是逐渐完成「店面—礼品卡—移动应用」的闭环。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/starbucks-15-years.png" alt="星巴克数字忠诚十五年（上）"&gt;&lt;/p&gt;
+
+&lt;p&gt;2001至2009年，大量推广礼品卡作为一种店内的支付手段；2009至2014年，推出基于帮助礼品卡快速支付的移动应用，并逐渐成熟和积累大量开始使用积分的顾客；2014年至今，不断推出服务（例如Mobile Order&amp;amp;Pay）通过移动应用向店面进行引流。&lt;/p&gt;
+
+&lt;p&gt;这一闭环的完成从开始到完成，经历了十五年的时间，而接下来的十五年时间，星巴克将把创新集中在：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;对闭环中核心概念（店面、礼品卡、移动应用）的持续创新；  &lt;/li&gt;
+&lt;li&gt;对概念间关系进行深度创新；  &lt;/li&gt;
+&lt;li&gt;在更大的生态系统中进行生态创新。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;本文的下篇，将继续讨论星巴克后续的产品战略。&lt;/p&gt;</content:encoded></item><item><title>IoT时代的设计</title><description>&lt;p&gt;设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/02/ui-evolution.png" alt=""&gt;&lt;/p&gt;
 
@@ -1732,116 +1849,4 @@
 
 &lt;p&gt;更重要的是，本文让我们重新理解了行业竞争倾向于激烈、利润倾向于下降的天然属性，重新思考「竞争力」在企业战略中的位置。&lt;/p&gt;
 
-&lt;p&gt;同时不禁感慨到过去的10年里，满眼都是资本所扶持的、赌博式的所谓业务创新，虽有看起来了不起的「独特客户价值主张」，没有几个真正有「可持续的企业活动系统」。&lt;/p&gt;</content:encoded></item><item><title>ThoughtWorks设计的五年和下一个五年</title><description>&lt;p&gt;一不小心，ThoughtWorks的设计已经经历了五个年头，2011年7月的时候，我从英国回来，来自全世界各大区最新任命的设计负责人，讨论了如何将设计引入到这间传统技术咨询公司的业务引擎中。在回来的飞机上，我画了这样一幅草图：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/xd-team-idea.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;在草图的上部，我把当时还未流行的设计思维模型作为了设计团队的基石，尝试在Empathy、Ideate、Define、Prototype、Test每个环节定义能力和服务。在下面是当时设计团队的现状，除我之外，近200人的中国公司里只有一位设计师和一位前端工程师，当时国内市场还未打开，于是当时的策略变得非常简单，更加积极地招聘和将现有设计师尽可能放在交付上。&lt;/p&gt;
-
-&lt;p&gt;于是我们有了第一个招募广告，那时候手绘的风格还没有流行，我在微博和博客上转发了第一份广告：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/recruit-ad.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;这里面写着：要好奇但思维得有调理、英文不要太差微话唠、爱设计爱学习、会一些手绘可HTML/CSS不是必须、能接受去不同国家工作。这样一个招聘的「聘」字不会学、简单一个「I'm UX」都出现语法错误的广告并没有引起什么关注。&lt;/p&gt;
-
-&lt;p&gt;但不管怎么样，快进到现在，这支团队有40人那么多，最开始出现在那张纸上的名字都已经不在；第一次参加伦敦会议的12个人里，只有两人依然在ThoughtWorks工作；甚至在一直当作榜样跟随的导师已经离开人世；我也早已不承担设计主管的职务——五年竟然发生了那么多。&lt;/p&gt;
-
-&lt;p&gt;半个月以前，我和这个团队最年轻的设计师在一起，关于上一个五年，&lt;/p&gt;</description><link>http://localhost:2368/next-five-years/</link><guid isPermaLink="false">c3028e7f-57b1-4ab0-bb16-bcee1e55ada1</guid><category>成长</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 11 Jul 2016 20:14:41 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/tw-ux-team-2.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/tw-ux-team-2.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;&lt;p&gt;一不小心，ThoughtWorks的设计已经经历了五个年头，2011年7月的时候，我从英国回来，来自全世界各大区最新任命的设计负责人，讨论了如何将设计引入到这间传统技术咨询公司的业务引擎中。在回来的飞机上，我画了这样一幅草图：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/xd-team-idea.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;&lt;/p&gt;
-
-&lt;p&gt;在草图的上部，我把当时还未流行的设计思维模型作为了设计团队的基石，尝试在Empathy、Ideate、Define、Prototype、Test每个环节定义能力和服务。在下面是当时设计团队的现状，除我之外，近200人的中国公司里只有一位设计师和一位前端工程师，当时国内市场还未打开，于是当时的策略变得非常简单，更加积极地招聘和将现有设计师尽可能放在交付上。&lt;/p&gt;
-
-&lt;p&gt;于是我们有了第一个招募广告，那时候手绘的风格还没有流行，我在微博和博客上转发了第一份广告：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/recruit-ad.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;&lt;/p&gt;
-
-&lt;p&gt;这里面写着：要好奇但思维得有调理、英文不要太差微话唠、爱设计爱学习、会一些手绘可HTML/CSS不是必须、能接受去不同国家工作。这样一个招聘的「聘」字不会学、简单一个「I'm UX」都出现语法错误的广告并没有引起什么关注。&lt;/p&gt;
-
-&lt;p&gt;但不管怎么样，快进到现在，这支团队有40人那么多，最开始出现在那张纸上的名字都已经不在；第一次参加伦敦会议的12个人里，只有两人依然在ThoughtWorks工作；甚至在一直当作榜样跟随的导师已经离开人世；我也早已不承担设计主管的职务——五年竟然发生了那么多。&lt;/p&gt;
-
-&lt;p&gt;半个月以前，我和这个团队最年轻的设计师在一起，关于上一个五年，我已经&lt;a href="https://www.zhihu.com/question/26222095/answer/32541527"&gt;讲了太多&lt;/a&gt;，我来讲讲下一个五年。&lt;/p&gt;
-
-&lt;h3 id=""&gt;避免竞争才是最好的竞争&lt;/h3&gt;
-
-&lt;p&gt;与其思考我们如何才能更有竞争力，不如思考如何才能避免竞争——如何做到「客户在市场上找不到类似的服务提供商，却又觉得有价值」而非「为客户提供更有竞争力的服务体验」。&lt;/p&gt;
-
-&lt;p&gt;任何一个市场都在趋近于成熟，市场上的服务提供商一定会越来越同质，这是经典的「红海竞争理论」，我们目前所面对的「竞争对手（即设计咨询公司）」无一不追随以下商业逻辑：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;从一种专业技能开始（几乎所有设计咨询公司的创始人都具有某种专业技能）；  &lt;/li&gt;
-&lt;li&gt;由专业技能演化出专业服务（几乎所有设计咨询公司都从某种专业设计服务开始）；  &lt;/li&gt;
-&lt;li&gt;扩充专业服务的问题域（例如从用户研究到产品设计再到产品策略）；  &lt;/li&gt;
-&lt;li&gt;围绕新的问题域构建新的理念（无论是以什么为中心的设计）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;所有人的竞争体现在：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;专业技能是否强大；  &lt;/li&gt;
-&lt;li&gt;专业服务是否专业；  &lt;/li&gt;
-&lt;li&gt;问题域是否广阔和有效；  &lt;/li&gt;
-&lt;li&gt;理念对应新的问题域是否合理。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;可怕的是，每年都有更具有专业技能年轻设计师出现、那些世界一流设计专业服务公司的设计师在不断提升专业服务的专业度、所有人都号称自己走到问题域的最顶端、每年都在产生新的、和淘汰旧的设计理念。&lt;/p&gt;
-
-&lt;p&gt;这也是为什么在这个行业里，每几年就会有一间新的设计咨询公司脱颖而出、每几年就有一间旧的设计咨询公司面临淘汰和被收购，那么我们要不要进入到这个序列中去？&lt;/p&gt;
-
-&lt;p&gt;这也是为什么一直以来，我们所强调的，是「不同」、而不是「更好」，这解释了为什么他们有高大上的设计环境、和看起来炫酷的设计项目、以及你为什么常年在出差、并和客户在一起做没那么有趣的设计。前者并不一定等同于「更好」、后者一定代表着「不同」。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;不同、而不是更好。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;理解这个逻辑，是所有ThoughtWorks设计师的共识，所有的服务都应该围绕在「不同」，其次才是「更好」；所有你应该思考的，是如何成为一个「与众不同」的设计职场人，而不是追随这个人才市场上的主流。「不同」的你以及「不同」的业务，让我们避免竞争带来的「天然衰退」。&lt;/p&gt;
-
-&lt;h3 id=""&gt;为真实世界设计&lt;/h3&gt;
-
-&lt;p&gt;上个月我在伦敦，我带着一支设计团队在为第一线的建筑工程师做设计，头脑里想着这样一个场景：我们把产出的设计放在画板上，在午休时间让大家进行讨论和投票。真实的情况是：根本没有人理你，所有人告诉你，你只有3分钟。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/real-world-design.png" alt="ThoughtWorks设计的五年和下一个五年"&gt;
-&lt;em&gt;这才是真实世界的设计环境。&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;这让我思考，无论你如何强制自己相信自己在为「真实世界设计」，「真实世界」都在用最羞辱和残酷的方式「打你设计师的脸」。&lt;/p&gt;
-
-&lt;p&gt;三个月以前，我给一家公司做设计提案审稿的工作，非常荣幸地，我看了多份来自中国本土和世界一流设计咨询公司的设计提案，并不好意思地将他们全部否定，因为没有一个在为真实世界设计，全是「设计师有限世界观下扭曲的表达」，既不是真实世界、也不是真实表达。&lt;/p&gt;
-
-&lt;p&gt;人、系统、环境、文化、技术、关系、利益、规则都是真实世界的不同元素，我们所宣称的「以客户为中心」的设计并不是真实世界的全部；另一方面，世界并没有像我们曾经相信的那样「趋同」——美国激烈的社会矛盾、英国的脱欧都体现出&lt;strong&gt;历史并没有一条共同的道路&lt;/strong&gt;，即并没有一个「理想未来」，而更多是一道光谱，在这道光谱上，真实世界的元素都在变化，这意味着「为一个理想未来设计」的破产，设计师需要把自己置身于光谱之中。&lt;/p&gt;
-
-&lt;p&gt;世界如此，商业同样在发生变革，所有人都在说「商业即技术（所有商业公司都是技术公司）」的潜台词是：「技术不再是一次性购买的投入、而是资产」，设计也是如此。试想这样一个场景：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;当所有企业都不把设计当成一次性投入、而是资产的时候，会怎么样？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;可以确定的是，对于设计人才的需要就变成：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;在真实上下文中和外界趋势和变革中寻找机会；&lt;/li&gt;
-&lt;li&gt;拥抱真实的商业环境并接受限制和善于平衡；&lt;/li&gt;
-&lt;li&gt;兼具有效（Solving Problem）和合理（Making Sense）。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;而你今天忍受的、我们所做的「不同」，都是为了培养这样的设计人才做准备，因此，「为真实世界设计」不是一种设计理想，它是为未来企业格局变化做的战略性准备。&lt;/p&gt;
-
-&lt;h3 id=""&gt;寻找自己的旅程&lt;/h3&gt;
-
-&lt;p&gt;最后，我依然想回到ThoughtWorks的使命，我们所有人，首先是ThoughtWorker，其次才是ThoughtWorks的设计师，之前并没有强调，是因为让一个新形态存活并独立成长要比融入更重要，而现在，是时候思考自己作为一个TW设计师应该有的使命感。&lt;/p&gt;
-
-&lt;p&gt;一群以IT革命者身份的人建立了这间公司，「社会实验」的烙印深深打在这间公司每个人身上，这个烙印，来自于对自己个人旅程（Personal Journey）的找寻。&lt;/p&gt;
-
-&lt;p&gt;旅程无关于开始、也无关于结束，我没有优秀的设计教育背景、也没有令人骄傲的设计成绩，更没有想过成为谁、做成什么事，我只希望对这个世界有更多的认识而已，大量的博客，也许都是自说自话，但是「心安、方能理得」，如果顺道能让设计师获得一些启发，便是更好。对我来说，这就是我的个人旅程。&lt;/p&gt;
-
-&lt;p&gt;至少有几个方向，我觉得是有趣的、并可能在ThoughtWorks这个平台上实现的：&lt;/p&gt;
-
-&lt;p&gt;首先是设计界的性别不平等：最近发生的事情，让人气愤，更无奈地是，大家所讨论的大多是「讨论女性容貌在设计大会这样的场合不合适」，而忽略了一个现实：「尽管以女性为主的设计行业，女性依然得不到基本的尊重、并缺少机会」，那么我们能否为女性设计师和企业树立优秀的榜样？&lt;/p&gt;
-
-&lt;p&gt;其次是设计界为消费主义设计的导向：在中国社会整体向右走的趋势下，
-还有许多底层的社会问题没有得到足够的关注，我们能否做一个「向右走、却向左看」的设计师，帮助底层叙事、社会和经济公正？&lt;/p&gt;
-
-&lt;p&gt;再次是成为批判先锋：任何设计风潮中，总少不了对现实担忧、制造纠结和冲突的一批人，他们从另外一个角度推动了设计行业的发展，以互联网为基础的「科技设计Design in Tech」行业很少有主流观点之外的批判性思考，我们是否能够为这个行业带来足够的批判性？&lt;/p&gt;
-
-&lt;p&gt;每个人的个人旅程让我们走出自己，到「真实世界设计」，同时造就了我们的「不同」；而这份难能可贵的「不同」造就了我们作为一个商业模式的「不同」；最终它将带领我们走完下一个五年。&lt;/p&gt;
-
-&lt;p&gt;那么，下一个五年再见。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;同时不禁感慨到过去的10年里，满眼都是资本所扶持的、赌博式的所谓业务创新，虽有看起来了不起的「独特客户价值主张」，没有几个真正有「可持续的企业活动系统」。&lt;/p&gt;</content:encoded></item></channel></rss>
