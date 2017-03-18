@@ -1,4 +1,282 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 07 Mar 2017 01:05:44 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>星巴克数字忠诚十五年（下）</title><description>&lt;p&gt;在之前的文章里，我们从时间线和创新类型两个维度将星巴克十五年来的创新逻辑进行了整体的梳理，接下来，我们再将其全部打散，找寻其中的精髓。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sat, 18 Mar 2017 04:51:14 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>服务设计的小历史</title><description>&lt;p&gt;「真‧领导」提问：我们听到的用户体验设计、交互设计、客户体验设计、服务设计这些概念应该如何区分呢？&lt;/p&gt;
+
+&lt;p&gt;让我们从历史的角度，看看「服务设计」是如何演变到今天这个样子的。&lt;/p&gt;
+
+&lt;h2 id="interfacedesign"&gt;界面设计（Interface Design）&lt;/h2&gt;
+
+&lt;p&gt;设计始终为现实世界服务，今天我们所做的设计，都源于GUI开始流行的那个时代，那时候我们谈的最多的，是「界面设计（Interface Design）」。&lt;/p&gt;
+
+&lt;p&gt;这里的界面，就是特指人机界面。而那个时代的人机界面有如下特点：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;任务驱动（Task-driven）：所有功能背后都有一项任务作为功能存在的基础；&lt;/li&gt;
+&lt;li&gt;固定的流程：输入输出的过程被设定好、界面决定了使用方式，而不是使用方式决定界面。&lt;/li&gt;
+&lt;li&gt;使用大量隐喻：早期图形界面中的设计隐喻广泛存在，例如窗口、工作区域、按钮、软盘、桌面、表单、标签栏等等；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在这个背景之下，设计师的作用变成了：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;了解使用者的任务，对任务进行优先级排序；  &lt;/li&gt;
+&lt;li&gt;为最高优先级的任务设计流程；  &lt;/li&gt;
+&lt;li&gt;用隐喻完成界面的组装。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;在这个时代，大部分的界面设计是需要说明书、和反复练习的，&lt;/p&gt;</description><link>http://localhost:2368/history-of-service-design/</link><guid isPermaLink="false">69b27a56-4fcc-49de-956b-c37ed2c15261</guid><category>服务设计</category><category>设计</category><category>职业</category><dc:creator>熊子川</dc:creator><pubDate>Tue, 14 Mar 2017 00:01:26 GMT</pubDate><media:content url="http://localhost:2368/content/images/2017/03/service-design.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2017/03/service-design.png" alt="服务设计的小历史"&gt;&lt;p&gt;「真‧领导」提问：我们听到的用户体验设计、交互设计、客户体验设计、服务设计这些概念应该如何区分呢？&lt;/p&gt;
+
+&lt;p&gt;让我们从历史的角度，看看「服务设计」是如何演变到今天这个样子的。&lt;/p&gt;
+
+&lt;h2 id="interfacedesign"&gt;界面设计（Interface Design）&lt;/h2&gt;
+
+&lt;p&gt;设计始终为现实世界服务，今天我们所做的设计，都源于GUI开始流行的那个时代，那时候我们谈的最多的，是「界面设计（Interface Design）」。&lt;/p&gt;
+
+&lt;p&gt;这里的界面，就是特指人机界面。而那个时代的人机界面有如下特点：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;任务驱动（Task-driven）：所有功能背后都有一项任务作为功能存在的基础；&lt;/li&gt;
+&lt;li&gt;固定的流程：输入输出的过程被设定好、界面决定了使用方式，而不是使用方式决定界面。&lt;/li&gt;
+&lt;li&gt;使用大量隐喻：早期图形界面中的设计隐喻广泛存在，例如窗口、工作区域、按钮、软盘、桌面、表单、标签栏等等；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在这个背景之下，设计师的作用变成了：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;了解使用者的任务，对任务进行优先级排序；  &lt;/li&gt;
+&lt;li&gt;为最高优先级的任务设计流程；  &lt;/li&gt;
+&lt;li&gt;用隐喻完成界面的组装。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;在这个时代，大部分的界面设计是需要说明书、和反复练习的，真正在于该时代设计多用于商用，对于用户而每天处理的任务繁多，多任务导致「多入口」，则用户通过训练在真实环境中准确找到入口。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/03/pos.gif" alt="服务设计的小历史"&gt;&lt;/p&gt;
+
+&lt;p&gt;上图是早期POS系统的设计，在这个设计中存在发现大量「入口」，以及一定的隐喻和视觉引导，包括颜色、区域、框体、图标等。而颜色的选择、框体的摆放、由设计者决定——谁能告诉我紫色和红色谁的优先级更高。通过频繁的使用和记忆，是否符合直觉并不重要，因为这是你每天必须做的工作。&lt;/p&gt;
+
+&lt;p&gt;「多入口」和「隐喻」成为早期用户界面设计的标准，这一标准一直影响到早期的界面设计，例如，框体设计成为主流，下图是苹果公司早期首页设计，横向的菜单、大量的功能分区、大量带标题栏的框体、多个按钮的设计成为那个时代的特征。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/03/better-apple-page.gif" alt="服务设计的小历史"&gt;&lt;/p&gt;
+
+&lt;h2 id="userinteractiondesign"&gt;用户交互设计（User Interaction Design）&lt;/h2&gt;
+
+&lt;p&gt;关于把人放置于人机交互中心的讨论早在上世纪60年代就已开始，Nickson在1969年的论文《&lt;a href="https://www.ncbi.nlm.nih.gov/pubmed/5823965"&gt;Man-Computer interaction: A challenge for human factors research&lt;/a&gt;》提出：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The need for the future is not so much computer oriented people
+  as for people oriented computers.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这几乎是人机交互（Human Computer Interaction）的最早理论基础。在这一理论基础上，理论开始向实践进行演化（开始谈论设计）。&lt;/p&gt;
+
+&lt;p&gt;1990年ROBERT B. ALLEN的关于用户模型的重要论文《&lt;a href="http://boballen.info/RBA/PAPERS/HANDBOOK/UserModels.pdf"&gt;User models: theory, method, and practice&lt;/a&gt;》中提到,随着计算机系统的复杂，行业开始将讨论的中心从界面、文档、或推导过程，转向用户。&lt;/p&gt;
+
+&lt;p&gt;一定程度上，专家系统（Expert Systems）的演变催生使用者对计算机「可用（Usable）」和「有用（Useful）」的需求。1987年，科罗拉多大学计算机和认知科学学院的Gerhard Fischer的论文《&lt;a href="http://l3d.cs.colorado.edu/~gerhard/papers/Scanned/1987-Making-Computers-Useful-2nd-InternalHCI.pdf"&gt;Making Computers More Useful and More Usable&lt;/a&gt;》可能最早讨论计算机可用性的文献。Fischer在文中记述：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Useful computers which are not usable are of little help; but so are usable computers which are not
+  useful. One of the major goals of our research is to achieve these two goals simultaneously. （有用却不可用、和可用却没什么用的计算机一样对我们没什么帮助。我们研究的目的，是找寻将二者结合起来的方式）&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;彼时，计算机开始从一种辅助任务完成（Task Processor）的工具，变成一种帮助我们更好决策的智能辅助系统（Intelligent Support Systems）。这一变化使得人们使用计算机的路径开始变的具有独立性和探索性，而不简单是一系列固定任务的组合。&lt;/p&gt;
+
+&lt;p&gt;这个时代里大量理论和实践开始完善，以用户为中心的设计（User-centric Design）成为趋势，此趋势下的核心逻辑是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;使用者需求被置于中心；&lt;/li&gt;
+&lt;li&gt;界面被认为是人机交互中的一部分，而不是全部。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/03/design-theory.png" alt="服务设计的小历史"&gt;&lt;/p&gt;
+
+&lt;p&gt;上图（&lt;a href="https://link.springer.com/chapter/10.1007%2F978-1-4471-5134-0_2"&gt;来源&lt;/a&gt;）中展示的是这个时代设计师所需要涉及的知识领域，除了计算机界面，还需对人因工程、社会心理学、认知学、人体工程等由涉猎。&lt;/p&gt;
+
+&lt;p&gt;值得一提的是，User-centric Design（UCD）的兴起在中国也成就了中国最早的互联网设计社区&lt;a href="http://ucdchina.com/"&gt;UCD中国&lt;/a&gt;，并培养了中国互联网行业最早一批设计师与产品经理。&lt;/p&gt;
+
+&lt;h2 id="userexperiencedesign"&gt;用户体验设计（User Experience Design）&lt;/h2&gt;
+
+&lt;p&gt;用户体验在UCD早期就被提及，1999年用户体验被归于人体工程学，并被ISO9241-210定义为：人对于产品、系统、或服务使用结果（真实使用或预知）的印象与反馈。&lt;/p&gt;
+
+&lt;p&gt;而用户体验被加上设计二字，则意味着其从理论朝实践的转变。第一份讨论用户体验设计的文献出版于1998年的《&lt;a href="http://jepelet.free.fr/studies/MBA/design/s4/lectures/Web%20Navigation%20Designing%20the%20User%20Experience.pdf"&gt;Web navigation: designing the user experience&lt;/a&gt;》。&lt;/p&gt;
+
+&lt;p&gt;可以说，用户体验的兴起，与互联网的兴起息息相关。计算机系统出现了第三种类型的用户，这类用户：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;不将计算机当作必须完成任务的处理器；&lt;/li&gt;
+&lt;li&gt;不将计算机当作辅助完成复杂任务的专家系统。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;「浏览」成为一种新的使用场景。2002年Jesse James Garrett的《用户体验要素》出版，此书具有划时代的意义，其真正的意义在于实践性，他将用户体验分作5个层次，并将系统分作软件交互和内容平台。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://packmanager-website.s3.amazonaws.com/sites/5345b2cf38939397f2000001/assets/554927c3389393a94744b28f/Elements_of_User_Experience_-_Jesse_James_Garrett.png" alt="服务设计的小历史"&gt;&lt;/p&gt;
+
+&lt;p&gt;可以说在UCD的前期，虽然人们知道了用户的重要性，但在实践层次依然难以将对用户的考虑和设计本身结合在一起。而《用户体验要素》的理论丰富了交互理论——交互只是体验的一部分，而且还只是某一种类型软件系统的一部分。&lt;/p&gt;
+
+&lt;p&gt;在2002年前后，用户体验替代交互大行其道。&lt;/p&gt;
+
+&lt;h2 id="customerexperiencedesign"&gt;客户体验设计（Customer Experience Design）&lt;/h2&gt;
+
+&lt;p&gt;客户体验（Customer）的概念在1994年就被提出，Carbone, Lewis P和Haeckel, Stephan H.在《Marketing Management》杂志1994年冬季刊上第一次提到了用工程的方式优化客户体验。&lt;/p&gt;
+
+&lt;p&gt;《&lt;a href="http://www-935.ibm.com/services/hk/igs/pdf/engineering_customer_experiences.pdf"&gt;Engineering Customer Experiences&lt;/a&gt;》一文几乎涵盖了后来所有互联网客户体验设计的全部，这些观点包括：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;全场景的体验（Orchestrating Experience），所有体验点都应相互关联；&lt;/li&gt;
+&lt;li&gt;高瞻远瞩的设计，所有体验都应该有更高的目标，比如让客户快乐；&lt;/li&gt;
+&lt;li&gt;自然和符合直觉；&lt;/li&gt;
+&lt;li&gt;基于数据和分析的设计过程。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;这些原则都对后世、直到服务设计领域都产生了极大影响。客户体验设计的核心逻辑是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;用户不再是中心，客户和品牌的交互过程才是；&lt;/li&gt;
+&lt;li&gt;用户目标不再是重点，而是更远大的品牌终极目标；&lt;/li&gt;
+&lt;li&gt;用户和计算机的交互不再是重点，而是所有产品和服务体验的总和。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="servicedesign"&gt;服务设计（Service Design）&lt;/h2&gt;
+
+&lt;p&gt;从客户体验设计到服务设计的演变，变得极为自然，既然所有产品和服务体验的总和是重点，那么在每一个点上提供好的服务、并将其串联就变得关键。&lt;/p&gt;
+
+&lt;p&gt;计算技术发展到今天，计算机早已不是工具，而是人们大部分活动的基础。但由于系统的建设晚于流程的建立、流程的建立又晚于客户需求的变化，这几乎成为不可解的谜题。我们当然可以设计理想的客户体验，但最后的结果无外乎两个：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;对于旧系统，强依赖于后台逻辑和系统集成导致数据和体验的不一致；  &lt;/li&gt;
+&lt;li&gt;对于新系统，则难以在未来和核心系统整合，服务体验难以规模化，和真正商业化。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;解决这些问题，不单单只是技术上的，还有中后前台业务流程的整合，这便是服务设计尝试解决的第一大问题。&lt;/p&gt;
+
+&lt;p&gt;另一个服务设计尝试解决的问题更多来自于机会。在现实场景中，现实和虚拟的界限被打破、更多的可计算设备被制造，越来越多的数据开始被收集、越来越多独特的交互形式正在发生，加之云端和智能技术的发展，全新的服务模式可以由此产生。&lt;/p&gt;
+
+&lt;p&gt;诸如Amazon Go这样结合了机器视觉、传感器、深度学习、移动应用、云计算等多项技术的全新零售服务体验，在未来一定成为主流（而不一定是Amazon Go）。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/03/amazon-go.png" alt="服务设计的小历史"&gt;&lt;/p&gt;
+
+&lt;p&gt;服务设计就成为了各类新旧技术和流程天生的粘合剂。&lt;/p&gt;
+
+&lt;h2 id=""&gt;设计的汤&lt;/h2&gt;
+
+&lt;p&gt;今天我们所谈论的设计，就像一锅乱炖的汤，学者和实践者在过去近50年的时间里，不断增加新的概念或扩充已有概念：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;界面就是一切；  &lt;/li&gt;
+&lt;li&gt;用户交互才是中心，用户模型、认知心理学、人因工程学等被加入；  &lt;/li&gt;
+&lt;li&gt;体验被提出，用户交互被缩小到整个用户体验的一部分；  &lt;/li&gt;
+&lt;li&gt;用户不再重要，客户的全局体验变成核心；  &lt;/li&gt;
+&lt;li&gt;客户与体验被整合，前中后台的流程、系统、技术、员工等要素被融入到整体设计里。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/03/history-of-service-design.png" alt="服务设计的小历史"&gt;&lt;/p&gt;
+
+&lt;p&gt;这碗设计的汤，发展到今天，已经变得无所不包了，只是曾经的边界都在被打散，无论是：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;机器和人类；&lt;/li&gt;
+&lt;li&gt;界面和交互；&lt;/li&gt;
+&lt;li&gt;信息和内容；&lt;/li&gt;
+&lt;li&gt;功能和体验；&lt;/li&gt;
+&lt;li&gt;用户和客户；&lt;/li&gt;
+&lt;li&gt;线上和线下；&lt;/li&gt;
+&lt;li&gt;前台和后台；&lt;/li&gt;
+&lt;li&gt;服务和产品；&lt;/li&gt;
+&lt;li&gt;技术和情感。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;设计师的成长，已经超越了技能，而作为想成为、或者已经是服务设计师的你，是否能够在这些边界中游刃有余，懂得取舍呢？&lt;/p&gt;</content:encoded></item><item><title>战略原则</title><description>&lt;p&gt;《战略十篇》的第七篇书稿，来自于Orit Gadiesh和James L. Gilbert，原文刊于《哈佛商业评论》2001年5月刊（&lt;a href="https://hbr.org/2001/05/transforming-corner-office-strategy-into-frontline-action"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;历史上最成功的航空公司之一，美国西南航空公司几十年来一直秉承一条经营信条「面对顾客短途出行需要，提供具有价格优势的服务」。这一信条精简、易于传播和执行，从始至终贯穿西南航空的经营，我们将此称之为「战略原则（Strategic Principles）」。&lt;/p&gt;
+
+&lt;h2 id=""&gt;目的&lt;/h2&gt;
+
+&lt;p&gt;需求端的快速变革几乎影响所有企业改变其供给模型——资源的配置、更加灵活的人才管理、去中心化的决策过程、内部沟通和协作的增多、多元化和生命周期更短的产品或服务。&lt;/p&gt;
+
+&lt;p&gt;在这个背景下，传统规划到执行的线性流程不再有效、而完全自组织的运作方式难以最优化资源和规模化，绝大部分企业都需要在管制和自治间找到平衡。一个有效的战略原则，正是在这个背景下帮助企业：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;管理战略优先级；&lt;/li&gt;
+&lt;li&gt;为雇员创新背书；&lt;/li&gt;
+&lt;li&gt;抓住机会；&lt;/li&gt;
+&lt;li&gt;围绕客户需求变化进行产品或服务创新。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;因此，战略原则是「行动导向（Action Oriented）」的，这和愿景（Mission Statement）不同，后者着重于对全体员工的激励作用，是情感化的，&lt;/p&gt;</description><link>http://localhost:2368/strategic-principles/</link><guid isPermaLink="false">0e3e2597-56ab-4386-af7f-d1aa359bbfd7</guid><category>战略十篇</category><dc:creator>熊子川</dc:creator><pubDate>Thu, 09 Mar 2017 00:10:55 GMT</pubDate><content:encoded>&lt;p&gt;《战略十篇》的第七篇书稿，来自于Orit Gadiesh和James L. Gilbert，原文刊于《哈佛商业评论》2001年5月刊（&lt;a href="https://hbr.org/2001/05/transforming-corner-office-strategy-into-frontline-action"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+
+&lt;p&gt;历史上最成功的航空公司之一，美国西南航空公司几十年来一直秉承一条经营信条「面对顾客短途出行需要，提供具有价格优势的服务」。这一信条精简、易于传播和执行，从始至终贯穿西南航空的经营，我们将此称之为「战略原则（Strategic Principles）」。&lt;/p&gt;
+
+&lt;h2 id=""&gt;目的&lt;/h2&gt;
+
+&lt;p&gt;需求端的快速变革几乎影响所有企业改变其供给模型——资源的配置、更加灵活的人才管理、去中心化的决策过程、内部沟通和协作的增多、多元化和生命周期更短的产品或服务。&lt;/p&gt;
+
+&lt;p&gt;在这个背景下，传统规划到执行的线性流程不再有效、而完全自组织的运作方式难以最优化资源和规模化，绝大部分企业都需要在管制和自治间找到平衡。一个有效的战略原则，正是在这个背景下帮助企业：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;管理战略优先级；&lt;/li&gt;
+&lt;li&gt;为雇员创新背书；&lt;/li&gt;
+&lt;li&gt;抓住机会；&lt;/li&gt;
+&lt;li&gt;围绕客户需求变化进行产品或服务创新。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;因此，战略原则是「行动导向（Action Oriented）」的，这和愿景（Mission Statement）不同，后者着重于对全体员工的激励作用，是情感化的，而前者则是全体员工在行动时最简单的指导原则。&lt;/p&gt;
+
+&lt;p&gt;比较愿景与战略原则，例如美国新任第45届总统特朗普响亮的「美国优先（America First）」，虽引起孤立主义的影子而广受批评，但也是战略原则的典型案例——一个具有操作性的行动指南，即在所有交易中将美国利益放在首位（而非美国的跨国公司）。其「让美国重新伟大（Make America Great Again）」，则是情绪化而鼓舞人心的愿景。&lt;/p&gt;
+
+&lt;h2 id=""&gt;要素&lt;/h2&gt;
+
+&lt;p&gt;一个战略原则，浓缩了企业战略的精华，除了明确企业要做什么，还有不该做什么。战略原则包含以下是三个要素：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;在资源和需求间平衡；  &lt;/li&gt;
+&lt;li&gt;衡量每个行动的战略意义；  &lt;/li&gt;
+&lt;li&gt;设定自由创新的边界。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;许多成功企业往往执着于长久以来建立的战略原则，让从基层到顶层设计的战略都符合战略原则的考验。例如戴尔长久以来的战略原则便是简单的「直接（Be Direct）」二字，从1997年起它也出现在几乎所有戴尔公司的广告上。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/01/be-direct.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;美国在线的战略原则是「无论何时何地，客户连接性第一（Consumer connectivity first - anytime, anywhere）」，这一清晰简单行动指南在1997年后帮助美国在线度过难关。&lt;/p&gt;
+
+&lt;h2 id=""&gt;新环境下的重要性&lt;/h2&gt;
+
+&lt;p&gt;去中心化、快速增长、科技发展、以及组织动荡使得企业自我更新的速度加剧，在这一背景下，战略原则的意义尤为重要。&lt;/p&gt;
+
+&lt;p&gt;企业去中心化，战略行动往往依赖于做前沿的员工完成，一线员工需要最基本和快速的决策工具；快速增长带来大量机会，战略原则帮助企业杜绝诱惑；科技发展往往难以预测，企业需要极强的决断力以抓住市场机会；而在这些背景下企业往往一直处于动荡期，这也是成长性企业必须经历的体验，那么在错综复杂的环境里，一个强有力、简单、直白、坚定的战略原则，帮助企业在动荡中游刃有余。&lt;/p&gt;
+
+&lt;p&gt;贝恩咨询（Bain &amp;amp; Company）四十多年来所坚持着自己的战略原则——「交付结果、而非报告（The product of a consultant should be results for clients - not reports）」。特别对咨询业这样特别依赖一线员工智慧的行业而言，这一原则从1970年代起，无论世事如何变化（包括高层改弦更张的震荡）鼓励一代又一代的贝恩咨询师涉及新的领域、开辟新的服务、拓展新的行业，这也彻底改变了咨询业的面貌，并一直延续至今。&lt;/p&gt;
+
+&lt;h2 id=""&gt;战略原则的效用&lt;/h2&gt;
+
+&lt;p&gt;理解战略原则的使用，必先理解战略原则在企业真实业务场景中如何发挥作用。&lt;/p&gt;
+
+&lt;p&gt;首先，战略原则在于权衡（Trade-Off）。美国西南航空至今仍是航空业中最成功的故事，25年持续盈利、1972年到1992年间股票210倍的增长，都是行业不可企及的高度。大部分公司就算能够实现高速增长，也大多遇到成长的阵痛，公司坚守的原则屡屡突破。而西南航空却并非如此，成功的秘诀在于其员工为了保护这其战略原则所做出的妥协。&lt;/p&gt;
+
+&lt;p&gt;这些妥协甚至包含退出高速增长的丹佛市场，因为丹佛机场所造成的延误使得消费者出行的成本变高，那么，西南航空所坚守的战略原则——「为消费者提供出行成本最具竞争力的方案」是否还能在达拉斯工作，答案是否定的。&lt;/p&gt;
+
+&lt;p&gt;其次，战略原则帮助发现创新机会，美国在线（AOL）把客户连接性放在首位，20多年前，AOL发现在特定时刻，客户对股票分析师在线上建立的财经信息公告板的流量增加，于是便提供服务帮助金融分析师建立自己的金融分析网站，最后成为了后来著名的金融信息类网站Motely Fool（fool.com）。同时，基于连接性这一原则，AOL鼓励一线员工发现更多的商业机会，最终转化为市场上的收购，快速布局。AOL与时代华纳的联合正是实践这一原则的最强音——通过整合时代华纳丰富的电视和闭路资源，真正实现了随时随地的内容访问。&lt;/p&gt;
+
+&lt;h2 id=""&gt;建立战略原则&lt;/h2&gt;
+
+&lt;p&gt;许多成熟的公司本身就建立在某个简单、独特、且清晰的战略原则之上，例如沃尔玛的「天天平价（Low prices, every day）」，这些公司的原则被自己、投资者、以及消费者广泛接受。但许多公司所面临的情况是全球化下的区域独立性，同时还需考虑这一原则必须区分于其他所有竞争者，因此，总结出一个使用全公司的战略原则相当不易。那么，该如建立战略原则？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;独特性&lt;/strong&gt;：资源和能力获得的成本在逐步降低、同质化也日趋严重，而现代企业中独特性的体现不在资源或能力，而在于用一种独特方式组织。而战略原则可以是对这种独特组织方式的解释；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;沟通性&lt;/strong&gt;：战略原则不是束之高阁的口号，而是能够深入企业一线员工的指导原则，测试其是否有效的方式，是当员工不知所措时，简单一句战略原则是否能够帮助员工做出当下最直接的决策；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;推动性&lt;/strong&gt;：战略原则鼓励和指导行动，它帮助一线员工对所面临的选择问最好的问题——这么做对战略原则有何帮助，或者不这么做是否对战略原则有损失；&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;延展性&lt;/strong&gt;：请注意，战略原则是工具，它连接管理层和而不是企业安身立命的价值观，但也不能随时变更视若儿戏，在企业高层战略发生重大改变时，例如重要并购发生、上市等，管理层应根据当前情况适当扩充战略原则。&lt;/p&gt;
+
+&lt;h2 id=""&gt;从战略到执行&lt;/h2&gt;
+
+&lt;p&gt;所有战略咨询者都希望解决战略到执行间的问题，战略要么极为抽象——则基层员工无非与己无关、或有着无数自己的解释；要么事无巨细——则根本无法解释和指导现实情况，甚至根本难以达成一致。&lt;/p&gt;
+
+&lt;p&gt;我们今天将「扁平化」、或「去中心化」当作优秀企业特质，但事实上「员工自治」才是扁平和去中心的目的，缺少「自治」的「扁平化」，只是行政上刻意为之，实则一盘散沙、缺少执行力。而战略原则正是为「员工自治」存在，其最终想达到的是「塑造基层员工行为」，其核心逻辑是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;制定一个符合企业市场定位和战略规划的简单行为准则；  &lt;/li&gt;
+&lt;li&gt;这个准则深入于一线员工中，用于第一线的决策、沟通、和妥协；  &lt;/li&gt;
+&lt;li&gt;企业战略和员工自治达成统一。&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title>星巴克数字忠诚十五年（下）</title><description>&lt;p&gt;在之前的文章里，我们从时间线和创新类型两个维度将星巴克十五年来的创新逻辑进行了整体的梳理，接下来，我们再将其全部打散，找寻其中的精髓。&lt;/p&gt;
 
 &lt;h2 id=""&gt;寻找简单创新战略原则&lt;/h2&gt;
 
@@ -1406,266 +1684,4 @@
 
 &lt;p&gt;这个模式也可以帮助我们做许多思维游戏，例如如何看待「模式」和「竞争力」的关系？如何通过对成熟度的解释征服投资人？如何解释乐视疯狂收购的行为？如何看待Amazon要投资AWS？如何评价AR/VR领域的各种创新？如何分析无人机技术的前景？如何选择创业方向？&lt;/p&gt;
 
-&lt;p&gt;关于这些的思考，我将会围绕在创新成熟度在未来的文章中讨论。&lt;/p&gt;</content:encoded></item><item><title>重新思考颠覆式创新</title><description>&lt;p&gt;Clayton Christensen被认为是至今最伟大的企业管理思想巨匠之一，1997年其所著《创新者的窘境（&lt;em&gt;The Innvator's Dilemma&lt;/em&gt;）》至今仍被科技界奉为圭臬。正是因为此书，使颠覆式创新（Disruptive Innovation）成为几乎有科技界从业者口中津津乐道的概念。&lt;/p&gt;
-
-&lt;p&gt;于是各类创新咨询层出不穷、以此为生的「创新咨询师」、「创新教练」振聋发聩地喊出「不是颠覆别人、就是被颠覆」、「不创新、毋宁死」的口号——来自埃森哲的咨询师&lt;a href="http://www.larrydownes.com"&gt;Larry Downes&lt;/a&gt;甚至将颠覆式创新升华为「颠覆大爆炸（Big Bang Disruption）」，网站上的标题是：Big Bang Disruption: The innovator's disaster（创新者的灾难）。&lt;/p&gt;
-
-&lt;p&gt;当原来的「窘境」变成了「灾难」，颠覆式创新理论在将近20年的时间里到底发生了什么？为何这个曾今影响了许多企业管理者的理念到如今变成了咨询公司「咋咋呼呼的咆哮」？回答这些问题，重新思考颠覆式创新变得必要。&lt;/p&gt;
-
-&lt;h2 id=""&gt;窘境&lt;/h2&gt;
-
-&lt;p&gt;理解「&lt;/p&gt;</description><link>http://localhost:2368/rethink-disruptive-innovation/</link><guid isPermaLink="false">62a683f7-15af-4192-a1e4-30604e59e71d</guid><category>创新</category><category>商业</category><dc:creator>熊子川</dc:creator><pubDate>Tue, 26 Jul 2016 01:03:20 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/hand-gun-gesture.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/hand-gun-gesture.jpg" alt="重新思考颠覆式创新"&gt;&lt;p&gt;Clayton Christensen被认为是至今最伟大的企业管理思想巨匠之一，1997年其所著《创新者的窘境（&lt;em&gt;The Innvator's Dilemma&lt;/em&gt;）》至今仍被科技界奉为圭臬。正是因为此书，使颠覆式创新（Disruptive Innovation）成为几乎有科技界从业者口中津津乐道的概念。&lt;/p&gt;
-
-&lt;p&gt;于是各类创新咨询层出不穷、以此为生的「创新咨询师」、「创新教练」振聋发聩地喊出「不是颠覆别人、就是被颠覆」、「不创新、毋宁死」的口号——来自埃森哲的咨询师&lt;a href="http://www.larrydownes.com"&gt;Larry Downes&lt;/a&gt;甚至将颠覆式创新升华为「颠覆大爆炸（Big Bang Disruption）」，网站上的标题是：Big Bang Disruption: The innovator's disaster（创新者的灾难）。&lt;/p&gt;
-
-&lt;p&gt;当原来的「窘境」变成了「灾难」，颠覆式创新理论在将近20年的时间里到底发生了什么？为何这个曾今影响了许多企业管理者的理念到如今变成了咨询公司「咋咋呼呼的咆哮」？回答这些问题，重新思考颠覆式创新变得必要。&lt;/p&gt;
-
-&lt;h2 id=""&gt;窘境&lt;/h2&gt;
-
-&lt;p&gt;理解「颠覆」要从「窘境」开始。「窘境」的意涵是「进退维谷」，Christensen认为，企业的衰落不在于管理者做了错误的决定，而往往是因为他们做了正确的决定。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Doing the right thing is the wrong thing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;许多现在看起来成功的产品或服务在当时并不是符合正常的商业逻辑：例如IBM不可能选择进入个人电脑领域，因为小型机市场依然是最具商业价值的市场，在那是，个人还没有对于个人电脑的需要。&lt;/p&gt;
-
-&lt;p&gt;这便是创新者所面临的左右为难的境地：我们该如何看待目前还不存在的市场、不成熟的技术、不盈利的业务，不做，错过了时机、做了，却存在现有业务的阻力。&lt;/p&gt;
-
-&lt;p&gt;而颠覆性技术正在同时不断接近市场的沸点，当技术和市场同时成熟的时候，那些在市场上率先使用更新技术、推出新产品和服务适应市场变化的企业开始从行业底端向上占据已有市场份额。&lt;/p&gt;
-
-&lt;p&gt;成功逆袭的，便称之为颠覆者（Disruptor）；相反被拉下神坛的，称之为被颠覆者（The Disrupted）。而沸点何时发生、哪个技术会突破沸点、市场会如何变化、谁会扮演颠覆者的角色，我们都不得而知——举棋不定的，则是深处窘境中的创新者。&lt;/p&gt;
-
-&lt;h2 id=""&gt;创造和破坏&lt;/h2&gt;
-
-&lt;p&gt;人类执着于解释「创造」与「破坏」的关系，就像痴迷于思考生死一样。在印度教中，湿婆神（Shiva）同时是毁灭者又是创造神，这被广泛认为是西方政治经济学中「Creative Destruction（创造性破坏）」的灵感来源。&lt;/p&gt;
-
-&lt;p&gt;《共产党宣言》中马克思将资本主义之所以兴盛的秘密解释成「不断生产和消灭财富」、而持续发生危机的原因也正是因为「不断生产和消灭财富」。&lt;/p&gt;
-
-&lt;p&gt;至1942&lt;a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E7%86%8A%E5%BD%BC%E7%89%B9"&gt;约瑟夫·熊彼特&lt;/a&gt;在所著《资本主义、社会主义和民主》一书中发展了马克思主义的理论，正式提出「破坏性创造」这一理论，到后世，大部分自由主义经济学家认为资本主义的活力正式来自于「资本主义内在破坏性创造的革新机制」。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://economicstudents.com/wp-content/uploads/2016/05/David_Hurley_Article_Image.jpg" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
-
-&lt;p&gt;熊彼特相信在创业者的创新是经济增长的颠覆性力量，颠覆的对象是享有现有价值的现有技术、组织形式、法规、以及经济形态。&lt;/p&gt;
-
-&lt;p&gt;因此颠覆式创新的理论框架依然延续着「创造性破坏」的规律，只是从技术的角度尝试解释这一规律发生的成因。&lt;/p&gt;
-
-&lt;p&gt;「破坏性创造」来自于马克思对资本主义本质的解释，并第一次让人们开始思考创新本身对于经济增长意味着什么，而以信息技术革新为基础的第三次工业革命的到来，第一次让人民意识到「破坏性创造」的残酷一面。&lt;/p&gt;
-
-&lt;h2 id=""&gt;创造的阵痛&lt;/h2&gt;
-
-&lt;p&gt;标准普尔500（S&amp;amp;P500）公司的平均生存年限从1935年的90年降到了2014年的&lt;a href="http://seekingalpha.com/article/2651195-increasing-churn-rate-in-the-s-and-p-500-whats-the-lifespan-of-your-stock"&gt;18年&lt;/a&gt;，按照目前的速度75%的S&amp;amp;P500公司将在2027年消失。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://static.cdn-seekingalpha.com/uploads/2014/11/2557601_14152433773155_rId6.png" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
-
-&lt;p&gt;资本主义曾今的繁荣让人不得不重新回想起马克思在1848年《共产党宣言》中对资本主义天然危机的描述：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;在这些危机中，不仅仅只是现有的生产，甚至以前的生产所得，都会间歇性地被摧毁...社会会突然回到一个短暂的野蛮时代（Barbarism）&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;颠覆式创新正是在这样一个历史阶段中被提出。其中最著名的磁盘存储领域案例正是在当时阵痛最明显的行业，其中提到了希捷（Seagate）正是被颠覆式创新颠覆的公司之一。而Jill Lepore在2014年6月23日《纽约客》封面文章《&lt;a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine"&gt;The Disruption Machine&lt;/a&gt;》中尖锐地指出：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;事实上，希捷科技并没有因颠覆而倒下。1989年到1990年期间，希捷的运营收入达到24亿美元，几乎是在美国其所有竞争对手加起来的全部...去年（指2013年）希捷销售了20亿支硬盘，而Christensen所提到的颠覆者早已不在。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;这篇文章也成为2014年开始人们对于颠覆式创新进行质疑的焦点。&lt;/p&gt;
-
-&lt;h2 id=""&gt;质疑的焦点&lt;/h2&gt;
-
-&lt;p&gt;除了颠覆式创新理论基础中的案例有些不符合真实发生的情况，在现实中许多被认为具有颠覆性的商业模式也并不符合其理论框架的定义。&lt;/p&gt;
-
-&lt;p&gt;例如，Christensen在评价苹果的iPhone手机时说：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;iPhone只是诺基亚的延续性技术，他们只是在造更好的手机。而理论预测苹果将不会在iPhone上取得成功...这并不是一个颠覆式的创新。历史会给出答案，它成功的可能性将非常有限。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Christensen在2007年接受了新闻周刊（BusinessWeek）的&lt;a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice"&gt;采访&lt;/a&gt;，采访者问到：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;您的书中着重描述了因为技术而产生颠覆性创新，然而现在当我们谈创新的时候，范围已经更广，例如商业模式、流程、和客户体验创新。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Christensen教授回答：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;是的，我在写《创新者的窘境》时，头脑中确实只思考了技术，并只在技术方面寻求解释。因此我在最初称它为「颠覆式技术」，后来发现这是有局限性的...在《创新者的解决方案》一书里，我把它称之为「颠覆式创新」，在之前将它打上技术标签是不正确的。&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;这成为Christensen教授理论一个重要瑕疵，即没有考虑到消费力量的转移。在最初的理论中，几乎所有研究的对象都是针对企业的市场，例如小型机、存储磁盘等等，企业市场的最重要的特点是「购买者的理性（Rational Purchasers）」，理性的重要评价值是「回报率」，而颠覆者所擅长的，是提供更高「回报率」的产品，依此反转整个行业格局。&lt;/p&gt;
-
-&lt;p&gt;而我们很快进入了「消费者时代」，大部分的企业开始直接面对终端消费者——「非理性的购买者（Irrational Purchasers）」，那么「产品的回报率」就变成没那么重要的选项，而更多关心用户体验、品牌、社会资本等，这也是为什么苹果并没有使用任何颠覆性的技术却依然依靠iPhone取得了巨大的商业成功。&lt;/p&gt;
-
-&lt;h2 id=""&gt;对理论的演绎&lt;/h2&gt;
-
-&lt;p&gt;颠覆式创新在当时的经济环境下有着合理的逻辑：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;某个行业发生了巨大的变革——技术开始出现多样化并快速成长——针对市场上多种计算机的不同类型的存储技术快速发展，让现有存储企业不知所措（下图是磁盘性能和市场需要的变化）；  &lt;/li&gt;
-&lt;li&gt;行业中出现了重新洗牌，有些公司正在走向衰落；  &lt;/li&gt;
-&lt;li&gt;衰落的往往是那些没有抓住颠覆性技术、并将其商业化的公司，但在当时他们并没有做错什么；  &lt;/li&gt;
-&lt;li&gt;企业应该制定合适的战略关注那些依然处于成长期的市场需求和技术，并紧盯行业中那些敢于创新的小型企业。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/disk-drive-and-market-need.png" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
-
-&lt;p&gt;理论的大部分在于解释在当时环境中，看起来如日中天的企业为何走向衰败，而那些看起来不起眼的公司，为何能够脱颖而出。它所表达「为何衰败或突然成功（Why）」，多于「如何成功（How）」。&lt;/p&gt;
-
-&lt;p&gt;而在后来的解释中，一切创新都被标注成「颠覆式」，已经很少人关注理论产生的背景和指导意义，而是陷入一种「莫名其妙的兴奋」，一时间「颠覆」这次开始大量出现，特别在创业圈里。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://women2.com/wp-content/uploads/2012/09/tc2.jpg" alt="重新思考颠覆式创新"&gt;&lt;/p&gt;
-
-&lt;p&gt;而各种「创业成功学」和「科技成功学」作家们更是打造了「奇点」这个概念——颠覆可能在我们想象得更早的时间里发生。「奇点」配合着「颠覆」让人们早就忘了经济学原理和管理的本质，执着地崇拜着「科技时代的宏大叙事」、紧紧跟随在Kevin Kelly、Peter Thiel、以及作为低配版的罗振宇周围，内心戏丰富地阅读着每一篇冠以颠覆的报道、由衷相信每个点石成金、反转世界的想法、默默点赞。&lt;/p&gt;
-
-&lt;h2 id=""&gt;颠覆式创新理论是否还有效&lt;/h2&gt;
-
-&lt;p&gt;颠覆式创新帮助我们理解了20年前信息技术爆炸早期技术和产业的关系，将现代企业管理者开始思考科技对于商业的破坏性作用，以及先有模式对于未来发展的约束作用、人们也开始思考运营和技术的相互牵制作用、并重视那些市场中不起眼的竞争者。&lt;/p&gt;
-
-&lt;p&gt;然而近20年后的今天，市场环境发生了重要变化：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;从质量和效率转向服务和体验；  &lt;/li&gt;
-&lt;li&gt;从对公业务转向于针对消费者；  &lt;/li&gt;
-&lt;li&gt;全球化带来的全球智力资源的重新分配和流动；  &lt;/li&gt;
-&lt;li&gt;资本运作的活跃，使得企业可以更容易通过收购和兼并获得科技能力；&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;企业们事实上也在执行颠覆式创新中所提到的实践，我们看到越来越多的公司正在实现业务和技术的整合——Digital作为一个独立部门的出现。&lt;/p&gt;
-
-&lt;p&gt;越来越多的科技企业并购，例如BMW、Daimler、Audi对Nokia&lt;a href="http://www.wsj.com/articles/bmw-daimler-audi-agree-to-buy-nokias-here-maps-business-1438580698"&gt;地图业务的并购&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;越来越多原生态的、循序渐进的、而不追求爆炸式的创新，例如波音787 Dreamliner采用&lt;a href="http://apex.aero/2015/12/10/turning-down-the-cabin-pressure"&gt;更高舱内气压&lt;/a&gt;的演进性创新。&lt;/p&gt;
-
-&lt;p&gt;另一方面，被我们奉为经典的「颠覆者」们也没有像想象中那样颠覆一切，全球麻烦不断的Uber、Airbnb们依然还没有证明自己，风风火火的电商也并没有像几年前预测的那样彻底让实体零售走向死亡，我们还有什么理由相信那些「危言耸听」和「夸大其词」的「盛世危言」？&lt;/p&gt;
-
-&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
-
-&lt;p&gt;每个时代都不缺乏时代的「解释者（Storyteller）」，人们也需要更简单的方式理解现在和未来，然而利用人们对于成功的渴望，通过「恫吓」和描绘一个「赢者通吃」的世界，美其名曰「脑洞大开」，实际上是机会主义者的投机。&lt;/p&gt;
-
-&lt;p&gt;创新本身的破坏性是经济学原理决定的，无论颠覆式创新是否存在；颠覆不是企业发展的目的，成长才是；被颠覆也不是企业衰落的原因，成长不足才是。&lt;/p&gt;
-
-&lt;p&gt;Christensen教授的颠覆式创新理论（以及其他基础理论）是我们对人类经济行为优秀的思想总结，它依然是熊彼特「创造性破坏」理论的延伸，而将其作为「万能药」售卖，是不负责任的。&lt;/p&gt;
-
-&lt;h2 id=""&gt;推荐阅读&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://doc-04-b4-apps-viewer.googleusercontent.com/viewer/secure/pdf/hvn78gpb48o2o3ksbhkk1mqon02h4frl/t2s0slhorgkuh40uad38c1ffi8vvnhd4/1469465025000/lantern/10936358008765371125/ACFrOgBYKpRTkLyCL8qWqmRg5iN9JZp4q8dGooo1fHCmdswpVCbA-Iuo3VFZK5enXUd_uhoA2vUOzfXMzNAWhIzyIc8oQG0XtAUOyzx-Mjz5DsvY7KpDGiwGwc2O0Ps=?print=true&amp;amp;nonce=4htu12dlcn3di&amp;amp;user=10936358008765371125&amp;amp;hash=26kpugo6er4of9dh24f4fk4bsbued0r0"&gt;Disruptive Technologies: Catching the Wave&lt;/a&gt; - by Joseph L. Bower and Clayton M. Christensen  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9ouwUs4QmFQ"&gt;Clay Christensen on the recent debate surrounding his theory of disruptive innovation&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.linkedin.com/pulse/20140626165608-63095025-has-the-disruption-theory-truly-been-disrupted"&gt;Has the disruption theory truly been.. disrupted?&lt;/a&gt; - Christian Ramsey  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://stratechery.com/2013/clayton-christensen-got-wrong/"&gt;What Clayton Christensen Got Wrong&lt;/a&gt; - Ben Thomson  &lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.bloomberg.com/news/articles/2007-06-15/clayton-christensens-innovation-brainbusinessweek-business-news-stock-market-and-financial-advice"&gt;Clayton Christensen's Innovation Brain&lt;/a&gt; - Jena Mcgregor  &lt;/li&gt;
-&lt;li&gt;&lt;a href="http://nymag.com/daily/intelligencer/2014/06/lets-all-stop-saying-disrupt.html"&gt;Let’s All Stop Saying ‘Disrupt’ Right This Instant&lt;/a&gt; - Kevin Roose  &lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.newyorker.com/magazine/2014/06/23/the-disruption-machine"&gt;The Disruption Machine&lt;/a&gt; - Jill Lepore  &lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.slate.com/articles/business/moneybox/2013/05/disrupting_disruption_a_once_useful_concept_has_become_a_lame_catchphrase.html"&gt;Stop “Disrupting” Everything&lt;/a&gt; - Matthew Yglesias  &lt;/li&gt;
-&lt;li&gt;&lt;a href="http://telecareaware.com/soapbox-round-2-disruptive-innovation-debate-disrupts-the-chattering-classes/"&gt;Soapbox Round 2: ‘disruptive innovation’ debate disrupts ‘the chattering classes’&lt;/a&gt; - Donna Cusano &lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title>战略执行的逻辑</title><description>&lt;p&gt;《战略十篇》的第六篇书稿，来自于Gary L. Neilson、Karla L. Martin、以及Elizabeth Powers，原文刊于《哈佛商业评论》2008年6期（&lt;a href="https://hbr.org/2008/06/the-secrets-to-successful-strategy-execution"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
-
-&lt;p&gt;战略设计让企业管理者敏锐地在市场上找到独特定位，但优秀的战略执行才是让其真正守住位置的关键。可惜的是，大部分企业在战略执行上表现糟糕，究其原因是管理者对「结构（Structure）」的过度关注。&lt;/p&gt;
-
-&lt;h2 id=""&gt;组织结构并不等同与执行效率&lt;/h2&gt;
-
-&lt;p&gt;传统管理者认为，设计一个好的结构将使得执行变得更加高效，这个结构里包含里以下元素：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;层级和职责：控制边界；  &lt;/li&gt;
-&lt;li&gt;指标和流程：控制过程；  &lt;/li&gt;
-&lt;li&gt;奖惩制度：控制结果。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;他们的假设是，如果我们用层级和职责定义好边界、指标和流程控制过程、最后用奖惩制度推动战略在某一环节所期待的结果，战略就会实现最高效的执行。这也是为什么大量的传统「组织转型」活动所关注的都是边界、过程、与结果的重新定义，即定义企业组织结构。&lt;/p&gt;
-
-&lt;h2 id=""&gt;决策决定执行效率&lt;/h2&gt;
-
-&lt;p&gt;当我们重新思考「企业组织结构为什么服务？或为什么要定义一个结构？」企业组织结构定义的出发点并不是交付结果（Outcomes），而是规定规则（&lt;/p&gt;</description><link>http://localhost:2368/the-secrets-to-successful-strategy-execution/</link><guid isPermaLink="false">ef5e4aaf-57b7-45ad-8093-89bca23e8a69</guid><category>战略十篇</category><dc:creator>熊子川</dc:creator><pubDate>Mon, 25 Jul 2016 02:00:43 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/07/main_1200.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/07/main_1200.jpg" alt="战略执行的逻辑"&gt;&lt;p&gt;《战略十篇》的第六篇书稿，来自于Gary L. Neilson、Karla L. Martin、以及Elizabeth Powers，原文刊于《哈佛商业评论》2008年6期（&lt;a href="https://hbr.org/2008/06/the-secrets-to-successful-strategy-execution"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
-
-&lt;p&gt;战略设计让企业管理者敏锐地在市场上找到独特定位，但优秀的战略执行才是让其真正守住位置的关键。可惜的是，大部分企业在战略执行上表现糟糕，究其原因是管理者对「结构（Structure）」的过度关注。&lt;/p&gt;
-
-&lt;h2 id=""&gt;组织结构并不等同与执行效率&lt;/h2&gt;
-
-&lt;p&gt;传统管理者认为，设计一个好的结构将使得执行变得更加高效，这个结构里包含里以下元素：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;层级和职责：控制边界；  &lt;/li&gt;
-&lt;li&gt;指标和流程：控制过程；  &lt;/li&gt;
-&lt;li&gt;奖惩制度：控制结果。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;他们的假设是，如果我们用层级和职责定义好边界、指标和流程控制过程、最后用奖惩制度推动战略在某一环节所期待的结果，战略就会实现最高效的执行。这也是为什么大量的传统「组织转型」活动所关注的都是边界、过程、与结果的重新定义，即定义企业组织结构。&lt;/p&gt;
-
-&lt;h2 id=""&gt;决策决定执行效率&lt;/h2&gt;
-
-&lt;p&gt;当我们重新思考「企业组织结构为什么服务？或为什么要定义一个结构？」企业组织结构定义的出发点并不是交付结果（Outcomes），而是规定规则（Priniciples），这个规则约定了组织里的每一个人：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;什么是应该做的？什么是不应该做的？  &lt;/li&gt;
-&lt;li&gt;该怎么做？  &lt;/li&gt;
-&lt;li&gt;做到了怎么办？做不到怎么办？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这些规则约定了一个最基本的「决策手册」，拥有了这份手册，战略的制定者们以为员工们就会按照这些规则完成各个岗位上的不同工作、最终形成合力达到战略目标，但事实不不尽如人意。&lt;/p&gt;
-
-&lt;p&gt;诚然，企业的本质是一个有机的复杂系统，结构中所定义的边界、过程、和结果都是这个系统中不可或缺的部分，但影响战略执行优劣的本质已经不是一个高效的结构，其本质的原因来自于战略和企业本身的特点正在发生变化：&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;从战略来看，由于技术、竞争环境、消费者需求的变化剧烈，企业战略正在从完美（Deliberate）战略过度到适应（Emergent）战略，而组织结构的适应性天然拖战略适应性的后腿，因此首要关注点放在组织结构上有天然的阻力；&lt;/li&gt;
-&lt;li&gt;从企业来看，由于新工作方式、新一代员工、管理手段、企业文化正在互相作用，使得传统组织结构转型本身的难度相较上一个时代更高，例如年轻一代的员工和上一代的员工对于管理手段有着截然不同的反应，前者更希望灵活的手段、期待创造性的工作；而后者更期待完善和一致性的过程和公平的奖惩手段，期待一种完美的组织结构适应所有员工本身就不现实。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;简单来说，期待组织结构转型（重新定义边界、过程、和结果）就能带来优秀的战略执行，在目前市场（战略的适应性）和企业（组织的复杂度）环境中难以成功。&lt;/p&gt;
-
-&lt;p&gt;承认组织结构转型是帮助决策的一个手段，而不是全部，思考高效战略执行的逻辑，我们应该做的是回到「决策本身」。&lt;/p&gt;
-
-&lt;h2 id=""&gt;决策环境&lt;/h2&gt;
-
-&lt;p&gt;无论环境如何变化，一切对战略的优秀执行，依然来自于千百个不同层级、不同大小的优秀决策的共同作用；一切糟糕战略执行的背后，一定也是千百个不同层级、不同大小犹豫或坏决策。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://www.newyorker.com/wp-content/uploads/2015/01/150126_r26061-864.jpg" alt="战略执行的逻辑"&gt;&lt;/p&gt;
-
-&lt;p&gt;请允许我用「决策环境（Context of Decision-making）」这个词来表达一间企业「&lt;strong&gt;普遍&lt;/strong&gt;是如何做决策的」。一个企业的「决策环境」可能有如下四个方面的要素：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;决策权：决策的所属权是否明晰、决策的自由度是否合适；  &lt;/li&gt;
-&lt;li&gt;信息：跨越组织内部边界的信息是否流动、市场前沿信息是否向内传递、组织战略信息是否向组织扩散；  &lt;/li&gt;
-&lt;li&gt;驱动力：是否自发性、统一认同的驱动力帮助决策更趋向于明晰和合适自由度、信息趋向于流动；  &lt;/li&gt;
-&lt;li&gt;结构：是否有合适的组织结构帮助持续产生这种驱动力。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;思考这四个方面，就可以描绘出来一副企业决策系统是如何工作的，我们来看下面这个例子：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;决策权&lt;/strong&gt;：员工不知道自己什么时候该做决策、不敢于做决策、事无巨细交给管理者做决策；管理者事无巨细为员工做决策、不愿意把事务性（Operational Work）交给员工自行决策、采用过于细节的命令式手段、员工没有决策自由；员工反而倾向于挑战或质疑其他员工做出的决策；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;信息&lt;/strong&gt;：员工只知自己的办公室、不了解也不愿意了解企业其他部门的运营情况；市场信息隐藏在一线员工那里，没有意愿传递到管理者，甚至刻意隐瞒、虚报以提升自己的重要性；企业战略要求传递不到员工，员工也不因为决策权受限制，不愿意了解；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;驱动力&lt;/strong&gt;：没有自发的驱动力鼓励自我决策和信息流动，所有人习惯于现状而不愿意改变；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;结构&lt;/strong&gt;：从上至下的命令式管理手段，不鼓励甚至通过层级、行政力量阻止这种驱动力的产生。&lt;/p&gt;
-
-&lt;p&gt;更好的「决策环境」可以是以下这样一个情况：&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;决策权&lt;/strong&gt;：员工勇于在合理范围内做决策、快速执行、敢于与管理者不断商议决策的边界；管理者将事务性工作的决策权交给员工、管理结果而不过度管理过程、鼓励员工勇于承担决策、并给予指导和培训帮助员工做出最明智的决策；对于其他员工做出的决策，给予建议和支持；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;信息&lt;/strong&gt;：员工了解并愿意了解企业其他部门的信息，甚至愿意换岗；每一个员工都有信息通道和意愿将市场信息第一时间汇聚到企业管理者手中；企业宏观战略、未来投资等信息能够传递到一线员工手中，每个员工都可以成为企业的品牌代言人；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;驱动力&lt;/strong&gt;：有各种手段鼓励自我决策和信息流动，包括培训、企业文化宣导、奖励等；&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;结构&lt;/strong&gt;：取代效率（Efficiency），而将适应性（Adaptability）作为结构设计的出发点，根据市场环境和员工特点、建立更适应市场和雇员特征的组织结构，持续产生改善「决策环境」的驱动力。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/07/decision-context-3.png" alt="战略执行的逻辑"&gt;&lt;/p&gt;
-
-&lt;p&gt;我们的目标是构建一个更合适的「决策环境」实现战略的有效执行，目标是有效执行，而不在于「决策环境」本身。应该强调的是，每个企业有着不同的外部条件（市场、消费者、竞争等）和内部条件（规模、阶段、文化、雇员等）——这意味着既有「&lt;a href="https://zhuanlan.zhihu.com/p/19633906"&gt;Do the right thing, wait to get fired&lt;/a&gt;」的企业文化产生，也有华为狼性的执行文化存在。&lt;/p&gt;
-
-&lt;p&gt;「决策环境」是动态的、根据企业内外条件不同进行调配的，并不能意味强调程度，甚至每个部门的管理者都可以根据该部门的情况设计出更合适的「决策环境」，而不是&lt;strong&gt;只会&lt;/strong&gt;通过定岗、定责、定流程、定指标等手段。&lt;/p&gt;
-
-&lt;p&gt;无论你是创业公司、或者大型企业的管理者，都可以问自己以下问题：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;我们的战略真的被很好地执行了吗？  &lt;/li&gt;
-&lt;li&gt;如果没有，我们不同层次的员工是如何看待自己的决策权的？  &lt;/li&gt;
-&lt;li&gt;组织内信息是如何横向（跨部门）与纵向（市场到管理层）流动的？  &lt;/li&gt;
-&lt;li&gt;我们都有哪些方式鼓励和阻止自我决策和信息流动的？  &lt;/li&gt;
-&lt;li&gt;我们的结构是如何基于外部和内部条件，考虑其对决策的影响的？&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;在日常管理过程中，「决策环境」应是每个层级的管理者需要关注的重要部分，通过「决策权」、「信息」、「驱动力」、「结构」四个方面的分析、管理、和演进，构建适合当前组织内外条件的「决策环境」，提升战略执行的效率。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;关于这些的思考，我将会围绕在创新成熟度在未来的文章中讨论。&lt;/p&gt;</content:encoded></item></channel></rss>
