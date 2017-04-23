@@ -1,4 +1,202 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 03 Apr 2017 19:11:22 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>从战略到绩效</title><description>&lt;p&gt;《战略十篇》的第九篇书稿，来自于Michael C.Mankins和Richard Steele ，原文刊于《哈佛商业评论》2005年8月刊（&lt;a href="https://hbr.org/2005/07/turning-great-strategy-into-great-performance"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>一只土贼</title><description>关于设计实践和思考</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sun, 23 Apr 2017 14:01:08 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>系统的政与治</title><description>&lt;p&gt;众人之事即为「政」，「治」理众人之事即为政治，治理所需的力量和资源即为「政权」。如何理解「众人之事」？如何「理而治之」？需要何等「政权」且如何分配，既是现代政治学的要义，也是所有复杂系统分析师的职责所在。&lt;/p&gt;
+
+&lt;p&gt;传统「以用户为中心」的设计通常从使用者的角度出发，然而却低估了复杂系统中「自变量（Independent Variable）」的非唯一性，即任何一个系统中并非一种决定系统最终效率或效果的因素，因每一个系统背后，可能都存在：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;众人之事；  &lt;/li&gt;
+&lt;li&gt;独特理而治之并保持平衡的手段。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我们用4S店中一个常见的场景理解一个看似简单的情况背后，众人之事是如何存在，且保持平衡的。&lt;/p&gt;
+
+&lt;h2 id=""&gt;零件难题&lt;/h2&gt;
+
+&lt;p&gt;你去保养你的爱车，你只会和你4S店销售经理打交道，假设你遇到了这样一个情况：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;你的爱车正在保养；  &lt;/li&gt;
+&lt;li&gt;销售经理告诉你他们的工程师发现了一处隐藏的故障，建议你更换一个零件；  &lt;/li&gt;
+&lt;li&gt;你问销售经理多少钱；  &lt;/li&gt;
+&lt;li&gt;销售经理给你说了一个数字；  &lt;/li&gt;
+&lt;li&gt;你说可以，修吧；  &lt;/li&gt;
+&lt;li&gt;销售经理说好的。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这样一个「零件难题」背后，加上为你服务的销售经理，一共有4种人存在，他们分别是：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/roles-1.png" alt=""&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;销售顾问：&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/system-politics/</link><guid isPermaLink="false">6ab2b88f-4d32-4358-873d-d31980e0f6ad</guid><category>系统</category><category>服务设计</category><dc:creator>熊子川</dc:creator><pubDate>Sun, 23 Apr 2017 14:00:21 GMT</pubDate><media:content url="http://localhost:2368/content/images/2017/04/factory-worker.jpeg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2017/04/factory-worker.jpeg" alt="系统的政与治"&gt;&lt;p&gt;众人之事即为「政」，「治」理众人之事即为政治，治理所需的力量和资源即为「政权」。如何理解「众人之事」？如何「理而治之」？需要何等「政权」且如何分配，既是现代政治学的要义，也是所有复杂系统分析师的职责所在。&lt;/p&gt;
+
+&lt;p&gt;传统「以用户为中心」的设计通常从使用者的角度出发，然而却低估了复杂系统中「自变量（Independent Variable）」的非唯一性，即任何一个系统中并非一种决定系统最终效率或效果的因素，因每一个系统背后，可能都存在：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;众人之事；  &lt;/li&gt;
+&lt;li&gt;独特理而治之并保持平衡的手段。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我们用4S店中一个常见的场景理解一个看似简单的情况背后，众人之事是如何存在，且保持平衡的。&lt;/p&gt;
+
+&lt;h2 id=""&gt;零件难题&lt;/h2&gt;
+
+&lt;p&gt;你去保养你的爱车，你只会和你4S店销售经理打交道，假设你遇到了这样一个情况：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;你的爱车正在保养；  &lt;/li&gt;
+&lt;li&gt;销售经理告诉你他们的工程师发现了一处隐藏的故障，建议你更换一个零件；  &lt;/li&gt;
+&lt;li&gt;你问销售经理多少钱；  &lt;/li&gt;
+&lt;li&gt;销售经理给你说了一个数字；  &lt;/li&gt;
+&lt;li&gt;你说可以，修吧；  &lt;/li&gt;
+&lt;li&gt;销售经理说好的。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这样一个「零件难题」背后，加上为你服务的销售经理，一共有4种人存在，他们分别是：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/roles-1.png" alt="系统的政与治"&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;销售顾问：负责和你确定需求、报价、解释价格；  &lt;/li&gt;
+&lt;li&gt;修车师傅：负责发现零件潜在问题、领取零件、安装零件；  &lt;/li&gt;
+&lt;li&gt;零件管理员：负责管理零件库存、审查零件申请、发送零件；  &lt;/li&gt;
+&lt;li&gt;保修审查员：负责审查零件是否被包含在保修或保养菜单内。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;通常在这样一个难题中通常出现四个系统辅助，它们分别是：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/systems.png" alt="系统的政与治"&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;工单系统：由客户初步协议生成，工单中包含各种服务项以及相关零件，最终将转化为账单；  &lt;/li&gt;
+&lt;li&gt;工时系统：用于记录技工工作的工时，与工单中的服务项强关联，方便经销商管理技工效率并按支付酬劳；  &lt;/li&gt;
+&lt;li&gt;库存系统：用于管理零件的价格和出备货，避免零件丢失；  &lt;/li&gt;
+&lt;li&gt;合规系统：用于查询车辆相关套餐是否对零件有效（套餐内客户不需付款），避免经销商损失。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=""&gt;众人之事&lt;/h2&gt;
+
+&lt;p&gt;在讨论「众人之事」时，需要理解「其人」和「其事」，「其人」即系统角色中每个人的不同诉求；「其事」即系统中各个子系统所做的事情（包括人、也包括机器）。&lt;/p&gt;
+
+&lt;p&gt;一个人不可能学会做所有的事情，因此系统的设计者将大部分工序划分为多个角色，并在工序上赋予角色不同的诉求，它们是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;销售顾问希望能够在不伤害客户信任的前提下多销售服务项；  &lt;/li&gt;
+&lt;li&gt;修车技师希望尽快完成车辆修理，多挣点钱；  &lt;/li&gt;
+&lt;li&gt;保修审查员希望零件保修政策不要弄错，如果保了不该保的零件，是要罚钱的；  &lt;/li&gt;
+&lt;li&gt;零件管理员希望零件不要丢，少罚点钱。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/goals.png" alt="系统的政与治"&gt;&lt;/p&gt;
+
+&lt;p&gt;绝大多数情况下，每个人并不在乎其他角色的诉求，甚至有冲突。例如，修车技师的目的是在规定时间内完成车辆，增加的服务项反而对技师造成麻烦：技师需要额外时间确定是否修理、增加工序、确定零件是否合保、是否有货。这些时间将占用其真正工作时间（上钟）。&lt;/p&gt;
+
+&lt;p&gt;而对于销售顾问，增加的服务项可能是其增加销售额和获得消费者信任的好机会，在「可修可不修」的情况下，销售顾问甚至将这个服务作为「扣子」留在下一次服务中，而对于技师而言，这些决策的不确定都成为其等待的原因。但对于零件管理员与保修审核员，其工作只是保证过程不出错，他们并没有更快处理的诉求。&lt;/p&gt;
+
+&lt;p&gt;在这种多元化的诉求体系中产生了系统设计者不曾想到的用户行为，即「其事」：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;销售顾问需要根据情况判断需不需要增加服务项目，修车技师无法自行决断，等待时有发生；  &lt;/li&gt;
+&lt;li&gt;修车技师希望简化一切和修车无关的行为，乐于使用纸笔记录需求；他们也不按照维修步骤进行上下钟，因为多次的等待使其更倾向于选择同时修理多台车，多个步骤同时开始，却都没有结束，系统标准上下钟逻辑是线性而不支持并行工作；  &lt;/li&gt;
+&lt;li&gt;保修审查员和零件管理员对快速完成工作没有任何需求，对于现有系统没有太多需求，排队情况在高峰期时有发生。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这个系统的人在不同诉求下一定天生互相不信任，而不信任将大大降低系统的流动效率。例如：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;消费者天生不信任销售顾问不以他的实际需求出发；  &lt;/li&gt;
+&lt;li&gt;保修审查员不信任修车技师会准确判断零件是否含在保险中；  &lt;/li&gt;
+&lt;li&gt;零件管理员不信任修车技术不偷零件。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这种不信任最终体现在用户行为之间的强化，例如：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;销售顾问以客户需求多变且不信任（问很多）的理由拒绝修车技师希望得到快速答复以减少等待的要求；  &lt;/li&gt;
+&lt;li&gt;修车技师只好多线程工作，包括：多开几个钟，一个有等待，迅速切换到另一个工作台，并为了省事，不再上下钟；多开几个零件申请，客户同意后立刻进行更换；  &lt;/li&gt;
+&lt;li&gt;保修审查员和零件管理员面对修车技师日益增长的零件需求，反而选择更谨慎的工作，因为过大需求增加其犯错的可能性。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;但凡有人存在的系统中，这样的逻辑（即众人之事）十分吊诡：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;系统设计者增加角色增加效率；  &lt;/li&gt;
+&lt;li&gt;角色增加导致系统单点角色的诉求不同；  &lt;/li&gt;
+&lt;li&gt;诉求不同导致行为不同，角色间不信任；  &lt;/li&gt;
+&lt;li&gt;行为在不信任感中互相进行强化，进入稳定状态；  &lt;/li&gt;
+&lt;li&gt;系统效率变慢，且极难打破僵局，即低效稳定。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=""&gt;理而治之&lt;/h2&gt;
+
+&lt;p&gt;这样的问题在一个多工序、多角色、多诉求、多行为的复杂系统中普遍存在，这也基本是一个庞大官僚系统必然低效的根本原因。那么，我们对于这样的复杂系统，应该如何「理而治之」呢？&lt;/p&gt;
+
+&lt;h3 id=""&gt;形成单件流&lt;/h3&gt;
+
+&lt;p&gt;一个高效的复杂系统必然存在「单件流」，即最核心的价值输送路线。分散的系统则相反，上述四大系统间相互隔离，每个操作系统的角色无法形成一个达成共识的价值输送，则难以形成统一的系统认识：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/isolated-system-1.png" alt="系统的政与治"&gt;&lt;/p&gt;
+
+&lt;p&gt;例如，当新需求被添加时，维修技师需要等待销售顾问添加工序，才能开始工作，记录工时，最后才能获得收益；相反，销售顾问需要等待维修技师拿着车辆VIN号在合规系统中查询才能知道零件的具体价格。&lt;/p&gt;
+
+&lt;p&gt;而更好的系统集成规划形成独立的单件流：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/one-piece-flow.png" alt="系统的政与治"&gt;&lt;/p&gt;
+
+&lt;p&gt;这就是「车辆——工序——报价」的核心价值流动。这一核心价值流分作两个阶段：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;车辆到工序阶段：销售顾问和维修技师负责在套餐基础上挖掘更多与车辆相关的新需求，最终产生具体工序；  &lt;/li&gt;
+&lt;li&gt;工序到报价阶段：维修技师、保修审查员、零件管理员共同保障零件价格和工时附加在工序上，最终形成对客户的报价（报价=工时费+零件费）；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=""&gt;为核心概念设置角色&lt;/h3&gt;
+
+&lt;p&gt;在全新的「单件流」中寻找核心概念，它们是：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;套餐；  &lt;/li&gt;
+&lt;li&gt;新需求；  &lt;/li&gt;
+&lt;li&gt;工时；  &lt;/li&gt;
+&lt;li&gt;零件。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;前两项决定了工序的设立、后两项决定了将工序变成最终报价。这四个核心概念可设置三个核心角色：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/new-roles.png" alt="系统的政与治"&gt;&lt;/p&gt;
+
+&lt;p&gt;通过分析我们发现，在一个充分整合的系统里，保修审查员是不需要的，当前情况下，因为工序不存在，新零件就和车辆建立不起联系。真实情况下，维修技师一手拿着零件序号、一手拿着车辆VIN（唯一标识码）找保修审查员进行核对。&lt;/p&gt;
+
+&lt;p&gt;至于为什么一但有新需求工序不能快速建立则由系统限制导致，如果在全新的系统里，&lt;strong&gt;一旦新需求发现，新工序就可快速建立&lt;/strong&gt;，车辆马上就可以和零件关联，零件是否需要消费者额外付费则一目了然，保修审查员在这个系统中自然失去了意义。&lt;/p&gt;
+
+&lt;h3 id="kpi"&gt;建立新的KPI体系&lt;/h3&gt;
+
+&lt;p&gt;重新思考角色后，还需重新设计KPI体系，以鼓励新的系统行为，例如在这个价值流上：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;销售顾问和维修技师应该共尽可能缩短新需求发现到工序设置的时间；  &lt;/li&gt;
+&lt;li&gt;修车技师还需保证工时能够准确地体现在报价上；  &lt;/li&gt;
+&lt;li&gt;零件管理员需保证零件能够准确地体现在报价上。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=""&gt;循环演进&lt;/h3&gt;
+
+&lt;p&gt;真实场景下，这三个过程都是变化的，系统整合不可能一次到位、则角色的变化融合不可能永远不变、KPI也需要不断演进，系统设计者应该在单件流、角色分配、KPI体系三者间反复循环演化。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2017/04/flow-role-kpi.png" alt="系统的政与治"&gt;&lt;/p&gt;
+
+&lt;p&gt;这个循环，也揭示了我们对复杂系统进行分析的思路：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;从核心概念的角度梳理出单件流；  &lt;/li&gt;
+&lt;li&gt;根据单件流的节点与流向，重新调整角色；  &lt;/li&gt;
+&lt;li&gt;根据角色的诉求和职责，重新调整KPI，反过来为演化单件流提供支持。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
+
+&lt;p&gt;关于复杂系统政治的思考来自于最近一次针对4S店售后服务的大规模服务设计项目。又一次回到了我最初的观点，服务设计绝对不是从消费者出发冰山一角的体验设计，而是超大复杂系统艰苦卓绝的分析与改造。&lt;/p&gt;
+
+&lt;p&gt;一个现有系统必然存在早已稳定的系统相关人，服务设计的领导者，需要理解系统的「政」——众人之事、巧妙地理而「治」之，是为系统的「政与治」。&lt;/p&gt;</content:encoded></item><item><title>从战略到绩效</title><description>&lt;p&gt;《战略十篇》的第九篇书稿，来自于Michael C.Mankins和Richard Steele ，原文刊于《哈佛商业评论》2005年8月刊（&lt;a href="https://hbr.org/2005/07/turning-great-strategy-into-great-performance"&gt;链接&lt;/a&gt;）。&lt;/p&gt;
 
 &lt;p&gt;战略、计划、执行、绩效是所有企业领导者从未停止的工作。而从结果来看，多达63%的公司未达到其战略规划所承诺的业务表现。战略与绩效的鸿沟往往让高层管理者不知所措，困惑终可归于那个经典的问题：&lt;/p&gt;
 
@@ -1585,112 +1783,4 @@
 
 &lt;p&gt;新秩序不可能通过管理者的振臂一挥就能实现，作为优秀的数字领导者，应该深入了解现有秩序中，部门对自己位置的认同和底线，以及现有资源。&lt;/p&gt;
 
-&lt;p&gt;前者是为了协调和保护、后者是为了进行必要时的弱化或整合，以保证因为定位和资源引起的部门墙，不成为组织数字变革的阻碍。&lt;/p&gt;</content:encoded></item><item><title>企业数字转型的复杂性</title><description>&lt;p&gt;传统企业数字转型趋势不可逆转，数字转型并非推出几款数字产品或服务那么简单，它所面临的复杂性，以及对传统企业架构的冲击可能是前所未有的，本文将对数字转型复杂度进行讨论。&lt;/p&gt;
-
-&lt;h2 id=""&gt;数字转型的脉络&lt;/h2&gt;
-
-&lt;p&gt;传统企业数字转型从外部来看通常遵循以下脉络：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/08/digital-components.png" alt=""&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字营销（Digital Marketing）&lt;/em&gt;：数字转型的初端，通常是市场部门的数字化尝试——将内容数字化、寻找数字营销公司进行数字化营销、制作更加适合数字传播的广告、视频、事件等；接下来则开始管理多个第三方数字渠道、开始利用邮件、搜索引擎、H5页面和社交网络进行营销活动，此时数字化依然还停留在数字化营销的范围，大部分的客户交互是单向，无法形成服务闭环；&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://file.digitaling.com/eImg/uimages/20160810/1470828398505478.jpg" alt=""&gt;
-（别克与天天果园推出的英朗节气葡萄礼盒H5页面）&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字渠道（Digital Channels）&lt;/em&gt;：接下来第三方渠道已经不能满足企业的需求，企业开始包装一些现有的价值给现有客户，例如搭建自己的App、电商渠道等，通过第三方数字渠道汇聚的流量被导入在各个数字产品中，这个阶段企业出现了大量的App、企业微信服务号，包括电商平台的出现；&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字服务（Digital Services）&lt;/em&gt;：接下来问题来了，一个数字渠道通常只能负责客户一个阶段的需求而无法完成一个端到端的服务，这时候企业开始思考如何将各个渠道打通，还包括线下的服务，完成一个整体的服务体验；&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字伙伴（Digital Partners）&lt;/em&gt;：我们的数字消费者在完成一个目的（Purpose）时出现了大量的选择，&lt;/p&gt;</description><link>http://localhost:2368/the-complexity-of-digital-transformation/</link><guid isPermaLink="false">df05e131-456f-42be-b898-c437186a1bb7</guid><category>数字转型</category><dc:creator>熊子川</dc:creator><pubDate>Sun, 14 Aug 2016 08:36:23 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/08/9f9b0faa4aee48929e9df9fe28c78d7f.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/08/9f9b0faa4aee48929e9df9fe28c78d7f.jpg" alt="企业数字转型的复杂性"&gt;&lt;p&gt;传统企业数字转型趋势不可逆转，数字转型并非推出几款数字产品或服务那么简单，它所面临的复杂性，以及对传统企业架构的冲击可能是前所未有的，本文将对数字转型复杂度进行讨论。&lt;/p&gt;
-
-&lt;h2 id=""&gt;数字转型的脉络&lt;/h2&gt;
-
-&lt;p&gt;传统企业数字转型从外部来看通常遵循以下脉络：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/08/digital-components.png" alt="企业数字转型的复杂性"&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字营销（Digital Marketing）&lt;/em&gt;：数字转型的初端，通常是市场部门的数字化尝试——将内容数字化、寻找数字营销公司进行数字化营销、制作更加适合数字传播的广告、视频、事件等；接下来则开始管理多个第三方数字渠道、开始利用邮件、搜索引擎、H5页面和社交网络进行营销活动，此时数字化依然还停留在数字化营销的范围，大部分的客户交互是单向，无法形成服务闭环；&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://file.digitaling.com/eImg/uimages/20160810/1470828398505478.jpg" alt="企业数字转型的复杂性"&gt;
-（别克与天天果园推出的英朗节气葡萄礼盒H5页面）&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字渠道（Digital Channels）&lt;/em&gt;：接下来第三方渠道已经不能满足企业的需求，企业开始包装一些现有的价值给现有客户，例如搭建自己的App、电商渠道等，通过第三方数字渠道汇聚的流量被导入在各个数字产品中，这个阶段企业出现了大量的App、企业微信服务号，包括电商平台的出现；&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字服务（Digital Services）&lt;/em&gt;：接下来问题来了，一个数字渠道通常只能负责客户一个阶段的需求而无法完成一个端到端的服务，这时候企业开始思考如何将各个渠道打通，还包括线下的服务，完成一个整体的服务体验；&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;数字伙伴（Digital Partners）&lt;/em&gt;：我们的数字消费者在完成一个目的（Purpose）时出现了大量的选择，例如上网买东西，可以选择线上购买店内取货、也可以线上预定店内购买店内取货、还可以线上预定两小时到货，最后这个选择就需要现有数字生态的其他服务合作伙伴完成，例如星巴克在西雅图与第三方On-demand快递服务商Postmate合作推出即时的
-&lt;a href="https://techcrunch.com/2015/12/02/starbucks-launches-a-delivery-service-in-partnership-with-postmates/"&gt;咖啡配送服务&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/08/postmates_delivery_9.jpg" alt="企业数字转型的复杂性"&gt;&lt;/p&gt;
-
-&lt;h2 id=""&gt;各部门的数字冲突&lt;/h2&gt;
-
-&lt;p&gt;传统企业通常按照市场、产品、研发、销售、售后、和战略划分组织结构，数字在一开始很少成立独立的业务群（Business Division），这时候最常见的情况是各个部门都开始拓展自己的数字领地（Digital Territory）。&lt;/p&gt;
-
-&lt;p&gt;最常见的是市场部门从数据内容到数字渠道、甚至到数字产品的染指，这个过程被称之为数字营销（Digital Marketing）如下图所示：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/08/marketing-digital-territory-2.png" alt="企业数字转型的复杂性"&gt;&lt;/p&gt;
-
-&lt;p&gt;市场部门从最初的只转化内容到数字形式、到管理各个现有的数字渠道、到开始自建一些「拥有独立客户价值」的数字产品（例如用于产品展示的应用）作为独立的数字渠道，数字领地被大大的扩充。&lt;/p&gt;
-
-&lt;p&gt;进入数字渠道的领域时，必然与现有数字渠道产生冲突，重复制造不符合统一数字体验的小型营销型产品层出不穷。&lt;/p&gt;
-
-&lt;p&gt;再看另一个数字领地的扩充。通常企业里第一个真正具备产品特性的数字产品，通常是电商平台——独立实现一个端到端的客户价值。如果我们看大部分企业的电商规划，都有以下特点：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;都想建立自己的数字营销策略（独立的数字内容和渠道）；  &lt;/li&gt;
-&lt;li&gt;都想向下拓展到售后服务的无缝连接；  &lt;/li&gt;
-&lt;li&gt;甚至拓展到更广阔的数字合作伙伴（例如支付平台、第三方平台引流、第三方线下服务商等）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从这个角度，产品部门的数字领地尝试向上和下同时扩张，如下图所示：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/08/product-digital-territory-1.png" alt="企业数字转型的复杂性"&gt;&lt;/p&gt;
-
-&lt;p&gt;电商部门的领导开始抱怨自己的市场团队没办法快速响应，线下营销无法和线上整合，各种营销活动并不向自己的渠道引流；另一方面，又开始抱怨下游客户服务无法和自己对接，无法形成端到端服务。这就是我们常常说的线上下的「左右互博」。&lt;/p&gt;
-
-&lt;p&gt;服务部门也同样思考数字化的问题，电信互联网产品没有售后的概念，所有服务都在统一一个渠道中完成，服务部门希望将自己售后服务数字化就免不了需要向上对接数字渠道中的用户体验，但同时电子渠道上客户对服务即时性要求极高，现有服务团队无法对接，只好独立开来，而独立的结果又带来一致性体验的问题。值得一提的是，企业大部分一致性问题都来自，在传统企业结构下，各个部门间数字化程度的不一致，以及没有组织级别数字战略进行协调而产生的冲突与重复规划。&lt;/p&gt;
-
-&lt;p&gt;从我们深入企业的情况来看，这些冲突显得特别明显，总体来说表现在以下四个方面：&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;数字成熟度较高的电商渠道尝试整合上游数字营销、下有售后服务（目前电商的远期规划已到达售后部分）；  &lt;/li&gt;
-&lt;li&gt;数字复杂度较低的市场部门尝试制造更多具有渠道性质的数字产品（例如多款让客户进行自定义的类似产品）；  &lt;/li&gt;
-&lt;li&gt;数字成熟度低且难度较高的售后服务部门尝试向上整合，推出只针对售后阶段的数字化服务渠道（例如推出一款针对某特定需求的售后服务）；  &lt;/li&gt;
-&lt;li&gt;战略部门尝试采用跨越式的方式建立更广阔的数字生态（例如讨论在更多生活方式上的拓展和数字化尝试）。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=""&gt;思考企业数字转型服务&lt;/h2&gt;
-
-&lt;p&gt;在所有这些复杂度背后，是错综复杂的人事关系、组织形式、流程指标、文化和能力，同时也拥有极高的不确定性，除了来自外部市场的不确定，更来自组织内部的变化，我们所面对的是一个复杂的社会问题，而不是一个工程问题。&lt;/p&gt;
-
-&lt;p&gt;在我过去的实践里，我完成过复杂度低的、不确定性低的事情，例如一个内部小工具、小系统的规划和搭建，它本身独立于企业内部系统、范围和需求相对稳定；&lt;/p&gt;
-
-&lt;p&gt;也有复杂度低、不确定性高的事情，例如一个创新型的产品，需求极为不确定，却并不需要考虑对现有系统的依赖；&lt;/p&gt;
-
-&lt;p&gt;还有复杂度高、不确定性低的事情，例如一个大型企业的官网改造，需求不会超出我们的预期太多，也容易控制，但对于内部系统的依赖极高，协调内部需求的难度大，项目复杂度高；&lt;/p&gt;
-
-&lt;p&gt;而我们今天对于数字转型所遇到的，是一个极高复杂度和极高不确定性的任务。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/08/complexity-uncertainty.png" alt="企业数字转型的复杂性"&gt;&lt;/p&gt;
-
-&lt;p&gt;如果我们把一些我们的服务放在这个矩阵当中，我们可以看到这样一个&lt;/p&gt;
-
-&lt;p&gt;精益思想似乎突然成为了企业数字转型的选择，但无论是精益企业（Lean Enterprise）、精益PMO、设计思维无不解决的是「为什么做？」、「为什么不做？」、「做什么？」、「怎么做？」的问题，这些通常是解决不确定性的问题，而无关于企业数字转型真正的复杂度。&lt;/p&gt;
-
-&lt;p&gt;不确定性（Uncertainty）和复杂度（Complexity）有着截然不同的区别，前者往往是基于观点（An opinion）的——因为对事实了解的缺少而形成，后者往往基于事实（A fact）的——由系统中的元素、关系、过程、人、发展方向决定。&lt;/p&gt;
-
-&lt;p&gt;以精益思想为基础的众多实践都是在倾向于解决不确定性，例如验证性学习（Validated Learning），但对于整个系统的复杂度影响较小，后者可能永远都不可能降低，也不以人的主观意识为转移。&lt;/p&gt;
-
-&lt;p&gt;这解释了早期产品验证活动（如Inception）为什么对于方法论、自信的引导人要求更高，是因为引导性的方法事实上影响力人们对于不确定性的判断——深处森林中的人需要一张地图，无论地图到底是对是错。&lt;/p&gt;
-
-&lt;p&gt;这也解释了尝试用「价值驱动」来简化讨论对于降低系统复杂度没有意义，它只能用一种「认知」的方式让大家降低不确定性，换言之，尝试建立统一的价值体系解决企业数字转型的复杂度，是徒劳的。&lt;/p&gt;
-
-&lt;h2 id=""&gt;写在最后&lt;/h2&gt;
-
-&lt;p&gt;在深入企业进行咨询的过程中我经常会被问到：「这样会不会让事情变得更复杂？」我的回答是：「对抗高复杂度的方式可能是高复杂度本身。」也许理想中的「化繁为简」是我们的臆想，也许就不存在一个简单的方案解决一个复杂问题。&lt;/p&gt;
-
-&lt;p&gt;我曾深入一个个没那么复杂的系统里帮助客户解决大量不确定性的问题，例如创业公司寻找产品方向、传统公司设计一个互联网产品、一个产品如何实习服务整合。这些工作的核心在于不确定性，而本身并不是一个复杂系统。&lt;/p&gt;
-
-&lt;p&gt;但深入到一个有百年历史的超大组织，尝试转变整个组织朝向数字化方向进行转型，我们所面对则是一个超大规模的复杂系统，我们传统的思想、框架、方法论也许都需要改变，无论如何，理解这个复杂系统、尊重这个复杂系统、和它共生、不期待用一个简单化的方法解决，是尝试的第一步。&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;前者是为了协调和保护、后者是为了进行必要时的弱化或整合，以保证因为定位和资源引起的部门墙，不成为组织数字变革的阻碍。&lt;/p&gt;</content:encoded></item></channel></rss>
