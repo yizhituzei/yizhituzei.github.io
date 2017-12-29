@@ -1,41 +1,42 @@
-
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <title>十二 反馈的风险</title>
-    <meta name="description" content="">
+    <meta name="description" content="" />
 
-    <meta name="HandheldFriendly" content="True">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <link rel="shortcut icon" href="../favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=40744ee2f0">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=363d89855d" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
-    <link rel="canonical" href="index.html">
-    <meta name="referrer" content="origin">
+    <link rel="canonical" href="index.html" />
+    <meta name="referrer" content="origin" />
     
-    <meta property="og:site_name" content="一只土贼">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="十二 反馈的风险">
-    <meta property="og:description" content="很矛盾，鼓励反馈也能产生风险 之前谈到反馈，其实反馈也是项目风险来源之一，和技术风险一起需要项目管理人员及时发现和管理。假设我们已经通过合理的迭代计划（上篇日记记述）找到了鼓励有效反馈和发现记述风险的平衡，而技术风险可以由计划常规的技术风险规避工作量以及Tech Lead配置,对于反馈产生的风险我们如何控制？ 用最简单的话说，软件开发最核心三个不同层次的要求是：做可用的软件，做对的可用软件，做对的好用的可用软件。然后考虑任何软件开发必然是一种商业投资，对于每个层次客户都在计算投入产出比： 质量控制：有多少缺陷，有多少性能问题，有多少架构问题； 需求验收：有多少不是需求所要求的，有多少不满足需求； 可用性测试：软件学习时间有多长，有多少误操作的情况，有多少可用性缺陷等等。 可以想想，在每个层次上，当客户发现一个问题，都会记录在某处，每一个问题有些是有效的改进反馈，有些则可能成为潜在的风险。而这些可能存在的潜在风险若聚合在一起又不加控制，最后积少成多累计为对项目延期甚至取消的巨大风险。 与传统瀑布式软件开发项目不同的是，敏捷开发对于过程的完全透明化，对于细节的明晰化，以及阶段性对交付物的展示，这使得客户在软件过程中发现的问题远多于瀑布式开发。这也是为什么瀑布式开发必须在进入开发前经历一个冗长的设计和文档准备期——客户需要把因为开发过程不透明而潜在风险确定在开发阶段之前。 我们放弃了整体设计和复杂文档，选择把开发过程公开以及和业务人员一起参与，我们就要接受在这个过程中激增的客户反馈（没有文档和流程验收，客户很难有安全感）而产生的之于我们的各种风险。">
-    <meta property="og:url" content="http://localhost:2368/the-risk-of-feedback/">
-    <meta property="og:image" content="http://localhost:2368/content/images/2015/04/1280-company-shit-lists-3-thing.jpg">
-    <meta property="article:published_time" content="2010-07-15T22:57:00.000Z">
-    <meta property="article:modified_time" content="2015-04-16T00:10:08.171Z">
-    <meta property="article:tag" content="敏捷咨询日记">
+    <meta property="og:site_name" content="一只土贼" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="十二 反馈的风险" />
+    <meta property="og:description" content="很矛盾，鼓励反馈也能产生风险 之前谈到反馈，其实反馈也是项目风险来源之一，和技术风险一起需要项目管理人员及时发现和管理。假设我们已经通过合理的迭代计划（上篇日记记述）找到了鼓励有效反馈和发现记述风险的平衡，而技术风险可以由计划常规的技术风险规避工作量以及Tech Lead配置,对于反馈产生的风险我们如何控制？ 用最简单的话说，软件开发最核心三个不同层次的要求是：做可用的软件，做对的可用软件，做对的好用的可用软件。然后考虑任何软件开发必然是一种商业投资，对于每个层次客户都在计算投入产出比： 质量控制：有多少缺陷，有多少性能问题，有多少架构问题； 需求验收：有多少不是需求所要求的，有多少不满足需求； 可用性测试：软件学习时间有多长，有多少误操作的情况，有多少可用性缺陷等等。 可以想想，在每个层次上，当客户发现一个问题，都会记录在某处，每一个问题有些是有效的改进反馈，有些则可能成为潜在的风险。而这些可能存在的潜在风险若聚合在一起又不加控制，最后积少成多累计为对项目延期甚至取消的巨大风险。 与传统瀑布式软件开发项目不同的是，敏捷开发对于过程的完全透明化，对于细节的明晰化，以及阶段性对交付物的展示，这使得客户在软件过程中发现的问题远多于瀑布式开发。这也是为什么瀑布式开发必须在进入开发前经历一个冗长的设计和文档准备期——客户需要把因为开发过程不透明而潜在风险确定在开发阶段之前。 我们放弃了整体设计和复杂文档，选择把开发过程公开以及和业务人员一起参与，我们就要接受在这个过程中激增的客户反馈（没有文档和流程验收，客户很难有安全感）而产生的之于我们的各种风险。" />
+    <meta property="og:url" content="http://localhost:2368/the-risk-of-feedback/" />
+    <meta property="og:image" content="http://localhost:2368/content/images/2015/04/1280-company-shit-lists-3-thing.jpg" />
+    <meta property="article:published_time" content="2010-07-15T22:57:00.000Z" />
+    <meta property="article:modified_time" content="2015-04-16T00:10:08.171Z" />
+    <meta property="article:tag" content="敏捷咨询日记" />
     
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="十二 反馈的风险">
-    <meta name="twitter:description" content="很矛盾，鼓励反馈也能产生风险 之前谈到反馈，其实反馈也是项目风险来源之一，和技术风险一起需要项目管理人员及时发现和管理。假设我们已经通过合理的迭代计划（上篇日记记述）找到了鼓励有效反馈和发现记述风险的平衡，而技术风险可以由计划常规的技术风险规避工作量以及Tech Lead配置,对于反馈产生的风险我们如何控制？ 用最简单的话说，软件开发最核心三个不同层次的要求是：做可用的软件，做对的可用软件，做对的好用的可用软件。然后考虑任何软件开发必然是一种商业投资，对于每个层次客户都在计算投入产出比： 质量控制：有多少缺陷，有多少性能问题，有多少架构问题； 需求验收：有多少不是需求所要求的，有多少不满足需求； 可用性测试：软件学习时间有多长，有多少误操作的情况，有多少可用性缺陷等等。 可以想想，在每个层次上，当客户发现一个问题，都会记录在某处，每一个问题有些是有效的改进反馈，有些则可能成为潜在的风险。而这些可能存在的潜在风险若聚合在一起又不加控制，最后积少成多累计为对项目延期甚至取消的巨大风险。 与传统瀑布式软件开发项目不同的是，敏捷开发对于过程的完全透明化，对于细节的明晰化，以及阶段性对交付物的展示，这使得客户在软件过程中发现的问题远多于瀑布式开发。这也是为什么瀑布式开发必须在进入开发前经历一个冗长的设计和文档准备期——客户需要把因为开发过程不透明而潜在风险确定在开发阶段之前。 我们放弃了整体设计和复杂文档，选择把开发过程公开以及和业务人员一起参与，我们就要接受在这个过程中激增的客户反馈（没有文档和流程验收，客户很难有安全感）而产生的之于我们的各种风险。">
-    <meta name="twitter:url" content="http://localhost:2368/the-risk-of-feedback/">
-    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2015/04/1280-company-shit-lists-3-thing.jpg">
-    <meta name="twitter:label1" content="Written by">
-    <meta name="twitter:data1" content="熊子川">
-    <meta name="twitter:label2" content="Filed under">
-    <meta name="twitter:data2" content="敏捷咨询日记">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="十二 反馈的风险" />
+    <meta name="twitter:description" content="很矛盾，鼓励反馈也能产生风险 之前谈到反馈，其实反馈也是项目风险来源之一，和技术风险一起需要项目管理人员及时发现和管理。假设我们已经通过合理的迭代计划（上篇日记记述）找到了鼓励有效反馈和发现记述风险的平衡，而技术风险可以由计划常规的技术风险规避工作量以及Tech Lead配置,对于反馈产生的风险我们如何控制？ 用最简单的话说，软件开发最核心三个不同层次的要求是：做可用的软件，做对的可用软件，做对的好用的可用软件。然后考虑任何软件开发必然是一种商业投资，对于每个层次客户都在计算投入产出比： 质量控制：有多少缺陷，有多少性能问题，有多少架构问题； 需求验收：有多少不是需求所要求的，有多少不满足需求； 可用性测试：软件学习时间有多长，有多少误操作的情况，有多少可用性缺陷等等。 可以想想，在每个层次上，当客户发现一个问题，都会记录在某处，每一个问题有些是有效的改进反馈，有些则可能成为潜在的风险。而这些可能存在的潜在风险若聚合在一起又不加控制，最后积少成多累计为对项目延期甚至取消的巨大风险。 与传统瀑布式软件开发项目不同的是，敏捷开发对于过程的完全透明化，对于细节的明晰化，以及阶段性对交付物的展示，这使得客户在软件过程中发现的问题远多于瀑布式开发。这也是为什么瀑布式开发必须在进入开发前经历一个冗长的设计和文档准备期——客户需要把因为开发过程不透明而潜在风险确定在开发阶段之前。 我们放弃了整体设计和复杂文档，选择把开发过程公开以及和业务人员一起参与，我们就要接受在这个过程中激增的客户反馈（没有文档和流程验收，客户很难有安全感）而产生的之于我们的各种风险。" />
+    <meta name="twitter:url" content="http://localhost:2368/the-risk-of-feedback/" />
+    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2015/04/1280-company-shit-lists-3-thing.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="熊子川" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="敏捷咨询日记" />
     
     <script type="application/ld+json">
 {
@@ -63,8 +64,8 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.8">
-    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html">
+    <meta name="generator" content="Ghost 0.8" />
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html" />
 </head>
 <body class="post-template tag-min-jie-zi-xun-ri-ji nav-closed">
 
@@ -74,19 +75,19 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-            <li class="nav-" role="presentation"><a href="../">首页</a></li>
-            <li class="nav-" role="presentation"><a href="../about-me/">关于我</a></li>
-            <li class="nav-english-article" role="presentation"><a href="../tag/english/">English Article</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/">和我工作</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/she-ji/">设计</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/shang-ye/">商业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/yi-meng/">异梦</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/">职业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/whatever/">文骚</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
-            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
+            <li class="nav-" role="presentation"><a href="../index.html">首页</a></li>
+            <li class="nav-" role="presentation"><a href="../about-me/index.html">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="../tag/english/index.html">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/index.html">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/she-ji/index.html">设计</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/shang-ye/index.html">商业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/yi-meng/index.html">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/index.html">职业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/whatever/index.html">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/index.html">PPT设计</a></li>
     </ul>
-        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="../rss/index.html">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
 
@@ -98,7 +99,7 @@
 
 <header class="main-header post-head " style="background-image: url(../content/images/2015/04/1280-company-shit-lists-3-thing.jpg)">
     <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="../"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
+        <a class="blog-logo" href="../index.html"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼" /></a>
             <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -109,7 +110,7 @@
         <header class="post-header">
             <h1 class="post-title">十二 反馈的风险</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="2010-07-16">16 July 2010</time>  on <a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a>
+                <time class="post-date" datetime="2010-07-15">15 July 2010</time>  on <a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a>
             </section>
         </header>
 
@@ -164,13 +165,13 @@
 
 
             <figure class="author-image">
-                <a class="img" href="../author/zichuan/" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+                <a class="img" href="../author/zichuan/index.html" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
             </figure>
 
             <section class="author">
-                <h4><a href="../author/zichuan/">熊子川</a></h4>
+                <h4><a href="../author/zichuan/index.html">熊子川</a></h4>
 
-                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
+                    <p>Read <a href="../author/zichuan/index.html">more posts</a> by this author.</p>
                 <div class="author-meta">
                     <span class="author-location icon-location">San Francisco</span>
                     
@@ -180,13 +181,16 @@
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E5%8D%81%E4%BA%8C%20%E5%8F%8D%E9%A6%88%E7%9A%84%E9%A3%8E%E9%99%A9&amp;url=http://localhost:2368/the-risk-of-feedback/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E5%8D%81%E4%BA%8C%20%E5%8F%8D%E9%A6%88%E7%9A%84%E9%A3%8E%E9%99%A9&amp;url=http://localhost:2368/the-risk-of-feedback/"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/the-risk-of-feedback/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/the-risk-of-feedback/"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/the-risk-of-feedback/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/the-risk-of-feedback/"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>
             </section>
@@ -198,16 +202,16 @@
 </main>
 
 <aside class="read-next">
-    <a class="read-next-story " style="background-image: url(../content/images/2015/04/IMG_0522.png)" href="../agile-agreement/">
+    <a class="read-next-story " style="background-image: url(../content/images/2015/04/IMG_0522.png)" href="../agile-agreement/index.html">
         <section class="post">
             <h2>十三 敏捷转型的约定</h2>
-            <p>搞敏捷，你我要有个约定，请不要忽悠我。 我可以理解为了让敏捷推广的难度降低，我们把敏捷实践暂时从编码开始。但请一定明确，在需求的迭代中若没有需求分析的阶段，之后做的所有敏捷实践都是未得本质的活动，我们的最终目标是要从需求分析开始进行敏捷实践，因为需求分析才是敏捷的开始。 敏捷最大的优势，也是可直接体察的价值—通过持续集成和自动化测试，最大限度地得到一个趋向于无缺陷的软件，但往往被忽略的是，这个倾向于无缺陷软件的前提是它必然是一个被期待的软件。如果不，那么所有我们为质量做出的努力都是在用一件绝对正确的事情验证一件绝对错误的事情。 现实并不能让人满意，…</p>
+            <p>搞敏捷，你我要有个约定，请不要忽悠我。 我可以理解为了让敏捷推广的难度降低，我们把敏捷实践暂时从编码开始。但请一定明确，在需求的迭代中若没有需求分析的阶段，之后做的所有敏捷实践都是未得本质的活动，我们的最终目标是要从需求分析开始进行敏捷实践，因为需求分析才是敏捷的开始。 敏捷最大的优势，也是可直接体察的价值—通过持续集成和自动化测试，最大限度地得到一个趋向于无缺陷的软件，但往往被忽略的是，这个倾向于无缺陷软件的前提是它必然是一个被期待的软件。如果不，那么所有我们为质量做出的努力都是在用一件绝对正确的事情验证一件绝对错误的事情。 现实并不能让人满意，&hellip;</p>
         </section>
     </a>
-    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/IMG_0526.png)" href="../iteration-plan/">
+    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/IMG_0526.png)" href="../iteration-plan/index.html">
         <section class="post">
             <h2>十一 设计迭代计划</h2>
-            <p>用户故事（User Story）没有真正业务价值！” （熊节对本文亦有特殊贡献） 理论告诉我们：应该从高业务价值Story开始进行迭代，这样我们就有更多的时间对高业务价值的Story发现问题并修复。这句话的后半段是告诉我们为什么要这么做，而后半段成立的前提是，我们假设先做一定可以先发现问题。 根据这个理论我们按照Risk-Value的方式把 Story分散在这个二维区间里面，把最靠近于High Risk和High Value的区域作为优先选择放入第一迭代。但是问题是，我们也许可以很容易分辨一个Story的技术风险，但当每个Story独立存在的时候，…</p>
+            <p>用户故事（User Story）没有真正业务价值！” （熊节对本文亦有特殊贡献） 理论告诉我们：应该从高业务价值Story开始进行迭代，这样我们就有更多的时间对高业务价值的Story发现问题并修复。这句话的后半段是告诉我们为什么要这么做，而后半段成立的前提是，我们假设先做一定可以先发现问题。 根据这个理论我们按照Risk-Value的方式把 Story分散在这个二维区间里面，把最靠近于High Risk和High Value的区域作为优先选择放入第一迭代。但是问题是，我们也许可以很容易分辨一个Story的技术风险，但当每个Story独立存在的时候，&hellip;</p>
         </section>
     </a>
 </aside>
@@ -215,7 +219,7 @@
 
 
         <footer class="site-footer clearfix">
-            <section class="copyright"><a href="../">一只土贼</a> © 2017</section>
+            <section class="copyright"><a href="../index.html">一只土贼</a> &copy; 2017</section>
             <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
         </footer>
 
@@ -234,7 +238,8 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=40744ee2f0"></script>
-    <script type="text/javascript" src="../assets/js/index.js?v=40744ee2f0"></script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=363d89855d"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=363d89855d"></script>
 
 </body>
+</html>
