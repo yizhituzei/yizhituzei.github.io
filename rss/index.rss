@@ -1,4 +1,349 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sat, 30 Dec 2017 00:43:57 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[运动型治理机制]]></title><description><![CDATA[<p><em>第三篇覆盖周雪光所著《<a href="https://book.douban.com/subject/26901114/">中国国家治理的制度逻辑——一个组织学研究（The Institutional Logic of Governance in China - An Organizational Approach）</a>》中第四章《中国政府的治理模式:一个“控制权”理论》的内容，该篇论文的PDF可在<a href="http://web.stanford.edu/~xgzhou/zhou_12_campaign_CH.pdf">这里</a>找到。</em></p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Sun, 28 Jan 2018 22:16:01 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[复杂客户体验的战略成长框架]]></title><description><![CDATA[<p><em>本文基于厄瓜多尔最大商超品牌客户体验规划项目实践完成。</em></p>
+
+<p>客户画像与客户体验地图通常是客户体验规划的常用设计实践，但在真实规划项目中我们发现，对于某些复杂的客户体验上下文，如大型场超、综合体、零售百货等企业，客户画像多样、客户交互路径多变，应对这样的企业，我们应该采用全新的设计思路，构建复杂客户体验战略。</p>
+
+<h2 id="">传统逻辑</h2>
+
+<p>让我们回到传统客户体验设计的核心思路，其要素点为：</p>
+
+<ol>
+<li>建立上下文；  </li>
+<li>识别客户并建立客户画像；  </li>
+<li>甄选核心客户画像；  </li>
+<li>甄选核心客户的客户目标；  </li>
+<li>为核心客户目标建立客户体验地图；  </li>
+<li>识别痛点或机会并排列优先级；  </li>
+<li>选高优先级的痛点或机会进入设计迭代；  </li>
+<li>不断回溯前面步骤，直到所有核心客户画像覆盖完毕。</li>
+</ol>
+
+<p>在这个思路下，设计改进改善了核心客户画像的多条体验流程，最终从整体上提升客户体验质量。</p>
+
+<h2 id="">复杂场景的挑战</h2>
+
+<p>以上逻辑，对于某些有明确客户目标的企业或组织适用，例如银行、酒店、政府机构、学校，但对于诸如大型场超、综合体、零售百货等企业却有着明显的局限性，这些局限性体现在：</p>
+
+<ol>
+<li>客户画像众多，且难以取舍；  </li>
+<li>客户的目标分散，且难以定义；  </li>
+<li>客户的行为模式多变且复杂；  </li>
+<li>强调沉浸式体验和触点体验胜于体验流程。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/attvswholefood.png" alt="">
+<em>电信运营商AT&amp;RT和商超品牌Whole Food服务场景的区别</em></p>
+
+<p>这些局限性决定了在设计和规划复杂客户体验时，需要一种全新的思路，</p>]]></description><link>http://localhost:2368/a-new-cx-strategic-planning-framework/</link><guid isPermaLink="false">35e0d854-9a9b-40f8-850c-ba4e658d621a</guid><category><![CDATA[战略]]></category><category><![CDATA[产品战略]]></category><category><![CDATA[服务设计]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Sun, 28 Jan 2018 22:14:32 GMT</pubDate><media:content url="http://localhost:2368/content/images/2018/01/3039608-poster-p-1-most-innovative-companies-2015-westfield-labs.jpg" medium="image"/><content:encoded><![CDATA[<img src="http://localhost:2368/content/images/2018/01/3039608-poster-p-1-most-innovative-companies-2015-westfield-labs.jpg" alt="复杂客户体验的战略成长框架"><p><em>本文基于厄瓜多尔最大商超品牌客户体验规划项目实践完成。</em></p>
+
+<p>客户画像与客户体验地图通常是客户体验规划的常用设计实践，但在真实规划项目中我们发现，对于某些复杂的客户体验上下文，如大型场超、综合体、零售百货等企业，客户画像多样、客户交互路径多变，应对这样的企业，我们应该采用全新的设计思路，构建复杂客户体验战略。</p>
+
+<h2 id="">传统逻辑</h2>
+
+<p>让我们回到传统客户体验设计的核心思路，其要素点为：</p>
+
+<ol>
+<li>建立上下文；  </li>
+<li>识别客户并建立客户画像；  </li>
+<li>甄选核心客户画像；  </li>
+<li>甄选核心客户的客户目标；  </li>
+<li>为核心客户目标建立客户体验地图；  </li>
+<li>识别痛点或机会并排列优先级；  </li>
+<li>选高优先级的痛点或机会进入设计迭代；  </li>
+<li>不断回溯前面步骤，直到所有核心客户画像覆盖完毕。</li>
+</ol>
+
+<p>在这个思路下，设计改进改善了核心客户画像的多条体验流程，最终从整体上提升客户体验质量。</p>
+
+<h2 id="">复杂场景的挑战</h2>
+
+<p>以上逻辑，对于某些有明确客户目标的企业或组织适用，例如银行、酒店、政府机构、学校，但对于诸如大型场超、综合体、零售百货等企业却有着明显的局限性，这些局限性体现在：</p>
+
+<ol>
+<li>客户画像众多，且难以取舍；  </li>
+<li>客户的目标分散，且难以定义；  </li>
+<li>客户的行为模式多变且复杂；  </li>
+<li>强调沉浸式体验和触点体验胜于体验流程。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/attvswholefood.png" alt="复杂客户体验的战略成长框架">
+<em>电信运营商AT&amp;RT和商超品牌Whole Food服务场景的区别</em></p>
+
+<p>这些局限性决定了在设计和规划复杂客户体验时，需要一种全新的思路，强调多触点创新，而非线性的过程逻辑；强调所有顾客受益，而非唯一客户；强调持续性的体验提升，而非固定流程。</p>
+
+<h2 id="">一个适应复杂客户体验场景的战略规划框架</h2>
+
+<p>在这里，根据项目实际经验，我提出一个有效的复杂客户体验规划方式。</p>
+
+<h3 id="">明确商业战略</h3>
+
+<p>客户体验战略应与商业战略保持一致，这里的商业战略包含两个要素：</p>
+
+<ol>
+<li>核心的客户价值愿景——我们希望我们的客户成为什么？  </li>
+<li>核心的价值定位——我们可以提供什么让客户的愿景实现？</li>
+</ol>
+
+<p>在我们的实际例子中，这两个问题的答案是：</p>
+
+<ol>
+<li>让厄瓜多人人民用更低的成本，享受更优质的生活；  </li>
+<li>用我们完善的供应链、最优质的产品选择、高效和标准化的服务、便利的地点、具有竞争力的价格完成这个愿景。</li>
+</ol>
+
+<h3 id="">了解客户的价值分布</h3>
+
+<p>接下来，我们需要了解客户对于整个商业价值的贡献度，一个简单的模型是「单笔消费金额」对「每周光顾次数」，从近20个客户画像中，我们最终选取了三种类型的顾客作为企业最核心的利润贡献者，他们是：</p>
+
+<ol>
+<li>进行家庭集体购物的顾客；  </li>
+<li>为家庭采购的职场妈妈；  </li>
+<li>富裕阶层的女性顾客。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/personas.png" alt="复杂客户体验的战略成长框架"></p>
+
+<p>这些核心客户群总共为企业贡献将近75%的利润，要么每周光顾超过三次，要么每次购买超过200美元。从调查中我们也发现，这些顾客有着极强的品牌忠诚度，也有相对稳定的购物习惯，同时也是各种创新的早期使用者。</p>
+
+<h3 id="">选择最佳价值代言人</h3>
+
+<p>我们将这些核心高价值客户与企业的核心价值定位进行关联，找到谁可以作为这些核心价值定位的代言人。通过一系列的客户研究和调查我们发现：</p>
+
+<ul>
+<li>家庭集体购物者关心家庭每月的支出，对折扣和价格优先关注；</li>
+<li>为家庭采购的职场妈妈日程紧张，于是对便利性颇感兴趣；</li>
+<li>富裕阶层的女性顾客有充分的时间也资金充沛，则对产品价值、店内体验更加重视。</li>
+</ul>
+
+<p>这样，我们就为企业建立了一个核心的客户价值区间，三大价值由三大价值代言人代表。</p>
+
+<p><img src="http://localhost:2368/content/images/2018/01/value-zone.png" alt="复杂客户体验的战略成长框架"></p>
+
+<p>同时其他客户类型（次客户）则分布在这个区间内，例如我们发现有大量的老年夫妇在固定时间内光顾，因时间充沛，其行为更倾向于家庭购买者和富裕阶层女性之间。</p>
+
+<h3 id="">识别核心客户体验能力</h3>
+
+<p>在核心客户价值区间里，我们需要识别那些可共享的基础客户体验能力（Shared Capabilities），这些能力帮助企业交付最核心客户价值。它们有着以下特点：</p>
+
+<ol>
+<li>倾向于某核心客户价值，如产品展示倾向于产品价值和店内体验、结账则倾向于便利性；  </li>
+<li>能力可以被多个客户画像共享；  </li>
+<li>各种能力之间可能相互关联，例如产品展示、折扣、结账、积分可能共同作用，完成一个完整的客户体验；  </li>
+<li>创新则是对核心客户体验能力的包装。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/shared-capabilities-1.png" alt="复杂客户体验的战略成长框架"></p>
+
+<h3 id="">提升客户体验能力</h3>
+
+<p>三个地平线的成长模型（<a href="https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/enduring-ideas-the-three-horizons-of-growth">Three Horizons</a>）同样适应客户体验的成长，首当其冲的则是受益于所有顾客的核心体验能力，其提升在于以下几个方面：</p>
+
+<ol>
+<li>单点能力的提升，例如结账处的等待时间；价格显示的准确性；产品推荐的有效性等；  </li>
+<li>互相之间可整合的能力，例如产品展示、推荐、折扣、支付等的有机整合；  </li>
+<li>针对单类顾客的可定制性。</li>
+</ol>
+
+<p>这些能力保护着客户的核心价值，是体验改进的核心基础。</p>
+
+<p><img src="http://localhost:2368/content/images/2018/01/h1.png" alt="复杂客户体验的战略成长框架"></p>
+
+<h3 id="">规划极致体验</h3>
+
+<p>接下来，我们将关注核心高价值客户的极致体验，其目的在于：</p>
+
+<ol>
+<li>进一步挖掘和提升核心高价值客户的购买能力；  </li>
+<li>吸引其他客户群在某些情况转化为核心高价值客户的购买行为；  </li>
+<li>从其他竞争对手处吸引更多核心高价值客户。</li>
+</ol>
+
+<p>例如，我们为家庭集体购买的顾客提供了具有针对性的「孩童体验」，通过一系列的手段打造厄瓜多尔最优秀的家庭集体购买体验。</p>
+
+<p><img src="http://localhost:2368/content/images/2018/01/h2.png" alt="复杂客户体验的战略成长框架"></p>
+
+<h3 id="">投资新商业模式</h3>
+
+<p>客户体验依然是商业的一部分，我们需要对未来进行投资，这便是第三条地平线——商业模式创新。</p>
+
+<p>核心高价值客户对创新通常具有更高的接受度，也有更高意愿参与到企业的创新过程中，于是，我们将商业模式创新的重点放在他们身上。</p>
+
+<p>例如，在调研中我们发现，由于厄瓜多尔缺少完整的工业体系，许多生活用品都有赖进口，这就形成了一些高价值、优品牌「舶来品」的稀缺性，许多富裕阶层的女性，热衷在自己的社交网络上转卖一些热销的商品，这也是她们购买力惊人的原因之一（每周每单超过200美元）。</p>
+
+<p>南美国家缺少优质商品、完善的流通体系，这使得地下商品流通盛行，针对这一洞察，我们可以建立一个全新的商业模式，帮助这些购买者更好地转卖商品。</p>
+
+<p><img src="http://localhost:2368/content/images/2018/01/h3.png" alt="复杂客户体验的战略成长框架"></p>
+
+<h3 id="">制定指导原则</h3>
+
+<p>三个客户体验成长地平线的建立，还需要指导原则（Guiding Principles）对投资优先级、方式、大小进行战略引导。这些原则可能包括：</p>
+
+<ol>
+<li>我们需要优先投资哪个核心客户价值？  </li>
+<li>对基础体验能力的优先级在单点能力本身？还是组合能力？  </li>
+<li>对三大地平线投资的组合如何？</li>
+</ol>
+
+<p>这些原则帮助我们更有战略性的进行客户体验投资管理，以获得稳定的投资回报，即更加满意的客户、更高的商业回报。</p>
+
+<h3 id="">设计路线图</h3>
+
+<p>至此，我们有了商业战略上的宏观规划、客户价值的核心代表、三大地平线上的投资组合、客户体验管理的指导原则，这些都是核心客户体验路线图的基础。</p>
+
+<p>基于这个路线图，我们可以进入到战术级的项目操作中，在三大地平线上有针对性的进行设计、实施、和演进，传统的客户体验设计方法开始有用武之地。</p>
+
+<p><img src="http://localhost:2368/content/images/2018/01/disruption-and-portfolio.png" alt="复杂客户体验的战略成长框架">
+<em>与三大地平线战略紧密结合的客户体验投资策略</em></p>
+
+<h2 id="">写在最后</h2>
+
+<p>传统客户体验设计项目中，MMP（最小市场化产品）的逻辑深入人心，我们：</p>
+
+<ol>
+<li>关注最高优先级客户；  </li>
+<li>针对其最高优先级的客户目标；  </li>
+<li>解决达到这目标最高优先级的问题；  </li>
+<li>设计和实施最精简的解决方案。</li>
+</ol>
+
+<p>然而对于某些成熟且复杂的商业模式，这种方式：</p>
+
+<ol>
+<li>无法应对客户行为、形态、诉求的多样性；  </li>
+<li>难以持续成长且形成规模；  </li>
+<li>缺少战略级思考，并获得企业内部资源支持。</li>
+</ol>
+
+<p>上述框架正是为了解决这些挑战，通过和商业战略紧密结合的方式，同时关注当前和未来进行投资组合，从规模的角度进行客户体验创新。当然，传统客户体验设计方式依然可以应用于某些场景中，例如商业模式的创新。</p>]]></content:encoded></item><item><title><![CDATA[服务蓝图再思考]]></title><description><![CDATA[<p>服务蓝图（Service Blueprint）是服务设计中重要的实践之一，本文将回到这一实践的本源，重新思考其核心逻辑在新的消费环境中是否需要演进。</p>
+
+<h2 id="">溯源</h2>
+
+<p>服务蓝图（Service Blueprint）可追溯1984年1月哈佛商业评论中G. Lynn Shostack的文章《<a href="https://hbr.org/1984/01/designing-services-that-deliver">Designing Services That Deliver</a>》，此文首次将对服务的设计分为以下几个过程：</p>
+
+<ol>
+<li>定义流程；  </li>
+<li>区分出服务失败点；  </li>
+<li>引入时间效能；  </li>
+<li>分析盈利模型。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/blueprint-shoeshine.png" alt="">
+<em>一个擦鞋店的服务设计</em></p>
+
+<p>此外，Shostack还建议了执行这个蓝图的几个要点，其中包括：</p>
+
+<ol>
+<li>客户可见和不可见的部分，用可视线（Line of Visibility）进行分隔；  </li>
+<li>强调统一制式的物品（Tangible Evidence）对服务承诺的正向影响，例如航空公司整齐划一的制服、物品、或用具；  </li>
+<li>强调人对于整个服务体验的影响。</li>
+</ol>
+
+<p>由于欧美国家时薪制度的标准化，标准服务流程中的时间估算，可以计算出一项服务的成本和盈利模型，因此服务蓝图有着强烈的标准化、工业化、系统化、商业化、和控制化的基本属性。</p>
+
+<p>Shostack在本章的最后也指出，服务蓝图的作用可归纳为：</p>]]></description><link>http://localhost:2368/rethink-service-blueprint/</link><guid isPermaLink="false">66fdef8b-2922-4dd4-a82b-5583991a8bf3</guid><category><![CDATA[服务设计]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Sun, 28 Jan 2018 13:51:29 GMT</pubDate><media:content url="http://localhost:2368/content/images/2018/01/service-design.png" medium="image"/><content:encoded><![CDATA[<img src="http://localhost:2368/content/images/2018/01/service-design.png" alt="服务蓝图再思考"><p>服务蓝图（Service Blueprint）是服务设计中重要的实践之一，本文将回到这一实践的本源，重新思考其核心逻辑在新的消费环境中是否需要演进。</p>
+
+<h2 id="">溯源</h2>
+
+<p>服务蓝图（Service Blueprint）可追溯1984年1月哈佛商业评论中G. Lynn Shostack的文章《<a href="https://hbr.org/1984/01/designing-services-that-deliver">Designing Services That Deliver</a>》，此文首次将对服务的设计分为以下几个过程：</p>
+
+<ol>
+<li>定义流程；  </li>
+<li>区分出服务失败点；  </li>
+<li>引入时间效能；  </li>
+<li>分析盈利模型。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/blueprint-shoeshine.png" alt="服务蓝图再思考">
+<em>一个擦鞋店的服务设计</em></p>
+
+<p>此外，Shostack还建议了执行这个蓝图的几个要点，其中包括：</p>
+
+<ol>
+<li>客户可见和不可见的部分，用可视线（Line of Visibility）进行分隔；  </li>
+<li>强调统一制式的物品（Tangible Evidence）对服务承诺的正向影响，例如航空公司整齐划一的制服、物品、或用具；  </li>
+<li>强调人对于整个服务体验的影响。</li>
+</ol>
+
+<p>由于欧美国家时薪制度的标准化，标准服务流程中的时间估算，可以计算出一项服务的成本和盈利模型，因此服务蓝图有着强烈的标准化、工业化、系统化、商业化、和控制化的基本属性。</p>
+
+<p>Shostack在本章的最后也指出，服务蓝图的作用可归纳为：帮助服务提供商节省服务时间、提高服务效率、以及高视角完成对服务流程的管理。不得不忽略的，是这一理论的出现，正处于美国进入服务业时代的1980年代中期，企业迫切需要一种对服务进行有效规划和管理的手段。</p>
+
+<h2 id="">延续</h2>
+
+<p>服务蓝图偏流程和系统效率的特点延续到近几年服务设计的兴起。在服务设计中，服务蓝图被认为是客户体验地图（Customer Journey Map）的延伸，在传统客户体验地图的基础上添加了客户触点、跨部门的前中台服务人员行为、后台系统流程支持等元素。</p>
+
+<p><img src="http://localhost:2368/content/images/2018/01/nng-service-blueprint-example.png" alt="服务蓝图再思考">
+(<a href="https://www.nngroup.com/articles/service-blueprints-definition/">原图地址</a>)</p>
+
+<p>许多元素，例如中后台的交互、可视线、物理实物、服务时间等都被保留，其本质并没有脱离G. Lynn Shostack最初的概念——系统、任务、流程、和效率依然是服务蓝图的主题词。</p>
+
+<h2 id="">全新上下文</h2>
+
+<p>如果我们回到Shostack所处的时代，服务有如下特点：</p>
+
+<ol>
+<li>客户有固定的场所与服务商进行互动，如银行、酒店、或是机舱；  </li>
+<li>为了追求效率和成本考虑，对于相同事务的客户有着统一的服务流程，而随着时间的推移，服务本身是趋向于统一化、稳定化的、和简化的；  </li>
+<li>时间即服务成本、客户也期待更快速的服务，因此用更短时间完成服务，是客户和服务商的共同诉求；</li>
+</ol>
+
+<p>当我们走完21世纪的第一个十五年，服务对于我们而言，有着惊人的变化：</p>
+
+<ol>
+<li>客户不在固定场地与服务商互动，同一场地可能跟多个服务商互动；  </li>
+<li>客户追求多元化、定制化、个性化的服务流程，服务需要不断创新，而不是趋于稳定和一尘不变；  </li>
+<li>客户体验开始替代完成任务，短时间完成服务不再成为唯一诉求，反而成为服务商的机会。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/service-context.png" alt="服务蓝图再思考"></p>
+
+<h2 id="">策略的变化</h2>
+
+<p>在传统上下文中，服务提升的策略有以下几种：</p>
+
+<ol>
+<li>标准化流程，包括流水线化以降低服务人员培训成本、独立或外包某一核心模块、细化的指标进行精细管理；  </li>
+<li>管理关键事件，对客户等待、抱怨、投诉等典型事件进行集中处理；  </li>
+<li>减少和简化触点，并缩短触点交互的时间，即减少关键事件和非标准化流程出现的几率；  </li>
+<li>提高客户参与度，增加客户主动参与服务的比重，以降低服务人员的成本，例如便利的自助服务；  </li>
+<li>对客户进行分组，用几个分割的、相对简单的子系统代替一个相对复杂的统一系统，例如银行的对公和对私业务；  </li>
+<li>将复杂过程集中处理，减少客户在一个流程中走动的时间，例如多个窗口的转移；  </li>
+<li>增加信息透明和流动减少服务的失败和返工。</li>
+</ol>
+
+<p>在新的上下文中，这些策略可能发生变化、或者被赋予了新的意义。</p>
+
+<ol>
+<li>服务人员被赋予了更多决策权，以在标准化流程的同时针对客户的个性化需要提供服务；  </li>
+<li>移动社交网络赋予客户更大的能力，对于客户投诉需要全新的管理策略；  </li>
+<li>增加触点、或增加触点交互的丰富度，以提高触点体验的沉浸度，而非一味减少或简化；  </li>
+<li>提高客户参与度的目的不再是降低服务成本，而是满足客户的特殊体验需要；  </li>
+<li>尽可能提供一站式的服务体验，而不是分割客户；  </li>
+<li>降低客户对复杂过程的感知，尽可能取消窗口，而不是缩小窗口间的距离；  </li>
+<li>由于单个客户获取信息能力的大幅提高，增加信息透明和流动成为服务商不得不做的事情；</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/01/service-strategy-1.png" alt="服务蓝图再思考"></p>
+
+<h2 id="">服务蓝图实践</h2>
+
+<p>一项设计实践是否需要演进，取决于：1）其所在上下文是否发生变化；2）其是否鼓励新的设计策略。从这个角度来看，服务蓝图实践传统逻辑所在上下文发生巨大变化、其所鼓励的设计策略（简化、稳定化、标准化、专业化等）也发生巨大变化，我们应该<strong>重新审视服务蓝图实践本身是否符合现代服务体验设计的需要</strong>。</p>
+
+<p>在我们的实践中，该实践的真正意义有两点：</p>
+
+<ol>
+<li>用一种概括性的手段，梳理服务体验的诸多要素，初步建立上下文，寻找到设计的突破口，即建立问题或机会假设（Hypothesis），基于此进入深入的设计研究；  </li>
+<li>通过系统化的分析，寻找内部系统的边界、集成、和信息流动，帮助我们建立服务背后信息系统的初步上下文。</li>
+</ol>
+
+<p>注意，此二点都不是完整的设计实践，而是建立上下文（Context Building）的实践，从这个意义上来说，<strong>服务蓝图，已经不是一张蓝图，帮助我们在长时间内固化服务方式和流程，而只是理解上下文、寻找设计突破口的工具。</strong></p>
+
+<p>服务蓝图在新的上下文中，即不是规划工具、更不是设计工具、而只是帮助设计师建立上下文的沟通工具。</p>
+
+<h2 id="">写在最后</h2>
+
+<p>我们今天所知的任何一项设计实践，都并非新鲜之物，它们都有其最初的上下文、目的、和基本逻辑——当上下文和目的在新环境下发生变化，其基本逻辑也必然需要发生转变。</p>
+
+<p>服务从标准化工业流程朝着个性化发展、客户议价能力有着巨大提升、服务地点和品牌边界日趋模糊和灵活，这些上下文使得一个固化的蓝图（Blueprint）失去曾经的意义，那么服务蓝图作为设计实践的一种，我们对它的认识也需要更新——它只是帮助设计师建立上下文的沟通工具，即无法设计服务、也难以指导规划。</p>]]></content:encoded></item><item><title><![CDATA[运动型治理机制]]></title><description><![CDATA[<p><em>第三篇覆盖周雪光所著《<a href="https://book.douban.com/subject/26901114/">中国国家治理的制度逻辑——一个组织学研究（The Institutional Logic of Governance in China - An Organizational Approach）</a>》中第四章《中国政府的治理模式:一个“控制权”理论》的内容，该篇论文的PDF可在<a href="http://web.stanford.edu/~xgzhou/zhou_12_campaign_CH.pdf">这里</a>找到。</em></p>
 
 <p>1768年春天到秋天的短短八个月，清高宗弘历在乾隆盛世登峰造极之时，却经历了一场搅动整个大清政治与社会生活的事件，这便是1768年的中国妖术大恐慌——叫魂。此股妖风冲击半个中国，民众歇斯底里的恐慌和涌动的流言蜚语被弘历解读为「叛乱」，亲自督导全国范围各级官员大清查，一时间栽赃嫁祸、冤假错案、严刑逼供成行，然而仅仅八个月，事件不了了之。</p>
 
@@ -1702,269 +2047,4 @@
 
 <p>数字时代对于企业而言是供需关系的重大变革，传统企业组织架构正在发生从下至上的变化；对于数字人才的大量需要，也决定了全新的管理方式。首席数字官的职责，是应对需求端出现的变革、推动组织变革、构建能力、疏导资源、调整优先级、最终实现组织在数字时代的转型。</p>
 
-<p>在设计为首席数字官的服务时，应重复考虑这份工作的两个核心目标，一是数字成果、二为组织适应，前者谈论上线、后者保证底线，二者缺一不可。</p>]]></content:encoded></item><item><title><![CDATA[平衡计分卡]]></title><description><![CDATA[<p>《战略十篇》的第七篇书稿，来自于Robert S.Kaplan和David P.Norton，原文刊于《哈佛商业评论》2007年7期（<a href="https://hbr.org/2007/07/using-the-balanced-scorecard-as-a-strategic-management-system">链接</a>）。</p>
-
-<p>战略进入到执行层次时便不再是少数战略规划者的游戏，而成为贯穿组织的共同行为，这里的「共同」所指:</p>
-
-<ol>
-<li>对远期目标的<strong>共同</strong>认识;  </li>
-<li>认定战略执行需要各部门<strong>共同</strong>协作以及必须与绩效相<strong>关联</strong>；  </li>
-<li>共同协作需要<strong>共同</strong>的规划过程；  </li>
-<li>战略执行是<strong>共同</strong>的反馈和学习机制。</li>
-</ol>
-
-<p>平衡计分卡（Balanced Scorecard）正是为此四个目的而发明——期待用一种可衡量的过程和工具，帮助战略规划者：</p>
-
-<ol>
-<li>解释和传递共同愿景；  </li>
-<li>促进沟通和绩效关联；  </li>
-<li>辅助商业规划；  </li>
-<li>反馈和成长。</li>
-</ol>
-
-<p>这四点成为战略管理的四大核心过程，可通过平衡计分卡的形式进行管理：</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/4-processes-of-balanced-scorecard.png" alt=""></p>
-
-<p>通过对这四大核心过程的管理，平衡计分卡的出现丰富了企业对于愿景和战略管理的手段，管理企业愿景和战略，不只是通过财务指标，还包括：</p>
-
-<ol>
-<li>内部业务流程；  </li>
-<li>学习和成长；  </li>
-<li>客户。</li>
-</ol>
-
-<p>本文完成于1992年，</p>]]></description><link>http://localhost:2368/balanced-scorecard/</link><guid isPermaLink="false">58ccf226-9900-413e-a4a1-05cc4b95b40f</guid><category><![CDATA[战略十篇]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Mon, 24 Oct 2016 20:09:59 GMT</pubDate><content:encoded><![CDATA[<p>《战略十篇》的第七篇书稿，来自于Robert S.Kaplan和David P.Norton，原文刊于《哈佛商业评论》2007年7期（<a href="https://hbr.org/2007/07/using-the-balanced-scorecard-as-a-strategic-management-system">链接</a>）。</p>
-
-<p>战略进入到执行层次时便不再是少数战略规划者的游戏，而成为贯穿组织的共同行为，这里的「共同」所指:</p>
-
-<ol>
-<li>对远期目标的<strong>共同</strong>认识;  </li>
-<li>认定战略执行需要各部门<strong>共同</strong>协作以及必须与绩效相<strong>关联</strong>；  </li>
-<li>共同协作需要<strong>共同</strong>的规划过程；  </li>
-<li>战略执行是<strong>共同</strong>的反馈和学习机制。</li>
-</ol>
-
-<p>平衡计分卡（Balanced Scorecard）正是为此四个目的而发明——期待用一种可衡量的过程和工具，帮助战略规划者：</p>
-
-<ol>
-<li>解释和传递共同愿景；  </li>
-<li>促进沟通和绩效关联；  </li>
-<li>辅助商业规划；  </li>
-<li>反馈和成长。</li>
-</ol>
-
-<p>这四点成为战略管理的四大核心过程，可通过平衡计分卡的形式进行管理：</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/4-processes-of-balanced-scorecard.png" alt=""></p>
-
-<p>通过对这四大核心过程的管理，平衡计分卡的出现丰富了企业对于愿景和战略管理的手段，管理企业愿景和战略，不只是通过财务指标，还包括：</p>
-
-<ol>
-<li>内部业务流程；  </li>
-<li>学习和成长；  </li>
-<li>客户。</li>
-</ol>
-
-<p>本文完成于1992年，此三个衡量公司表现的额外指标体现着当时公司治理的风向标，即上世纪90年代的大部分企业已经认识到：</p>
-
-<ol>
-<li>内外部信息对于企业竞争力、投资、资产管理、以及决策的影响；  </li>
-<li>如果只追求财务指标，其滞后性不利于企业追求中长期经营目标；  </li>
-<li>企业的成长来自于内部能力建设；  </li>
-<li>优秀的内部流程和执行力是成长的基础；  </li>
-<li>应把客户价值放在企业的核心战略和愿景中。</li>
-</ol>
-
-<p>这些公司治理的趋势一直延续，从内部流程优化、以客户为中心、到<a href="https://zh.wikipedia.org/wiki/%E5%AD%B8%E7%BF%92%E5%9E%8B%E6%A9%9F%E6%A7%8B">学习型组织</a>的出现，因此平衡计分卡符合企业发展的大环境趋势，其理论思想到今天仍然受用，例如尊重数据、迭代演进、多角度和组合式的目标、与系统思考。</p>
-
-<p>无论是制造业中的戴明环（<a href="https://en.wikipedia.org/wiki/PDCA">PDCA Ring</a>），或是精益创业中的<a href="http://theleanstartup.com/principles">Build-Measure-Learn模型</a>，都可以找到平衡计分卡的影子，而后者更具备组织级别的现实意义——前两者的目标依然在于制造（Build），而不在组织成功。</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/deming-lean-startup-balanced-scorecard.png" alt=""></p>
-
-<p>另一个平衡计分卡所倡导的基础思想是系统思考：当我们只关注财务表现（Financial Performance）的时候，必然导致对系统思考的疏忽。</p>
-
-<p>目前有一种风潮，特别是在精益创业理论出现以后，传统严格的战略到执行的过程被批评、取而代之的是更拥抱变化和轻量级的制造过程，更有甚者宣称「战略已死（Strategy is Dead）」，认为「制造就是一切（Build first）」。</p>
-
-<p>此观点看到了战略规划的问题——规划与执行的脱节，却又引入了新的问题：当我们说「制造就是一切」的时候，可能导致「非系统思考」，事实上，这种思想的结果是从严格规划突然转向自由建造，重点在于是否可工作，而不在于追求平衡（Balanced）。</p>
-
-<p>这种轻量级的制造、跟踪、和学习过程虽然在一定程度上构建了一个学习型组织的基石，但如果它让实践者忽略了系统思考，便得不偿失，毕竟我们所谈论的上下文，是有着长远经营目标的公司治理，而非从0到1的创业公司。</p>
-
-<p>平衡计分卡的表现形式反而显得不那么重要，我个人对于这种耗时长、过程复杂的方法是否依然适应当前企业特点持保留态度，主要因以下几点：</p>
-
-<ol>
-<li>企业所提供服务或产品的生命周期在大大缩短；  </li>
-<li>企业年轻一代雇员对工作的定义发生改变；  </li>
-<li>企业从产品公司到服务公司再到智力工作者公司（所有公司可能都变成科技公司）的转变。</li>
-</ol>
-
-<p>但这并不能否定其理论基础的价值，即我们需要在战略和执行之间找到一种介质（Media）包含以下职责：</p>
-
-<ol>
-<li>可帮助愿景进行解释；  </li>
-<li>可帮助战略进行传播；  </li>
-<li>可帮助战略连接到长期目标与资源分配；  </li>
-<li>可帮助平衡多个战略投资形成合力；  </li>
-<li>可帮助战略进行反馈和演进。</li>
-</ol>
-
-<p>同时这种介质倡导以下原则：</p>
-
-<ol>
-<li>可传播的愿景胜于准确的愿景；  </li>
-<li>平衡胜于结果；  </li>
-<li>组织成功胜于单点改进；  </li>
-<li>可演进胜于固守标准。</li>
-</ol>
-
-<p>对于战略咨询者，平衡计分卡的意义在于理解战略规划和管理的核心：</p>
-
-<ol>
-<li>寻找一种介质，帮助融合战略和执行（例如平衡计分卡）；  </li>
-<li>明确此种介质的职责；  </li>
-<li>构建此种介质在运行中所遵守的原则；</li>
-</ol>
-
-<p>理解了这一核心，可以让我们在不同的战略咨询场景中，设计出战略规划和管理的实施框架，以适合企业对侧重点、范围、目标、和时间长短的不同需要，最终实现企业战略和执行的融合，帮助企业走向更加平衡的组织成功。</p>]]></content:encoded></item><item><title><![CDATA[设计、政治、和社会]]></title><description><![CDATA[<p>激进的18世纪法国唯物主义史观的乌托邦学者认为大众（the mass of the people）是其社会与物质条件结合的产物，而不具备能力超越；现实世界的牢笼区将社会区分割成两个部分：被现实世界软禁的、被动的大众（the passive mass）;以及书写历史、建立「统治性的世界观（ruling ideas）」的少数精英。</p>
-
-<p>这些「统治性的世界观」的目的在于增强现实，它构建起一整套共有价值（commonsense）在潜移默化中强化大众对物质世界的认识，例如「穷人穷是因为懒」、「移民偷走了我们的工作」、「入侵他国是为了解放当地人民」等等。</p>
-
-<p>真正的社会割裂正式来自于此，而深处科技行业的我们，无意识地成为帮凶——技术帮助我们制造精英式的生活方式、传播被主流现实定义为「美的」东西、我们相信只要「那些人」努力他们会成为我们、同时相信只要我们努力我们也会成为「那些人」、我们一方面担忧这个被分层的社会、但担忧的终究只是「我们为什么不在那上层」。</p>
-
-<p>同时，科学通过其无所不能，解释这个现实世界，并肆无忌惮地炫耀着其改变世界的伟大能力，</p>]]></description><link>http://localhost:2368/speculative-everything/</link><guid isPermaLink="false">cd231fbe-d79f-4f00-a3c7-06953f2e3f82</guid><category><![CDATA[异梦]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Tue, 04 Oct 2016 19:22:58 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/10/Mould-Map-6-2016-Miguel-Angel-Valdivia-for-Dunne-Raby-Communo-Train-Control-Room-part-of-United-Micro-Kingdoms.jpg" medium="image"/><content:encoded><![CDATA[<img src="http://localhost:2368/content/images/2016/10/Mould-Map-6-2016-Miguel-Angel-Valdivia-for-Dunne-Raby-Communo-Train-Control-Room-part-of-United-Micro-Kingdoms.jpg" alt="设计、政治、和社会"><p>激进的18世纪法国唯物主义史观的乌托邦学者认为大众（the mass of the people）是其社会与物质条件结合的产物，而不具备能力超越；现实世界的牢笼区将社会区分割成两个部分：被现实世界软禁的、被动的大众（the passive mass）;以及书写历史、建立「统治性的世界观（ruling ideas）」的少数精英。</p>
-
-<p>这些「统治性的世界观」的目的在于增强现实，它构建起一整套共有价值（commonsense）在潜移默化中强化大众对物质世界的认识，例如「穷人穷是因为懒」、「移民偷走了我们的工作」、「入侵他国是为了解放当地人民」等等。</p>
-
-<p>真正的社会割裂正式来自于此，而深处科技行业的我们，无意识地成为帮凶——技术帮助我们制造精英式的生活方式、传播被主流现实定义为「美的」东西、我们相信只要「那些人」努力他们会成为我们、同时相信只要我们努力我们也会成为「那些人」、我们一方面担忧这个被分层的社会、但担忧的终究只是「我们为什么不在那上层」。</p>
-
-<p>同时，科学通过其无所不能，解释这个现实世界，并肆无忌惮地炫耀着其改变世界的伟大能力，其目的并不在于「改变」而在于强化现有的物质世界，对大众而言，只是牢笼中，多了件沙发。</p>
-
-<p>某种意义上说，艺术也是帮凶，从天顶画师们对无上权利的赞颂，到后世设计运动对现实世界的忧虑，不过于歌功颂德或无病呻吟，何尝不是一种政治宣传——不过是牢笼中粉饰的天空而已——安慰剂而已。</p>
-
-<h2 id="">设计与社会变革</h2>
-
-<p>Dunne和Raby所期待的，便是在众多社会变革的方式中找到属于「设计」的一条路。这一条路与马克思所阐述的「社会变革必须来自于群众自我意识和其对客观世界改造的结合」类似，其关联性有三：</p>
-
-<ul>
-<li>设计是从下至上的、并基于个体行为（individual action）的；</li>
-<li>设计是主观世界（需求）和客观世界（方案）的结合；</li>
-<li>设计是包含自我意识的：我将选择什么样的设计？如何选择？</li>
-</ul>
-
-<p>因此，这便是D&amp;R在《Speculative Everything》一书中的最核心的逻辑——是否可以将设计变为帮助大众获得真正自由意志主体（Free Agent）的手段？</p>
-
-<p>有趣之处在于，传统意义上，设计是共有价值（commonsense）「玩弄」大众的产物：我来告诉你什么是好的和美的？以及更重要的——我来告诉什么是你需要的？但D&amp;R却希望翻转设计，使其成为割开现实世界统治的一把匕首、自我改造的一副耕犁。</p>
-
-<p>因此，理解Speculative Design的意涵，需要理解其期待改造社会的一面，如书中所言：</p>
-
-<blockquote>
-  <p>Can design achieve this, too, if it is decoupled from narrow commercial agenda? We think so. （设计是否能够帮助我们突破商业现实？我们相信可以）</p>
-</blockquote>
-
-<p>这里的商业现实（commercial agenda）早在大众媒体兴盛之时就已经将真实世界与个人世界的边界模糊，而精妙之处在于，技术和传播的合谋，将无数个本该独立存在的现实被一股脑地丢进同一个现实里，在这里，现实变成了单数形式（reality singular）。</p>
-
-<p>突破共有价值或商业现实的约束，抹去决定现实真实性的威权，建立现实的多重性（reality plural）应是设计师的新职责：帮助大众打开想象力，而非代表大众建立一个唯一的现实和未来。其目的，是在于帮助多数人重新思考自己与现实世界的关系，实现真正的自由意志。在这里，设计师是辅助者（facilitator），而非主宰者，更非官方意志的帮凶。</p>
-
-<p>在科技现实中，这里官方意志的代言人，变成了「科技寡头」，它们构建了一个未来通过数据互联的世界，迫使70亿人基于<em>一个</em>统一的现实世界，去相信<em>一个</em>人类共有的「美好」未来。</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/131125_r24296-868.jpg" alt="设计、政治、和社会"></p>
-
-<p>这个未来的建筑，失去社会性的纬度（social dimension），取而代之的是科学、技术、以及逻辑。Bob Dylan在《<a href="https://en.wikipedia.org/wiki/Subterranean_Homesick_Blues">Subterranean Homesick Blues</a>》中唱到：「You don't need a weatherman to know which way the wind blows」，这里的Weatherman，可以指代一切被这个由科技精英构建的这个未来中，一切可以预见的元素。</p>
-
-<p>在科技的穹顶之下，连政治家都在向马克·扎克伯格顶礼膜拜，冗杂着新自由主义的梦（neoliberal dream），最高生产力的代表者跟他们的前任者一样，维护着科技的未来之路，大众早已遗忘自己是否需要一个天气预报员告诉自己风往哪边刮。</p>
-
-<h2 id="nudge">Nudge</h2>
-
-<p>Dunne和Raby所期待Speculative Design能做的，就是用一种鼓励（nudge）的方式，辅助大众开始对某个话题的讨论。</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/27gray-blog427.jpg" alt="设计、政治、和社会"></p>
-
-<p>一个名为<a href="http://www.roadmap2050.eu/">Eneropa</a>（能源欧罗巴）的项目，作为项目的一部分，设计事务所<a href="http://oma.eu/partners/rem-koolhaas">AMO</a>的创始人Rem Koolhaas先生设计一份全新的欧洲地图，期待用一种设计的方式，将欧洲各国结合其主要能源的选择进行重新命名，就这样出现了「生物质堡（Biomassburg）」这样的地名——倾向于使用生物能源的巴尔干地区。</p>
-
-<p><img src="http://www.merged-vertices.com/wp-content/uploads/2014/08/20100415eneropa.jpg" alt="设计、政治、和社会"></p>
-
-<p>这份地图来源于欧洲目前主要能源供给规划的分布，其目的是让民众和政策制定者开始重新思考和协商欧洲各国的能源策略：</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/roadmap-2050_amo-press-selection_page_8.jpg" alt="设计、政治、和社会"></p>
-
-<p>这样的设计本身是具有引导性，而不尝试解决任何问题的。为美国军方服务的智库<a href="https://zh.wikipedia.org/wiki/%E5%85%B0%E5%BE%B7%E5%85%AC%E5%8F%B8">兰德公司</a>2007年发布了《<a href="http://www.rand.org/pubs/monographs/MG557.html">国家建设初学者手册</a>》，旨在帮助美国政府在世界各地政府发生倾覆时迅速建立起国家机构，受到这一项目的启发Dunne和Raby思考：我们该如何建立一个国家？如何思考能源、政治、经济、和意识形态（ideology）对一个国家建立的影响。整个项目的核心要素是：</p>
-
-<ul>
-<li>主要技术和国家意识形态整合；</li>
-<li>在政治区间上有确定的位置；</li>
-<li>用交通工具（vehicle）表现。</li>
-</ul>
-
-<p>首先，在标准的政治区间上标注出四种技术和意识形态的组合，分别是：</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/political-chart.png" alt="设计、政治、和社会"></p>
-
-<ul>
-<li>Digitarians：以撒切尔和里根时代为代表的<a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9">新自由主义</a>（Neoliberalism）和数字技术的组合；</li>
-<li>Communonuclearists：共产主义和核技术的组合；</li>
-<li>Bioliberals：<a href="https://zh.wikipedia.org/wiki/%E7%A4%BE%E6%9C%83%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9">社会民主主义</a>和生物技术的组合；</li>
-<li>Anarchoevolutionists：<a href="https://zh.wikipedia.org/zh/%E6%97%A0%E6%94%BF%E5%BA%9C%E4%B8%BB%E4%B9%89">无政府主义</a>和自我进化技术的组合。</li>
-</ul>
-
-<p>通过这样的简化和抽象（典型的设计方法），设计师开始设计每个微型国家中的交通工具。</p>
-
-<h3 id="">数字车</h3>
-
-<p>Digitarians所在的数字国家，政府通过数字建立威权也提供福祉，指标、全面的监控、跟踪、数字记录、百分百的透明，不再区分谁是人民（citizens）谁是消费者（consumers），连民众的想象都可以由数字完成，一切都在数字的管理之下，根本不存在所谓的乌托邦，所有行为都变成越来越短暂的输入输出。</p>
-
-<p>在这个背景下，主要的交通工具是「数字车（Digicar）」，一种完全自动驾驶的行驶工具，和现在无人驾驶提出的「更好的出行体验」不同，高速公路的拥有者将数字车提供给消费者，他们就像现在的运营商一样，通过数字监控和优化，引导数字车寻找最优化的路线，实现最大化利润。出行就像购买流量包或话费套餐（tariff）一样，整个国家变成一个由无差别的单点数字包组成的流量系统，<strong>每一个单点上的人都显得可爱、质朴、如他们想象的那样自由，就像每一个数字车的设计一样。</strong></p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/mit-media-lab-Dunne-Raby-Digicars1.jpg" alt="设计、政治、和社会"></p>
-
-<p><img src="http://www.unitedmicrokingdoms.org/wp-content/uploads/2013/04/carsFinal-Color-Output0000-web1.jpg" alt="设计、政治、和社会"></p>
-
-<p>数字车就是在发生的现实，Google和Tesla们正在把人类塞入一个个数字包，而每个人似乎都感受到了无处不在的自由和幸福，一个自由幸福的Digitarian。</p>
-
-<h3 id="">列车之国</h3>
-
-<p>Communonuclearists生活在巨大列车（Train）上的国度，核能技术极为发达，为了保证生产和供给的平衡，这是一个人口不再增长的国度，有人上车就要有人下车，在持续运行的列车里，国家把人民和危险的环境（可能的核污染）隔离，不同车厢提供各种设施，所有消费和快乐都是配给的，居住者享受着所有国家福利，同时必须严格服从规则。</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/Nuclear_train-1-540x360.jpg" alt="设计、政治、和社会"></p>
-
-<p><img src="http://www.domusweb.it/content/dam/domusweb/en/news/2015/07/10/dunne_raby_the_school_of_constructed_realities/domus-dunne-e-raby-mak-280.jpg/_jcr_content/renditions/cq5dam.web.960.800.jpeg" alt="设计、政治、和社会"></p>
-
-<p>这个隐喻妙不可言，永远行进的列车代表着中心权力通过速度对时间和地点的控制（我们要去向一个永远到不了的地方），也掌握了所有土地，即车厢，让所有人都变成无产者，同时又是共享富裕的，前提是无限能量的核能，以及不再增长的最终社会形态或终极故事。</p>
-
-<h3 id="">生物车</h3>
-
-<p>化石能源贯穿了整个西方世界的价值观，<strong>燃烧和分化石油以获得速度和效率的隐喻</strong>在资本主义世界中无处不在，而在社会民主主义制度下生活的Bioliberals们希望基于生物技术建立一个完全不同的世界，更快不一定更好，他们追求的是和自然融为一体，在这里，主要的交通工具是「生物车（Biocar）」——一款完全使用生物能源驱动的、又大又重又臭的四轮车。</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/BioCars_objects_01.jpg" alt="设计、政治、和社会"></p>
-
-<p>居民们根据自己的需要自己生产这种交通工具，采用厌氧菌排出气体作为动力，虽然慢、也不符合空气动力学原理，但这是最自然的方式。这个设计最有趣的地方在于讨论生物技术的极度发展对于国家政体和意识形态的影响——如果人人都掌握了制造能源的方式会怎样？</p>
-
-<h3 id="">自我进化生物</h3>
-
-<p>镜头转向Anarcho-evolutionists的国度，在这里，人们把进化的权利掌握在自己手里，他们抛弃了几乎所有的技术，至少不在开发他们，而是通过自我训练、生物改进、自我进化去适应更加苛刻的生活环境以摆脱威权的管理，他们不相信政府而更相信自己，他们与Digitarians完全相反，人应该回到世界的主体。</p>
-
-<p>他们的世界是没有车的世界，自己就是自己的交通工具、或是风、或是经过生物改良的动物，社会性和合作胜于速度与竞争，无政府主义事实上存于一个高度自治、且人人可为（can do not do better）的社会。</p>
-
-<p>在这个社会里产生了「气球人（Ballonist）」和「单车人（Cyclists）」两种不同进化方向的人，前者更高更瘦、后者拥有更高级的大腿肌肉群；同时「马牛（Hox）」和「斗牛奇（Pitsky）」两种新物种被驯养出来，前者是马和牛的产物用于重物运输、后者是斗牛梗和哈士奇的组合，用于轻物运输和保护。</p>
-
-<p><img src="http://localhost:2368/content/images/2016/10/speculative_United_2.jpg" alt="设计、政治、和社会"></p>
-
-<p>这一组设计的精妙之处在于讨论如下问题：</p>
-
-<ol>
-<li>如果近乎无限的能源掌握在少数人手中，人类社会会变成什么？  </li>
-<li>如果所有的数据都掌握在少数人手中，人类社会会变成什么？  </li>
-<li>如果人人拥有制造能源的能力，人类社会会变成什么？  </li>
-<li>如果人人都可以通过自我改造进行进化，人类社会会变成什么？</li>
-</ol>
-
-<h2 id="">真正的力量</h2>
-
-<p>威权因为掌握能源和数据而成为威权、人民掌握能源和自我进化而更加自由，通过设计，我们所讨论的不是是非对错的问题，而是从一个假设出发，制造一个环境让人们思考新的一种可能性，而非顺延着现实社会所定义的路线图，膜拜现实——我们以为自己不再是社会主义列车里的一份子，却欢心鼓舞地期待一个由自动车和虚拟显示技术构造的数字世界，本质上并没有区别。</p>
-
-<p>这是《Speculative Design》的最后一章，让我们来回顾和总结Speculative Design的精要：科学用于解释世界、目的依然是增强现在的世界；艺术用于表达世界，却不在于改造；对世界真正的改造来自于人们自身的改造，是从下自上的；设计天生具有独立个体行为的特质，它能够通过交互的方式引导人们对于自身的改造；设计师是大众的，而不应该是精英的，应该为大众设计，用设计的方式启发和引导大众思考，保护大众的内心世界，而不被包裹在美好、自由、生活方式里的力量摧毁。</p>
-
-<p>这本书，我用了两年的时间进行阅读，它真正讨论的话题已经超越了我们所理解的设计本身，而是把设计放在了<strong>科学和艺术之间、政治和意识形态之间、客观解释和自我表达之间、政治权利和个人意志之间，去探讨设计的意涵。</strong></p>
-
-<p>这才理解，人依然是社会和政治的动物，如何看待设计也决定了你要用什么样的方式生活、以及你和这个社会的关系。这才是Speculative Design真正的力量。</p>
-
-<p>两年来，阅读愉快，谢谢。</p>]]></content:encoded></item></channel></rss>
+<p>在设计为首席数字官的服务时，应重复考虑这份工作的两个核心目标，一是数字成果、二为组织适应，前者谈论上线、后者保证底线，二者缺一不可。</p>]]></content:encoded></item></channel></rss>
