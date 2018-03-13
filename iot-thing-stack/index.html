@@ -1,39 +1,40 @@
-
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <title>IoT笔记3: IoT技术栈</title>
-    <meta name="description" content="">
+    <meta name="description" content="" />
 
-    <meta name="HandheldFriendly" content="True">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <link rel="shortcut icon" href="../favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=437ac73de6">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=2a6543447d" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
 
-    <link rel="canonical" href="index.html">
-    <meta name="referrer" content="origin">
+    <link rel="canonical" href="index.html" />
+    <meta name="referrer" content="origin" />
     
-    <meta property="og:site_name" content="一只土贼">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="IoT笔记3: IoT技术栈">
-    <meta property="og:description" content='本篇是2013年PwC关于IoT报告中的第二篇，本篇从IoT技术栈的角度讨论了多个层次技术发展对于IoT领域的影响。 The Thing Stack: Technologies that guide customers to their goals 正如上一篇笔记所谈到的，IoT的出现使得更有价值的客户关系出现在交易之后，企业可以通过跟踪和学习的手段向客户提供更关注其目标的产品和服务。 目前大部分的后交易期的客户关系维护主要出现在B2B业务中，例如飞机发动机的实时数据被侦测并返回发动机厂商，由其提供更加定制化和专业的服务。而随着IoT技术（传感器、数据处理、传输、和分析）的成熟和低成本化，售后的新服务模式即将在大众消费市场形成。 面对未来这样的趋势，所有企业的IT组织可能在未来都会遇到这个问题，如何建立一个针对物联网的IT构架（即包含什么组件），这就是作者所提出的"The Thing Stack"，它可能成为IoT时代CIO的蓝图。 这里的“The Thing Stack”包含3个层次：传感器、网络+处理器、服务平台。 传感器（Sensor）：植入在设备或者物理环境中，依靠一个或者多个传感芯片收集信息或探测阈值。 网络+处理器（Networking'>
-    <meta property="og:url" content="http://localhost:2368/iot-thing-stack/">
-    <meta property="article:published_time" content="2015-05-31T22:10:26.972Z">
-    <meta property="article:modified_time" content="2015-06-04T04:46:31.924Z">
-    <meta property="article:tag" content="物联网">
+    <meta property="og:site_name" content="一只土贼" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="IoT笔记3: IoT技术栈" />
+    <meta property="og:description" content="本篇是2013年PwC关于IoT报告中的第二篇，本篇从IoT技术栈的角度讨论了多个层次技术发展对于IoT领域的影响。 The Thing Stack: Technologies that guide customers to their goals 正如上一篇笔记所谈到的，IoT的出现使得更有价值的客户关系出现在交易之后，企业可以通过跟踪和学习的手段向客户提供更关注其目标的产品和服务。 目前大部分的后交易期的客户关系维护主要出现在B2B业务中，例如飞机发动机的实时数据被侦测并返回发动机厂商，由其提供更加定制化和专业的服务。而随着IoT技术（传感器、数据处理、传输、和分析）的成熟和低成本化，售后的新服务模式即将在大众消费市场形成。 面对未来这样的趋势，所有企业的IT组织可能在未来都会遇到这个问题，如何建立一个针对物联网的IT构架（即包含什么组件），这就是作者所提出的&quot;The Thing Stack&quot;，它可能成为IoT时代CIO的蓝图。 这里的“The Thing Stack”包含3个层次：传感器、网络+处理器、服务平台。 传感器（Sensor）：植入在设备或者物理环境中，依靠一个或者多个传感芯片收集信息或探测阈值。 网络+处理器（Networking" />
+    <meta property="og:url" content="http://localhost:2368/iot-thing-stack/" />
+    <meta property="article:published_time" content="2015-05-31T22:10:26.972Z" />
+    <meta property="article:modified_time" content="2015-06-04T04:46:31.924Z" />
+    <meta property="article:tag" content="物联网" />
     
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="IoT笔记3: IoT技术栈">
-    <meta name="twitter:description" content='本篇是2013年PwC关于IoT报告中的第二篇，本篇从IoT技术栈的角度讨论了多个层次技术发展对于IoT领域的影响。 The Thing Stack: Technologies that guide customers to their goals 正如上一篇笔记所谈到的，IoT的出现使得更有价值的客户关系出现在交易之后，企业可以通过跟踪和学习的手段向客户提供更关注其目标的产品和服务。 目前大部分的后交易期的客户关系维护主要出现在B2B业务中，例如飞机发动机的实时数据被侦测并返回发动机厂商，由其提供更加定制化和专业的服务。而随着IoT技术（传感器、数据处理、传输、和分析）的成熟和低成本化，售后的新服务模式即将在大众消费市场形成。 面对未来这样的趋势，所有企业的IT组织可能在未来都会遇到这个问题，如何建立一个针对物联网的IT构架（即包含什么组件），这就是作者所提出的"The Thing Stack"，它可能成为IoT时代CIO的蓝图。 这里的“The Thing Stack”包含3个层次：传感器、网络+处理器、服务平台。 传感器（Sensor）：植入在设备或者物理环境中，依靠一个或者多个传感芯片收集信息或探测阈值。 网络+处理器（Networking'>
-    <meta name="twitter:url" content="http://localhost:2368/iot-thing-stack/">
-    <meta name="twitter:label1" content="Written by">
-    <meta name="twitter:data1" content="熊子川">
-    <meta name="twitter:label2" content="Filed under">
-    <meta name="twitter:data2" content="物联网">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="IoT笔记3: IoT技术栈" />
+    <meta name="twitter:description" content="本篇是2013年PwC关于IoT报告中的第二篇，本篇从IoT技术栈的角度讨论了多个层次技术发展对于IoT领域的影响。 The Thing Stack: Technologies that guide customers to their goals 正如上一篇笔记所谈到的，IoT的出现使得更有价值的客户关系出现在交易之后，企业可以通过跟踪和学习的手段向客户提供更关注其目标的产品和服务。 目前大部分的后交易期的客户关系维护主要出现在B2B业务中，例如飞机发动机的实时数据被侦测并返回发动机厂商，由其提供更加定制化和专业的服务。而随着IoT技术（传感器、数据处理、传输、和分析）的成熟和低成本化，售后的新服务模式即将在大众消费市场形成。 面对未来这样的趋势，所有企业的IT组织可能在未来都会遇到这个问题，如何建立一个针对物联网的IT构架（即包含什么组件），这就是作者所提出的&quot;The Thing Stack&quot;，它可能成为IoT时代CIO的蓝图。 这里的“The Thing Stack”包含3个层次：传感器、网络+处理器、服务平台。 传感器（Sensor）：植入在设备或者物理环境中，依靠一个或者多个传感芯片收集信息或探测阈值。 网络+处理器（Networking" />
+    <meta name="twitter:url" content="http://localhost:2368/iot-thing-stack/" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="熊子川" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="物联网" />
     
     <script type="application/ld+json">
 {
@@ -60,8 +61,8 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.8">
-    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html">
+    <meta name="generator" content="Ghost 0.8" />
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html" />
 </head>
 <body class="post-template tag-wu-lian-wang nav-closed">
 
@@ -71,19 +72,19 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-            <li class="nav-" role="presentation"><a href="../">首页</a></li>
-            <li class="nav-" role="presentation"><a href="../about-me/">关于我</a></li>
-            <li class="nav-english-article" role="presentation"><a href="../tag/english/">English Article</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/">和我工作</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/she-ji/">设计</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/shang-ye/">商业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/yi-meng/">异梦</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/">职业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/whatever/">文骚</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
-            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
+            <li class="nav-" role="presentation"><a href="../index.html">首页</a></li>
+            <li class="nav-" role="presentation"><a href="../about-me/index.html">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="../tag/english/index.html">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/index.html">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/she-ji/index.html">设计</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/shang-ye/index.html">商业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/yi-meng/index.html">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/index.html">职业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/whatever/index.html">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/index.html">PPT设计</a></li>
     </ul>
-        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="../rss/index.html">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
 
@@ -95,7 +96,7 @@
 
 <header class="main-header post-head no-cover">
     <nav class="main-nav  clearfix">
-        <a class="blog-logo" href="../"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
+        <a class="blog-logo" href="../index.html"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼" /></a>
             <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -106,7 +107,7 @@
         <header class="post-header">
             <h1 class="post-title">IoT笔记3: IoT技术栈</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="2015-05-31">31 May 2015</time>  on <a href="../tag/wu-lian-wang/">物联网</a>
+                <time class="post-date" datetime="2015-05-31">31 May 2015</time>  on <a href="../tag/wu-lian-wang/index.html">物联网</a>
             </section>
         </header>
 
@@ -123,7 +124,7 @@
 
 <p>这里的“The Thing Stack”包含3个层次：传感器、网络+处理器、服务平台。</p>
 
-<p><img src="../content/images/2015/05/the-thing-stack-layers.png" alt=""></p>
+<p><img src="../content/images/2015/05/the-thing-stack-layers.png" alt="" /></p>
 
 <p><strong>传感器（Sensor）</strong>：植入在设备或者物理环境中，依靠一个或者多个传感芯片收集信息或探测阈值。</p>
 
@@ -135,7 +136,7 @@
 
 <h3 id="">传感器</h3>
 
-<p>国际传感器市场2013年到2018年的复合增长率达到9.2%（<a href="http://www.reuters.com/article/2015/02/02/research-and-markets-idUSnBw025378a+100+BSW20150202">来源</a>），到2020年全球传感器市场将接近1544亿美元（<a href="http://www.bccresearch.com/pressroom/ias/global-market-sensors-reach-nearly-%24154.4-billion-2020">来源</a>）。</p>
+<p>国际传感器市场2013年到2018年的复合增长率达到9.2%（<a href="http://www.reuters.com/article/2015/02/02/research-and-markets-idUSnBw025378a+100+BSW20150202">来源</a>），到2020年全球传感器市场将接近1544亿美元（<a href="http://www.bccresearch.com/pressroom/ias/global-market-sensors-reach-nearly-$154.4-billion-2020">来源</a>）。</p>
 
 <p>传感器市场的稳健增长得力于智能手机的持续增长的出货量——从2007年到2014年的7年时间里智能手机出货量增长了10倍（<a href="http://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/">来源</a>），同时越来越多的传感器被集成在智能手机中，智能手机的巨头们也在不停努力拓展传感器新的使用场景。</p>
 
@@ -145,7 +146,7 @@
         <source id="webmsource" src="http://zippy.gfycat.com/FlakyDefiantIberianmole.webm" type="video/webm">
         <source id="mp4source" src="http://zippy.gfycat.com/FlakyDefiantIberianmole.mp4" type="video/mp4">
             <img src="http://fat.gfycat.com/FlakyDefiantIberianmole.gif">
-        </source></source></video>
+        </video>
 
 <p>此外推动传感器技术高速增长，当然还有穿戴式设备的火爆，到2015年2013年穿戴式设备市场传感器出货量只有6700万件，这个数字在2019年预计将达到4亿6600万件（<a href="http://www.pcmag.com/article2/0,2817,2470806,00.asp">来源</a>）。</p>
 
@@ -163,11 +164,11 @@
 <li>传输：通过API的方式连接其他设备并传输关键数据。</li>
 </ol>
 
-<p><img src="../content/images/2015/05/network-processor.png" alt=""></p>
+<p><img src="../content/images/2015/05/network-processor.png" alt="" /></p>
 
 <p>IoT有两类方案商，一类提供纯的硬件解决方案（只在第二层），通过具备连接性的可编程计算平台，只指定标准API与其他软件平台相联（如App），；例如<a href="http://localhost:2368/iot-thing-stack/www.arduino.cc">Arduino</a>、<a href="http://www.openpicus.com/">openPICUS</a>、和<a href="https://www.raspberrypi.org/">Raspberry Pi</a>；另一类则同时涉及到服务层（覆盖完整的客户场景），提供完整的解决方案，例如<a href="http://www.arrayent.com/">Arrayent</a>、<a href="https://ninjablocks.com/">Ninja Blocks</a> （下图）。</p>
 
-<p><img src="../content/images/2015/05/scene-04-8968b4c8.jpg" alt=""></p>
+<p><img src="../content/images/2015/05/scene-04-8968b4c8.jpg" alt="" /></p>
 
 <p>网络和处理器层所涉及的基础元器件价格持续下降，一个标准的Wifi芯片组的价格在十年内（从2002年）下降了3/4。</p>
 
@@ -198,7 +199,7 @@
 
 <p>一个基于M2M的IoT解决方案主要包含四大部分，分别是：设备群、网络和处理器设备、后台系统、终端管理者设备。</p>
 
-<p><img src="../content/images/2015/05/enterprise-m2m-components.png" alt=""></p>
+<p><img src="../content/images/2015/05/enterprise-m2m-components.png" alt="" /></p>
 
 <p>企业所面临的问题主要是来自于运营商数据网络的差异性，例如，重型挖掘机的生产厂商如何收集深入智利矿区挖掘机所产生的数据。</p>
 
@@ -227,13 +228,13 @@
 
 
             <figure class="author-image">
-                <a class="img" href="../author/zichuan/" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+                <a class="img" href="../author/zichuan/index.html" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
             </figure>
 
             <section class="author">
-                <h4><a href="../author/zichuan/">熊子川</a></h4>
+                <h4><a href="../author/zichuan/index.html">熊子川</a></h4>
 
-                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
+                    <p>Read <a href="../author/zichuan/index.html">more posts</a> by this author.</p>
                 <div class="author-meta">
                     <span class="author-location icon-location">San Francisco</span>
                     
@@ -243,13 +244,16 @@
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=IoT%E7%AC%94%E8%AE%B03%3A%20IoT%E6%8A%80%E6%9C%AF%E6%A0%88&amp;url=http://localhost:2368/iot-thing-stack/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=IoT%E7%AC%94%E8%AE%B03%3A%20IoT%E6%8A%80%E6%9C%AF%E6%A0%88&amp;url=http://localhost:2368/iot-thing-stack/"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/iot-thing-stack/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/iot-thing-stack/"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/iot-thing-stack/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/iot-thing-stack/"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>
             </section>
@@ -261,16 +265,16 @@
 </main>
 
 <aside class="read-next">
-    <a class="read-next-story no-cover" href="../new-role-of-it-in-iot-age/">
+    <a class="read-next-story no-cover" href="../new-role-of-it-in-iot-age/index.html">
         <section class="post">
             <h2>IoT笔记4: IT组织新职责</h2>
-            <p>本篇是2013年PwC关于IoT报告中的第三篇，讨论首席信息官在“后交易关系”时代中的领导力，以及IT组织的职责变化。 CIO leadership in post-transaction relationships: IT's role in customer engagement 通过植入在产品或消费环境中的传感器，消费或使用过程中的数据被企业所获得、分析、并作为改进服务和产品的依据，…</p>
+            <p>本篇是2013年PwC关于IoT报告中的第三篇，讨论首席信息官在“后交易关系”时代中的领导力，以及IT组织的职责变化。 CIO leadership in post-transaction relationships: IT's role in customer engagement 通过植入在产品或消费环境中的传感器，消费或使用过程中的数据被企业所获得、分析、并作为改进服务和产品的依据，&hellip;</p>
         </section>
     </a>
-    <a class="read-next-story prev no-cover" href="../iot-post-transaction-relationship/">
+    <a class="read-next-story prev no-cover" href="../iot-post-transaction-relationship/index.html">
         <section class="post">
             <h2>IoT笔记2: 后交易关系</h2>
-            <p>第二篇研究笔记重点看2013年PwC的报告《Internet of Things: Evolving transactions into relationships》的第一篇文章，虽然是2013年的报告，但是其从商业角度来谈新的一种客户关系，而少谈技术，格外有心意。 Using Technology to help customers achieve…</p>
+            <p>第二篇研究笔记重点看2013年PwC的报告《Internet of Things: Evolving transactions into relationships》的第一篇文章，虽然是2013年的报告，但是其从商业角度来谈新的一种客户关系，而少谈技术，格外有心意。 Using Technology to help customers achieve&hellip;</p>
         </section>
     </a>
 </aside>
@@ -278,7 +282,7 @@
 
 
         <footer class="site-footer clearfix">
-            <section class="copyright"><a href="../">一只土贼</a> © 2018</section>
+            <section class="copyright"><a href="../index.html">一只土贼</a> &copy; 2018</section>
             <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
         </footer>
 
@@ -297,7 +301,8 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=437ac73de6"></script>
-    <script type="text/javascript" src="../assets/js/index.js?v=437ac73de6"></script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=2a6543447d"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=2a6543447d"></script>
 
 </body>
+</html>

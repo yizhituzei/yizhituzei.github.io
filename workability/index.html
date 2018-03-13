@@ -1,41 +1,40 @@
-<!DOCTYPE html>
-<html>
+
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>基于可工作性的一个研究方法</title>
-    <meta name="description" content="" />
+    <meta name="description" content="">
 
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="shortcut icon" href="../favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=437ac73de6" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=2a6543447d">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
 
-    <link rel="canonical" href="index.html" />
-    <meta name="referrer" content="origin" />
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="origin">
     
-    <meta property="og:site_name" content="一只土贼" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="基于可工作性的一个研究方法" />
-    <meta property="og:description" content="昨天我面试了一位Researcher，我们做了一个模拟的whiteboarding练习，我们希望她用很短的时间对我们提出的主题进行一次有结构性的访谈，这样的练习帮我们了解她作为用户研究者对于上下文的吸收能力。 我们的主题是Standup（站会），她问到：现在的站会都有什么问题？我说：大家会迟到。她接着问：为什么会迟到呢？我说：站会都在早上，大家不能准时到达。她记录下来，就开始进入下一个问题的讨论了。 其实我更期待的对话是：“你们现在是如何解决这个问题的”、“迟到的人都会给大家买零食。”、“这个方法有效果吗？”、“刚开始还行，后来慢慢大家也都懒了”、“那后来呢？”、“后来大家把时间推迟了30分钟，给大家一个缓冲”、“这个方法好不好呢？”、“也有不好，因为工作时间就少了半小时。”... 这就是我们在进行用户研究时容易犯的错误，我们往往忽视了对现有解决方案的研究，而这里说的解决方案指的是： 现在正在用的方案；   曾经用、现在却不用的方案；   曾经尝试很快失败的方案；   一直想尝试又没机会尝试的方案； 而有趣的是，这里每一条的背后，都是非常有价值的上下文： 通过研究现在在用的方案，让我们了解什么是真实的问题以及用户能够接受的方式；   通过研究曾经用、现在却不用的方案，让我们了解问题的改变或者随着上下文变化，用户的可接受行为的变化；   通过对失败方案的研究，让我们了解也许并不存在的问题以及用户不能接受的方式，避免再犯错；   通过研究一直想尝试的方案，" />
-    <meta property="og:url" content="http://localhost:2368/workability/" />
-    <meta property="article:published_time" content="2014-02-14T22:36:00.000Z" />
-    <meta property="article:modified_time" content="2017-02-24T22:12:41.522Z" />
-    <meta property="article:tag" content="设计" />
-    <meta property="article:tag" content="方法论" />
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="基于可工作性的一个研究方法">
+    <meta property="og:description" content="昨天我面试了一位Researcher，我们做了一个模拟的whiteboarding练习，我们希望她用很短的时间对我们提出的主题进行一次有结构性的访谈，这样的练习帮我们了解她作为用户研究者对于上下文的吸收能力。 我们的主题是Standup（站会），她问到：现在的站会都有什么问题？我说：大家会迟到。她接着问：为什么会迟到呢？我说：站会都在早上，大家不能准时到达。她记录下来，就开始进入下一个问题的讨论了。 其实我更期待的对话是：“你们现在是如何解决这个问题的”、“迟到的人都会给大家买零食。”、“这个方法有效果吗？”、“刚开始还行，后来慢慢大家也都懒了”、“那后来呢？”、“后来大家把时间推迟了30分钟，给大家一个缓冲”、“这个方法好不好呢？”、“也有不好，因为工作时间就少了半小时。”... 这就是我们在进行用户研究时容易犯的错误，我们往往忽视了对现有解决方案的研究，而这里说的解决方案指的是： 现在正在用的方案；   曾经用、现在却不用的方案；   曾经尝试很快失败的方案；   一直想尝试又没机会尝试的方案； 而有趣的是，这里每一条的背后，都是非常有价值的上下文： 通过研究现在在用的方案，让我们了解什么是真实的问题以及用户能够接受的方式；   通过研究曾经用、现在却不用的方案，让我们了解问题的改变或者随着上下文变化，用户的可接受行为的变化；   通过对失败方案的研究，让我们了解也许并不存在的问题以及用户不能接受的方式，避免再犯错；   通过研究一直想尝试的方案，">
+    <meta property="og:url" content="http://localhost:2368/workability/">
+    <meta property="article:published_time" content="2014-02-14T22:36:00.000Z">
+    <meta property="article:modified_time" content="2017-02-24T22:12:41.522Z">
+    <meta property="article:tag" content="设计">
+    <meta property="article:tag" content="方法论">
     
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="基于可工作性的一个研究方法" />
-    <meta name="twitter:description" content="昨天我面试了一位Researcher，我们做了一个模拟的whiteboarding练习，我们希望她用很短的时间对我们提出的主题进行一次有结构性的访谈，这样的练习帮我们了解她作为用户研究者对于上下文的吸收能力。 我们的主题是Standup（站会），她问到：现在的站会都有什么问题？我说：大家会迟到。她接着问：为什么会迟到呢？我说：站会都在早上，大家不能准时到达。她记录下来，就开始进入下一个问题的讨论了。 其实我更期待的对话是：“你们现在是如何解决这个问题的”、“迟到的人都会给大家买零食。”、“这个方法有效果吗？”、“刚开始还行，后来慢慢大家也都懒了”、“那后来呢？”、“后来大家把时间推迟了30分钟，给大家一个缓冲”、“这个方法好不好呢？”、“也有不好，因为工作时间就少了半小时。”... 这就是我们在进行用户研究时容易犯的错误，我们往往忽视了对现有解决方案的研究，而这里说的解决方案指的是： 现在正在用的方案；   曾经用、现在却不用的方案；   曾经尝试很快失败的方案；   一直想尝试又没机会尝试的方案； 而有趣的是，这里每一条的背后，都是非常有价值的上下文： 通过研究现在在用的方案，让我们了解什么是真实的问题以及用户能够接受的方式；   通过研究曾经用、现在却不用的方案，让我们了解问题的改变或者随着上下文变化，用户的可接受行为的变化；   通过对失败方案的研究，让我们了解也许并不存在的问题以及用户不能接受的方式，避免再犯错；   通过研究一直想尝试的方案，" />
-    <meta name="twitter:url" content="http://localhost:2368/workability/" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="熊子川" />
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="设计, 方法论" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="基于可工作性的一个研究方法">
+    <meta name="twitter:description" content="昨天我面试了一位Researcher，我们做了一个模拟的whiteboarding练习，我们希望她用很短的时间对我们提出的主题进行一次有结构性的访谈，这样的练习帮我们了解她作为用户研究者对于上下文的吸收能力。 我们的主题是Standup（站会），她问到：现在的站会都有什么问题？我说：大家会迟到。她接着问：为什么会迟到呢？我说：站会都在早上，大家不能准时到达。她记录下来，就开始进入下一个问题的讨论了。 其实我更期待的对话是：“你们现在是如何解决这个问题的”、“迟到的人都会给大家买零食。”、“这个方法有效果吗？”、“刚开始还行，后来慢慢大家也都懒了”、“那后来呢？”、“后来大家把时间推迟了30分钟，给大家一个缓冲”、“这个方法好不好呢？”、“也有不好，因为工作时间就少了半小时。”... 这就是我们在进行用户研究时容易犯的错误，我们往往忽视了对现有解决方案的研究，而这里说的解决方案指的是： 现在正在用的方案；   曾经用、现在却不用的方案；   曾经尝试很快失败的方案；   一直想尝试又没机会尝试的方案； 而有趣的是，这里每一条的背后，都是非常有价值的上下文： 通过研究现在在用的方案，让我们了解什么是真实的问题以及用户能够接受的方式；   通过研究曾经用、现在却不用的方案，让我们了解问题的改变或者随着上下文变化，用户的可接受行为的变化；   通过对失败方案的研究，让我们了解也许并不存在的问题以及用户不能接受的方式，避免再犯错；   通过研究一直想尝试的方案，">
+    <meta name="twitter:url" content="http://localhost:2368/workability/">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="设计, 方法论">
     
     <script type="application/ld+json">
 {
@@ -62,8 +61,8 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.8" />
-    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html" />
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html">
 </head>
 <body class="post-template tag-she-ji tag-fang-fa-lun nav-closed">
 
@@ -73,19 +72,19 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-            <li class="nav-" role="presentation"><a href="../index.html">首页</a></li>
-            <li class="nav-" role="presentation"><a href="../about-me/index.html">关于我</a></li>
-            <li class="nav-english-article" role="presentation"><a href="../tag/english/index.html">English Article</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/index.html">和我工作</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/she-ji/index.html">设计</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/shang-ye/index.html">商业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/yi-meng/index.html">异梦</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/index.html">职业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/whatever/index.html">文骚</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a></li>
-            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/index.html">PPT设计</a></li>
+            <li class="nav-" role="presentation"><a href="../">首页</a></li>
+            <li class="nav-" role="presentation"><a href="../about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="../tag/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/yi-meng/">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
     </ul>
-        <a class="subscribe-button icon-feed" href="../rss/index.html">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
 
@@ -97,7 +96,7 @@
 
 <header class="main-header post-head no-cover">
     <nav class="main-nav  clearfix">
-        <a class="blog-logo" href="../index.html"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼" /></a>
+        <a class="blog-logo" href="../"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
             <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -108,7 +107,7 @@
         <header class="post-header">
             <h1 class="post-title">基于可工作性的一个研究方法</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="2014-02-14">14 February 2014</time>  on <a href="../tag/she-ji/index.html">设计</a>, <a href="../tag/fang-fa-lun/index.html">方法论</a>
+                <time class="post-date" datetime="2014-02-14">14 February 2014</time>  on <a href="../tag/she-ji/">设计</a>, <a href="../tag/fang-fa-lun/">方法论</a>
             </section>
         </header>
 
@@ -150,7 +149,7 @@
 <li>可能不可工作的（could never work）：那些我们觉得不可能工作的方案；</li>
 </ul>
 
-<p><img src="../content/images/2015/04/2df40659b1.png" alt="" /></p>
+<p><img src="../content/images/2015/04/2df40659b1.png" alt=""></p>
 
 <p>如果我们回到之前站会（Standup）的主题里，对照在这个框架中就是：</p>
 
@@ -185,7 +184,7 @@
 
 <p>通过这样的实践，可以组成一个完整的地图，包括了不同类别的解决方案，已经它们背后的故事。</p>
 
-<p><img src="../content/images/2015/04/f133323155.png" alt="" /></p>
+<p><img src="../content/images/2015/04/f133323155.png" alt=""></p>
 
 <h2 id="">整理事实</h2>
 
@@ -213,20 +212,20 @@
 
 <p>下面就是整个模板的展示：</p>
 
-<p><img src="../content/images/2015/04/032fd18295.png" alt="" /></p>
+<p><img src="../content/images/2015/04/032fd18295.png" alt=""></p>
         </section>
 
         <footer class="post-footer">
 
 
             <figure class="author-image">
-                <a class="img" href="../author/zichuan/index.html" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+                <a class="img" href="../author/zichuan/" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
             </figure>
 
             <section class="author">
-                <h4><a href="../author/zichuan/index.html">熊子川</a></h4>
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
 
-                    <p>Read <a href="../author/zichuan/index.html">more posts</a> by this author.</p>
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
                 <div class="author-meta">
                     <span class="author-location icon-location">San Francisco</span>
                     
@@ -236,16 +235,13 @@
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E5%9F%BA%E4%BA%8E%E5%8F%AF%E5%B7%A5%E4%BD%9C%E6%80%A7%E7%9A%84%E4%B8%80%E4%B8%AA%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95&amp;url=http://localhost:2368/workability/"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E5%9F%BA%E4%BA%8E%E5%8F%AF%E5%B7%A5%E4%BD%9C%E6%80%A7%E7%9A%84%E4%B8%80%E4%B8%AA%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95&amp;url=http://localhost:2368/workability/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/workability/"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/workability/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/workability/"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/workability/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>
             </section>
@@ -257,16 +253,16 @@
 </main>
 
 <aside class="read-next">
-    <a class="read-next-story " style="background-image: url(../content/images/2015/04/maxresdefault.jpg)" href="../a-map-of-unreality/index.html">
+    <a class="read-next-story " style="background-image: url(../content/images/2015/04/maxresdefault.jpg)" href="../a-map-of-unreality/">
         <section class="post">
             <h2>真实的虚无</h2>
-            <p>不要轻视，藏在虚无背后的东西，也有令人愉快的小小真实。 此篇是读Anthony Dunne和Fiona Raby新作《Speculative Everything》的观后感，覆盖范围是第二章“A Map of Unreality”的内容。 另外一个我们难以接触到的设计领域是概念性设计，与功能性设计不同的地方在于前者使用设计语言让人们思考，而后者用设计形式满足人们的使用需求。概念性设计中有许多中形式，&hellip;</p>
+            <p>不要轻视，藏在虚无背后的东西，也有令人愉快的小小真实。 此篇是读Anthony Dunne和Fiona Raby新作《Speculative Everything》的观后感，覆盖范围是第二章“A Map of Unreality”的内容。 另外一个我们难以接触到的设计领域是概念性设计，与功能性设计不同的地方在于前者使用设计语言让人们思考，而后者用设计形式满足人们的使用需求。概念性设计中有许多中形式，…</p>
         </section>
     </a>
-    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/robotallgirlcopy.jpg)" href="../beyond-radical-design/index.html">
+    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/robotallgirlcopy.jpg)" href="../beyond-radical-design/">
         <section class="post">
             <h2>迷茫的设计以及异梦的沉沦</h2>
-            <p>你的异梦呢？ 此篇是读Anthony Dunne和Fiona Raby新作《Speculative Everything》的观后感，覆盖范围是第一章“Beyond Radical Design”的内容。 Dunne &amp; Raby是Critical Design批判性设计大师，著名的A/B宣言就出自这对设计夫妇之手，而这本《&hellip;</p>
+            <p>你的异梦呢？ 此篇是读Anthony Dunne和Fiona Raby新作《Speculative Everything》的观后感，覆盖范围是第一章“Beyond Radical Design”的内容。 Dunne &amp; Raby是Critical Design批判性设计大师，著名的A/B宣言就出自这对设计夫妇之手，而这本《…</p>
         </section>
     </a>
 </aside>
@@ -274,7 +270,7 @@
 
 
         <footer class="site-footer clearfix">
-            <section class="copyright"><a href="../index.html">一只土贼</a> &copy; 2018</section>
+            <section class="copyright"><a href="../">一只土贼</a> © 2018</section>
             <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
         </footer>
 
@@ -293,8 +289,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=437ac73de6"></script>
-    <script type="text/javascript" src="../assets/js/index.js?v=437ac73de6"></script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=2a6543447d"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=2a6543447d"></script>
 
 </body>
-</html>
