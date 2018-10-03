@@ -1,43 +1,42 @@
-<!DOCTYPE html>
-<html>
+
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>IoT时代的设计</title>
-    <meta name="description" content="" />
+    <meta name="description" content="">
 
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="shortcut icon" href="../favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=2a6543447d" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=1b27448807">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
 
-    <link rel="canonical" href="index.html" />
-    <meta name="referrer" content="origin" />
+    <link rel="canonical" href="http://localhost:2368/design-in-iot-age/">
+    <meta name="referrer" content="origin">
     
-    <meta property="og:site_name" content="一只土贼" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="IoT时代的设计" />
-    <meta property="og:description" content="设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。 现有的设计范式 在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即： 一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作； 一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」； 基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制； 设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。 在这个背景之下，设计师的工作类型无外乎于两种： 用任务（Task）驱动的用户体验设计（User Experience Design）；   用诉求（Job）驱动的客户体验设计（Customer Experience Design）" />
-    <meta property="og:url" content="http://localhost:2368/design-in-iot-age/" />
-    <meta property="og:image" content="http://localhost:2368/content/images/2017/02/iot-devices.png" />
-    <meta property="article:published_time" content="2017-02-20T20:23:31.194Z" />
-    <meta property="article:modified_time" content="2017-02-20T20:31:24.487Z" />
-    <meta property="article:tag" content="设计" />
-    <meta property="article:tag" content="IoT" />
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="IoT时代的设计">
+    <meta property="og:description" content="设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。 现有的设计范式 在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即： 一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作； 一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」； 基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制； 设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。 在这个背景之下，设计师的工作类型无外乎于两种： 用任务（Task）驱动的用户体验设计（User Experience Design）；   用诉求（Job）驱动的客户体验设计（Customer Experience Design）">
+    <meta property="og:url" content="http://localhost:2368/design-in-iot-age/">
+    <meta property="og:image" content="http://localhost:2368/content/images/2017/02/iot-devices.png">
+    <meta property="article:published_time" content="2017-02-20T20:23:31.194Z">
+    <meta property="article:modified_time" content="2017-02-20T20:31:24.487Z">
+    <meta property="article:tag" content="设计">
+    <meta property="article:tag" content="IoT">
     
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="IoT时代的设计" />
-    <meta name="twitter:description" content="设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。 现有的设计范式 在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即： 一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作； 一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」； 基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制； 设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。 在这个背景之下，设计师的工作类型无外乎于两种： 用任务（Task）驱动的用户体验设计（User Experience Design）；   用诉求（Job）驱动的客户体验设计（Customer Experience Design）" />
-    <meta name="twitter:url" content="http://localhost:2368/design-in-iot-age/" />
-    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2017/02/iot-devices.png" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="熊子川" />
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="设计, IoT" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="IoT时代的设计">
+    <meta name="twitter:description" content="设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。 现有的设计范式 在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即： 一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作； 一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」； 基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制； 设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。 在这个背景之下，设计师的工作类型无外乎于两种： 用任务（Task）驱动的用户体验设计（User Experience Design）；   用诉求（Job）驱动的客户体验设计（Customer Experience Design）">
+    <meta name="twitter:url" content="http://localhost:2368/design-in-iot-age/">
+    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2017/02/iot-devices.png">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="设计, IoT">
     
     <script type="application/ld+json">
 {
@@ -65,8 +64,8 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.8" />
-    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html" />
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="http://localhost:2368/rss/">
 </head>
 <body class="post-template tag-she-ji tag-iot nav-closed">
 
@@ -76,19 +75,19 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-            <li class="nav-" role="presentation"><a href="../index.html">首页</a></li>
-            <li class="nav-" role="presentation"><a href="../about-me/index.html">关于我</a></li>
-            <li class="nav-english-article" role="presentation"><a href="../tag/english/index.html">English Article</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/index.html">和我工作</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/she-ji/index.html">设计</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/shang-ye/index.html">商业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/yi-meng/index.html">异梦</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/index.html">职业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/whatever/index.html">文骚</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a></li>
-            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/index.html">PPT设计</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/">首页</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="http://localhost:2368/tag/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/yi-meng/">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="http://localhost:2368/tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
     </ul>
-        <a class="subscribe-button icon-feed" href="../rss/index.html">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="http://localhost:2368/rss/">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
 
@@ -100,7 +99,7 @@
 
 <header class="main-header post-head " style="background-image: url(../content/images/2017/02/iot-devices.png)">
     <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="../index.html"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼" /></a>
+        <a class="blog-logo" href="http://localhost:2368"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
             <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -111,14 +110,14 @@
         <header class="post-header">
             <h1 class="post-title">IoT时代的设计</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="2017-02-20">20 February 2017</time>  on <a href="../tag/she-ji/index.html">设计</a>, <a href="../tag/iot/index.html">IoT</a>
+                <time class="post-date" datetime="2017-02-20">20 February 2017</time>  on <a href="../tag/she-ji/">设计</a>, <a href="../tag/iot/">IoT</a>
             </section>
         </header>
 
         <section class="post-content">
             <p>设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。</p>
 
-<p><img src="../content/images/2017/02/ui-evolution.png" alt="" /></p>
+<p><img src="../content/images/2017/02/ui-evolution.png" alt=""></p>
 
 <h2 id="">现有的设计范式</h2>
 
@@ -181,13 +180,13 @@
 
 <p>IoT即将出现大量不存在的交互，或未被者感知的交互，未来的对于「好的交互设计」将变成「更不被消费者感知的交互」，相信在未来五年里，将有更多的设计大会用「〇」作为大会的主题。例如，在Amazon Go的设计中，通过计算机视觉（Computer Vision）、传感器网络（Sensor Fusion）、以及深度学习（Deep Learning）技术，消费者完全脱离了屏幕或语音交互的束缚。</p>
 
-<p><img src="../content/images/2017/02/amazon-go.png" alt="" /></p>
+<p><img src="../content/images/2017/02/amazon-go.png" alt=""></p>
 
 <h4 id="perception">观感（Perception）的设计</h4>
 
 <p>数字技术已经早已超越技术本身，而建立其独立的「社会含义」，或称之为「增强人性（Augmented Humanity）」，诸如隐私、伦理、和道德都需要进行重新讨论，人类对技术的观感（Perception）需要考虑在设计当中去。例如，Amazon Echo选择用类似圆柱形音响的形态，必然考虑了欧美对于家庭音响的现有接受度。</p>
 
-<p><img src="../content/images/2017/02/amazon-echo_large.png" alt="" /></p>
+<p><img src="../content/images/2017/02/amazon-echo_large.png" alt=""></p>
 
 <h4 id="">独立的设计语言</h4>
 
@@ -197,7 +196,7 @@
 
 <p>IoT时代的重要特性还包含物理世界的信息被全面数字化和算法化，这使得独立设计语言背后还有一套并行的商业逻辑，传统的先客户后商业模式的设计思维可能发生变化，数据将独立成为设计思维中重要的一环，甚至成为新的入手点也并不为过。</p>
 
-<p><img src="../content/images/2017/02/design-thinking-iot.png" alt="" /></p>
+<p><img src="../content/images/2017/02/design-thinking-iot.png" alt=""></p>
 
 <h2 id="">写在最后</h2>
 
@@ -209,7 +208,7 @@
 
 <p>在最后，让我们来比较前IoT时代与IoT时代设计的区别。</p>
 
-<p><img src="../content/images/2017/02/iot-design-comparison-png-001.jpeg" alt="" /></p>
+<p><img src="../content/images/2017/02/iot-design-comparison-png-001.jpeg" alt=""></p>
 
 <p>在接下来的讨论里，我将对IoT时代的设计实践、理念、以及设计师做更多的讨论。</p>
         </section>
@@ -218,13 +217,13 @@
 
 
             <figure class="author-image">
-                <a class="img" href="../author/zichuan/index.html" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+                <a class="img" href="../author/zichuan/" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
             </figure>
 
             <section class="author">
-                <h4><a href="../author/zichuan/index.html">熊子川</a></h4>
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
 
-                    <p>Read <a href="../author/zichuan/index.html">more posts</a> by this author.</p>
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
                 <div class="author-meta">
                     <span class="author-location icon-location">San Francisco</span>
                     
@@ -234,16 +233,13 @@
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=IoT%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%BE%E8%AE%A1&amp;url=http://localhost:2368/design-in-iot-age/"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=IoT%E6%97%B6%E4%BB%A3%E7%9A%84%E8%AE%BE%E8%AE%A1&amp;url=http://localhost:2368/design-in-iot-age/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/design-in-iot-age/"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/design-in-iot-age/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/design-in-iot-age/"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/design-in-iot-age/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>
             </section>
@@ -255,16 +251,16 @@
 </main>
 
 <aside class="read-next">
-    <a class="read-next-story " style="background-image: url(https://images.pexels.com/photos/228799/pexels-photo-228799.jpeg?w&#x3D;1260&amp;h&#x3D;750&amp;auto&#x3D;compress&amp;cs&#x3D;tinysrgb)" href="../15-years-of-starbucks-digital-loyalty-part-1/index.html">
+    <a class="read-next-story " style="background-image: url(https://images.pexels.com/photos/228799/pexels-photo-228799.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb)" href="../15-years-of-starbucks-digital-loyalty-part-1/">
         <section class="post">
             <h2>星巴克数字忠诚十五年（上）</h2>
-            <p>2017年初，一条消息令所有北美零售商震动：星巴克用户所有存储在礼品卡和移动应用中的现金超过12亿美元，而这一成绩，超过了绝大多数美国银行机构（下图）。 在传统零售商中，星巴克将客户忠诚推至前所未有的高度，所有人都将这一成绩归结于其成功的移动支付平台，而事实上，这是其十五年客户忠诚度的长期积累。让我们回顾星巴克数字产品的十五年，看她是如何一步一步成长为数字忠诚的最佳案例之一的。 2001年：礼品卡 礼品卡（Gift Card）已经成为美国人生活的一部分，&hellip;</p>
+            <p>2017年初，一条消息令所有北美零售商震动：星巴克用户所有存储在礼品卡和移动应用中的现金超过12亿美元，而这一成绩，超过了绝大多数美国银行机构（下图）。 在传统零售商中，星巴克将客户忠诚推至前所未有的高度，所有人都将这一成绩归结于其成功的移动支付平台，而事实上，这是其十五年客户忠诚度的长期积累。让我们回顾星巴克数字产品的十五年，看她是如何一步一步成长为数字忠诚的最佳案例之一的。 2001年：礼品卡 礼品卡（Gift Card）已经成为美国人生活的一部分，…</p>
         </section>
     </a>
-    <a class="read-next-story prev no-cover" href="../work-with-chief-digital-officer/index.html">
+    <a class="read-next-story prev no-cover" href="../work-with-chief-digital-officer/">
         <section class="post">
             <h2>和首席数字官工作</h2>
-            <p>从去年开始，我开始和美国企业中的首席数字官（Chief Digital Officer）合作，这个在执行官（C-suites）中逐渐兴起的年轻职位，被认为是企业全面数字化转型的催化剂，而我所扮演的角色，则是「催化剂的催化剂」。 首席数字官在2012年逐渐兴起，其重要性，被认为将在2020年超越首席信息官（CIO）（参考）。然而，&hellip;</p>
+            <p>从去年开始，我开始和美国企业中的首席数字官（Chief Digital Officer）合作，这个在执行官（C-suites）中逐渐兴起的年轻职位，被认为是企业全面数字化转型的催化剂，而我所扮演的角色，则是「催化剂的催化剂」。 首席数字官在2012年逐渐兴起，其重要性，被认为将在2020年超越首席信息官（CIO）（参考）。然而，…</p>
         </section>
     </a>
 </aside>
@@ -272,7 +268,7 @@
 
 
         <footer class="site-footer clearfix">
-            <section class="copyright"><a href="../index.html">一只土贼</a> &copy; 2018</section>
+            <section class="copyright"><a href="http://localhost:2368">一只土贼</a> © 2018</section>
             <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
         </footer>
 
@@ -291,8 +287,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=2a6543447d"></script>
-    <script type="text/javascript" src="../assets/js/index.js?v=2a6543447d"></script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=1b27448807"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=1b27448807"></script>
 
 </body>
-</html>

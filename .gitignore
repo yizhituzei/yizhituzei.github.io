@@ -1,2 +1,8 @@
 
 buster/
+.DS_Store
+content/.DS_Store
+content/images/.DS_Store
+content/images/2017/.DS_Store
+page/.DS_Store
+.DS_Store

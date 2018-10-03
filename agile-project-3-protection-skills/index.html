@@ -1,42 +1,41 @@
-<!DOCTYPE html>
-<html>
+
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>二十二 敏捷项目的三层保护</title>
-    <meta name="description" content="" />
+    <meta name="description" content="">
 
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="shortcut icon" href="../favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=2a6543447d" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=1b27448807">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
 
-    <link rel="canonical" href="index.html" />
-    <meta name="referrer" content="origin" />
+    <link rel="canonical" href="http://localhost:2368/agile-project-3-protection-skills/">
+    <meta name="referrer" content="origin">
     
-    <meta property="og:site_name" content="一只土贼" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="二十二 敏捷项目的三层保护" />
-    <meta property="og:description" content="为什么需要保护？ 谁来保护？ 如何保护？ 敏捷项目因为透明而往往趋向于脆弱——一个鼓励提前暴露风险和缺陷的精益环境，它把交付团队的一切都展露无疑，风险或者坏味道在第一时间就可以被暴露。风险或缺陷的提前暴露，在某种情况下会引起客户的不安，如果没有适当的引导和疏解，这样的不安会变成很多“反敏捷”的动作，例如：填写每日工作日志审核，或者按照合同强压开发上。结果是，我们推崇的敏捷特性——越早发现缺陷，浪费越少——最后走向了敏捷的反面。 通常的做法，其实也是最简单的做法就是有选择性地暴露，对于某些影响小的，可控的风险或缺陷，只将它在团队内部暴露，希求在内部便解决，不至于告知客户让其过度紧张而强加失去理智之物于开发团队。但是，问题往往在于，作为交付团队思考的往往是功能实现上的风险，无法站在客户的角度思考便很难在所谓什么需要暴露，什么不需要暴露问题上缺乏审慎的判断。结果是，我们暴露的风险往往不是客户关注的风险，而我们隐藏的风险往往在最后对客户产生重大的影响。 的确，这个多由程序员组成的团队充满着技术和实现的心智模型，能够站在业务级别和客户达成一致的交付团队成员少之又少，那么一个成功的敏捷团队需要有一只保护团队，形成多层的保护网，让团队反馈的风险不至于让客户抓狂，又能让真正的风险及时解决。 这个保护团队的核心是业务分析师和项目经理的配合，而站在外围负责支援的客户代表（TW的标准配置中除了业务分析师BA、项目经理PM、客户代表Client Principal之外还有交付经理Delivery Assurance—" />
-    <meta property="og:url" content="http://localhost:2368/agile-project-3-protection-skills/" />
-    <meta property="og:image" content="http://localhost:2368/content/images/2015/04/shutterstock-93843220.jpg" />
-    <meta property="article:published_time" content="2010-08-14T00:03:00.000Z" />
-    <meta property="article:modified_time" content="2015-04-16T00:11:46.870Z" />
-    <meta property="article:tag" content="敏捷咨询日记" />
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="二十二 敏捷项目的三层保护">
+    <meta property="og:description" content="为什么需要保护？ 谁来保护？ 如何保护？ 敏捷项目因为透明而往往趋向于脆弱——一个鼓励提前暴露风险和缺陷的精益环境，它把交付团队的一切都展露无疑，风险或者坏味道在第一时间就可以被暴露。风险或缺陷的提前暴露，在某种情况下会引起客户的不安，如果没有适当的引导和疏解，这样的不安会变成很多“反敏捷”的动作，例如：填写每日工作日志审核，或者按照合同强压开发上。结果是，我们推崇的敏捷特性——越早发现缺陷，浪费越少——最后走向了敏捷的反面。 通常的做法，其实也是最简单的做法就是有选择性地暴露，对于某些影响小的，可控的风险或缺陷，只将它在团队内部暴露，希求在内部便解决，不至于告知客户让其过度紧张而强加失去理智之物于开发团队。但是，问题往往在于，作为交付团队思考的往往是功能实现上的风险，无法站在客户的角度思考便很难在所谓什么需要暴露，什么不需要暴露问题上缺乏审慎的判断。结果是，我们暴露的风险往往不是客户关注的风险，而我们隐藏的风险往往在最后对客户产生重大的影响。 的确，这个多由程序员组成的团队充满着技术和实现的心智模型，能够站在业务级别和客户达成一致的交付团队成员少之又少，那么一个成功的敏捷团队需要有一只保护团队，形成多层的保护网，让团队反馈的风险不至于让客户抓狂，又能让真正的风险及时解决。 这个保护团队的核心是业务分析师和项目经理的配合，而站在外围负责支援的客户代表（TW的标准配置中除了业务分析师BA、项目经理PM、客户代表Client Principal之外还有交付经理Delivery Assurance—">
+    <meta property="og:url" content="http://localhost:2368/agile-project-3-protection-skills/">
+    <meta property="og:image" content="http://localhost:2368/content/images/2015/04/shutterstock-93843220.jpg">
+    <meta property="article:published_time" content="2010-08-14T00:03:00.000Z">
+    <meta property="article:modified_time" content="2015-04-16T00:11:46.870Z">
+    <meta property="article:tag" content="敏捷咨询日记">
     
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="二十二 敏捷项目的三层保护" />
-    <meta name="twitter:description" content="为什么需要保护？ 谁来保护？ 如何保护？ 敏捷项目因为透明而往往趋向于脆弱——一个鼓励提前暴露风险和缺陷的精益环境，它把交付团队的一切都展露无疑，风险或者坏味道在第一时间就可以被暴露。风险或缺陷的提前暴露，在某种情况下会引起客户的不安，如果没有适当的引导和疏解，这样的不安会变成很多“反敏捷”的动作，例如：填写每日工作日志审核，或者按照合同强压开发上。结果是，我们推崇的敏捷特性——越早发现缺陷，浪费越少——最后走向了敏捷的反面。 通常的做法，其实也是最简单的做法就是有选择性地暴露，对于某些影响小的，可控的风险或缺陷，只将它在团队内部暴露，希求在内部便解决，不至于告知客户让其过度紧张而强加失去理智之物于开发团队。但是，问题往往在于，作为交付团队思考的往往是功能实现上的风险，无法站在客户的角度思考便很难在所谓什么需要暴露，什么不需要暴露问题上缺乏审慎的判断。结果是，我们暴露的风险往往不是客户关注的风险，而我们隐藏的风险往往在最后对客户产生重大的影响。 的确，这个多由程序员组成的团队充满着技术和实现的心智模型，能够站在业务级别和客户达成一致的交付团队成员少之又少，那么一个成功的敏捷团队需要有一只保护团队，形成多层的保护网，让团队反馈的风险不至于让客户抓狂，又能让真正的风险及时解决。 这个保护团队的核心是业务分析师和项目经理的配合，而站在外围负责支援的客户代表（TW的标准配置中除了业务分析师BA、项目经理PM、客户代表Client Principal之外还有交付经理Delivery Assurance—" />
-    <meta name="twitter:url" content="http://localhost:2368/agile-project-3-protection-skills/" />
-    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2015/04/shutterstock-93843220.jpg" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="熊子川" />
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="敏捷咨询日记" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="二十二 敏捷项目的三层保护">
+    <meta name="twitter:description" content="为什么需要保护？ 谁来保护？ 如何保护？ 敏捷项目因为透明而往往趋向于脆弱——一个鼓励提前暴露风险和缺陷的精益环境，它把交付团队的一切都展露无疑，风险或者坏味道在第一时间就可以被暴露。风险或缺陷的提前暴露，在某种情况下会引起客户的不安，如果没有适当的引导和疏解，这样的不安会变成很多“反敏捷”的动作，例如：填写每日工作日志审核，或者按照合同强压开发上。结果是，我们推崇的敏捷特性——越早发现缺陷，浪费越少——最后走向了敏捷的反面。 通常的做法，其实也是最简单的做法就是有选择性地暴露，对于某些影响小的，可控的风险或缺陷，只将它在团队内部暴露，希求在内部便解决，不至于告知客户让其过度紧张而强加失去理智之物于开发团队。但是，问题往往在于，作为交付团队思考的往往是功能实现上的风险，无法站在客户的角度思考便很难在所谓什么需要暴露，什么不需要暴露问题上缺乏审慎的判断。结果是，我们暴露的风险往往不是客户关注的风险，而我们隐藏的风险往往在最后对客户产生重大的影响。 的确，这个多由程序员组成的团队充满着技术和实现的心智模型，能够站在业务级别和客户达成一致的交付团队成员少之又少，那么一个成功的敏捷团队需要有一只保护团队，形成多层的保护网，让团队反馈的风险不至于让客户抓狂，又能让真正的风险及时解决。 这个保护团队的核心是业务分析师和项目经理的配合，而站在外围负责支援的客户代表（TW的标准配置中除了业务分析师BA、项目经理PM、客户代表Client Principal之外还有交付经理Delivery Assurance—">
+    <meta name="twitter:url" content="http://localhost:2368/agile-project-3-protection-skills/">
+    <meta name="twitter:image:src" content="http://localhost:2368/content/images/2015/04/shutterstock-93843220.jpg">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="敏捷咨询日记">
     
     <script type="application/ld+json">
 {
@@ -64,8 +63,8 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.8" />
-    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html" />
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="http://localhost:2368/rss/">
 </head>
 <body class="post-template tag-min-jie-zi-xun-ri-ji nav-closed">
 
@@ -75,19 +74,19 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-            <li class="nav-" role="presentation"><a href="../index.html">首页</a></li>
-            <li class="nav-" role="presentation"><a href="../about-me/index.html">关于我</a></li>
-            <li class="nav-english-article" role="presentation"><a href="../tag/english/index.html">English Article</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/index.html">和我工作</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/she-ji/index.html">设计</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/shang-ye/index.html">商业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/yi-meng/index.html">异梦</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/index.html">职业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/whatever/index.html">文骚</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a></li>
-            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/index.html">PPT设计</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/">首页</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="http://localhost:2368/tag/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/yi-meng/">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="http://localhost:2368/tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
     </ul>
-        <a class="subscribe-button icon-feed" href="../rss/index.html">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="http://localhost:2368/rss/">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
 
@@ -99,7 +98,7 @@
 
 <header class="main-header post-head " style="background-image: url(../content/images/2015/04/shutterstock-93843220.jpg)">
     <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="../index.html"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼" /></a>
+        <a class="blog-logo" href="http://localhost:2368"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
             <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -110,7 +109,7 @@
         <header class="post-header">
             <h1 class="post-title">二十二 敏捷项目的三层保护</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="2010-08-13">13 August 2010</time>  on <a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a>
+                <time class="post-date" datetime="2010-08-13">13 August 2010</time>  on <a href="../tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a>
             </section>
         </header>
 
@@ -152,13 +151,13 @@
 
 
             <figure class="author-image">
-                <a class="img" href="../author/zichuan/index.html" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+                <a class="img" href="../author/zichuan/" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
             </figure>
 
             <section class="author">
-                <h4><a href="../author/zichuan/index.html">熊子川</a></h4>
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
 
-                    <p>Read <a href="../author/zichuan/index.html">more posts</a> by this author.</p>
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
                 <div class="author-meta">
                     <span class="author-location icon-location">San Francisco</span>
                     
@@ -168,16 +167,13 @@
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E4%BA%8C%E5%8D%81%E4%BA%8C%20%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%B8%89%E5%B1%82%E4%BF%9D%E6%8A%A4&amp;url=http://localhost:2368/agile-project-3-protection-skills/"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E4%BA%8C%E5%8D%81%E4%BA%8C%20%E6%95%8F%E6%8D%B7%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%B8%89%E5%B1%82%E4%BF%9D%E6%8A%A4&amp;url=http://localhost:2368/agile-project-3-protection-skills/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/agile-project-3-protection-skills/"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/agile-project-3-protection-skills/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/agile-project-3-protection-skills/"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/agile-project-3-protection-skills/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>
             </section>
@@ -189,16 +185,16 @@
 </main>
 
 <aside class="read-next">
-    <a class="read-next-story " style="background-image: url(../content/images/2015/04/IMG_6039.png)" href="../how-to-keep-agile-going/index.html">
+    <a class="read-next-story " style="background-image: url(../content/images/2015/04/IMG_6039.png)" href="../how-to-keep-agile-going/">
         <section class="post">
             <h2>二十三 解决流于形式的敏捷实践</h2>
-            <p>面对慢慢流于形式的敏捷实践，该怎么办？ 在某些情况下，敏捷实践不能够坚持而流于形式。作为项目管理者，需要做的不是强行用行政手段强推实践，也不是放任自流，而应该做的分析这个实践所期待发挥的价值，采取正确的策略应对。 以当前团队中对于验收条件的态度变化为例。 在实践验收条件几个月之后，从各方的反馈来看，似乎验收条件不被重视： 对于开发人员来说，因为有详细的设计文档，大部分详细信息都在设计文档中体现，他们倾向于看文档一步一步完成，而不是通过验收条件找具体设计； 对于测试人员来说，&hellip;</p>
+            <p>面对慢慢流于形式的敏捷实践，该怎么办？ 在某些情况下，敏捷实践不能够坚持而流于形式。作为项目管理者，需要做的不是强行用行政手段强推实践，也不是放任自流，而应该做的分析这个实践所期待发挥的价值，采取正确的策略应对。 以当前团队中对于验收条件的态度变化为例。 在实践验收条件几个月之后，从各方的反馈来看，似乎验收条件不被重视： 对于开发人员来说，因为有详细的设计文档，大部分详细信息都在设计文档中体现，他们倾向于看文档一步一步完成，而不是通过验收条件找具体设计； 对于测试人员来说，…</p>
         </section>
     </a>
-    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/IMG_5953.png)" href="../after-agile/index.html">
+    <a class="read-next-story prev " style="background-image: url(../content/images/2015/04/IMG_5953.png)" href="http://127.0.0.1:2368/after-agile/">
         <section class="post">
             <h2>二十一 敏捷后</h2>
-            <p>没有路线图，实践终有一天会被忘记。 为什么我会觉得疲惫不堪且阻力重重，为什么似西西弗斯（Sisyphus）的巨石终日不得安息，为什么若置黑洞中旋转挣扎？敏捷实践不受保护，甚至被榨干每一点可能的改进，所有人都在焦虑等待敏捷能够带来的可以体会的好处时，敏捷本身到底应该何去何从？ 我们的敏捷实践是一个关于50多个善良可爱的底层开发者精益化自己这个小组织的故事。在这个组织里，业务组（负责业务逻辑的开发）便是核心的价值流，我们所有工作都围绕在保障业务组顺利进行开发的前提下，任何阻碍业务组开发活动的活动都应该被避免，其他小组任何超过业务组工作节奏的工作都应该被避免。&hellip;</p>
+            <p>没有路线图，实践终有一天会被忘记。 为什么我会觉得疲惫不堪且阻力重重，为什么似西西弗斯（Sisyphus）的巨石终日不得安息，为什么若置黑洞中旋转挣扎？敏捷实践不受保护，甚至被榨干每一点可能的改进，所有人都在焦虑等待敏捷能够带来的可以体会的好处时，敏捷本身到底应该何去何从？ 我们的敏捷实践是一个关于50多个善良可爱的底层开发者精益化自己这个小组织的故事。在这个组织里，业务组（负责业务逻辑的开发）便是核心的价值流，我们所有工作都围绕在保障业务组顺利进行开发的前提下，任何阻碍业务组开发活动的活动都应该被避免，其他小组任何超过业务组工作节奏的工作都应该被避免。…</p>
         </section>
     </a>
 </aside>
@@ -206,7 +202,7 @@
 
 
         <footer class="site-footer clearfix">
-            <section class="copyright"><a href="../index.html">一只土贼</a> &copy; 2018</section>
+            <section class="copyright"><a href="http://localhost:2368">一只土贼</a> © 2018</section>
             <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
         </footer>
 
@@ -225,8 +221,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=2a6543447d"></script>
-    <script type="text/javascript" src="../assets/js/index.js?v=2a6543447d"></script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=1b27448807"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=1b27448807"></script>
 
 </body>
-</html>

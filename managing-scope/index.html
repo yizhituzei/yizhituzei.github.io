@@ -1,40 +1,39 @@
-<!DOCTYPE html>
-<html>
+
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>需求风险的坏味道和对策</title>
-    <meta name="description" content="" />
+    <meta name="description" content="">
 
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="shortcut icon" href="../favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=2a6543447d" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=1b27448807">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
 
-    <link rel="canonical" href="index.html" />
-    <meta name="referrer" content="origin" />
+    <link rel="canonical" href="http://localhost:2368/managing-scope/">
+    <meta name="referrer" content="origin">
     
-    <meta property="og:site_name" content="一只土贼" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="需求风险的坏味道和对策" />
-    <meta property="og:description" content="大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。 这说起来似乎有些「缺少志向」，但是在现实中IT项目所面对的，除了软件工程本身的巨大挑战、还有技术之外的需求、设计、沟通、政治、分工、计划、等诸多变数，作为一个大型项目的负责人，一旦进入交付落地阶段，就应该进入「风险模式」。 而「控制需求」成为了「控制风险」中最重要的一环，换言之，一个失败的项目中，需求未得到有效的控制，往往是最重要的失败原因。本文将讨论多年来我在需求控制方面的一些心得。 识别坏味道 要明白软件工程是一件专业度很强的事情，你必须教育客户明白，什么是管理一个软件工程的「坏味道」，以下场景你是否似曾相识： 「这个需求我们实现过，只需要一周时间就可以完成」； 「关于这个需求你做一个方案给我选一选」、「这两个方案我都不喜欢，你们再想想？」； 「这是领导要的，我也没办法」； 「没有这个功能我们不能上线」。 当你听到这些话的时候，作为工程管理者的你，" />
-    <meta property="og:url" content="http://localhost:2368/managing-scope/" />
-    <meta property="article:published_time" content="2016-06-21T05:14:32.236Z" />
-    <meta property="article:modified_time" content="2016-06-21T05:14:32.233Z" />
-    <meta property="article:tag" content="敏捷" />
+    <meta property="og:site_name" content="一只土贼">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="需求风险的坏味道和对策">
+    <meta property="og:description" content="大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。 这说起来似乎有些「缺少志向」，但是在现实中IT项目所面对的，除了软件工程本身的巨大挑战、还有技术之外的需求、设计、沟通、政治、分工、计划、等诸多变数，作为一个大型项目的负责人，一旦进入交付落地阶段，就应该进入「风险模式」。 而「控制需求」成为了「控制风险」中最重要的一环，换言之，一个失败的项目中，需求未得到有效的控制，往往是最重要的失败原因。本文将讨论多年来我在需求控制方面的一些心得。 识别坏味道 要明白软件工程是一件专业度很强的事情，你必须教育客户明白，什么是管理一个软件工程的「坏味道」，以下场景你是否似曾相识： 「这个需求我们实现过，只需要一周时间就可以完成」； 「关于这个需求你做一个方案给我选一选」、「这两个方案我都不喜欢，你们再想想？」； 「这是领导要的，我也没办法」； 「没有这个功能我们不能上线」。 当你听到这些话的时候，作为工程管理者的你，">
+    <meta property="og:url" content="http://localhost:2368/managing-scope/">
+    <meta property="article:published_time" content="2016-06-21T05:14:32.236Z">
+    <meta property="article:modified_time" content="2016-06-21T05:14:32.233Z">
+    <meta property="article:tag" content="敏捷">
     
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="需求风险的坏味道和对策" />
-    <meta name="twitter:description" content="大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。 这说起来似乎有些「缺少志向」，但是在现实中IT项目所面对的，除了软件工程本身的巨大挑战、还有技术之外的需求、设计、沟通、政治、分工、计划、等诸多变数，作为一个大型项目的负责人，一旦进入交付落地阶段，就应该进入「风险模式」。 而「控制需求」成为了「控制风险」中最重要的一环，换言之，一个失败的项目中，需求未得到有效的控制，往往是最重要的失败原因。本文将讨论多年来我在需求控制方面的一些心得。 识别坏味道 要明白软件工程是一件专业度很强的事情，你必须教育客户明白，什么是管理一个软件工程的「坏味道」，以下场景你是否似曾相识： 「这个需求我们实现过，只需要一周时间就可以完成」； 「关于这个需求你做一个方案给我选一选」、「这两个方案我都不喜欢，你们再想想？」； 「这是领导要的，我也没办法」； 「没有这个功能我们不能上线」。 当你听到这些话的时候，作为工程管理者的你，" />
-    <meta name="twitter:url" content="http://localhost:2368/managing-scope/" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="熊子川" />
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="敏捷" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="需求风险的坏味道和对策">
+    <meta name="twitter:description" content="大部分项目上，我所承担的角色是帮助客户寻找到产品战略，并着手落地开始项目实施，在这个过程中，我需要强制自己从发散思维中迅速回到收敛思维、从机会导向迅速回到风险导向，因为大部分的IT项目都可能失败，成功对于IT项目而言很可能是「不失败」。 这说起来似乎有些「缺少志向」，但是在现实中IT项目所面对的，除了软件工程本身的巨大挑战、还有技术之外的需求、设计、沟通、政治、分工、计划、等诸多变数，作为一个大型项目的负责人，一旦进入交付落地阶段，就应该进入「风险模式」。 而「控制需求」成为了「控制风险」中最重要的一环，换言之，一个失败的项目中，需求未得到有效的控制，往往是最重要的失败原因。本文将讨论多年来我在需求控制方面的一些心得。 识别坏味道 要明白软件工程是一件专业度很强的事情，你必须教育客户明白，什么是管理一个软件工程的「坏味道」，以下场景你是否似曾相识： 「这个需求我们实现过，只需要一周时间就可以完成」； 「关于这个需求你做一个方案给我选一选」、「这两个方案我都不喜欢，你们再想想？」； 「这是领导要的，我也没办法」； 「没有这个功能我们不能上线」。 当你听到这些话的时候，作为工程管理者的你，">
+    <meta name="twitter:url" content="http://localhost:2368/managing-scope/">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="熊子川">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="敏捷">
     
     <script type="application/ld+json">
 {
@@ -61,8 +60,8 @@
 }
     </script>
 
-    <meta name="generator" content="Ghost 0.8" />
-    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="../rss/index.html" />
+    <meta name="generator" content="Ghost 0.8">
+    <link rel="alternate" type="application/rss+xml" title="一只土贼" href="http://localhost:2368/rss/">
 </head>
 <body class="post-template tag-min-jie nav-closed">
 
@@ -72,19 +71,19 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-            <li class="nav-" role="presentation"><a href="../index.html">首页</a></li>
-            <li class="nav-" role="presentation"><a href="../about-me/index.html">关于我</a></li>
-            <li class="nav-english-article" role="presentation"><a href="../tag/english/index.html">English Article</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhao-mu/index.html">和我工作</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/she-ji/index.html">设计</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/shang-ye/index.html">商业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/yi-meng/index.html">异梦</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/zhi-ye/index.html">职业</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/whatever/index.html">文骚</a></li>
-            <li class="nav-" role="presentation"><a href="../tag/min-jie-zi-xun-ri-ji/index.html">敏捷咨询日记</a></li>
-            <li class="nav-ppt" role="presentation"><a href="../tag/zhi-zuo-she-ji-gan-pptde-jian-yi/index.html">PPT设计</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/">首页</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/about-me/">关于我</a></li>
+            <li class="nav-english-article" role="presentation"><a href="http://localhost:2368/tag/english/">English Article</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/zhao-mu/">和我工作</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/she-ji/">设计</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/shang-ye/">商业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/yi-meng/">异梦</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/zhi-ye/">职业</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/whatever/">文骚</a></li>
+            <li class="nav-" role="presentation"><a href="http://localhost:2368/tag/min-jie-zi-xun-ri-ji/">敏捷咨询日记</a></li>
+            <li class="nav-ppt" role="presentation"><a href="http://localhost:2368/tag/zhi-zuo-she-ji-gan-pptde-jian-yi/">PPT设计</a></li>
     </ul>
-        <a class="subscribe-button icon-feed" href="../rss/index.html">Subscribe</a>
+        <a class="subscribe-button icon-feed" href="http://localhost:2368/rss/">Subscribe</a>
 </div>
 <span class="nav-cover"></span>
 
@@ -96,7 +95,7 @@
 
 <header class="main-header post-head no-cover">
     <nav class="main-nav  clearfix">
-        <a class="blog-logo" href="../index.html"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼" /></a>
+        <a class="blog-logo" href="http://localhost:2368"><img src="../content/images/2015/04/tuzei-logo-1.png" alt="一只土贼"></a>
             <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
     </nav>
 </header>
@@ -107,7 +106,7 @@
         <header class="post-header">
             <h1 class="post-title">需求风险的坏味道和对策</h1>
             <section class="post-meta">
-                <time class="post-date" datetime="2016-06-20">20 June 2016</time>  on <a href="../tag/min-jie/index.html">敏捷</a>
+                <time class="post-date" datetime="2016-06-20">20 June 2016</time>  on <a href="../tag/min-jie/">敏捷</a>
             </section>
         </header>
 
@@ -164,7 +163,7 @@
 <li>每周一次的Newsletter，一些易于传播的图片、小视频等。</li>
 </ul>
 
-<p><img src="../content/images/2016/06/client-interview.png" alt="" />
+<p><img src="../content/images/2016/06/client-interview.png" alt="">
 （<em>将项目过程拍摄成专业视频供组织内传播，以此接触高层决策者</em>）</p>
 
 <p>这些内容被我们的客户传播给了他的上级，甚至上级的上级，不一定要等到成功的项目，我们就已经将影响力传递到了决策者，这使得你和你的客户不再是甲乙方的关系，而是合作者，明确这个地位，才是接近决策者的重要意义。</p>
@@ -180,7 +179,7 @@
 <li>是否应该将某一关系变复杂。</li>
 </ul>
 
-<p><img src="../content/images/2016/06/system-evolvement.png" alt="" />
+<p><img src="../content/images/2016/06/system-evolvement.png" alt="">
 (<em>用系统复杂度的增量方式，包括新增/加强概念和新增/加强关系来建立概念系统模型，用概念模型来讨论需求</em>)</p>
 
 <p>这套「概念系统」应该持续存在于你的脑海里，一旦新的需求出现，你就需要对这个需求做出以下决策：</p>
@@ -223,7 +222,7 @@
 
 <p>把所有的需求讨论放在对于这一系列结果的影响上，而不过多讨论具体实现方式：有了它跟哪个核心结果有关？有了它会对这个核心结果有什么影响？没有它呢？</p>
 
-<p><img src="../content/images/2016/06/outcome-management.png" alt="" />
+<p><img src="../content/images/2016/06/outcome-management.png" alt="">
 (<em>一个用简单Outcome Dashboard来管理需求的例子，通过考察需求对业务结果的影响来规划需求</em>)</p>
 
 <p>切记一点，不是因为东西难就不做、也不是因为东西简单就做，而是思考一个需求对于整体结果的影响。换句话说，一个产品的上线，应该是一系列结果的上线，而不是一系列需求的上线，需求是结果的副产品，应该有产品经理、设计师、架构师来保证，你只需要和客户讨论<strong>「最终产品在多大程度上导致了所期待的结果」。</strong></p>
@@ -254,7 +253,7 @@
 
 <p>特别在需求的前期，讨论越多需求，流入后期的需求范围就越大，在一开始就应该建立需求规则的概念，什么该谈、什么不该谈，而不是简单跳过（例如放入Parking Lot）；</p>
 
-<p><img src="../content/images/2016/06/scope-principle.jpg" alt="" />
+<p><img src="../content/images/2016/06/scope-principle.jpg" alt="">
 (<em>在前期需求规划中我们就设定了严格准入标准，任何需求的讨论，如果不符合这些规则，都坚决不谈</em>)</p>
 
 <h6 id="">交付大于一切</h6>
@@ -283,13 +282,13 @@
 
 
             <figure class="author-image">
-                <a class="img" href="../author/zichuan/index.html" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
+                <a class="img" href="../author/zichuan/" style="background-image: url(../content/images/2015/09/image_1442553695-265918.jpg)"><span class="hidden">熊子川's Picture</span></a>
             </figure>
 
             <section class="author">
-                <h4><a href="../author/zichuan/index.html">熊子川</a></h4>
+                <h4><a href="../author/zichuan/">熊子川</a></h4>
 
-                    <p>Read <a href="../author/zichuan/index.html">more posts</a> by this author.</p>
+                    <p>Read <a href="../author/zichuan/">more posts</a> by this author.</p>
                 <div class="author-meta">
                     <span class="author-location icon-location">San Francisco</span>
                     
@@ -299,16 +298,13 @@
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E9%9C%80%E6%B1%82%E9%A3%8E%E9%99%A9%E7%9A%84%E5%9D%8F%E5%91%B3%E9%81%93%E5%92%8C%E5%AF%B9%E7%AD%96&amp;url=http://localhost:2368/managing-scope/"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=%E9%9C%80%E6%B1%82%E9%A3%8E%E9%99%A9%E7%9A%84%E5%9D%8F%E5%91%B3%E9%81%93%E5%92%8C%E5%AF%B9%E7%AD%96&amp;url=http://localhost:2368/managing-scope/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/managing-scope/"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/managing-scope/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/managing-scope/"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/managing-scope/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>
             </section>
@@ -320,16 +316,16 @@
 </main>
 
 <aside class="read-next">
-    <a class="read-next-story " style="background-image: url(../content/images/2016/06/pcb-design-service02.png)" href="../hardware-prototype-kickoff/index.html">
+    <a class="read-next-story " style="background-image: url(../content/images/2016/06/pcb-design-service02.png)" href="../hardware-prototype-kickoff/">
         <section class="post">
             <h2>两周启动新硬件产品原型期</h2>
-            <p>硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括： 周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上； 研发环节中涉及到的技术能力和实践特别多； 风险极大，返工几乎是必然的； 涉及到硬件的需求变更的成本极大； 传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。 而新硬件产品的设计研发又使得整体风险和难度成倍增加，这里的新硬件产品是指： 缺少现有标准硬件方案； 新的用户使用场景； 多个已有方案的整合； 对于硬件选型有苛刻的要求。 过去8年里，&hellip;</p>
+            <p>硬件产品的设计研发与软件产品有着诸多显著的区别，其中包括： 周期长，通常一个一般复杂程度的硬件产品研发周期在一年以上； 研发环节中涉及到的技术能力和实践特别多； 风险极大，返工几乎是必然的； 涉及到硬件的需求变更的成本极大； 传统精益/敏捷软件交付中的持续集成、持续反馈、精益设计等实践仍缺少最佳实践。 而新硬件产品的设计研发又使得整体风险和难度成倍增加，这里的新硬件产品是指： 缺少现有标准硬件方案； 新的用户使用场景； 多个已有方案的整合； 对于硬件选型有苛刻的要求。 过去8年里，…</p>
         </section>
     </a>
-    <a class="read-next-story prev no-cover" href="../company-vision/index.html">
+    <a class="read-next-story prev no-cover" href="../company-vision/">
         <section class="post">
             <h2>建立公司愿景</h2>
-            <p>本文是《战略十篇》的第三篇书稿，来自于James C. Collins和Jerry I. Porras刊载于1996年9-10月《哈佛商业评论》的《Building Your Company's Vision》，文章可以在Academia上找到。 伟大公司所求为「基业长青（Build to&hellip;</p>
+            <p>本文是《战略十篇》的第三篇书稿，来自于James C. Collins和Jerry I. Porras刊载于1996年9-10月《哈佛商业评论》的《Building Your Company's Vision》，文章可以在Academia上找到。 伟大公司所求为「基业长青（Build to…</p>
         </section>
     </a>
 </aside>
@@ -337,7 +333,7 @@
 
 
         <footer class="site-footer clearfix">
-            <section class="copyright"><a href="../index.html">一只土贼</a> &copy; 2018</section>
+            <section class="copyright"><a href="http://localhost:2368">一只土贼</a> © 2018</section>
             <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
         </footer>
 
@@ -356,8 +352,7 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=2a6543447d"></script>
-    <script type="text/javascript" src="../assets/js/index.js?v=2a6543447d"></script>
+    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=1b27448807"></script>
+    <script type="text/javascript" src="../assets/js/index.js?v=1b27448807"></script>
 
 </body>
-</html>
