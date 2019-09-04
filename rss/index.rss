@@ -1,4 +1,392 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 13 Mar 2018 00:01:54 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[BBVA数字十年]]></title><description><![CDATA[<p>2017年9月27日，超过160年历史、西班牙第二大银行BBVA的首席财务官Jaime Sáenz de Tejada<a href="https://www.bbva.com/en/results-digital-transformation-already-tangible/">宣布</a>「数字转型的成果已经具备商业可量化性」。去年12月，其数字化转型的重要指标「数字渠道占有率」在<a href="https://www.bbva.com/en/bbva-reaches-digital-tipping-point-spain/">西班牙本土首次突破50%的门槛</a>，其11个主要国家市场中已有6个完成数字化转折点（Digital Tipping Point）的目标。</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 04 Sep 2019 19:24:00 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
+
+<p>传统数据平台改造、治理、基础设施、数据能力的构建方式可能基于一个完全不同于以往的逻辑，即企业数据平台（Data Platform）正在进入一个范例变革（Paradigm Shift）的阶段。</p>
+
+<h2 id="">传统企业数据平台的演进</h2>
+
+<p>传统企业数据平台的演进主要有三个重要阶段：</p>
+
+<ol>
+<li>第一阶段，基于企业级数据仓库的BI能力；  </li>
+<li>第二阶段，以数据湖为代表的大数据生态系统；  </li>
+<li>第三阶段，基于云的数据平台，亦为当前主流的混合实践模式，包含实时数据流处理架构、整合批量与流处理的框架、以及结合云端存储、流水线、以及机器学习能力。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2019/09/data-platform-paradigm.png" alt=""></p>
+
+<h2 id="">企业数据平台的失败</h2>
+
+<p>NewVantage Partners公司从2012年起，面向财富1000企业管理层调研大数据和AI在其企业内的实施情况，</p>]]></description><link>http://localhost:2368/distributed-data-mesh/</link><guid isPermaLink="false">3470d53f-8945-42d2-b238-2a50096a42ed</guid><category><![CDATA[数据]]></category><category><![CDATA[技术架构]]></category><category><![CDATA[平台]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Wed, 04 Sep 2019 19:23:43 GMT</pubDate><media:content url="http://localhost:2368/content/images/2019/09/joel-filipe-uHJubAEZklE-unsplash.jpg" medium="image"/><content:encoded><![CDATA[<img src="http://localhost:2368/content/images/2019/09/joel-filipe-uHJubAEZklE-unsplash.jpg" alt="分布式数据平台Data Mesh"><p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
+
+<p>传统数据平台改造、治理、基础设施、数据能力的构建方式可能基于一个完全不同于以往的逻辑，即企业数据平台（Data Platform）正在进入一个范例变革（Paradigm Shift）的阶段。</p>
+
+<h2 id="">传统企业数据平台的演进</h2>
+
+<p>传统企业数据平台的演进主要有三个重要阶段：</p>
+
+<ol>
+<li>第一阶段，基于企业级数据仓库的BI能力；  </li>
+<li>第二阶段，以数据湖为代表的大数据生态系统；  </li>
+<li>第三阶段，基于云的数据平台，亦为当前主流的混合实践模式，包含实时数据流处理架构、整合批量与流处理的框架、以及结合云端存储、流水线、以及机器学习能力。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2019/09/data-platform-paradigm.png" alt="分布式数据平台Data Mesh"></p>
+
+<h2 id="">企业数据平台的失败</h2>
+
+<p>NewVantage Partners公司从2012年起，面向财富1000企业管理层调研大数据和AI在其企业内的实施情况，<a href="http://newvantage.com/wp-content/uploads/2018/12/Big-Data-Executive-Survey-2019-Findings-122718.pdf">该报告</a>2019年揭示了整个企业数据平台领域的窘迫——尽管在大数据和AI领域投入超过5亿美元的公司较上一年增长了66%，在65家受访企业里回应「未能或尚早体现可量化业务结果」的企业增加了41%。</p>
+
+<p>在研究企业数据平台项目失败案例中我们发现如下四个核心原因：</p>
+
+<ol>
+<li><strong>启动难：</strong>缺少用例支持，无法获得业务支持；长时间的数据湖设计与技术评估；需要统一组织内多个业务或技术部门；  </li>
+<li><strong>数据源难以规模化：</strong>缺少手段对错综复杂的源数据系统进行疏浚与管理；难以跟上不断增长的数据源系统规模；  </li>
+<li><strong>数据使用难以规模化：</strong>数据平台项目跟不上企业创新要求；用例过窄，难以满足规模化需求；平台能力跟不上错综复杂的用例需求；  </li>
+<li><strong>难以实现数据商业化：</strong>极高的开发和运营成本；难以将数据平台真正转化为商业竞争力；难以形成创新文化。</li>
+</ol>
+
+<p>如果我们把企业数据平台的成功要素集中在：在错综复杂的企业技术环境中快速启动；规模化地引入高价值的新数据源和使用场景；尽早实现数据对整个企业商业系统的价值（对内或对外）。</p>
+
+<p>那么，我们需要怎样一种技术架构思想？</p>
+
+<h2 id="">反思单体架构的模式</h2>
+
+<p>企业数据平台从第一到第三个阶段的演进过程中，无一例外地延续着一个单体架构（Monolithic Architecture）的核心模式，只是这个架构的表现形式从一个严格划分的数据仓库、变成被专业化和神秘化数据湖、最终转化成一个多种实践模式的混合。</p>
+
+<p>在数据的产出与消费之间，总有一个庞然大物——</p>
+
+<ol>
+<li>在分布在企业无数角落，在各种上下文中收集数据；  </li>
+<li>对数据进行清洗、扩充、和转换；  </li>
+<li>为数据的消费方，例如报表、分析、以及机器学习平台提供实时或批量的数据集。</li>
+</ol>
+
+<p>这种单体式的架构思想在应用在构建企业数据平台时，自然出现了上文所述的巨大挑战——难以启动、难以规模化、以及难以商业化。最终的底线是大多企业数据平台项目在经历了三到五年的巨大投入后，完全获得预期收益。</p>
+
+<p>应对单体架构的弱势，在企业应用架构领域出现微服务（Microservices）架构的演进，以获得单体架构不可比拟的优势包括：</p>
+
+<ol>
+<li>超大规模应用的持续构建和交付能力；  </li>
+<li>高业务复杂度业务上下文中更高细粒度的业务扩展；  </li>
+<li>独立部署带来的更高可用性；  </li>
+<li>可演进的技术栈。</li>
+</ol>
+
+<p>单体式架构优势在于结构简单、数据一致性高、持续部署难度低，这一构架自然弱化了团队对频繁部署、团队灵活性、持续交付、以及技术债管理的需要。</p>
+
+<p>在企业应用架构的上下文中，技术团队在选择微服务架构或单体式架构时所考虑的，是：</p>
+
+<ol>
+<li>应用是否拥有一个庞大的代码体系同时又需要持续交付；  </li>
+<li>业务逻辑是否可能频繁出现更细粒度的扩展；  </li>
+<li>业务扩展对应用的可用性有极高需求；  </li>
+<li>技术债是否需要更激进的管理；  </li>
+<li>技术选型是否需要演进。</li>
+</ol>
+
+<p>这些问题的答案如果都是「是」，那么团队就有理由转向微服务架构。</p>
+
+<p>如果我们回到企业数据平台的上下文中来反思这五个问题：</p>
+
+<ol>
+<li>目前企业广泛使用单体式架构，数据的沉淀、处理、和使用基本存在于错综复杂的源系统（Source Systems）中，其代码体系一定是庞大的；  </li>
+<li>数据创新的本质就是更细粒度业务的发现、实现、和规模化，数据使用场景一定发生频繁的细粒度扩展；  </li>
+<li>由于商业和法规环境的不同，数据场景的使用有极高的独立性，在地业务需要数据平台根据需求提供稳定且独特的数据服务；  </li>
+<li>数据平台面向的往往就是一个庞大的技术债，数据平台必须和技术债管理集中在一起考虑；  </li>
+<li>在云平台和开源数据工具蓬勃演进的今天，企业需要更快地引进新的数据工具和基础设施，其技术栈需要更快的演进。</li>
+</ol>
+
+<p>从这五个反思我们可以大胆的提出，单体式企业数据平台必然需要向具有微服务特性的分布式数据平台演进。</p>
+
+<h2 id="datamesh">什么是分布式数据平台Data Mesh？</h2>
+
+<p>一个分布式数据平台的核心是一组用面向域的数据或ML产品、用自服务的方式使用数据技术设施提供的数据流水线（清洗、组合、丰富等）或合规（数据鉴权、隐私、安全等）的公共服务、并接受数据产品思维的设计和管理。</p>
+
+<p>其目的，是帮助企业：</p>
+
+<ol>
+<li>在合规的基础上获得规模化的数据能力交付；  </li>
+<li>将规模化的数据能力引入到不同业务场景；  </li>
+<li>保持数据的质量、合规、以及安全性；  </li>
+<li>保持技术栈的多样性，吸引数据领域新的技术框架和数据人才。</li>
+</ol>
+
+<p>一个具有分布式特点的企业数据平台，应该具备以下三个特点：</p>
+
+<h3 id="">面向域的数据架构</h3>
+
+<p>面向域（Domain-oriented）的数据或ML产品是分布式数据平台最小的「业务单元」，它们相互合作承担了绝大部分平台可见的价值。一个典型的数据或ML产品的架构包含以下四个组件：</p>
+
+<ol>
+<li>一组Polylot数据接口（导入或导出）；  </li>
+<li>一个具有领域特点的边界；  </li>
+<li>一组内置的数据流水线；  </li>
+<li>一组连接基础设施控制接口（如日志）。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2019/09/Data-Product-Architecture.png" alt="分布式数据平台Data Mesh"></p>
+
+<p>每一个数据或ML产品都具有独立的灵活技术栈选择、可发现、可寻址、自解释、合规、安全、可管理、可扩展、以及相互运营性。任何一个面向域的数据或ML产品都有以下特点：</p>
+
+<ol>
+<li>支持一个端到端的用例（Use Case）；  </li>
+<li>连接数据生产（Production）和消费（Consumption）两端；  </li>
+<li>在生产和消费两端是一系列能力组成的价值链，并具有规模化的特性；  </li>
+<li>数据生产和消费方式是不断变化的；  </li>
+<li>关于如何使用这些产品，需要改变现有数据生产和消费的方式；  </li>
+<li>有可能根据需要裂变或重新组合；</li>
+</ol>
+
+<p>这种分布式架构保证企业在更复杂多变的业务场景中获得最大灵活度且可扩展的数据能力。</p>
+
+<h3 id="">自服务的平台基础设施</h3>
+
+<p>数据能力的构建是一项复杂的工程实践，分布式数据平台的另一个重要特性是将最具普遍代表性的基础设施使用行为进行自动化、中心化、和规模化。我们选取以下七项最重要的数据基础设施能力作为企业的优选：</p>
+
+<ol>
+<li>数据快照Data Snapshotting；  </li>
+<li>源数据描述Self-describing Library;  </li>
+<li>原始副本Raw Copy；  </li>
+<li>数据产品模板Data Product Template；  </li>
+<li>数据格式转换Data Format Conversion；  </li>
+<li>数据流水线模板Data Pipeline Templates；  </li>
+<li>日志和追踪Logging &amp; Traceability。</li>
+</ol>
+
+<p>随着平台的逐渐成熟，不同行业选择什么样的基础设施，如何实现，都可能发生变化，企业需要根据自身情况选择最具有规模性和价值的能力进行投资。这些能力基于数据基础设施自服务平台、通过控制接口供给给独立的数据或ML产品，最终实现基础设施能力的自动化和规模化。</p>
+
+<p><img src="http://localhost:2368/content/images/2019/09/Data-Product-and-Infra.png" alt="分布式数据平台Data Mesh"></p>
+
+<h3 id="">数据产品思维</h3>
+
+<p>数据或ML产品支持一个端到端的用例，且拥有生产和消费两端，这样的特性和应用领域的产品实践类似，数据产品思维提出了一个「数据产品经理」的概念，其职责包括：</p>
+
+<ol>
+<li>管理用例，不断发现那些规模化的使用场景，修正现有用例，连接数据生产和消费两端；  </li>
+<li>管理价值链，决定数据产品所需要的核心能力，和技术架构师设计解决方案；  </li>
+<li>在企业洞察数据生产和消费的行为，鼓励正向行为（例如鼓励数据发现Data Discovery），修正那些不符合数据平台思想的行为，不断提高使用率（Adoption Rate）；  </li>
+<li>演进数据产品的设计。</li>
+</ol>
+
+<p>同时，还有三个方向的产品思维需要思考.</p>
+
+<p>首先，数据平台中两个基础设施（数据基础设施和ML基础设施）的建设需要通过产品管理的方式进行构建，原因有如下几点：</p>
+
+<ol>
+<li>基础设施的建设范围和顺序，由其支持的数据或ML产品是否有规模化的使用需要决定；  </li>
+<li>对基础设施的使用方式也并非永恒不变，一方面来自于使用者（数据或ML产品）本身的需求变化，另外一方面则来自于工具集本身的快速演进（来自于开源社区或云），平台需要不断寻找更好的方式满足不断变化的需求；  </li>
+<li>使用新的基础设施工具同时产生新的行为和流程。</li>
+</ol>
+
+<p>以上几点原因决定了数据或ML基础设施方向的产品经理以下职责：</p>
+
+<ol>
+<li>决定所辖基础设施建设的路线图；  </li>
+<li>了解使用者的需求变化、紧跟开源社区或云端工具的变化，按照需要演进技术栈；  </li>
+<li>对新的流程和工具在组织内进行导入, 提高基础设施的使用率。</li>
+</ol>
+
+<p>其次，分布式数据平台的构建必然挑战现有围绕在单体式架构系统的IT组织架构——数据的生产、存储、处理、和使用都被固化在每个单体系统中，其组织模式也一定是分散在每个系统中的。这意味着平台级的组织转型，需要在数据平台的基础上定义一个平台级的产品负责人，其职责包括：</p>
+
+<ol>
+<li>洞察域以及边界，平衡多个域上下文的冲突问题，用高抽象的语言不不同域的数据生产者和消费者解释；  </li>
+<li>不断向业务部门和管理层描述数据平台的业务价值；  </li>
+<li>面对一个高内聚、低耦合的平台，建立必要的标准、工作方式、沟通原则等；  </li>
+<li>设定数据平台产品经理（数据/ML产品方向或基础设施方向）级的KPI，负责其成长。</li>
+</ol>
+
+<p>最后，在我们的实践中发现，分布式数据平台的方式将挑战许多现有部门的工作方式，特别是信息安全、企业基础设施支持、合规、第三方数据提供商等。我们需一个组织级别协调者的存在，其职责包括：</p>
+
+<ol>
+<li>协调其他部门，必要时抽调人员互相驻场以解决摩擦的问题；  </li>
+<li>在不同部门中宣传分布式数据平台对于企业向数据转型的价值；  </li>
+<li>对第三方数据提供商提出新的要求，可能涉及第三方的平台使用场景。</li>
+</ol>
+
+<p>我们认为，这四类产品管理类岗位，是企业通过分布式数据平台进行企业数据战略转型的基础。</p>
+
+<h3 id="">基于持续集成的交付基础设施</h3>
+
+<p>分布式数据平台的最终目的是在企业真正形成具备灵活性、规模化、以及演进性的数据能力平台，这就需要和企业现有的持续集成基础设施进行整合，整合场景包含：</p>
+
+<ol>
+<li>分布在每个数据或ML产品中数据流水线的构建质量可以有统一的交付基础设施进行管理以及可视化；  </li>
+<li>所有自服务数据基础设施上的能力可以通过企业现有持续集成平台进行质量控制；  </li>
+<li>具体数据或ML产品提供能力可以通过现有持续集成平台进行质量保证。</li>
+</ol>
+
+<p>到此，我们介绍了分布式数据平台的四个重要组成部分，它们分别是：</p>
+
+<ol>
+<li>具有领域特征的数据或ML产品；  </li>
+<li>自服务的数据基础设施；  </li>
+<li>具有产品思维特性的管理方式和角色；  </li>
+<li>基于持续集成的交付基础设施。</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2019/09/Data-Mesh-Architecture-1.png" alt="分布式数据平台Data Mesh"></p>
+
+<h2 id="">写在最后</h2>
+
+<p>企业数据平台的演进经历了从数据仓库、到数据湖、再到云的过程，在过去的五年里，耗费巨资建设的数据平台难以获得预期收益，我们认为，就像以微服务（Microservices）为代表的分布式思想，在数据领域正在引发一次范式变革。</p>
+
+<p>互联网革新正在成为常态，企业正在向下一代、即数据企业进行演进，我们需要新的架构思想、技术实现、和组织结构，在这个背景下，我们提出了一个分布式数据平台Data Mesh的概念、架构设计、以及治理方式，它的目标是帮助企业获得与时俱进的、灵活且规模化的、面向业务领域的广泛数据能力，帮助企业实现数据转型。</p>
+
+<p>下一篇，我们将谈到分布式数据平台Data Mesh的实施与挑战。</p>]]></content:encoded></item><item><title><![CDATA[决策要义]]></title><description><![CDATA[<p>《战略十篇》的最后一篇书稿，来自于Paul Rogers和Marcia Blenko ，原文刊于《哈佛商业评论》2006年1月刊（<a href="https://hbr.org/2006/01/who-has-the-d-how-clear-decision-roles-enhance-organizational-performance">链接</a>）。</p>
+
+<p>决策是任何商业形式最重要的活动，也是所有领导者的必要能力；决策的低效与失效直接伤害企业绩效和领导表现，相反，高效决策往往与高效企业和领导者强相关。</p>
+
+<p>那么决策失败的根源来自何处？让我们回到企业的决策环境。</p>
+
+<p>从外部来看，市场需求的快速变化弱化了完美逻辑和广泛数据对决策的效用，企业需要在调研不完备、准备不充分的情况下进行决策；</p>
+
+<p>从内部来看，由外界环境驱动，现代企业逐步用边界模糊、更灵活的小群体关系取代分工明确的大部门关系，以实现高响应力，跨部门或跨职能的协作增多，职责变得模糊，同时，当职责模糊的执行者经常性思考「这是不是我该考虑的事情」时，这种模糊性将拖累决策效率。</p>
+
+<p>为了换取更高的市场响应速度，现代管理者不得不思考：「如何既要模糊性（Ambiguity）带来的快速响应优势、又缩小其对决策效率的负面影响」这便是作者所阐述核心逻辑所期待解决的问题，即RAPID模型。</p>
+
+<h3 id="">关键决策瓶颈</h3>
+
+<p>大部分公司的决策问题集中在以下场景，它们是：</p>
+
+<ul>
+<li>全球还是本地？</li>
+<li>集权还是放权？</li>
+<li>跨功能协作；</li>
+<li>自有还是外部能力？</li>
+</ul>
+
+<p>此四场景的共同逻辑是：</p>
+
+<ul>
+<li>明显由利益诉求（如总部诉求与在地业务诉求的区别）</li></ul>]]></description><link>http://localhost:2368/clear-decision-role/</link><guid isPermaLink="false">b50f6d32-53e5-4369-abdd-4eef727dddce</guid><category><![CDATA[战略十篇]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Tue, 02 Oct 2018 23:18:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2018/10/roads-unsplash.jpg" medium="image"/><content:encoded><![CDATA[<img src="http://localhost:2368/content/images/2018/10/roads-unsplash.jpg" alt="决策要义"><p>《战略十篇》的最后一篇书稿，来自于Paul Rogers和Marcia Blenko ，原文刊于《哈佛商业评论》2006年1月刊（<a href="https://hbr.org/2006/01/who-has-the-d-how-clear-decision-roles-enhance-organizational-performance">链接</a>）。</p>
+
+<p>决策是任何商业形式最重要的活动，也是所有领导者的必要能力；决策的低效与失效直接伤害企业绩效和领导表现，相反，高效决策往往与高效企业和领导者强相关。</p>
+
+<p>那么决策失败的根源来自何处？让我们回到企业的决策环境。</p>
+
+<p>从外部来看，市场需求的快速变化弱化了完美逻辑和广泛数据对决策的效用，企业需要在调研不完备、准备不充分的情况下进行决策；</p>
+
+<p>从内部来看，由外界环境驱动，现代企业逐步用边界模糊、更灵活的小群体关系取代分工明确的大部门关系，以实现高响应力，跨部门或跨职能的协作增多，职责变得模糊，同时，当职责模糊的执行者经常性思考「这是不是我该考虑的事情」时，这种模糊性将拖累决策效率。</p>
+
+<p>为了换取更高的市场响应速度，现代管理者不得不思考：「如何既要模糊性（Ambiguity）带来的快速响应优势、又缩小其对决策效率的负面影响」这便是作者所阐述核心逻辑所期待解决的问题，即RAPID模型。</p>
+
+<h3 id="">关键决策瓶颈</h3>
+
+<p>大部分公司的决策问题集中在以下场景，它们是：</p>
+
+<ul>
+<li>全球还是本地？</li>
+<li>集权还是放权？</li>
+<li>跨功能协作；</li>
+<li>自有还是外部能力？</li>
+</ul>
+
+<p>此四场景的共同逻辑是：</p>
+
+<ul>
+<li>明显由利益诉求（如总部诉求与在地业务诉求的区别）所产生的边界；</li>
+<li>由边界产生的不同上下文；</li>
+<li>不同上下文下无法统一定义的职责。</li>
+</ul>
+
+<p>理解这些共同逻辑在四个场景中的意涵，帮助我们解决关键决策瓶颈。</p>
+
+<h4 id="">全球或本地</h4>
+
+<p>全球或本地之争的本质是「要全球规模化机会、还是本地化高响应力的经营能力」：</p>
+
+<ul>
+<li>过度关注本地业务带来全球资源浪费和丧失全球规模优势、却带来对本土市场的精耕细作；</li>
+<li>相反，一味全球统一经营则丧失本地市场经营的主观能动性，无法适应本地市场的变化和增长。</li>
+</ul>
+
+<p>追求效率和规模还是响应力和精细，永远需要领导者统筹考虑市场趋势、人才、成本、消费者需求、竞争等因素进行平衡。一旦战略方向确定（全球或本地），一个平衡的决策机制必定做到：</p>
+
+<ul>
+<li>推动战略方向（全球或本地）；</li>
+<li>保护平衡的另一端（本地或全球）。</li>
+</ul>
+
+<p>例如面对奥驰亚集团（Altria）旗下万宝路品牌的强力进攻，英美烟草公司（British American Tobacco - BAT）前CEO以及主席Martin Broughton即希望公司保有对在原料采购方面获得规模优势，又能够激发各个市场独立创新能力。</p>
+
+<p>这种名义上平衡背后，是失衡的问题：区域子公司运营的强独立，无法最大化利用其全球规模优势。因此，解决全球或本地决策失衡问题的第一步，是清楚认识失衡来自于全球还是本地。</p>
+
+<p>英美烟草的执行策略是逐步建立横跨全球的统一决策机制，例如全球原料采购；同时保护各个区域的独立机制，例如规定高级管理者的职责是为区域内决策提供支持，而不是审查。</p>
+
+<p>总而言之，全球或本地决策机制的建立，其要义在于：<strong>「恢复平衡」</strong>，而非用一种不平衡替代另一种不平衡。</p>
+
+<h4 id="">集权或放权</h4>
+
+<p>集中或下放决策权是公司决策的永恒话题。在公司中小规模的成长初期，问题并不存在，较为简单的公司结构，催生出简单的决策机制——即围绕在创始人周围的集中式决策。</p>
+
+<p>而当公司规模逐步扩大，过去的决策机制，无论是单人或者领导组都无法做出最优决策，决策被堆积，最终丧失市场机会。</p>
+
+<p>与英美烟草公司不同，美国惠氏（Wyeth）所面临的是生物科技领域一个前所未有的机会——类风湿性关节炎特效药依那西普（Enbrel）的研制。惠氏需要迅速在该要获得FDA（美国食品和药物管理局）认证后迅速占领市场。</p>
+
+<p>这一计划的重要部分是在爱尔兰修建全新的生产线，这将是世界上最大的生物技术生产基地也是惠氏至今最大的投资。对于如此复杂的计划，惠氏构建了一套高效的决策系统、把大量决策下放给多个业务部门、只把握某些核心领域的决策、同时不断对决策进行沟通与调整，从而最终交付了这一生产基地——在药品获得FDA认证后的第三天实现了大规模生产，并一举迅速占领了市场。</p>
+
+<p>这一决策系统的要义并不在于集权或者放权，而在于在正确的时候、把正确的权利、给正确的人，并在不正确时提供修正的能力。</p>
+
+<h4 id="">跨部门</h4>
+
+<p>部门身处不同上下文（目标、职能、考核标准、文化等），对于1）谁决策；2）为什么决策和决策什么，都有天然的不一致。在汽车行业，一份研究报告显示：</p>
+
+<ul>
+<li>当问「谁来决定什么功能是标准」，64%的产品开发者说是他们，83%的市场部门人员说是他们；</li>
+<li>当问「谁来决定到底推出什么颜色」，77%的产品开发者说是他们，61%的市场部门人员说是他们；</li>
+</ul>
+
+<p>决策谁做的问题困扰着执行者，延期在所难免。同时，一个决策的制定，保证充分的前期沟通将难以推动决策落地、错过时机，于是关于决策的解释，部门之间有着天壤之别。</p>
+
+<p>John Lewis是英国久负盛名的百货商店，公司曾作出一个「精选盐和胡椒面的决策」，即减少其盐和胡椒面的种类、选择畅销的产品销售。这个决策对于采购部门来说，意味着更简化的流程，决策推行之后，其盐和胡椒面的销售发生了下降。直到采购部门探访店面才发现其原因，向店面销售的销售部门并未将这一改变的目的传递给店面，导致店面自行减少了货架空间，而不是对精选的产品增加上架量。这一决策的沟通失误很快被修正，销售数据也得到快速恢复。</p>
+
+<p>修正之一就是将「建议店面采用什么样销售策略」的权利赋予给销售部门，而不是由采购部门（或者任何谁）独立决定，销售部门有权利根据情况、与采购部门协商、帮助店面制定更符合需求的销售方式。</p>
+
+<p>在这里，跨部门协作中决策永远不是「谁决定什么」的问题，而是「谁有权获得更多信息进行协商」的问题，这种协商机制是跨部门决策的要义。</p>
+
+<h4 id="">自有或外包</h4>
+
+<p>任何一个大型组织都拥有大量外包的合作伙伴，每个合作伙伴通常拥有者甲方公司难以直接理解的竞争环境和不同的商业驱动，这使得企业决策变得更加复杂。</p>
+
+<p>一家美国的户外用品品牌在中国拥有其户外燃气炉（Gas Patio Heater）的生产线，受到竞争的压力，该品牌急需压低产品的制造成本，在一开始中国的合作伙伴通过使用更廉价材料的方式降低成本，可大大降低了产品的使用体验。该品牌在意识到这个问题之后，一方面将影响用户体验的所有决策收回、另一方面下放所有其他控制成本的手段给中国的合作伙伴。</p>
+
+<p>更加值得称道的是，该品牌并非一味将产品设计决策权完全收回，而是将一部分设计能力搬到中国，而中国的工程师一起研究和设计，最终，中国的合作伙伴在其他领域找到了节省成本的方式——即在包装方式上创新，使得一个标准集装箱货柜可多容纳15%的产品。</p>
+
+<p>澳洲最大的房产信息公司<a href="https://www.rea-group.com/">REA</a>在与ThoughtWorks位于西安的交付中心中也采用类似的策略，一方面REA将产品设计权完全收回，但采用轮换驻场的方式将产品经理、设计师送往西安和工程师团队一起工作；另一方面，在工程实践领域和业务创新领域，给予西安的交付团队足够的灵活度，过去近八年的合作里，从西安诞生了多个软件工程领域的技术创新、也诞生了像<a href="https://www.myfun.com">买房网</a>和<a href="https://www.spacely.com.au">Spacely</a>这样的商业创新。</p>
+
+<p>在考虑管理合作伙伴的决策权时，其核心要义在于，划分明确的界限，但在属于自己的界限部分帮助合作伙伴一起实现共同价值；在合作伙伴的决策空间里，给予足够的支持和自由度。</p>
+
+<h3 id="">写在最后</h3>
+
+<p>任何一个现代企业在面临决策时都面临极其复杂的外部环境和市场需求，对内决策的难度体现在如何平衡全球还是本地、全球还是本地、集权还是放权、各个部门、自有还是外包，其要义有如下四个部分：</p>
+
+<ol>
+<li>在全球或本地决策中将解决失衡问题放在建立决策模型的首要目的；  </li>
+<li>不简单考虑集权或者放权，而考虑如何在正确的时候、把正确的权利、给正确的人，并在不正确时提供修正的能力。  </li>
+<li>在跨部门协作中建立协商机制，定义「谁有权获得更多信息进行协商」的问题；  </li>
+<li>在特定空间为合作伙伴提供足够的支持和自由度，但在属于自己的界限部分帮助合作伙伴一起实现共同价值。</li>
+</ol>
+
+<h3 id="">最后的最后</h3>
+
+<p>本篇是HBR战略经典十篇书稿的最后一篇，从第一篇《何为战略》开始，已经整整三年。在这三年里，因为工作的关系，我接触了许多跨国企业的核心战略决策，特别深入到美国传统企业的经营中，为高层管理者提供战略咨询的服务，加上近两年对官僚系统、国家体系、和政治制度的学习，对于这十篇书稿又有了全新的认识。以下是这十篇书稿的完整目录，希望能对初识战略的你有帮助：</p>
+
+<ol>
+<li>《<a href="http://www.tuzei8.com/what-is-strategy/index.html">何为战略</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/five-competitive-forces/index.html">重新思考波特五力</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/company-vision/index.html">建立公司愿景</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/reinventing-business-model/index.html">再造商业模式</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/blue-ocean-strategy/index.html">蓝海战略</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/the-secrets-to-successful-strategy-execution/index.html">战略执行的逻辑</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/balanced-scorecard/index.html">平衡记分卡</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/strategic-principles/index.html">战略原则</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/turning-great-strategy-into-great-performance/index.html">从战略到绩效</a>》  </li>
+<li>《<a href="http://www.tuzei8.com/clear-decision-role/index.html">决策要义</a>》</li>
+</ol>
+
+<p><img src="http://localhost:2368/content/images/2018/10/hbr-on-strategy-book.jpg" alt="决策要义"></p>
+
+<p>战略，终于敢称入门。</p>]]></content:encoded></item><item><title><![CDATA[BBVA数字十年]]></title><description><![CDATA[<p>2017年9月27日，超过160年历史、西班牙第二大银行BBVA的首席财务官Jaime Sáenz de Tejada<a href="https://www.bbva.com/en/results-digital-transformation-already-tangible/">宣布</a>「数字转型的成果已经具备商业可量化性」。去年12月，其数字化转型的重要指标「数字渠道占有率」在<a href="https://www.bbva.com/en/bbva-reaches-digital-tipping-point-spain/">西班牙本土首次突破50%的门槛</a>，其11个主要国家市场中已有6个完成数字化转折点（Digital Tipping Point）的目标。</p>
 
 <p><img src="http://localhost:2368/content/images/2018/03/BBVA-760x400.jpg" alt="">
 <em>超过160年历史的西班牙第二大银行——BBVA(Banco Bilbao Vizcaya Argentaria)</em></p>
@@ -7,7 +395,7 @@
 
 <h2 id="20072011">2007～2011年：交互范式探索</h2>
 
-<p>在经历2007年全球金融危机之后，2008年的世界对于金融服务商而言是全新的，多个市场的经济衰退；更加严格的法规；负利率对银行利润的巨大侵蚀；更加意义深远的，是消费者对于银行的「信任危机」——认为金融机构应该为这场灾难负责；另一个方兴未艾且野心勃勃的是互联网经济正蓄势待发进入全新阶段。决心转型BBVA所迫切需要的，是重新思考如何重新思考银行和客户的关系，并在数字时代重新定义全新的交互范式。</p>
+<p>在经历2007年全球金融危机之后，2008年的世界对于金融服务商而言是全新的，多个市场的经济衰退；更加严格的法规；负利率对银行利润的巨大侵蚀；更加意义深远的，是消费者对于银行的「信任危机」——认为金融机构应该为这场灾难负责；另一个方兴未艾且野心勃勃的是互联网经济正蓄势待发进入全新阶段。决心转型BBVA所迫切需要的，是重新思考银行和客户的关系，并在数字时代定义全新的交互范式。</p>
 
 <p>2007年，BBVA的<a href="https://www.rainmaking.io/blog/what-banks-are-actually-doing-to-innovate"></a></p>]]></description><link>http://localhost:2368/bbva-digital-transformation/</link><guid isPermaLink="false">851371ad-0729-4c8a-90cb-eafeac0db076</guid><category><![CDATA[数字转型]]></category><category><![CDATA[战略]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Tue, 13 Mar 2018 00:01:19 GMT</pubDate><media:content url="http://localhost:2368/content/images/2018/03/results-vela-grupo-bbva-2t17-1920x0-c-f.jpg" medium="image"/><content:encoded><![CDATA[<img src="http://localhost:2368/content/images/2018/03/results-vela-grupo-bbva-2t17-1920x0-c-f.jpg" alt="BBVA数字十年"><p>2017年9月27日，超过160年历史、西班牙第二大银行BBVA的首席财务官Jaime Sáenz de Tejada<a href="https://www.bbva.com/en/results-digital-transformation-already-tangible/">宣布</a>「数字转型的成果已经具备商业可量化性」。去年12月，其数字化转型的重要指标「数字渠道占有率」在<a href="https://www.bbva.com/en/bbva-reaches-digital-tipping-point-spain/">西班牙本土首次突破50%的门槛</a>，其11个主要国家市场中已有6个完成数字化转折点（Digital Tipping Point）的目标。</p>
 
@@ -18,7 +406,7 @@
 
 <h2 id="20072011">2007～2011年：交互范式探索</h2>
 
-<p>在经历2007年全球金融危机之后，2008年的世界对于金融服务商而言是全新的，多个市场的经济衰退；更加严格的法规；负利率对银行利润的巨大侵蚀；更加意义深远的，是消费者对于银行的「信任危机」——认为金融机构应该为这场灾难负责；另一个方兴未艾且野心勃勃的是互联网经济正蓄势待发进入全新阶段。决心转型BBVA所迫切需要的，是重新思考如何重新思考银行和客户的关系，并在数字时代重新定义全新的交互范式。</p>
+<p>在经历2007年全球金融危机之后，2008年的世界对于金融服务商而言是全新的，多个市场的经济衰退；更加严格的法规；负利率对银行利润的巨大侵蚀；更加意义深远的，是消费者对于银行的「信任危机」——认为金融机构应该为这场灾难负责；另一个方兴未艾且野心勃勃的是互联网经济正蓄势待发进入全新阶段。决心转型BBVA所迫切需要的，是重新思考银行和客户的关系，并在数字时代定义全新的交互范式。</p>
 
 <p>2007年，BBVA的<a href="https://www.rainmaking.io/blog/what-banks-are-actually-doing-to-innovate">创新战略</a>始于其技术运营部，最初的目标是在银行业引入更多新兴技术，该部门主导了2011年前BBVA的多个数字创新项目。</p>
 
@@ -1940,235 +2328,4 @@
 
 <p><img src="http://localhost:2368/content/images/2017/02/starbucks-inner-outer-ecosystem.png" alt="星巴克数字忠诚十五年（中）"></p>
 
-<p>经历十五年的努力，星巴克最终形成完整的内外生态，那么，从这十五年里，对于面临数字转型的传统企业，可以学到什么，这便是本文最后一篇讨论的内容。</p>]]></content:encoded></item><item><title><![CDATA[星巴克数字忠诚十五年（上）]]></title><description><![CDATA[<p>2017年初，一条消息令所有北美零售商震动：星巴克用户所有存储在礼品卡和移动应用中的现金超过12亿美元，而这一成绩，超过了绝大多数美国银行机构（下图）。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/starbucks_holds_more_cash_than_many_banks_n.jpg" alt=""></p>
-
-<p>在传统零售商中，星巴克将客户忠诚推至前所未有的高度，所有人都将这一成绩归结于其成功的移动支付平台，而事实上，这是其十五年客户忠诚度的长期积累。让我们回顾星巴克数字产品的十五年，看她是如何一步一步成长为数字忠诚的最佳案例之一的。</p>
-
-<h2 id="2001">2001年：礼品卡</h2>
-
-<p>礼品卡（Gift Card）已经成为美国人生活的一部分，每年超过1千亿美元的礼品卡被93%的美国人购买或使用，平均消费高达213美元每年（<a href="http://www.giftcards.com/gift-card-statistics">参考</a>），而回到2001年，星巴克是最先推出礼品卡的公司之一。礼品卡的初衷，是希望客户可以将咖啡当作礼品赠送，有趣的是，据调查，只有25%的客户（<a href="https://www.forbes.com/sites/quora/2014/06/13/why-is-the-starbucks-mobile-payments-app-so-successful/#3086e4463957">参考</a>）将礼品卡当作礼品，大多数的客户只是为了结账更快。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/starbucks-giftcard.jpg" alt=""></p>
-
-<p>因为更多客户将礼品卡和支付结合在一起，这就出现了对于交易的额外需要，而这部分客户恰好又是较为高频光顾的消费者，至此高频交易和交易需求结合在了一起，星巴克为这部分客户提供了许多礼品卡公司难以提供的解决方案：<strong>丢失补款</strong>。</p>
-
-<p>客户在丢失礼品卡以后可以将礼品卡中的金额找回，毕竟是自己使用，这一特点满足了高频客户对于金额的担忧。这使得星巴克的礼品卡受到消费者热捧，2015年全年，有50亿美元的礼品卡被消费者购买（<a href="http://money.cnn.com/2015/12/22/news/companies/starbucks-christmas-gift-card/">参考</a>），这已经占到了接近25%的全年销售额（<a href="https://www.statista.com/statistics/266466/net-revenue-of-the-starbucks-corporation-worldwide/">参考</a></p>]]></description><link>http://localhost:2368/15-years-of-starbucks-digital-loyalty-part-1/</link><guid isPermaLink="false">0eac9028-0e55-487d-9c00-c0464d41308b</guid><category><![CDATA[零售]]></category><category><![CDATA[创新]]></category><category><![CDATA[数字忠诚]]></category><category><![CDATA[产品战略]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Mon, 27 Feb 2017 23:49:55 GMT</pubDate><media:content url="https://images.pexels.com/photos/228799/pexels-photo-228799.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" medium="image"/><content:encoded><![CDATA[<img src="https://images.pexels.com/photos/228799/pexels-photo-228799.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="星巴克数字忠诚十五年（上）"><p>2017年初，一条消息令所有北美零售商震动：星巴克用户所有存储在礼品卡和移动应用中的现金超过12亿美元，而这一成绩，超过了绝大多数美国银行机构（下图）。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/starbucks_holds_more_cash_than_many_banks_n.jpg" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>在传统零售商中，星巴克将客户忠诚推至前所未有的高度，所有人都将这一成绩归结于其成功的移动支付平台，而事实上，这是其十五年客户忠诚度的长期积累。让我们回顾星巴克数字产品的十五年，看她是如何一步一步成长为数字忠诚的最佳案例之一的。</p>
-
-<h2 id="2001">2001年：礼品卡</h2>
-
-<p>礼品卡（Gift Card）已经成为美国人生活的一部分，每年超过1千亿美元的礼品卡被93%的美国人购买或使用，平均消费高达213美元每年（<a href="http://www.giftcards.com/gift-card-statistics">参考</a>），而回到2001年，星巴克是最先推出礼品卡的公司之一。礼品卡的初衷，是希望客户可以将咖啡当作礼品赠送，有趣的是，据调查，只有25%的客户（<a href="https://www.forbes.com/sites/quora/2014/06/13/why-is-the-starbucks-mobile-payments-app-so-successful/#3086e4463957">参考</a>）将礼品卡当作礼品，大多数的客户只是为了结账更快。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/starbucks-giftcard.jpg" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>因为更多客户将礼品卡和支付结合在一起，这就出现了对于交易的额外需要，而这部分客户恰好又是较为高频光顾的消费者，至此高频交易和交易需求结合在了一起，星巴克为这部分客户提供了许多礼品卡公司难以提供的解决方案：<strong>丢失补款</strong>。</p>
-
-<p>客户在丢失礼品卡以后可以将礼品卡中的金额找回，毕竟是自己使用，这一特点满足了高频客户对于金额的担忧。这使得星巴克的礼品卡受到消费者热捧，2015年全年，有50亿美元的礼品卡被消费者购买（<a href="http://money.cnn.com/2015/12/22/news/companies/starbucks-christmas-gift-card/">参考</a>），这已经占到了接近25%的全年销售额（<a href="https://www.statista.com/statistics/266466/net-revenue-of-the-starbucks-corporation-worldwide/">参考</a>）。</p>
-
-<h2 id="2009">2009年：移动支付</h2>
-
-<p>如果说礼品卡的成功是迎合了高配消费者对于<strong>快速交易</strong>的需求，那么2009年星巴克首推的移动支付方案，则是近一步的优化——消费者无需取出自己的礼品卡就可以实现支付。</p>
-
-<p>时任星巴克移动支付项目负责人Benjamin Vigier一改当时由客户扫码的主流方案，设计了特殊的条码扫描机器（下图），由柜台服务生进行扫码，这一方案在当时甚至受到了很多人的嘲笑，事实上，这一方案在当时是极具超前意识、并早于Apple和Google公司。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/pos-scanner.jpg" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>这一方案的核心在于并没有增加客户一个额外的环节，只是改变了现有扫描礼品卡环节的交互方式，最初的支付页面也十分简单：</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/starbucks-scanner.jpg" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>至此，大多数使用礼品卡的消费者找到了更加快速的结帐方式，其移动应用的下载量持续上升，但是依然，应用不能称之为完整的移动支付方案，金额仍然存在于某个虚拟礼品卡中，充值行为依然要通过物理礼品卡作为介质，这一情况到了两年后得到了解决。</p>
-
-<h2 id="2011">2011年：移动钱包</h2>
-
-<p>到2011年，星巴克正式宣布消费者可以通过关联信用卡等多种支付方式在移动应用中预存一定量的金额，于此同时，对店面的POS系统进行全面的升级，移动支付全面铺开——2011年1月全美6800家星巴克店全面接受移动支付。</p>
-
-<p>至此，星巴克成为业界为数不多提供「完全移动支付」体验的公司，即充值和支付完全通过手机应用完成。高频用户的支付问题到2011年被全面解决，以移动钱包为应用主体的星巴克App也已经趋于稳定，核心功能（支付）积攒了大量高频使用者，接下来，「客户忠诚」终于有机会成为主角，而这离礼品卡推出已经过了10年之久。</p>
-
-<p>同时，用户第一次可以通过移动应用查询到积分情况，而不需要通过访问某个独立的网站（<a href="https://www.starbucks.com/account/signin">Starbucks Account</a>），客户体验进一步增强。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/Starbuckscard_hero.jpg" alt="星巴克数字忠诚十五年（上）"></p>
-
-<h2 id="2014">2014年：积分第一</h2>
-
-<p>在2011年移动应用改版之前，星巴克并没有传统意义上的积分计划（Rewards Program），而采用购买不同级别的会员卡获得优惠，这一设计在星巴克早期大大降低的运营的难度——缺少便捷的支付手段，客户对积分的获取、升级、兑换等就会产生更多要求。而这一情况随着移动支付手段越来越便捷开始发生改观。</p>
-
-<p>2014年，星巴克对其广受欢迎的移动应用做了重大的改版，在这一版的设计中，Reward Dashboard（下图左一）的概念被着重提出，围绕在周围的是三个次级页面（支付、店面、礼品卡）。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/starbucks-app-2014.png" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>在这样的设计里，积分成为产品核心，支付退居其次，同时在2014年的设计中，开始出现了诸如Message（消息）的概念，这一概念在2015年的更新中被演化成Inbox（收件箱）。</p>
-
-<p>2014年的改版成功，将移动应用的基础转移到积分上，围绕这一衡量忠诚的最佳货币，从2015年开始，星巴克开始了大规模的数字化建设。</p>
-
-<h2 id="2015">2015年：忠诚优先与店外体验</h2>
-
-<p>积分只是用忠诚兑换价值的货币而已，真正的「忠诚优先」体系在价值，而不在货币本身。2015年星巴克的App设计者正式提出「忠诚优先（Loyalty First）」的概念，首当其冲的设计改变便是将积分页面隐藏，转而呈现收件箱（Inbox）。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/upstanders_appscreen.jpg" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>在收件箱中，用户开始收到具有相关性的信息，包括促销和活动等等，积分被简化成金黄色的信息条。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/loyalty-bar.png" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>2015年同时推出的Mobile Order &amp; Pay更是将客户忠诚推到了全新的高度，从15年1月起，顾客可以在全美所有店面实现手机下单、店内取单的无缝体验。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/mobile-order-pay.png" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>这个体验的推出，标志着消费者和星巴克品牌的交互并不只发生在店面内，更重要的是：为星巴克更加广泛的产品线提供了销售机会，特别是使个性化推荐成为可能。</p>
-
-<p>星巴克从未停止过对其产品线的创新和持续投入，2008年，星巴克推出了多款早餐产品，例如「星巴克燕麦粥（Starbucks Perfect Oatmeal）」。然而在早晨这样的高峰期，店员和顾客都很难有时间推荐或购买而外的产品，星巴克便很难有机会向消费者推荐配搭的其他产品。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/20130125-238266-StarbOatsJPG.JPG" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>而Mobile Order &amp; Pay的推出彻底解决了这个难题，并演化出更多无限可能的销售方式。目前，如果顾客预定一款咖啡，在下单页面中将根据顾客所下单的时间结合以往购买历史推荐匹配的产品。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/image_1487980431-356851.jpg" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>积分、促销推送、推荐三个移动渠道上客户忠诚的重要元素被正式建立起来，并互相作用和影响，形成了多种可能的玩法，例如：</p>
-
-<ul>
-<li>积分 + 促销推送 + 推荐 = 用双倍积分的方式进行促销推送最可能购买的某一产品；</li>
-<li>积分 + 促销推送 = 不定期地在顾客最常光顾时间推送限时积分挑战（Rewards Dash）；</li>
-<li>积分 + 推荐 = 在推荐产品中获得额外积分；</li>
-<li>促销推送 + 推荐 = 推送推荐产品品尝的活动。</li>
-</ul>
-
-<p>在这个体系下，产品既获得了更多的销售机会、客户亦可获得更加个性化的忠诚回报。</p>
-
-<h2 id="">十五年的产品闭环</h2>
-
-<p>如果我们回顾星巴克十五年来的产品演进过程，我们可以发现一个显著的趋势，那便是逐渐完成「店面—礼品卡—移动应用」的闭环。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/starbucks-15-years.png" alt="星巴克数字忠诚十五年（上）"></p>
-
-<p>2001至2009年，大量推广礼品卡作为一种店内的支付手段；2009至2014年，推出基于帮助礼品卡快速支付的移动应用，并逐渐成熟和积累大量开始使用积分的顾客；2014年至今，不断推出服务（例如Mobile Order&amp;Pay）通过移动应用向店面进行引流。</p>
-
-<p>这一闭环的完成从开始到完成，经历了十五年的时间，而接下来的十五年时间，星巴克将把创新集中在：</p>
-
-<ol>
-<li>对闭环中核心概念（店面、礼品卡、移动应用）的持续创新；  </li>
-<li>对概念间关系进行深度创新；  </li>
-<li>在更大的生态系统中进行生态创新。</li>
-</ol>
-
-<p>本文的下篇，将继续讨论星巴克后续的产品战略。</p>]]></content:encoded></item><item><title><![CDATA[IoT时代的设计]]></title><description><![CDATA[<p>设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/ui-evolution.png" alt=""></p>
-
-<h2 id="">现有的设计范式</h2>
-
-<p>在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即：</p>
-
-<ul>
-<li>一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作；</li>
-<li>一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」；</li>
-<li>基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制；</li>
-<li>设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。</li>
-</ul>
-
-<p>在这个背景之下，设计师的工作类型无外乎于两种：</p>
-
-<ol>
-<li>用任务（Task）驱动的用户体验设计（User Experience Design）；  </li>
-<li>用诉求（Job）驱动的客户体验设计（Customer Experience Design）</li></ol>]]></description><link>http://localhost:2368/design-in-iot-age/</link><guid isPermaLink="false">7a65c47d-a2aa-4c5e-8dd7-cb55e971b4e0</guid><category><![CDATA[设计]]></category><category><![CDATA[IoT]]></category><dc:creator><![CDATA[熊子川]]></dc:creator><pubDate>Mon, 20 Feb 2017 20:23:31 GMT</pubDate><media:content url="http://localhost:2368/content/images/2017/02/iot-devices.png" medium="image"/><content:encoded><![CDATA[<img src="http://localhost:2368/content/images/2017/02/iot-devices.png" alt="IoT时代的设计"><p>设计为时代服务，两百年里我们所做的都是在为基于主宰地位的计算平台进行设计，它们分别是：从早期的机械交互、命令行交互、到近50年的PC端图形交互界面（GUI）、基于互联网的Web交互平台、基于智能手机的移动交互、直到最近被广泛提起的自然交互界面（NUI）。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/ui-evolution.png" alt="IoT时代的设计"></p>
-
-<h2 id="">现有的设计范式</h2>
-
-<p>在过去的40年里，从GUI到移动设计（Mobile Design），改变的是范式（Paradigm）本身，而设计的基础逻辑与前提并没有大的改变，即：</p>
-
-<ul>
-<li>一个具有主宰性的交互范式，例如GUI时代的窗口或按钮、移动设计时代的手势操作；</li>
-<li>一个较为统一的、默认存在于人机交互（HCI）中人们对于机器的认识，例如「机器是为人类服务的」；</li>
-<li>基于屏幕的设计并没有改变，无论大小、或如何交互，设计师所作依然并未突破屏幕的物理限制；</li>
-<li>设计必须在现有技术的框架中完成，设计师对于技术的理解仅仅限于什么不可以做。</li>
-</ul>
-
-<p>在这个背景之下，设计师的工作类型无外乎于两种：</p>
-
-<ol>
-<li>用任务（Task）驱动的用户体验设计（User Experience Design）；  </li>
-<li>用诉求（Job）驱动的客户体验设计（Customer Experience Design）。</li>
-</ol>
-
-<p>区别在于前者已经假设用户一定会用，多用于专业或中后台应用设计；后者则尝试深入挖掘消费者深层次需求，多用于消费类应用（用Digital解决问题）或服务类（不止用Digital解决问题）设计。</p>
-
-<p>无论我们如何研习和精进设计方法，我们依然难以逃脱基础逻辑和工作范围的束缚，然而IoT时代的来临正在悄然改变这一现状。</p>
-
-<h2 id="">被改变的基础逻辑</h2>
-
-<p>IoT的基础意涵，并不只在于具有计算能力的物体本身，它包括以下可能的行为能力：</p>
-
-<ol>
-<li>感知（Sensing）；  </li>
-<li>处理（Processing）；  </li>
-<li>表现（Presenting）；  </li>
-<li>存储（Storing）；  </li>
-<li>解析（Diagnosing）  </li>
-<li>行动（Acting）；  </li>
-<li>联网（Networking）。</li>
-</ol>
-
-<p>相交于以前统一的交互平台，事情变得复杂多了：</p>
-
-<p>首先，任何一个可计算物体的行为能力都是以上七种行为的组合，例如一辆自动驾驶汽车包含了以上所有行为能力；而一个简单的可联网的温湿度感知报警器，却只包含感知、处理、和联网的行为能力。</p>
-
-<p>其次，可计算物体可大可小，具有相当复杂性的计算物体通常是上千个可计算物体的集合，可塑性极强，单个技术上的更新可能引起整个平台的更迭，这也是为何诸如智能汽车（Smart Car）这样的IoT平台无法形成主宰性统一交互平台的原因。</p>
-
-<p>最后，人机交互可能在无感知的情况下发生，就算发生亦非以人为主的交互，人已不在是交互的主宰，人本设计（Human Centric Design）的理念可能需要更新。</p>
-
-<p>因此，我们所面临的情况是：</p>
-
-<ul>
-<li>不再有一个主宰性的交互范式，范式变得灵活多变；</li>
-<li>人类对于机器的认识已经发生更新，机器是否在为人类服务开始发生动摇；</li>
-<li>早已超越屏幕的设计，设计将回归传统工业设计时代；</li>
-<li>设计开始重新塑造技术的可能性，设计师需要了解技术的可能性而非限制性。</li>
-</ul>
-
-<h2 id="">全新的设计</h2>
-
-<p>在这个全新的背景之下，设计哲学和实践需要重新思考。以下元素在过去的设计时代里是不曾有过的。</p>
-
-<h4 id="">大量〇交互的设计</h4>
-
-<p>IoT即将出现大量不存在的交互，或未被者感知的交互，未来的对于「好的交互设计」将变成「更不被消费者感知的交互」，相信在未来五年里，将有更多的设计大会用「〇」作为大会的主题。例如，在Amazon Go的设计中，通过计算机视觉（Computer Vision）、传感器网络（Sensor Fusion）、以及深度学习（Deep Learning）技术，消费者完全脱离了屏幕或语音交互的束缚。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/amazon-go.png" alt="IoT时代的设计"></p>
-
-<h4 id="perception">观感（Perception）的设计</h4>
-
-<p>数字技术已经早已超越技术本身，而建立其独立的「社会含义」，或称之为「增强人性（Augmented Humanity）」，诸如隐私、伦理、和道德都需要进行重新讨论，人类对技术的观感（Perception）需要考虑在设计当中去。例如，Amazon Echo选择用类似圆柱形音响的形态，必然考虑了欧美对于家庭音响的现有接受度。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/amazon-echo_large.png" alt="IoT时代的设计"></p>
-
-<h4 id="">独立的设计语言</h4>
-
-<p>设计师需要全新设计一套独立的设计语言（Design Language），这套语言巧妙隐藏那些透明的〇设计、又塑造着使用者对于技术的观感。</p>
-
-<h4 id="">数据的商业潜力</h4>
-
-<p>IoT时代的重要特性还包含物理世界的信息被全面数字化和算法化，这使得独立设计语言背后还有一套并行的商业逻辑，传统的先客户后商业模式的设计思维可能发生变化，数据将独立成为设计思维中重要的一环，甚至成为新的入手点也并不为过。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/design-thinking-iot.png" alt="IoT时代的设计"></p>
-
-<h2 id="">写在最后</h2>
-
-<p>虽被Mary Meeker为首的互联网人广泛看好，NUI虽是正在崛起的交互范式，我并不反对NUI作为一次范式革命的意义，但是如果我们面对的是一场「<strong>范式的革命</strong>」呢？即，如果「<strong>我们不再有任何一个主宰性的交互范式</strong>」怎么办？</p>
-
-<p>设计永远为现实世界服务，我们所谈论的设计思维和实践方法，皆来自于对现实设计问题的解决，例如，个人计算设备的兴起，触发了以用户为中心的用户体验设计；互联网经济的蓬勃发展，又带动了结合客户需求、技术实现、商业模式的设计思维的发展。</p>
-
-<p>而这有一个前提，是我们有一个主宰性的计算设备（PC机、Web、到Mobile），IoT时代的到来正在打破由一个主宰性计算设备所带来的「主流范式规则」，如果这一规则发生变化，我们所基于此建立的、关于设计的一切，都需要我们进行重新思考。</p>
-
-<p>在最后，让我们来比较前IoT时代与IoT时代设计的区别。</p>
-
-<p><img src="http://localhost:2368/content/images/2017/02/iot-design-comparison-png-001.jpeg" alt="IoT时代的设计"></p>
-
-<p>在接下来的讨论里，我将对IoT时代的设计实践、理念、以及设计师做更多的讨论。</p>]]></content:encoded></item></channel></rss>
+<p>经历十五年的努力，星巴克最终形成完整的内外生态，那么，从这十五年里，对于面临数字转型的传统企业，可以学到什么，这便是本文最后一篇讨论的内容。</p>]]></content:encoded></item></channel></rss>
