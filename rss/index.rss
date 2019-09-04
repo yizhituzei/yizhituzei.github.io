@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 04 Sep 2019 20:04:32 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 04 Sep 2019 22:01:13 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
 
 <p>传统数据平台改造、治理、基础设施、数据能力的构建方式可能基于一个完全不同于以往的逻辑，即企业数据平台（Data Platform）正在进入一个范例变革（Paradigm Shift）的阶段。</p>
 
@@ -63,7 +63,7 @@
 
 <p>这种单体式的架构思想在应用在构建企业数据平台时，自然出现了上文所述的巨大挑战——难以启动、难以规模化、以及难以商业化。最终结果，是大多企业数据平台项目在经历了三到五年的巨大投入后，难以获得预期收益。</p>
 
-<p>在企业应用架构领域，微服务（Microservices）架构的出现可以被认为是对单体架构的反思，以微服务为代表的分布式架构拥有以下：</p>
+<p>在企业应用架构领域，微服务（Microservices）架构的出现可以被认为是对单体架构的反思，以微服务为代表的分布式架构拥有优势：</p>
 
 <ol>
 <li>超大规模应用的持续构建和交付能力；  </li>
@@ -79,7 +79,7 @@
 <ol>
 <li>应用是否拥有一个庞大的代码体系同时又需要持续交付；  </li>
 <li>业务逻辑是否可能频繁出现更细粒度的扩展；  </li>
-<li>业务扩展对应用的可用性有极高需求；  </li>
+<li>业务扩展是否对应用的可用性有极高需求；  </li>
 <li>技术债是否需要更激进的管理；  </li>
 <li>技术选型是否需要演进。</li>
 </ol>
@@ -118,7 +118,7 @@
 <p>面向域（Domain-oriented）的数据或ML产品是分布式数据平台最小的「业务单元」，它们相互合作承担了绝大部分平台可见的价值。一个典型的数据或ML产品的架构包含以下四个组件：</p>
 
 <ol>
-<li>一组Polylot数据接口（导入或导出）；  </li>
+<li>一组Polyglot数据接口（导入或导出）；  </li>
 <li>一个具有领域特点的边界；  </li>
 <li>一组内置的数据流水线；  </li>
 <li>一组连接基础设施控制接口（如日志）。</li>
