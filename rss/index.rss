@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 04 Sep 2019 19:24:00 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 04 Sep 2019 20:04:32 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
 
 <p>传统数据平台改造、治理、基础设施、数据能力的构建方式可能基于一个完全不同于以往的逻辑，即企业数据平台（Data Platform）正在进入一个范例变革（Paradigm Shift）的阶段。</p>
 
@@ -61,9 +61,9 @@
 <li>为数据的消费方，例如报表、分析、以及机器学习平台提供实时或批量的数据集。</li>
 </ol>
 
-<p>这种单体式的架构思想在应用在构建企业数据平台时，自然出现了上文所述的巨大挑战——难以启动、难以规模化、以及难以商业化。最终的底线是大多企业数据平台项目在经历了三到五年的巨大投入后，完全获得预期收益。</p>
+<p>这种单体式的架构思想在应用在构建企业数据平台时，自然出现了上文所述的巨大挑战——难以启动、难以规模化、以及难以商业化。最终结果，是大多企业数据平台项目在经历了三到五年的巨大投入后，难以获得预期收益。</p>
 
-<p>应对单体架构的弱势，在企业应用架构领域出现微服务（Microservices）架构的演进，以获得单体架构不可比拟的优势包括：</p>
+<p>在企业应用架构领域，微服务（Microservices）架构的出现可以被认为是对单体架构的反思，以微服务为代表的分布式架构拥有以下：</p>
 
 <ol>
 <li>超大规模应用的持续构建和交付能力；  </li>
@@ -84,7 +84,7 @@
 <li>技术选型是否需要演进。</li>
 </ol>
 
-<p>这些问题的答案如果都是「是」，那么团队就有理由转向微服务架构。</p>
+<p>这些问题的答案如果都是「是」，那么团队就有理由转向分布式架构。</p>
 
 <p>如果我们回到企业数据平台的上下文中来反思这五个问题：</p>
 
@@ -100,7 +100,7 @@
 
 <h2 id="datamesh">什么是分布式数据平台Data Mesh？</h2>
 
-<p>一个分布式数据平台的核心是一组用面向域的数据或ML产品、用自服务的方式使用数据技术设施提供的数据流水线（清洗、组合、丰富等）或合规（数据鉴权、隐私、安全等）的公共服务、并接受数据产品思维的设计和管理。</p>
+<p>一个分布式数据平台的核心是一组用面向域的数据或ML产品、用自服务的方式使用数据技术设施提供的数据流水线（清洗、组合、丰富等）或合规（数据鉴权、隐私、安全等）的公共服务、并接受数据产品思维的设计和管理，以及和企业交付基础设施深度集成。</p>
 
 <p>其目的，是帮助企业：</p>
 
@@ -111,7 +111,7 @@
 <li>保持技术栈的多样性，吸引数据领域新的技术框架和数据人才。</li>
 </ol>
 
-<p>一个具有分布式特点的企业数据平台，应该具备以下三个特点：</p>
+<p>一个具有分布式特点的企业数据平台，应该具备以下四个特点：</p>
 
 <h3 id="">面向域的数据架构</h3>
 
