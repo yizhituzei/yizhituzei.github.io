@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 04 Sep 2019 22:01:13 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 04 Sep 2019 22:04:09 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
 
 <p>传统数据平台改造、治理、基础设施、数据能力的构建方式可能基于一个完全不同于以往的逻辑，即企业数据平台（Data Platform）正在进入一个范例变革（Paradigm Shift）的阶段。</p>
 
@@ -228,9 +228,9 @@
 
 <h2 id="">写在最后</h2>
 
-<p>企业数据平台的演进经历了从数据仓库、到数据湖、再到云的过程，在过去的五年里，耗费巨资建设的数据平台难以获得预期收益，我们认为，就像以微服务（Microservices）为代表的分布式思想，在数据领域正在引发一次范式变革。</p>
+<p>企业数据平台的演进经历了从数据仓库、到数据湖、再到云的过程，在过去的五年里，耗费巨资建设的数据平台难以获得预期收益，我们认为，以微服务（Microservices）为代表的分布式架构（Distributed Architrecture）思想，正在取代一体式架构（Monolithic Architecture）在数据领域正在引发一次范式变革。</p>
 
-<p>互联网革新正在成为常态，企业正在向下一代、即数据企业进行演进，我们需要新的架构思想、技术实现、和组织结构，在这个背景下，我们提出了一个分布式数据平台Data Mesh的概念、架构设计、以及治理方式，它的目标是帮助企业获得与时俱进的、灵活且规模化的、面向业务领域的广泛数据能力，帮助企业实现数据转型。</p>
+<p>互联网革新正在成为常态，企业正在向下一代、即数据企业进行演进，我们需要新的架构思想、技术实现、和组织结构。在这个背景下，我们提出了一个分布式数据平台Data Mesh的概念、架构设计、以及治理方式，它的目标是帮助企业获得与时俱进的、灵活且规模化的、面向业务领域的广泛数据能力，帮助企业实现数据转型。</p>
 
 <p>下一篇，我们将谈到分布式数据平台Data Mesh的实施与挑战。</p>]]></content:encoded></item><item><title><![CDATA[决策要义]]></title><description><![CDATA[<p>《战略十篇》的最后一篇书稿，来自于Paul Rogers和Marcia Blenko ，原文刊于《哈佛商业评论》2006年1月刊（<a href="https://hbr.org/2006/01/who-has-the-d-how-clear-decision-roles-enhance-organizational-performance">链接</a>）。</p>
 
