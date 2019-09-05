@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 05 Sep 2019 00:58:35 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[一只土贼]]></title><description><![CDATA[关于设计实践和思考]]></description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 05 Sep 2019 22:37:49 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[分布式数据平台Data Mesh]]></title><description><![CDATA[<p><em>2019年我与ThoughtWorks的Zhamak Dehghani合作，提出一个分布式数据平台架构Data Mesh的架构思想和设计，并在真实客户企业中参与实施，本文是对这一思想和设计的总结，参考自《<a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh</a>》和实践中的深入思考。</em></p>
 
 <p>传统数据平台改造、治理、基础设施、数据能力的构建方式可能需要基于一个完全不同于以往的逻辑，即企业数据平台（Data Platform）正在进入一个范例变革（Paradigm Shift）的阶段。</p>
 
@@ -123,8 +123,6 @@
 <li>一组内置的数据流水线；  </li>
 <li>一组连接基础设施控制接口（如日志）。</li>
 </ol>
-
-<p><img src="http://localhost:2368/content/images/2019/09/Data-Product-Architecture.png" alt="分布式数据平台Data Mesh"></p>
 
 <p>每一个数据或ML产品都具有独立的灵活技术栈选择、可发现、可寻址、自解释、合规、安全、可管理、可扩展、以及相互运营性。任何一个面向域的数据或ML产品都有以下特点：</p>
 
